@@ -1,0 +1,116 @@
+<?xml version="1.0" standalone="no"?>
+<!-- edited with XML Spy v4.0.1 U (http://www.xmlspy.com) by NGUYEN THI MINH HUYEN (LORIA) -->
+<!DOCTYPE TEI.2 SYSTEM "C:/CORPUS/dtd/xlite/xteilite.dtd" [
+	<!ENTITY % ISO_Latin1 PUBLIC "ISO 8879-1986//ENTITIES Added Latin 1//EN//XML" "C:/CORPUS/dtd/pen/ISOlat1.pen">
+	%ISO_Latin1;
+]>
+<TEI.2 id="datnuocconnguoi.en.xml">
+	<teiHeader date.created="30/12/2002">
+		<fileDesc>
+			<titleStmt>
+				<title type="source"></title>
+				<author></author>
+				<respStmt>
+					<resp></resp>
+					<name></name>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<distributor>Nhan dan dien tu</distributor>
+				<authority/>
+				<date>1/12/2002</date>
+			</publicationStmt>
+			<sourceDesc>
+				<p/>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<langUsage>
+				<language id="EN">English</language>
+			</langUsage>
+			<textClass>
+				<keywords>
+					<list>
+						<item>prose</item>
+						<item>history</item>
+					</list>
+				</keywords>
+			</textClass>
+		</profileDesc>
+	</teiHeader>
+	<text>
+		<body id="b1">
+<head>
+Vietnam: land and people.
+</head>
+<div>
+<p>
+     <s>I- Natural condition.</s>
+</p>
+<p>
+     <s>1. Vietnam is located in south-east Asia which is adjacent to China in the north, to Laos and Cambodia in the west and to the East Sea (Pacific Ocean) in the east and south with area of 329,600 square kilometres in land and 700,000 square kilometres of continental shelf.</s>
+</p>
+<p>
+     <s>With its favourable position, Vietnam played an important role in exchanging different cultures in south-east Asia, India and China since ancient times, and with Western cultures later on.</s>
+</p>
+<p>
+     <s>2. Vietnam's topography in land is a special one with two progressively widening parts at the northern and southern ends (northern and southern Vietnam) and a long, narrow strip in the centre (central Vietnam).</s>
+</p>
+<p>
+     <s>The terrain in the north is rather complex: mountains and forests stretch along the Vietnam-China border to the north-west of Thanh Hoa province with a number of high mountains (such as Phanxipan at 3,142 metres) and thick primitive jungles (such as Cuc Phuong) where limestone mountains in the provinces of Cao Bang, Lang Son, Hoa Binh, Ninh Binh, etc.</s>
+     <s>play a very important role.</s>
+     <s>The erosion caused by the weather has created many grottoes, caves and diversified landscapes in north Vietnam.</s>
+</p>
+<p>
+     <s>In central Vietnam, the Truong Son mountain range, stretching along the western border, has created favourable conditions for the life of the inhabitants, and fertile red soil in the Central Highlands eroded by the weather has long become the habitation for people as well as for the development of rare plants and animals.</s>
+</p>
+<p>
+     <s>Vietnam has numerous rivers of which the Red River and the Mekong River are the longest.</s>
+     <s>The Red River originates from Yunnan (China) and flows into the Pacific Ocean in a north-west south-east direction, with a large throughput (from 700 to 28,000 cubic metres per second) thus helping to have silted up a large delta of approximately 16,000 square kilometres.</s>
+     <s>Meanwhile, the Mekong River originates from Tibet (China) and, after running through Laos and Cambodia with an throughput of 4,000 to 100,000 cubic metres per second, it carries alluvium to silt up an immense delta in south Vietnam (covering approximately 40,000 square kilometres).</s>
+</p>
+<p>
+     <s>3. Located within 8030' to 23022' northern latitude with a length of 1,650 kilometres, Vietnam's climate is mainly tropical and partially equatorial.</s>
+     <s>However, owing to the annual monsoon, the climate is temperate and humid which is favourable for the development of natural life.</s>
+     <s>It is cool in the north with a big variation of temperature: in Hanoi the average temperature of the coldest month is 12.5 degrees Celsius, and of the hottest month, 29.3 degrees Celsius.</s>
+     <s>In central Vietnam, take Hue for example, the temperature variation is from 20 to 30 degrees Celsius.</s>
+     <s>In Ho Chi Minh City, the temperature variation is much smaller: from 26 to 29 degrees Celsius.</s>
+     <s>June, July and August are the hottest months of the year in northern and central Vietnam while the temperature is much more constant down in the south.</s>
+</p>
+<p>
+     <s>In is rainy in spring and summer throughout the country with an annual average rain volume sometimes going very high.</s>
+     <s>In 1926, the annual rain volume in Hanoi was registered 2,741 millimetres. The relevant figure in Hue is 2,900 millimetres, and 2,000 millimetres in Ho Chi Minh City.</s>
+</p>
+<p>
+     <s>The terrain along the coastal line enjoys a number of advantages but has to bear a lot of natural calamities such as typhoon, tropical low pressure and north-west monsoon, at the same time.</s>
+</p>
+<p>
+     <s>In general, the climate in Vietnam in the distant past was very favourable for the development of natural life, especially plants, and later, for agriculture and farming.</s>
+</p>
+<p>
+     <s>II- The Vietnamese nation.</s>
+</p>
+<p>
+     <s>Vietnam bridges the Pacific Ocean with the Indian Ocean, and Asian islands with the Asian continent and serves as a habitation for many ethnic groups.</s>
+     <s>On the path of development of human beings, Vietnam was located between two major ancient civilisations and soon became the place of exchange between these civilisations.</s>
+     <s>In archaeologists' opinion, there are 54 ethnic minorities living on Vietnamese territory.</s>
+     <s>Although each minority has its own culture, they are closely linked by their common destiny and their achievements derived from a long struggle and harmonisation with the Viet majority (which accounts for more than 80.  of the population and is always seen to be as the nucleus).</s>
+     <s>Based on their languages, the ethnologists have divided the Vietnamese nation into eight groups as follows: Viet - Muong (which consists of Viet, Muong, Chut, etc.).</s>
+</p>
+<p>
+     <s>Tay - Thai (which consists of Tay, Nung, Thai, Bo y, Cao Lan, San Chi, Lao, etc.).</s>
+<s>H'mong - Dao (H'mong, Dao, Pa Then).</s>
+<s>Tang - Mien (Ha Nhi, Lo Lo, Xa, etc.).</s>
+<s>Han (Hoa, San Diu, etc.).</s>
+<s>Mon - Khmer (Khmu, Khang, Xin mun, Hore, Xo dang, Bana, Co ho, Ma, Ro mam, Khmer, etc.).</s>
+<s>Malay - Islanders (Da Dao) (Cham, Gia rai, Ede, Ra lai, etc.).</s>
+<s>South Asian mix (which consists of La Chi, La Ha, Pu Peo, etc.).</s>
+</p>
+<p>
+     <s>After the August Revolution in 1945, with the birth of the Democratic Republic of Vietnam, which resulted from the common struggle by the whole nation, all the minorities have enjoyed freedom and equality, struggled for a better life and made joint efforts for national reconstruction.</s>
+</p>
+</div>
+</body>
+</text>
+</TEI.2>

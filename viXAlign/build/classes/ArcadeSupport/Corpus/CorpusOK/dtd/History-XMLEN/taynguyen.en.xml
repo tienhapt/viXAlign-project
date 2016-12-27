@@ -1,0 +1,110 @@
+<?xml version="1.0" standalone="no"?>
+<!-- edited with XML Spy v4.0.1 U (http://www.xmlspy.com) by NGUYEN THI MINH HUYEN (LORIA) -->
+<!DOCTYPE TEI.2 SYSTEM "C:/CORPUS/dtd/xlite/xteilite.dtd" [
+	<!ENTITY % ISO_Latin1 PUBLIC "ISO 8879-1986//ENTITIES Added Latin 1//EN//XML" "C:/CORPUS/dtd/pen/ISOlat1.pen">
+	%ISO_Latin1;
+]>
+<TEI.2 id="taynguyen.en.xml">
+	<teiHeader date.created="30/12/2002">
+		<fileDesc>
+			<titleStmt>
+				<title type="source"></title>
+				<author></author>
+				<respStmt>
+					<resp></resp>
+					<name></name>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<distributor>Nhan dan dien tu</distributor>
+				<authority/>
+				<date>1/12/2002</date>
+			</publicationStmt>
+			<sourceDesc>
+				<p/>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<langUsage>
+				<language id="EN">English</language>
+			</langUsage>
+			<textClass>
+				<keywords>
+					<list>
+						<item>prose</item>
+						<item>history</item>
+					</list>
+				</keywords>
+			</textClass>
+		</profileDesc>
+	</teiHeader>
+	<text>
+		<body id="b1">
+<head>
+Liberation of the Central Highlands, opening the general offensive and uprising in spring 1975.
+</head>
+<div>
+<p>
+     <s>For the implementation of the strategic plan in 1975 - 1976, in the last months of 1974, our armed forces opened a series of military operations throughout the South in order to improve our fighting position and create conditions for major strategic offensives.</s>
+     <s>Our victories, particularly in central Vietnam and the eastern Nam Bo (southern Vietnam) confirmed the weakening position of the main force of the puppet army, and the slim chance for the United States to return to the rescue.</s>
+</p>
+<p>
+     <s>Among the victories were major ones such as the destruction of the Thuong Duc base complex (Quang Nam) and the subsequent annihilation of reinforcements to the rescue of the Thuong Duc complex in August 1974, the campaign for total liberation of Phuoc Long province in late 1974 and early 1975. This further strengthened our strategic determination.</s>
+     <s>The Phuoc Long victory also showed the liberation of South Vietnam could possibly be implemented ahead of schedule.</s>
+     <s> In early 1975, after the liberation of Phuoc Long province, the Politburo decided to choose southern Tay Nguyen (the Central Highlands) as the main direction for the offensive with the capture of Buon Ma Thuot provincial town as the major target.</s>
+     <s>The decision was made on the basis of scientific analysis of our strength and position as well as those of the enemy, the trend of developments of the situation in the final stage of the war and the deployment of our forces and our preparations in 1973 -1974.</s>
+     <s>Owing to the important significance the Tay Nguyen campaign, particularly the opening battle in Buon Ma Thuot, the Politburo decided to send General Van Tien Dung, Politburo member and Chief of Staff of the People's Army, to the Tay Nguyen front for the set-up of a representative office of the Military Central Committee and the General Command so as to directly guide the campaign.</s>
+     <s>Columns of trucks and troop carriers started from the North, the great rear base, in secrecy and hurry to the front in southern Tay Nguyen.</s>
+     <s>Officers and men set out to the front in confidence and good shape.</s>
+     <s>By late February 1975 our reserve in Tay Nguyen amounted to almost 54,000 tones of materials comprising 7,286 tones of ammunitions, 28,600 tones of rice and foodstuff sufficient for our armed forces throughout 1975, at the same time, a major force consisting four divisions, four infantry regiments, five ground and air-defence artillery regiments, a commando regiment, two engineering regiments, an armoured regiment, a communication regiment and a number of logistic units was mustered.</s>
+</p>
+<p>
+     <s>From March 1-4, 1975 the people and armed forces in Tay Nguyen continued to speed up diversionary tactics, create opportunity and deploy forces.</s>
+     <s>It was obvious that the Americans and their puppets continued to have inaccurate speculation on our plan of campaign even when the battle deployment for the offensive in southern Tay Nguyen had been completed by our people and army.</s>
+</p>
+<p>
+     <s>Early in the morning of March 10, our commando troops opened fire at Hoa Binh provincial airfield and Mai Hac De depot, beginning the attack on Buon Ma Thuot town.</s>
+     <s>Our artillery force violently shelled the enemy positions in the town.</s>
+     <s>From jumping-off positions in the northeastern, northwestern and southwestern directions of attack, our combined branches thrust deep into the centre, capturing a number of targets.</s>
+</p>
+<p>
+     <s>At 11.00 hours on March 11, our troops captured the command post of the 23rd division of the puppet army, the last target in Buon Ma Thuot town.</s>
+     <s>From March 12-18, with a series of excellent attacks, our troops completely smashed the enemy counter-attack to re-occupy Buon Ma Thuot by the 2nd Corps, entirely wiping out the 23rd division.</s>
+     <s>Following the offensive hitting "the dangerous spot" of Buon Ma Thuot, the destruction of the 23rd division smashed the enemy's intention to launch counter-attack for the re-capture of the town, plunging them into confusion and a passive position as far as their strategic and tactical guidance was concerned.</s>
+</p>
+<p>
+     <s>The defeat in Buon Ma Thuot and the United States' intention to give up stunned and terrified the puppet regime.</s>
+     <s>The enemy decided to abandon Tay Nguyen.</s>
+     <s>In the morning of March 16, the enemy airplanes carried out bombardments to open the way for retreating the remaining main force in Play Cu and Kon Tum to the coastal plains along Highway No7.</s>
+</p>
+<p>
+     <s>At 19.00 hours of March 16, General Van Tien Dung instructed the campaign command to "immediately pursue the enemy who retreat along Highway No 7" esolutely implementing the order, our troops advancing by mechanised means as well on foot made use of every hour and minute to block the enemy.</s>
+     <s>On March 18, our troops captured Cheo Reo.</s>
+     <s>On March 21, the enemy concentration of troops in Phu Tuc was encircled and destroyed.</s>
+     <s>By March 24, the last "gathering point" of the enemy routed wing was wiped out.</s>
+</p>
+<p>
+     <s>The swift pursuit in eight days and nights (March 17-24) won a resounding victory.</s>
+     <s>All the routed wings were wiped out with 8,000 enemy troops taken prisoner and 14,000 military vehicles of all sorts destroyed or captured.</s>
+     <s>The enemy plan of fast withdrawal to regroup in order to preserved its strength was smashed.</s>
+     <s>The massive flight taking place with a tragic end signaled an unavoidable fall of the puppet army.</s>
+</p>
+<p>
+     <s>Before new developments of the situation, on March 18, 1975 the Politburo came to a decision to liberate South Vietnam in 1975. The immediate aim was to destroy the 1st Corps of the puppet army without letting them retreat to Saigon.</s>
+</p>
+<p>
+     <s>By March 25, Tay Nguyen was totally liberated.</s>
+</p>
+<p>
+     <s>After the Tay Nguyen campaign, the strategic opportunity appeared.</s>
+     <s>The Saigon regime was now faced the danger of collapse.</s>
+     <s>Our people and army now had new conditions and opportunity to quickly liberate Hue, Da Nang and central provinces along the coast and at the same time, "quickly muster our forces for the main direction (Saigon), carry out bold and sudden actions to take the enemy by surprise without being able to cope".</s>
+     <s>With the major victory in Tay Nguyen, our strategic offensive started.</s>
+     <s>Our successive victories marked a turning point in the military and political situation in the South.</s>
+     <s>The revolutionary war in the South entered its final stage.</s>
+</p>
+</div>
+</body>
+</text>
+</TEI.2>

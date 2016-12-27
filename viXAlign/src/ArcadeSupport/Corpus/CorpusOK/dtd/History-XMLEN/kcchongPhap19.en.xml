@@ -1,0 +1,197 @@
+<?xml version="1.0" standalone="no"?>
+<!-- edited with XML Spy v4.0.1 U (http://www.xmlspy.com) by NGUYEN THI MINH HUYEN (LORIA) -->
+<!DOCTYPE TEI.2 SYSTEM "C:/CORPUS/dtd/xlite/xteilite.dtd" [
+	<!ENTITY % ISO_Latin1 PUBLIC "ISO 8879-1986//ENTITIES Added Latin 1//EN//XML" "C:/CORPUS/dtd/pen/ISOlat1.pen">
+	%ISO_Latin1;
+]>
+<TEI.2 id="kcchongPhap19.en.xml">
+	<teiHeader date.created="30/12/2002">
+		<fileDesc>
+			<titleStmt>
+				<title type="source"></title>
+				<author></author>
+				<respStmt>
+					<resp></resp>
+					<name></name>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<distributor>Nhan dan dien tu</distributor>
+				<authority/>
+				<date>1/12/2002</date>
+			</publicationStmt>
+			<sourceDesc>
+				<p/>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<langUsage>
+				<language id="EN">English</language>
+			</langUsage>
+			<textClass>
+				<keywords>
+					<list>
+						<item>prose</item>
+						<item>history</item>
+					</list>
+				</keywords>
+			</textClass>
+		</profileDesc>
+	</teiHeader>
+	<text>
+		<body id="b1">
+<head>
+The resistance against the aggression of the French colonialists (From later half of the 19th century to early the 20th century).
+</head>
+<div>
+<p>
+     <s>The resistance against the French colonialists of the southern people (1858 - 1873).</s>
+     <s>The fighting situation in Danang and three southeastern provinces.</s>
+     <s>The out-break of war, the presence of the French aggressors in Danang (1858 - 1859).</s>
+</p>
+<p>
+     <s>In the middle of the 19th century, Western capitalism was prospering and looking for ways to expand its force and market.</s>
+     <s>The vast area of east and southeast Asia with a big population and rich natural resources became a prize for foreign capitalists to compete for.</s>
+     <s>Located in the middle of this region Vietnam was greedily aimed at.</s>
+</p>
+<p>
+     <s>The French capitalists had long hatched a plot to invade our country.</s>
+     <s>French warships entered Da Nang seaport to ask for free trade.</s>
+     <s>But at times they opened fire in provocation when they were rejected.</s>
+     <s>Meanwhile, those who acted under the cloak of Catholic missionaries carried out spying activities, built bases from within and sowed discord between Catholics and non-Catholics to undermine our national unity.</s>
+</p>
+<p>
+     <s>In face of the obvious and severe threat of the French capitalists, the Nguyen king and mandarins passively dealt with it by blocking their entry for trade, banning Catholics and killing missionaries.</s>
+     <s>The French used this as a pretext to take action.</s>
+     <s>In the afternoon of August 31, 1858, a convoy of warships with 3,000 French and Spanish troops on board moved to Da Nang seaport and deployed for battle (the alliance was formed because a number of Spanish missionaries were detained and killed by the Hue court, but in essence Spain also wanted to make use of the opportunity to achieve its own aims).</s>
+</p>
+<p>
+     <s>When their letter demanding the hand-over of the city was turned down, they opened fire ashore and then landed to capture Son Tra peninsula on September 2, 1858.</s>
+</p>
+<p>
+     <s>Upon being reported on the urgent news, the Hue court dispatched 2,000 troops to reinforce but they failed to repel the attack.</s>
+</p>
+<p>
+     <s>After that, Nguyen Tri Phuong was appointed commander-in-chief of the battle front in Quang Nam.</s>
+     <s>He mobilised the people and army to build a rampart of three kilometres long to check the advance of the French troops and prevent them from penetrating inland.</s>
+     <s>He also ordered the people to resort to "empty houses and gardens" tactic and move further inland to avoid conscription and food contribution to the enemy.</s>
+     <s>For five months, the enemy was brought to a halt.</s>
+     <s>Its force was thinned out as some were killed in battle and others were killed by disease.</s>
+     <s>Medicine and food ran out without supply.</s>
+</p>
+<p>
+     <s>Failing in their "fast fight, fast win" tactic, the French had to change their plan.</s>
+     <s>In February 1859, they withdrew their remaining force in Da Nang to Gia Dinh.</s>
+</p>
+<p>
+     <s>Situation on the Gia Dinh battle front (1859-1862).</s>
+</p>
+<p>
+     <s>French warships went upstream the Sai Gon river, firing at our posts along the banks and got close to the foot of Gia Dinh rampart.</s>
+</p>
+<p>
+     <s>Early in the morning of February 17, 1859, relying on fire-power, the French troops launched an offensive.</s>
+     <s>By noon, they captured the rampart.</s>
+     <s>The royal forces quickly broke up despite a big number of troops and abundance of weapons and food.</s>
+</p>
+<p>
+     <s>However the French then faced a lot of difficulties.</s>
+     <s>Groups of insurgents chased the French troops day and night, trying to block and destroy them.</s>
+     <s>The insurgents laid in ambush and killed the enemy commander in the middle of Saigon and sank the enemy warship on the river.</s>
+     <s>By then, France had to reinforce the battlefronts in Italy and China without being able to reinforce the battlefront in Vietnam.</s>
+     <s>French troops in Da Nang and some of those in Gia Dinh were pulled out to send to China.</s>
+     <s>At the Sai Gon front, the French had approximately 1,000 troops along a fighting-line of 10 kilometres.</s>
+     <s>Nguyen Tri Phuong was sent to command Gia Dinh front who not only ordered the people and army to build a big post in Chi Hoa to intercept the enemy from expanding its occupation to the west, but also took the initiative in thinning out its forces whenever opportunities came.</s>
+</p>
+<p>
+     <s>Just as France had settled its armed intervention in China, it was able to strengthen its forces in our country.</s>
+</p>
+<p>
+     <s>In the morning of February 24, 1861, the French opened fire to attack Chi Hoa.</s>
+     <s>The royal officers and soldiers fought back fiercely.</s>
+     <s>But before the strong firepower of the enemy, Chi Hoa post was captured.</s>
+     <s>Nguyen Tri Phuong was wounded and the royal army had to withdraw.</s>
+     <s>The French in turn captured the provinces of Dinh Tuong, Bien Hoa and Vinh Long.</s>
+     <s>In early 1862, all the three southeastern provinces of Gia Dinh, Dinh Tuong and Bien Hoa and the western province of Vinh Long were seized by the French.</s>
+</p>
+<p>
+     <s>Faced with the attacks, the Hue court betrayed the interests of the nation to save its own privileges by signing a treaty with the French on June 5, 1862 with disadvantageous conditions ie: concede the three eastern provinces of Cochinchina and Poulo Condore to the French; open up to French commerce three seaports of Danang, Ba Lat and Quang Yen; pay the French a heavy war indemnity.</s>
+</p>
+<p>
+     <s>The Treaty, in fact, was the capitulation of the Nguyen king and dignitaries before the French.</s>
+</p>
+<p>
+     <s>The southern resistance against the French aggressors.</s>
+     <s>The people in the south hold aloft the anti-aggression banner for national salvation.</s>
+</p>
+<p>
+     <s>Gunfire of the French troops in Da Nang raised up patriotic waves against the aggressors.</s>
+     <s>From Nam Dinh, a group of 30 students led by Pham Van Nghi, the provincial education officer, set forth to the front in the south, however he was compelled by the court to take back his students to the north.</s>
+     <s>In Da Nang, the insurgent troops, led by Pham Gia Vinh, closely co-operated with the royal army to fight the enemy.</s>
+</p>
+<p>
+     <s>When the French aggressors attacked Gia Dinh in 1859, the resistance against them saw vehement response by the people.</s>
+     <s>Peasant armies led by patriotic scholars appeared in many localities and their military operations pushed the French aggressors into difficult circumstances.</s>
+     <s>Nguyen Trung Truc's insurgent troops set ablaze and sank the French warship L'esperance on the Nhat Tao river, killing all the marines on board (December 10, 1861).</s>
+</p>
+<p>
+     <s>After the 1862 Treaty, despite the Court's order to disarm, our people refused to lay down their arms.</s>
+     <s>An anti-treaty movement spread among the people which culminated in Truong Dinh's uprising.</s>
+     <s>Vehemently supported by the patriotic masses, Truong Dinh was resolved to side with insurgents in the resistance against the French troops.</s>
+     <s>The banner of the 'Commander, Conqueror of the French' as he was hailed by the people, brought faith to them and horrified the aggressors and traitors.</s>
+     <s>The Tan Hoa base (Go Cong) became the headquarters of the entire movement in the region.</s>
+     <s>It was admitted by the French that, in 1862, the movement was widespread, tantamount to a 'general uprising'.</s>
+     <s>To cope with the situation, the French had to ask for reinforcements and launched a major attack on the Tan Hoa base in February 1863.</s>
+     <s>The insurgents heroically defended it for three days before retreating to preserve their strength.</s>
+     <s>Truong Dinh and his insurgents made efforts to build a new base in Tan Phuoc along the Soai Rap river, a hazardous place.</s>
+     <s>Shown by their lackey, the French troops secretly penetrated the base.</s>
+     <s>Facing a surprise attack sprung by the French, Truong Dinh and his insurgents fought back heroically.</s>
+     <s>As his spine was broken by a bullet, Truong Dinh took his own life on August 20, 1864 so as not to fall into enemy hands.</s>
+</p>
+<p>
+     <s>Although the commander was killed and the insurgent army suffered heavy losses, the resistance was waged on.</s>
+     <s>Truong Quyen, Truong Dinh's son, led a group of insurgents to build a new base in Tay Ninh.</s>
+     <s>Other commanders also took their troops to establish bases in many other places to carry on the resistance.</s>
+</p>
+<p>
+     <s>The fight of the people in Cochinchina goes on.</s>
+</p>
+<p>
+     <s>Following the signing of the 1862 Treaty, regardless of the strong protest of the people, the Nguyen continued to throw itself in opposition to the entire people.</s>
+     <s>The court mustered its forces to suppress the people's movements in the northern and central regions, and tried to hamper the anti-French movement of the people in the south.</s>
+     <s>With regard to the French, the Hue court wanted to negotiate the return of the lost provinces.</s>
+     <s>Phan Thanh Gian was sent to France on such a mission.</s>
+     <s>The negotiation ended in failure as it was undermined by warlike colonialists in France.</s>
+     <s>The Nguyen court's proposal was turned down by the French government.</s>
+     <s>Also, the French colonialists speeded up preparation to seize the remaining provinces in the west of Cochinchina.</s>
+</p>
+<p>
+     <s>Having carried out their preparation the French, under the pretext of Hue court's secret support to insurgents in the east, demanded the Nguyen dignitaries hand over all the ramparts in western Cochinchina to them.</s>
+     <s>Phan Thanh Gian, the governor of these provinces handed over Vinh Long, and then two other provinces of An Giang and Ha Tien to the French.</s>
+     <s>In only five days from June 20-24, 1867 the French captured all the three western provinces without a gunshot.</s>
+</p>
+<p>
+     <s>Feeling indignant at the act of capitulation of the Nguyen king and dignitaries, the people in Cochinchina stepped up their struggle.</s>
+     <s>A number of patriotic scholars made their way to Binh Thuan, a province in central Vietnam, to build bases to wage the resistance.</s>
+     <s>Others who had to stay in areas occupied by the French such as Nguyen Dinh Chieu and Phan Van Tri used poems and prose as their weapons to praise examples of heroic sacrifices of martyrs and lay bare the treason and capitulation of the Nguyen.</s>
+</p>
+<p>
+     <s>Most other patriotic scholars chose to stay on their land with the people and waged strong resistance against the enemy.</s>
+     <s>The resistance grew very strong in all the three provinces.</s>
+     <s>The two brothers Phan Tam and Phan Ngu led the insurgents to carry out drastic operations in a vast area of Ben Tre, Vinh Long, Sa Dec (present-day Dong Thap province) and Tra Vinh provinces in two years from 1867 to 1868. Particularly, the insurgents led by Nguyen Trung Truc from the Hon Chong base, crossed the sea, landed and swiftly destroyed the French garrison in Kien Giang in June 1867.</s>
+     <s>When the enemy was about to behead him, Nguyen Trung Truc bravely stated: "So long as grass still grows on the soil of this land, people will continue to resist the invaders".</s>
+</p>
+<p>
+     <s>During this time the resistance in eastern Cochinchina also rose up.</s>
+     <s>As soon as he was released from exile, Nguyen Huu Huan joined the resistance in Tan An, My Tho (1875).</s>
+     <s>Captured again and faced with death, in a composed manner, he still made verses to affirm his indomitable patriotism.</s>
+</p>
+<p>
+     <s>By then, all major resistance was put down.</s>
+     <s>However, the patriotic movement of the people in Cochinchina went on without being extinguished.</s>
+</p>
+</div>
+</body>
+</text>
+</TEI.2>

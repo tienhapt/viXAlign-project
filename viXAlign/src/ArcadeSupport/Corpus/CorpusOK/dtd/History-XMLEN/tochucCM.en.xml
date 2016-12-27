@@ -1,0 +1,109 @@
+<?xml version="1.0" standalone="no"?>
+<!-- edited with XML Spy v4.0.1 U (http://www.xmlspy.com) by NGUYEN THI MINH HUYEN (LORIA) -->
+<!DOCTYPE TEI.2 SYSTEM "C:/CORPUS/dtd/xlite/xteilite.dtd" [
+	<!ENTITY % ISO_Latin1 PUBLIC "ISO 8879-1986//ENTITIES Added Latin 1//EN//XML" "C:/CORPUS/dtd/pen/ISOlat1.pen">
+	%ISO_Latin1;
+]>
+<TEI.2 id="tochucCM.en.xml">
+	<teiHeader date.created="30/12/2002">
+		<fileDesc>
+			<titleStmt>
+				<title type="source"></title>
+				<author></author>
+				<respStmt>
+					<resp></resp>
+					<name></name>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<distributor>Nhan dan dien tu</distributor>
+				<authority/>
+				<date>1/12/2002</date>
+			</publicationStmt>
+			<sourceDesc>
+				<p/>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<langUsage>
+				<language id="EN">English</language>
+			</langUsage>
+			<textClass>
+				<keywords>
+					<list>
+						<item>prose</item>
+						<item>history</item>
+					</list>
+				</keywords>
+			</textClass>
+		</profileDesc>
+	</teiHeader>
+	<text>
+		<body id="b1">
+<head>
+The birth of new revolutionary organisations.
+</head>
+<div>
+<p>
+     <s>The founding and activities of the Revolutionary Youth Association of Vietnam.</s>
+</p>
+<p>
+     <s>In late 1924, after working and studying for some time in the Soviet Union, Nguyen Ai Quoc went to Guangzhou (China).</s>
+     <s>He gathered young patriotic Vietnamese who conducted revolutionary activities there and set up a new revolutionary organisation ie the Revolutionary Youth Association of Vietnam in June 1925.</s>
+     <s>Training courses were organised by the Association in Guangzhou.</s>
+     <s>A number of young people were secretly sent there from Vietnam for training before coming back home for revolutionary activities.</s>
+</p>
+<p>
+     <s>Nguyen Ai Quoc's lectures at the training courses were collected into his booklet 'The Revolutionary Path.'</s>
+     <s>The work highlighted the importance of Marxism-Leninism and the bright example of the Russian October Revolution for the Vietnamese revolution, analysed and pointed out that workers and peasants under the leadership of a Marxist-Leninist party would be the essential driving force of the Vietnamese revolution.</s>
+     <s>It also emphasised the close relationship between the Vietnamese revolution and the world revolution, between the mass organisations of youths, women, workers, peasants, etc of Vietnam with their international counterparts.</s>
+</p>
+<p>
+     <s>From 1926, the first foundations of the Revolutionary Youth Association were built in Vietnam which witnessed a fast growth in 1929. The total of the Association's members in 1929 amounted to 1,000 who were active throughout the north, the centre and the south of Vietnam.</s>
+     <s>Around the cells of the Association were trade unions, peasants' union, etc which were organised in many localities.</s>
+     <s>The Association also developed its bases in the Vietnamese community in Thailand, Laos, and so on.</s>
+</p>
+<p>
+     <s>The New Vietnam Revolutionary Party (Tan Viet).</s>
+</p>
+<p>
+     <s>In the national democratic movement between 1925-1926, a revolutionary organisation mainly consisting of intellectuals, patriotic students appeared, calling itself the New Vietnam Revolutionary Party on July 14, 1928. The organisation mobilised a merger with the Revolutionary Youth Association on a number of occasions without success.</s>
+     <s>However, the Tan Viet kept sending their members to Guangzhou to join training courses with the Revolutionary Youth Association.</s>
+     <s>That is why the Tan Viet's revolutionary guidelines were influenced by those of the Revolutionary Youth Association, such as its advocacy for uniting the entire Vietnamese people with the oppressed nations and the proletarian class in the capitalist countries, and carrying out the national revolution prior to the world revolution.</s>
+     <s>The Tan Viet attached much importance to mobilising youths, workers, peasants, etc.</s>
+     <s>During its process of development, a number of the Tan Viet's members left for the Revolutionary Youth Association, and its rank was thus gradually thinned out.</s>
+</p>
+<p>
+     <s>The Nationalist Party of Vietnam.</s>
+</p>
+<p>
+     <s>Following the birth of the Revolutionary Youth Association and the Tan Viet, a new revolutionary organisation appeared in late 1927, the Nationalist Party of Vietnam.</s>
+     <s>The Nationalist Party advocated the use of force to drive away the French colonialists to regain national independence and build Vietnam along the path of capitalism.</s>
+     <s>The Party carried out its activities mainly in Tonkin; its members mainly consisted of capitalists, petty bourgeoisie, officials, and Vietnamese non-commissioned officers in the French army and well to do people in the countryside.</s>
+     <s>Nguyen Thai Hoc was the leader of the Party.</s>
+</p>
+<p>
+     <s>The recruitment of 'coolies' for rubber plantations constituted a horrible disaster to the people in Tonkin at that time.</s>
+     <s>The Nationalist Party advocated the assassination of Bazin, a cruel recruiter of coolies, as a warning.</s>
+     <s>After Bazin's death, the colonial administration conducted acts of terror, encircling and arresting hundreds of members of underground political parties.</s>
+     <s>The Nationalist Party was heavily inflicted because agents had been planted by the French secret police in its ranks to spy on its organisation and operations.</s>
+     <s>The Party's bases from north to south were broken and key leaders such as Nguyen Thai Hoc and Nguyen Khac Nhu were closely pursued.</s>
+</p>
+<p>
+     <s>In face of such a situation, the leadership of the Nationalist Party urgently prepared for an armed uprising with attacks to be launched on major cities and towns and sensitive military posts of the French.</s>
+     <s>At first, the uprising broke out in Yen Bai on February 9, 1930.</s>
+     <s>The insurgents captured the French garrison, killed some French officers and seized weapons and ammunitions.</s>
+     <s>However, the provincial town was still under the control of the French who mobilised troops for a counter-attack.</s>
+     <s>Part of the insurgent troops was destroyed with the remainder having to retreat to the forest.</s>
+     <s>Similar actions also took place in a number of other localities such as Lam Thao and Hung Hoa (Phu Tho), Vinh Bao (Hai Duong), Phu Duc (Thai Binh), Kien An, etc, but they were quickly put down.</s>
+     <s>Brutal suppression was waged by the French colonialists: their planes bombed and entirely burnt down Co Am area (Hai Duong), thousands of people were held in custody and tens of others were executed among whom were Nguyen Thai Hoc, Pho Duc Chinh and Doan Tran Nghiep.</s>
+</p>
+<p>
+     <s>The Yen Bai uprising is one of the glorious pages in the anti-French colonialist history of our people.</s>
+     <s>The defeat of the Yen Bai uprising marked the disintegration of the Nationalist Party.</s>
+</p>
+</div>
+</body>
+</text>
+</TEI.2>

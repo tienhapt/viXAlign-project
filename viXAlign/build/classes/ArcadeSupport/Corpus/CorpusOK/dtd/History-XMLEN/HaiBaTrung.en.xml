@@ -1,0 +1,151 @@
+<?xml version="1.0" standalone="no"?>
+<!-- edited with XML Spy v4.0.1 U (http://www.xmlspy.com) by NGUYEN THI MINH HUYEN (LORIA) -->
+<!DOCTYPE TEI.2 SYSTEM "C:/CORPUS/dtd/xlite/xteilite.dtd" [
+	<!ENTITY % ISO_Latin1 PUBLIC "ISO 8879-1986//ENTITIES Added Latin 1//EN//XML" "C:/CORPUS/dtd/pen/ISOlat1.pen">
+	%ISO_Latin1;
+]>
+<TEI.2 id="HaiBaTrung.en.xml">
+	<teiHeader date.created="30/12/2002">
+		<fileDesc>
+			<titleStmt>
+				<title type="source"></title>
+				<author></author>
+				<respStmt>
+					<resp></resp>
+					<name></name>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<distributor>Nhan dan dien tu</distributor>
+				<authority/>
+				<date>1/12/2002</date>
+			</publicationStmt>
+			<sourceDesc>
+				<p/>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<langUsage>
+				<language id="EN">English</language>
+			</langUsage>
+			<textClass>
+				<keywords>
+					<list>
+						<item>prose</item>
+						<item>history</item>
+					</list>
+				</keywords>
+			</textClass>
+		</profileDesc>
+	</teiHeader>
+	<text>
+		<body id="b1">
+<head>
+The insurrection led by the two Trung Sisters.
+</head>
+<div>
+<p>
+     <s>1- Viet country under Han domination.</s>
+</p>
+<p>
+     <s>Since the loss of its dependence, Au Lac's land was merged into China and divided into districts and cantons.</s>
+</p>
+<p>
+     <s>The Chao divided Au Lac into two districts: Giao Chi (Tonkin) and Cuu Chan (Thanh Hoa, Nghe An and Ha Tinh).</s>
+     <s>Later, the Han established one more district of Nhat Nam (from the Ngang pass to Quang Nam - Da Nang).</s>
+     <s>These three districts were integrated with six other different districts in mainland China and in Hai Nan island to make up Chau Giao.</s>
+</p>
+<p>
+     <s>Chau Giao was headed by a Chinese proconsul.</s>
+     <s>Each district was headed by a Chinese governor who looked after the administrative matters and an officer (do uy) who looked after military matters.</s>
+     <s>In each canton, which were similar to bo (regions) in An Duong Vuong's time, the Han retained the rule of a local military chief (Lac tuong) as before.</s>
+</p>
+<p>
+     <s>The Viet people had to pay tributes of precious and rare products such as tortoise shells, pearls, rhino horns, elephant tusks, etc to the ruling authority.</s>
+     <s>Also, they had to contribute alcohol, rice, oxen, buffaloes, etc to maintain the ruling apparatus.</s>
+     <s>Taxes on salt, iron and many other products were imposed.</s>
+</p>
+<p>
+     <s>The Han mandarins vied with each other in seizing land and inhabitants of villages and communes to set up their own plantations.</s>
+     <s>A great number of the Han people were sent and settled among the Viet population.</s>
+     <s>The Viet were compelled to follow the Han customs in terms of dressing, weddings, funerals, etc.</s>
+     <s>Annexation of land in combination with cultural assimilation was plotted by the feudal Han.</s>
+</p>
+<p>
+     <s>From early the first century AD, China was plunged in chaos and the ruling functionaries in Chau Giao intensified their exploitation and oppression.</s>
+     <s>Governor Su Ding in Giao Chi was notorious for his cruelty and greed, "who stares at money with wide-opened eyes when seeing it".</s>
+     <s>He resorted to harsh measures to collect taxes, compel the people to pay tributes and oppress the local military chiefs and their descendants.</s>
+</p>
+<p>
+     <s>2- The two Trung sisters prepare for insurrection.</s>
+</p>
+<p>
+     <s>At that time in Me Linh (Ba Vi and Tam Dao which presently belong to Ha Tay and Vinh Phuc provinces) there were two sisters, Trung Trac and Trung Nhi, daughters of a military chief and descendants of the Hung kings.</s>
+     <s>Born and brought up in a dependent country and a parentless family(1) both of them grew a deep hatred toward the aggressors since their childhood.</s>
+     <s>Trung Trac was extraordinarily brave and undaunted.</s>
+     <s>Her husband Thi Sach was a son of the military chief of Chu Dien district (presently Dan Phuong district, Ha Tay province and Tu Liem district, Hanoi).</s>
+     <s>Thi Sach was also an ardent patriot of strong and indomitable will.</s>
+     <s>The two families of military chiefs in Me Linh and Chi Dien districts got together for the great cause.</s>
+     <s>They also associated with other local chiefs to prepare for uprisings.</s>
+</p>
+<p>
+     <s>In Kinh Mon area (Hai Duong) Nguyen Huyen and his daughter Thanh Thien set up a group of insurgents.</s>
+     <s>When Nguyen Huyen died, Thanh Thien sent word to her maternal uncle in Yen Dung (Ha Bac) to rise up in arms and seize a vast area.</s>
+     <s>From Dong Trieu, Mrs Le Chan and the inhabitants reclaiming land along the coast set up their base in An Bien (Haiphong) where militiamen, in turn, carried out farming and training of martial arts at the same time.</s>
+</p>
+<p>
+     <s>In Thien Ban (Nam Dinh) Mrs Le Thi Hoa and the villagers rose up in revolt.</s>
+     <s>Owing to the subsequent harsh suppression she led her four sons and the insurgents to move to Cuu Chan and set up their new base along the coast of Nga Son.</s>
+</p>
+<p>
+     <s>3- The outbreak of the insurrection (40 AD).</s>
+</p>
+<p>
+     <s>While the two Trung sisters were actively preparing for an uprising, governor Su Ding arrested and killed Thi Sach.</s>
+     <s>His cruel act, instead of overwhelming Trung Trac, poured more oil on the fire.</s>
+     <s>Trung Trac and her sister were resolved to rise up in arms to get revenge for the country and her family.</s>
+</p>
+<p>
+     <s>Since then 'The Oath of Trung Trac' has circulated among our people with verses praising her patriotism and love to her husband:</s>
+     <s>First, to take revenge for the country</s>
+     <s>Second, to restore the great cause of the Hung kings</s>
+     <s>Third, to clear the injustice for my husband</s>
+     <s>Fourth, to contribute this small merit to the country (Thien Nam's 'Collection of Aphorisms').</s>
+</p>
+<p>
+     <s>It can be said these were the aims of the insurrection.</s>
+</p>
+<p>
+     <s>In spring of 40 AD (March), at the Hat (Hat Mon, Ha Tay), the two Trung sisters held up the banner of insurrection in arms.</s>
+     <s>The righteous armies quickly destroyed and captured the military command post of the Han and took control of Me Linh.</s>
+</p>
+<p>
+     <s>Legend has it that Nguyen Tam, an old general of 62 in Mai Dong (Hanoi), taking 5000 troops; Miss Quoc in Hoang Xa (Kieu Ky, Gia Lam, Hanoi) taking more than 2000 troops; Mr Cai in Thanh Oai (Ha Tay) disguised himself as a woman taking a group of 3000 female insurgents; and Mrs Vinh Huy in Co Chau (Bac Ninh) disguised herself as a man, taking more than 1000 servicemen, gathered in Hat Mon.</s>
+</p>
+<p>
+     <s>Mrs Le Chan in Haiphong, Mrs Thanh Thien from Ha Bac and Mrs Le Thi Hoa from Thanh Hoa also took their troops to join.</s>
+</p>
+<p>
+     <s>From Me Linh, the armies launched an attack and captured Co Loa.</s>
+     <s>From there the attack was extended to Luy Lau (Thuan Thanh, Bac Ninh) where were located the headquarters of the dominators.</s>
+     <s>The armies of the two Trung sisters swept like a storm wherever they went through:</s>
+     <s>Strong wind and dust rise up in the west</s>
+     <s>Troops and horses in rumble are marching toward Long Bien ('A Historical Ballad of Dai Nam').</s>
+</p>
+<p>
+     <s>People throughout the country enthusiastically followed the two Trung sisters.</s>
+     <s>The mandarins and troops of the ruling authority were inflicted a thundering blow, who dared not resist and abandoned all arms and wealth to flee.</s>
+     <s>Su Ding discarded his official seal, cut off his hair, shaved his beard, disguised himself as a commoner, and mixed himself in the disorderly rabble to return to China.</s>
+</p>
+<p>
+     <s>In less than one month, the insurgent army captured all citadels occupied by the occupiers.</s>
+</p>
+<p>
+     <s>The insurrection of the two Trung sisters won a complete victory.</s>
+     <s>After more than two centuries dominated by the foreign feudal rule, our people won back their national independence.</s>
+</p>
+</div>
+</body>
+</text>
+</TEI.2>

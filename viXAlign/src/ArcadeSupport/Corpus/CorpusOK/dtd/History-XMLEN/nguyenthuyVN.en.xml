@@ -1,0 +1,140 @@
+<?xml version="1.0" standalone="no"?>
+<!-- edited with XML Spy v4.0.1 U (http://www.xmlspy.com) by NGUYEN THI MINH HUYEN (LORIA) -->
+<!DOCTYPE TEI.2 SYSTEM "C:/CORPUS/dtd/xlite/xteilite.dtd" [
+	<!ENTITY % ISO_Latin1 PUBLIC "ISO 8879-1986//ENTITIES Added Latin 1//EN//XML" "C:/CORPUS/dtd/pen/ISOlat1.pen">
+	%ISO_Latin1;
+]>
+<TEI.2 id="nguyenthuyVN.en.xml">
+	<teiHeader date.created="30/12/2002">
+		<fileDesc>
+			<titleStmt>
+				<title type="source"></title>
+				<author></author>
+				<respStmt>
+					<resp></resp>
+					<name></name>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<distributor>Nhan dan dien tu</distributor>
+				<authority/>
+				<date>1/12/2002</date>
+			</publicationStmt>
+			<sourceDesc>
+				<p/>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<langUsage>
+				<language id="EN">English</language>
+			</langUsage>
+			<textClass>
+				<keywords>
+					<list>
+						<item>prose</item>
+						<item>history</item>
+					</list>
+				</keywords>
+			</textClass>
+		</profileDesc>
+	</teiHeader>
+	<text>
+		<body id="b1">
+<head>
+Primitive human beings in Vietnam.
+</head>
+<div>
+<p>
+     <s>First findings of human beings in Vietnam.</s>
+</p>
+<p>
+     <s>It marked a marvellous turning point when apes, step-by-step, extricated themselves from the natural conditions and became human beings.</s>
+     <s>It was the most ancient men.</s>
+</p>
+<p>
+     <s>Studies of the ancient man in Vietnam date back more than twenty years.</s>
+     <s>Then, findings of neither early men of millions of years ago nor ancient primates had been identified in Vietnam.</s>
+</p>
+<p>
+     <s>But in 1960, a number of stone tools of the primitive men in Vietnam were discovered on Mount Do (Thanh Hoa province).</s>
+     <s>Through a number of surveys, archaeologists have gathered thousands of stone splinters from cutters and scrappers.</s>
+     <s>Pebbles were roughly chipped for cutting.</s>
+     <s>A few almond shaped hand-axes, which were carefully chipped at one end to take hold of, and sharpened at the other end, have been found.</s>
+</p>
+<p>
+     <s>In south Vietnam, stone tools similar to those on Mount Do were also discovered at Hang Gon and Dau Giay (Dong Nai province), and Doc Mo and Vuon Du (Song Be province).</s>
+</p>
+<p>
+     <s>Recently, on Quan Yen and Nuong mountains (Thanh Hoa province) stone tools similar to those on Mount Do have been found.</s>
+</p>
+<p>
+     <s>From 1964 to 1965, archaeologists discovered teeth of the most ancient men in Tham Khuyen and Tham Hai caves (Lang Son province), together with bones of animals of the time such as bear, elephant, rhino, large orang-utan, etc.</s>
+</p>
+<p>
+     <s>Through tens of thousand years, the anthropoids developed into primitive human beings and finally into Homo sapiens with upright forehead, straight jaw, big brain and thin skull bones.</s>
+</p>
+<p>
+     <s>Homo sapiens appeared rather early in Vietnam and south-east Asia.</s>
+     <s>Teeth and forehead bones from Homo sapiens have been discovered in Keo Leng cave (Lang Son province) together with a lot of stone splinters in the Nguom stone roof (Bac Thai province).</s>
+</p>
+<p>
+     <s>Homo sapiens lived in a vast area from Lao Cai and Ha Giang to Ha Tinh and from Son La to the basin of the Luc Nam River.</s>
+</p>
+<p>
+     <s>The appearance of new working tools.</s>
+</p>
+<p>
+     <s>Excavations have been carried out by archaeologists in a number of sites and ancient tombs in Thanh Hoa province, along the coast of Quang Ninh and Hai Phong, on islands in Ha Long Bay, in coastal and lowland areas of Nghe An, Ha Tinh, Quang Binh, Quang Tri, Thua Thien - Hue, Son La and Lai Chau provinces, and in the basin of the Dong Nai River, etc.</s>
+</p>
+<p>
+     <s>Well-polished stone axes were discovered.</s>
+     <s>Some of them had been sawed.</s>
+     <s>With the sawing technique ancient men were able to quickly produce tools of desired measurement and shape.</s>
+     <s>It would have taken them much more time and efforts had they only known how to chip and strike.</s>
+     <s>Chisel and knife (bon) were also discovered.</s>
+</p>
+<p>
+     <s>It was special that men already knew how to drill at that time.</s>
+     <s>The drill was rotated by men on a stone surface to create a hole.</s>
+</p>
+<p>
+     <s>In a number of sites along the coastal areas, stone hoes were found.</s>
+</p>
+<p>
+     <s>The appearance of wet rice cultivation.</s>
+</p>
+<p>
+     <s>With improved tools, the habitation of primitive human beings scattered in a vast area from five to six thousand years ago.</s>
+</p>
+<p>
+     <s>In valleys and submerged fields surrounded by mountains appeared the cultivation of wet rice, a typical agricultural form in south-east Asia.</s>
+</p>
+<p>
+     <s>The majority of the world's scholars admit that south-east Asia was the cradle of wild rice.</s>
+     <s>The inhabitants here, through their experience in growing wet taro along the banks of rivers and springs, knew how to domesticate wild rice into semi-wild rice (which required care by people) and finally into fully-cultivated rice which comprised non-glutinous rice varieties with long round grains (such as in north-western Vietnam) and glutinous rice varieties with short round grains.</s>
+     <s>From lowlands around mountains, rice was cultivated on mountains' hill-slopes which gave glutinous long round grains.</s>
+     <s>When the seas receded, pebbles and alluvium washed down by rivers silted up the river's mouth and created large coastal deltas, men made crusades from the mountains to conquer these areas.</s>
+     <s>Rice was grown in the early rainy season, grown during rainy season and ripened in the early dry season.</s>
+</p>
+<p>
+     <s>Agricultural communes.</s>
+</p>
+<p>
+     <s>A number of vast sites close to one another in the late Stone Age that have been excavated show the existence of big stone tool-making shops and populated communes at that time.</s>
+     <s>In comparison with the earlier period, the then population grew much faster.</s>
+     <s>There were tribes living together throughout the country who relied on the cultivation of rice.</s>
+</p>
+<p>
+     <s>Thanks to rice cultivation, the living of the then people became more stable.</s>
+</p>
+<p>
+     <s>In communes, a large part of the population became specialised.</s>
+     <s>Their production was first to meet the demand of their commune and then for exchange with other communes.</s>
+     <s>Then the primitive tribes began to disintegrate.</s>
+     <s>The country entered a new stage.</s>
+</p>
+</div>
+</body>
+</text>
+</TEI.2>

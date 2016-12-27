@@ -1,0 +1,208 @@
+<?xml version="1.0" standalone="no"?>
+<!-- edited with XML Spy v4.0.1 U (http://www.xmlspy.com) by NGUYEN THI MINH HUYEN (LORIA) -->
+<!DOCTYPE TEI.2 SYSTEM "C:/CORPUS/dtd/xlite/xteilite.dtd" [
+	<!ENTITY % ISO_Latin1 PUBLIC "ISO 8879-1986//ENTITIES Added Latin 1//EN//XML" "C:/CORPUS/dtd/pen/ISOlat1.pen">
+	%ISO_Latin1;
+]>
+<TEI.2 id="DaiVietdoiTran.en.xml">
+	<teiHeader date.created="30/12/2002">
+		<fileDesc>
+			<titleStmt>
+				<title type="source"></title>
+				<author></author>
+				<respStmt>
+					<resp></resp>
+					<name></name>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<distributor>Nhan dan dien tu</distributor>
+				<authority/>
+				<date>1/12/2002</date>
+			</publicationStmt>
+			<sourceDesc>
+				<p/>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<langUsage>
+				<language id="EN">English</language>
+			</langUsage>
+			<textClass>
+				<keywords>
+					<list>
+						<item>prose</item>
+						<item>history</item>
+					</list>
+				</keywords>
+			</textClass>
+		</profileDesc>
+	</teiHeader>
+	<text>
+		<body id="b1">
+<head>
+The Dai Viet Kingdom under the Tran (From the 13th to late the 14th Centuries).
+</head>
+<div>
+<p>
+     <s>I. The foundation of the Tran.</s>
+     <s>The collapse of the Ly.</s>
+</p>
+<p>
+     <s>From the later half of the 12th century, the situation of the country worsened.</s>
+     <s>The young king indulged in lustful leisure and waste.</s>
+     <s>High-ranking officials in the Court argued over who had authority.</s>
+     <s>Down under, taking the advantage of the occasion, the mandarins and their relatives harassed and exploited the people.</s>
+</p>
+<p>
+     <s>The State no longer took care of agricultural production and maintenance of the dyke system as before.</s>
+     <s>Floods, droughts and crop failures frequently took place.</s>
+     <s>Poor peasants had to sell their wives and pledge their children to well-to-do families.</s>
+     <s>Others had to live on meagre farming, or seek shelter in pagodas.</s>
+     <s>The people were left in misery.</s>
+</p>
+<p>
+     <s>Poor peasants in many regions such as Nghe An, Thanh Hoa, Ninh Binh, etc rose in revolt.</s>
+     <s>A then mandarin said, "The people are now in revolt, the country is at stake, the king is indulged in debauchery, and the people's heart and mind are so separative, the collapse of the kingdom, therefore, is imminent".</s>
+</p>
+<p>
+     <s>A number of local feudal groups even gathered thieves, bandits and exiles to harass the people, slaughter one another, and oppose the Court.</s>
+     <s>In early the 13th century, the rebellion spread to the capital.</s>
+     <s>The weakened Ly, had to rely on the Tran family to resist the rebels.</s>
+     <s>Along this path, the Tran family step by step held important positions in the Court.</s>
+     <s>In 1226, the Tran family availed itself of the opportunity to force the last Ly king to cede the throne.</s>
+     <s>Thus how the Tran was founded.</s>
+</p>
+<p>
+     <s>Old history has it that the then Ly king did not have any son and had to abdicate in favour of his daughter Ly Chieu Hoang, at the age of 7.</s>
+     <s>Taking advantage of the opportunity, the Tran family made her to transfer the throne to her husband Tran Canh who was only 6 by then.</s>
+     <s>At the throne ascending ceremony of Tran Canh, the commander-in-chief of royal guards Tran Thu Do emphasised, "At present, banditry is rampant, rebel threats keep spreading, the Ly is weakened and the country's destiny is shaken and endangered, Empress Ly Chieu Hoang, who is not able to shoulder the burden, will entrust her husband to".</s>
+</p>
+<p>
+     <s>The new government under the Tran.</s>
+</p>
+<p>
+     <s>Coming into the power, the Tran quickly put down the rebellion, built an apparatus of mandarins and restored production.</s>
+</p>
+<p>
+     <s>The State was headed by the king.</s>
+     <s>Unlike the Ly, the Tran kings worked out a practice to transfer the throne to their heirs early and assume the post of king fathers in order to jointly manage the State affairs with their heirs.</s>
+</p>
+<p>
+     <s>High-ranking civil and military positions were assigned to the people of the Tran family.</s>
+     <s>The system of inferior mandarins remained unchanged as before, however, it was better organised.</s>
+     <s>The Tran placed a number of new positions such as dyke official (Ha de su), who looked after the building and maintenance of the dyke system; agricultural official (Khuyen nong su) who took care of and encouraged agricultural production; plantation official (Don dien su), who recruited labour for breaking fresh ground.</s>
+</p>
+<p>
+     <s>The whole country was reorganised into 12 lo (provinces).</s>
+     <s>Each lo was headed by a chief and his deputy.</s>
+     <s>Under the lo was phu, chau and huyen (district) each of which was headed by a district chief.</s>
+     <s>The lowest level was the commune.</s>
+     <s>At the communal level, besides managerial posts selected by the people, the Tran set up a communal mandarin to represent the Court.</s>
+</p>
+<p>
+     <s>It was the Tran's policy in the initial stage that "only descendants of mandarins can become mandarins".</s>
+     <s>However, the policy gradually lost its validity in the 14th century.</s>
+     <s>The Tran aristocracies were promoted to dukes and lords, who were granted fiefdoms and domains.</s>
+     <s>The mandarins were granted perquisites.</s>
+</p>
+<p>
+     <s>There were many differences between the king, mandarins and the people, but it was not profound.</s>
+     <s>The Tran king had a big bell placed at the Court for the people to ring when they were in need.</s>
+</p>
+<p>
+     <s>The oath ceremony held every year by mandarins in Dong Co pagoda was seen by the people as a big festival of their own.</s>
+     <s>Whenever the king paid a visit to localities, he was welcome and received with high regards.</s>
+     <s>He was even stopped and requested to judge again an unfair sentence.</s>
+     <s>In court, sometimes after banquets the king and mandarins stood up hand in hand dancing and singing merrily.</s>
+</p>
+<p>
+     <s>Criminal code was promulgated by the State.</s>
+     <s>In accordance with old history, the code again reasserted the laws promulgated by the Ly.</s>
+     <s>Private ownership was protected.</s>
+     <s>The hire of serfs was no longer limited as in the past, and laws also provided in detail, the sale and purchase of land.</s>
+</p>
+<p>
+     <s>In its relations with the Sung and the Yuan in China, the Tran always held fast to its independent status.</s>
+</p>
+<p>
+     <s>As for the ethnic minorities in mountainous regions, the Tran tried to maintain good the relationship that had been built by the Ly.</s>
+</p>
+<p>
+     <s>II. Continued build-up of military force and economic development.</s>
+     <s>Reorganisation of the army and border defence.</s>
+</p>
+<p>
+     <s>Under the Tran, the people were very fond of martial arts.</s>
+     <s>Rooms for wresting practices were opened in many places.</s>
+     <s>Martial art and wresting competitions, peg-top play, etc were regular games at village festivities.</s>
+     <s>This spirit served as a firm basis for the Tran to organise a strong army.</s>
+     <s>The Thien Thuoc army safeguarding the king and the royal citadel was carefully selected among strong youths in the native land of the Tran family (Tuc Mac, Nam Dinh).</s>
+     <s>Youths above 18 in other villages were recruited for the local forces as done by the Ly.</s>
+     <s>In times of war, local militiamen would be put under the leadership of the aristocrats.</s>
+     <s>The army was given regular and thorough training by experienced generals.</s>
+     <s>It was advocated by the Tran that "the army would rather be strong qualitatively than quantitatively".</s>
+</p>
+<p>
+     <s>In times of war, aristocracies were allowed by the Tran to recruit and command troops in areas surrounding their fiefdoms.</s>
+</p>
+<p>
+     <s>Children of aristocratic families were sent to study in schools of martial arts to become senior military officials.</s>
+</p>
+<p>
+     <s>Due care was paid by the Tran to the border defence.</s>
+     <s>A number of talented generals were entrusted with the defence of the northern border.</s>
+     <s>The Tran king sometimes inspected the defence in the border areas.</s>
+     <s>As for the south, the Tran maintained good relations with the Champa people so as to avert any possible conflict.</s>
+     <s>The management of Nghe An and Thanh Hoa, were entrusted to the king's sons and brothers.</s>
+</p>
+<p>
+     <s>New economic achievements.</s>
+</p>
+<p>
+     <s>Social order was restored and the people quickly rehabilitated production throughout the country.</s>
+     <s>The Tran applied a number of positive measures that helped promote agricultural production.</s>
+</p>
+<p>
+     <s>Coming from a fishing family, the Tran king clearly understood flood damage.</s>
+     <s>Therefore, in 1248, people in all provinces were ordered to launch a campaign to build dykes along big rivers.</s>
+     <s>Everyone, regardless of age, gender, rich or poor had to join in.</s>
+     <s>Every year, under the guidance of dyke officials, young men of 18 and above had to contribute a number of labour days to the building and maintenance of dykes.</s>
+</p>
+<p>
+     <s>At the same time, the Tran organised the dredging of canals to ensure smooth communications and irrigation.</s>
+</p>
+<p>
+     <s>With a view to expanding the arable land for farming, the Tran encouraged princes, princesses and aristocrats to recruit labourers to reclaim land in areas along rivers and seacoasts.</s>
+     <s>The reclaimed land was owned by individuals.</s>
+     <s>At the same time, plantation officials urged poor peasant households in provinces to reclaim land and set up plantations.</s>
+     <s>The food yield, as a result, was considerably increased.</s>
+     <s>Peasants actively engaged in doing farming making the best use of land; green ricefields were seen everywhere.</s>
+</p>
+<p>
+     <s>Handicrafts and trade also achieved fast growth.</s>
+     <s>Due attention was given to handicraft production, imperial maids went on with cloth weaving as before, and the range of handicraft products kept expanding.</s>
+     <s>Markets were organised in villages, where people conducted exchange of rice, corn, sweet potatoes, tools, silks, cloths, etc with one another.</s>
+     <s>Currency and measurement units were unified.</s>
+</p>
+<p>
+     <s>In Thang Long, all 61 guilds had brisk trade operations.</s>
+     <s>The Tran set up a high ranking mandarin to look after these activities.</s>
+</p>
+<p>
+     <s>As it is recorded by old history, King Tran Anh Tong was a liberal-minded man.</s>
+     <s>When the night fell, he quietly left the palace to take a stroll round the guilds with his guardsmen and only returned before dawn.</s>
+     <s>Once on the way back, some rotters threw a piece of brick at the king which hit him on the head.</s>
+     <s>So frightened, his guardsmen cried out: "That's the king's palanquin!".</s>
+     <s>The rotters broke away.</s>
+     <s>Later, King Anh Tong changed his walk into a type of award for those who topped examinations.</s>
+</p>
+<p>
+     <s>Trade exchange with foreign merchants began to grow.</s>
+     <s>The economy of Great Viet made firm steps forward.</s>
+</p>
+</div>
+</body>
+</text>
+</TEI.2>

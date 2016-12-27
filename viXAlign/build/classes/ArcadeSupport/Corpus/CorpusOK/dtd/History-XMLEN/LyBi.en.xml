@@ -1,0 +1,149 @@
+<?xml version="1.0" standalone="no"?>
+<!-- edited with XML Spy v4.0.1 U (http://www.xmlspy.com) by NGUYEN THI MINH HUYEN (LORIA) -->
+<!DOCTYPE TEI.2 SYSTEM "C:/CORPUS/dtd/xlite/xteilite.dtd" [
+	<!ENTITY % ISO_Latin1 PUBLIC "ISO 8879-1986//ENTITIES Added Latin 1//EN//XML" "C:/CORPUS/dtd/pen/ISOlat1.pen">
+	%ISO_Latin1;
+]>
+<TEI.2 id="LyBi.en.xml">
+	<teiHeader date.created="30/12/2002">
+		<fileDesc>
+			<titleStmt>
+				<title type="source"></title>
+				<author></author>
+				<respStmt>
+					<resp></resp>
+					<name></name>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<distributor>Nhan dan dien tu</distributor>
+				<authority/>
+				<date>1/12/2002</date>
+			</publicationStmt>
+			<sourceDesc>
+				<p/>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<langUsage>
+				<language id="EN">English</language>
+			</langUsage>
+			<textClass>
+				<keywords>
+					<list>
+						<item>prose</item>
+						<item>history</item>
+					</list>
+				</keywords>
+			</textClass>
+		</profileDesc>
+	</teiHeader>
+	<text>
+		<body id="b1">
+<head>
+The insurrection led by Ly Bi and Van Xuan State (542 - 602).
+</head>
+<div>
+<p>
+     <s>1. The domination yoke of the Liang.</s>
+</p>
+<p>
+     <s>In the first half of the 6th century our country was dominated by the Liang feudal.</s>
+     <s>Again, the Liang revised the division of administrative regions, set up more districts and cantons, and appointed more mandarins with a view to collecting more taxes.</s>
+     <s>Mulberry trees of one thuoc (40cm) high and above were subject to taxation.</s>
+     <s>The tax was even imposed on the sale of one's wife or the mortgage of one's children out of poverty.</s>
+     <s>Also, the Liang strictly applied a discriminative policy, only descendants of the Liang and some big families such as Wang or Qie were assigned important posts.</s>
+     <s>Xiao Si, the then proconsul in Chau Giao who had the same family name with the Liang emperor, was notorious for his greed and cruelty.</s>
+     <s>The entire Viet people hatched a deep hatred toward the foreign dominators.</s>
+     <s>Xiao Si was admitted to be "cruel and offending the people" even by Chinese books and chronicles.</s>
+</p>
+<p>
+     <s>2. Ly Bi's insurrection.</s>
+</p>
+<p>
+     <s>Ly Bi was a local chief whose homeland was in Thai Binh district (presumably the area along both banks of the Red river above Son Tay provincial town).</s>
+     <s>A patriot, he was also a man of talent, stratagem and excellent martial arts.</s>
+</p>
+<p>
+     <s>Ly Bi held a small post for some time looking after the military affairs in Chau Duc (Ha Tinh).</s>
+     <s>Witnessing the sufferings of the people, he took an aversion to the ruling authority of the dominators.</s>
+     <s>Resigning the post, he came back to his homeland to plan for the great cause.</s>
+     <s>Taking advantage of people's hatred toward the Liang, he recruited many troops and amassed a lot of food in store.</s>
+     <s>He also associated with heroes elsewhere to launch simultaneous uprisings.</s>
+</p>
+<p>
+     <s>As the old legend has it, Trieu Tuc and his son Trieu Quang Phuc in Chu Dien were the first to respond.</s>
+     <s>It was followed by Tinh Thieu, Pham Tu and other heroes in various localities.</s>
+     <s>Tinh Thieu's homeland was also in Thai Binh.</s>
+     <s>Despite his high academic and literary knowledge, Tinh Chieu was only assigned as citadel gate guardian because he was not of aristocratic descent.</s>
+     <s>He declined the post out of discontent and came back home to plan the insurrection with Ly Bi.</s>
+     <s>The old general Pham Tu, a native of Thanh Tri (Hanoi), who was beyond 60 by then was working hard for the great cause with the young generation.</s>
+</p>
+<p>
+     <s>In the spring of 542 Ly Bi raised the banner of insurrection.</s>
+     <s>The insurrection quickly won victory.</s>
+     <s>In less than three months, the insurgent troops captured most of districts and cantons.</s>
+     <s>Proconsul Xiao Si was so frightened who hurriedly left Long Bien citadel (Yen Phong - Bac Ninh) to make route back to China.</s>
+     <s>Ly Bi led his army to take over Long Bien and stabilised the situation.</s>
+</p>
+<p>
+     <s>Upon hearing the loss of Long Bien citadel, the Liang emperor immediately ordered his troops to launch a counter-offensive for its recapture.</s>
+     <s>But as soon as the invaders moved in they were ambushed and defeated by Ly Bi's troops.</s>
+</p>
+<p>
+     <s>Early next year (543), the Liang emperor again sent his troops to launch another aggression.</s>
+     <s>Whilst the Liang generals were still tired, frightened and hesitant to advance their troops, Ly Bi took the initiative of intercepting them at Hop Pho (which belonged to Chau Giao at that time).</s>
+     <s>The majority of the Liang troops were killed.</s>
+     <s>Most of the Liang generals were also killed and those who survived were coerced into committing suicide by the Liang emperor.</s>
+</p>
+<p>
+     <s>3. The foundation of independent Van Xuan (544).</s>
+</p>
+<p>
+     <s>In the spring of 544, having driven away the foreign dominators and defeated two consecutive counter-attacks of aggression by the Liang, Ly Bi proclaimed himself king taking royal title Ly Nam De, naming the country Van Xuan (Ten Thousand Springs), locating the royal capital by the To Lich river (Hanoi) and having Van Tho Court Hall built for royal meetings on kingdom affairs.</s>
+     <s>The court consisted of military and civilian officials.</s>
+     <s>Pham Tu headed the military mandarins, Tinh Thieu headed the civilian mandarins, Trieu Tuc was promoted to the high and important rank in the court, and Trieu Quang Phuc, a young talented general, was entrusted with important assignments.</s>
+     <s>Ly Nam De ordered the construction of the Khai Quoc (State Founding) Pagoda.</s>
+</p>
+<p>
+     <s>4. The struggle against the Liang aggressors.</s>
+</p>
+<p>
+     <s>In May 545, the Liang emperor again sent his troops to conquer Van Xuan.</s>
+     <s>Having suppressed the uprisings of the Chinese peasants the Liang could now concentrate its forces to the third aggression.</s>
+     <s>Yang Piao, who was assigned as the Chinese proconsul, and Chen Po Xian, a warlike general, organised the aggression.</s>
+     <s>The enemy troops were divided into two armies and moved into Van Xuan in close co-ordination, both by land and by sea.</s>
+     <s>Ly Nam De took his troops to resist the enemy at Luc Dau (Hai Duong province) but was unable to check its advance.</s>
+     <s>The king withdrew his troops to defend the citadel by the To Lich river.</s>
+     <s>As the citadel was built of earth, and barricades were newly built up with bamboo and wood, the resistance could not last long before the strength and the fierce attack of the enemy.</s>
+     <s>The citadel was broken and the old general Pham Tu was killed.</s>
+     <s>Ly Nam De took his troops up-stream the Red river to defend Gia Ninh fortress (in the mountainous area of Viet Tri).</s>
+     <s>The Liang army pursued the insurgent troops, laid siege to the Gia Ninh fortress and captured it in early 546.</s>
+</p>
+<p>
+     <s>Ly Nam De and his generals and troops retreated to the mountainous area of Phu Tho.</s>
+     <s>Thanks to the strong support of the ethnic groups there Ly Nam De was able to rebuild his army which consisted of tens of thousand troops after a few months.</s>
+     <s>He took his troops and boats to station by Don Triet lake.</s>
+</p>
+<p>
+     <s>Don Triet lake presently belongs to Tu Yen commune, Lap Thach district, Vinh Phuc province, which is located by the Lo river, 15 kilometres from Bach Hac.</s>
+     <s>In the past, there was a canal liking the lake with the river.</s>
+     <s>Facing the eastern, northern and southern sides of the lake were high hills, and facing its western side were lower hills and flooded fields.</s>
+     <s>There was only one entry to the lake from the western direction.</s>
+</p>
+<p>
+     <s>Finding the presence of Ly Nam De's troops, the Liang troops in Gia Ninh moved upstream the Lo river to attack.</s>
+     <s>Met with strong resistance by the insurgent troops, they were unable to advance and had to station on open fields.</s>
+     <s>The enemy troops were exhausted and many of their generals were dispirited.</s>
+     <s>However, Chen Po Xian was an aggressive and cunning general.</s>
+     <s>One night, making use of heavy rain and strong wind, he hurried his troops in a surprise attack on Ly Nam De's garrison.</s>
+     <s>Unable to respond to the emergency, the insurgent army was quickly broken and Ly Nam De had to retreat to Khuat Lao cavern (Tam Nong, Vinh Phuc).</s>
+     <s>Ly Thien Bao, the king's elder brother, and Ly Phat Tu (a relative and a general of the king) led a wing of troops to retreat to Thanh Hoa.</s>
+     <s>The king handed over all authority to Trieu Quang Phuc to lead the resistance against the Liang.</s>
+     <s>He passed away two years later.</s>
+</p>
+</div>
+</body>
+</text>
+</TEI.2>

@@ -1,0 +1,227 @@
+<?xml version="1.0" standalone="no"?>
+<!-- edited with XML Spy v4.0.1 U (http://www.xmlspy.com) by NGUYEN THI MINH HUYEN (LORIA) -->
+<!DOCTYPE TEI.2 SYSTEM "C:/CORPUS/dtd/xlite/xteilite.dtd" [
+	<!ENTITY % ISO_Latin1 PUBLIC "ISO 8879-1986//ENTITIES Added Latin 1//EN//XML" "C:/CORPUS/dtd/pen/ISOlat1.pen">
+	%ISO_Latin1;
+]>
+<TEI.2 id="nhaNguyenTK19.en.xml">
+	<teiHeader date.created="30/12/2002">
+		<fileDesc>
+			<titleStmt>
+				<title type="source"></title>
+				<author></author>
+				<respStmt>
+					<resp></resp>
+					<name></name>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<distributor>Nhan dan dien tu</distributor>
+				<authority/>
+				<date>1/12/2002</date>
+			</publicationStmt>
+			<sourceDesc>
+				<p/>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<langUsage>
+				<language id="EN">English</language>
+			</langUsage>
+			<textClass>
+				<keywords>
+					<list>
+						<item>prose</item>
+						<item>history</item>
+					</list>
+				</keywords>
+			</textClass>
+		</profileDesc>
+	</teiHeader>
+	<text>
+		<body id="b1">
+<head>
+Vietnamese society under the Nguyen Dynasty (First half of the 19th century).
+</head>
+<div>
+<p>
+     <s>Socio-economic situation.</s>
+     <s>The foundation and strengthening of the Nguyen dynasty.</s>
+</p>
+<p>
+     <s>In 1787, taking advantage of the conflict between two brothers Nguyen Nhac and Nguyen Hue, Nguyen Anh and his troops came back from Siam and recaptured Gia Dinh.</s>
+     <s>Thenceforth, he made every effort to build up the army, expand his occupation and seek the help from French capitalism in waiting for an opportunity to restore the rule of his own family.</s>
+     <s> In 1792, emperor Quang Trung passed away.</s>
+     <s>The Tay Son dynasty lost its mainstay.</s>
+     <s>This gave rise to a conflict within the court and weakened the Tay Son forces.</s>
+     <s>Aware of this situation, each year when the southeasterly wind began to blow, Nguyen Anh commanded the navy to launch attack on the north.</s>
+     <s>The war between the two sides increasingly became fierce.</s>
+     <s>Having the support of former landowners in the north, Nguyen Anh's troops defeated the Tay Son forces and overthrew Tay Son dynasty.</s>
+     <s>In 1802, Nguyen Anh came to the throne, the Nguyen dynasty was thus established.</s>
+</p>
+<p>
+     <s>The 19th century witnessed a strong development of capitalism in Western Europe.</s>
+     <s>Western colonialists intensified their invasion of under developed countries in Asia and Africa in order to turn them into colonies.</s>
+     <s>Born in such circumstances, the Nguyen dynasty first chose to further strengthen the monarchy with Phu Xuan being chosen as its capital city.</s>
+     <s>The Nguyen king directly held all power in all important affairs of the State from the central to local levels.</s>
+     <s>Under the king, there were six ministries responsible for handling specific matters.</s>
+     <s>In 1830 and 1831, the Nguyen dynasty abolished tran (region) and tong tran (inter-region) and divided the country into 30 provinces and one district subordinate to the capital (Thua Thien).</s>
+     <s>Heading each province was the provincial chief who was responsible before the king.</s>
+     <s>Great attention was given to the administrative rule at canton and communal levels.</s>
+     <s>The highlands were divided into chau (regions) by the Nguyen each of which was headed by a chieftain.</s>
+     <s>With a view to limiting the ethnic chieftains' power, a Kinh (majority ethnic group) mandarin was promoted in parallel with each of them.</s>
+</p>
+<p>
+     <s>In order to consolidate its power, the Nguyen dynasty not merely promulgated the Gia Long (Nguyen Anh's dynastic title) Code, which was almost a true copy of the reactionary code of the Quing (China), but also had strong ramparts built in the capital, provinces and districts.</s>
+     <s>Along the national road from Nam Quan to Ca Mau, a system of horse stations was set up to ensure information to be transferred to the court from localities in time.</s>
+</p>
+<p>
+     <s>All progressive reforms under the Tay Son were abolished.</s>
+     <s>The Nguyen took revenge on the Tay Son leaders' descendants in a really cruel and despicable way .</s>
+     <s>All people's revolts were drowned in blood.</s>
+</p>
+<p>
+     <s>Externally, the Nguyen blindly submitted itself to the rule of the Qing Dynasty and closed the door to the Western countries without having any relationship.</s>
+     <s>Even with the French, the Nguyen deliberately declined all contacts.</s>
+     <s>This attitude stimulated the West to make an imperative preparation to invade our country.</s>
+</p>
+<p>
+     <s>National economy in the first half of the 19th century.</s>
+</p>
+<p>
+     <s>As a result of many years of war and turbulence, the national economy, particularly in the north, declined greatly.</s>
+     <s>In the countryside, a lot of land was left fallow.</s>
+     <s>Common land no longer existed in a many villages.</s>
+     <s>Private land accounted for four fifths of all land throughout the country.</s>
+     <s>The Nguyen advocated the maintenance and consolidation of common land system without touching upon the private land of landlords.</s>
+     <s>In the north, no care was given to agricultural production by the State.</s>
+     <s>Little attention was paid to the maintenance and building of dyke.</s>
+     <s>Floods and droughts so often occurred.</s>
+     <s>Reclaimed land was unable to compensate production loss caused by natural calamities and fallow land.</s>
+</p>
+<p>
+     <s>In the midst of developments achieved in previous centuries, handicraft and trade enjoyed favourable conditions to prosper.</s>
+     <s>The mining industry was expanded, techniques and capital for handicraft production were further invested.</s>
+     <s>The expansion of the national territory helped speed up trade throughout the country.</s>
+     <s>Need of foreign capitalism for doing business was growing.</s>
+     <s>However, handicraftsmen had to pay both capitation and production taxes.</s>
+     <s>Professional handicraft villages had to heavily pay their products to the court.</s>
+     <s>At first, Sa Khe village (Ha Tay province) had to contribute 600 pieces of colour chiffon to the State annually, but later the village was put under the control of the State.</s>
+     <s>Exploitation at many mines was banned.</s>
+     <s>Skilled handicraftsmen were taken into state workshops whose skills gradually lost.</s>
+     <s>Hoi An and Pho Hien began to decay.</s>
+     <s>Hanoi (former Thang Long) continued with it its life of handicraft and trade, but could no way develop it.</s>
+     <s>The State took the monopoly of foreign trade and denied exchange and business with foreign merchants.</s>
+</p>
+<p>
+     <s>Thus, while the Western countries steadily made headway, the Nguyen, with its reactionary political policy, stagnated the progress of our country.</s>
+</p>
+<p>
+     <s>The fierce resistance of our people.</s>
+     <s>Lives of our people under the Nguyen.</s>
+</p>
+<p>
+     <s>Economic difficulties and the exploitation policy of the Nguyen worsened the lives of the working masses, notably the peasants.</s>
+</p>
+<p>
+     <s>Taxes were heavy and burdensome.</s>
+     <s>Every year, each village inhabitant would have to contribute 50-60 days of labour for the building of sanctuaries and shrines, edifices or ramparts.</s>
+     <s>Insufficient attention was paid to the maintenance of canals and dykes.</s>
+     <s>Natural calamities and floods occurred often.</s>
+     <s>In addition, there were rampant epidemics and famines.</s>
+</p>
+<p>
+     <s>In 1842, a severe storm hit Nghe An and Ha Tinh.</s>
+     <s>High waves from the sea swept away more than 40,000 and took away more than 5,000 lives.</s>
+     <s>In 1846, another big storm swept Nghe An and Ha Tinh, bringing down more than 40,000 houses and sinking 300 boats.</s>
+     <s>The dyke in Van Giang was broken 18 years on end, and the entire area of Khoai Chau and Tien Lu (Hung Yen) was turned into a swamp.</s>
+     <s>In 1820, an epidemic occurred in the north, killing more than 20,000 people.</s>
+     <s>From 1849 to 1850, big epidemics took the toll of approximately 600,000 throughout the country.</s>
+     <s>The famine in 1856-1857 took away the lives of tens of thousands of inhabitants in northern provinces.</s>
+</p>
+<p>
+     <s>Poor peasants had to abandon their villages.</s>
+     <s>In 1827, inhabitants in 108 communes of 13 districts of Hai Duong region had to leave their homeland, leaving fallow more than 12,700 acres of land.</s>
+     <s>In 1854, more than 20,000 people in Cochichina left their homeland.</s>
+</p>
+<p>
+     <s>Meanwhile, the corrupt mandarins enriched their fortunes by squeezing and harassing the people.</s>
+     <s>Even the Nguyen king had to utter: "They regard laws as empty text, resorting to all tricks to make money, otherwise the innocent will be accused of guilt".</s>
+</p>
+<p>
+     <s>In the countryside, the authorities and landlords took possession of all fertile land and bled the peasants white.</s>
+     <s>In 1828, Nguyen Cong Tru, a mandarin in Bac Thanh strongly exposed these evils to the king.</s>
+</p>
+<p>
+     <s>His denunciation clearly stated: "If the mandarins do harm one or two, the village thugs will do it eight or nine because when the formers can only seek some small benefits through paperwork, the latters can make children parentless, make wives widows and even take away people's lives and rob them of their wealth without being brought to light.</s>
+     <s>That is why it is openly done without any precaution".</s>
+</p>
+<p>
+     <s>Uprisings waged by the people against the Nguyen.</s>
+</p>
+<p>
+     <s>As soon as the country escaped from the internal war and turbulence that lasted for tens of years, the people immediately had to bear the Nguyen's suppression and exploitation.</s>
+     <s>Their intolerability led to uprisings everywhere, from the lowlands to highlands and from the north to the south.</s>
+     <s>As many as 500 revolts broke out from the early Gia Long reign until the French opened fire to invade our country in 1858. Involved in these struggles were not only peasants but also miners, royal soldiers, scholars and ethnic inhabitants.</s>
+     <s>Of the major and lasting revolts were those led by Duong Dinh Cuc, Vu Dinh Luc and Dang Tran Sieu, Phan Ba Vanh, Le Duy Luong, Nong Van Van, Le Van Khoi, Cao Ba Quat, and others.</s>
+</p>
+<p>
+     <s>Phan Ba Vanh's revolt (1831-1827).</s>
+</p>
+<p>
+     <s>The pleiad is over the sky, and there is King Ba Vanh in Minh Giam village.</s>
+</p>
+<p>
+     <s>Phan Ba Vanh was a native of Minh Giam village (Vu Binh, Vu Thu district, Thai Binh province) who was born into a poor family and worked as a buffalo-boy for landlords since his boyhood.</s>
+     <s>In early 1821, when there was serious famine in Nam Dinh and Thai Binh, Phan Ba Vanh and a number of his fellows called on the people in Minh Giam and Tra Lu (Kien Xuong district, Thai Binh province) to rise up against the landlords and mandarins.</s>
+     <s>As the force was thin at the beginning, the insurgents had to scatter their presence over a vast area of Thai Binh, Nam Dinh, Hai Duong and Quang Ninh.</s>
+     <s>From 1826 when the force grew strong, Phan Ba Vanh decided to expand operations and set to build bases.</s>
+</p>
+<p>
+     <s>Research work shows that the command of the insurgent army had as many as 24 commanders the majority of whom were real talents such as Nguyen Hanh, Vu Duc Cat, Chieu Lien, Hai Nam, Hai Dang and others.</s>
+     <s>The insurgent force comprised peasants and ethnic inhabitants in the highlands of Hoa Binh.</s>
+</p>
+<p>
+     <s>From their stronghold in Tra Lu, the insurgents spread their operations to many localities, launching tens of major battles with the royal army.</s>
+     <s>A number of the Nguyen's generals such as Le Mau Cuc were killed.</s>
+     <s>In areas controlled by the insurgents, Phan Ba Vanh had the public land redistributed and private land owned by the landlords appropriated.</s>
+     <s>That much enhanced the fighting spirit of the insurgents.</s>
+     <s>History of the Nguyen has it that: "Even women and young girls got engaged in battle with lances and swords".</s>
+     <s>Frightened by the defeats in a number of operations, in early 1827 the court mastered a big force led by tens of generals to launch an attack on the insurgent troops from various directions.</s>
+     <s>Phan Ba Vanh withdrew his troops to Tra Lu, built up ramparts and dug trenches there in a scheme to prolong the resistance.</s>
+     <s>But before an outnumbering force of the court, he was unable to cope.</s>
+     <s>He planned to retreat through the sea but was unfortunately captured.</s>
+     <s>The revolt was defeated.</s>
+</p>
+<p>
+     <s>Nong Van Van's revolt (1833-1835).</s>
+</p>
+<p>
+     <s>Nong Van Van was the head of a Tay tribe and chieftain of Bao Lac (Ha Giang).</s>
+     <s>In the face of unbearable suppression of the Nguyen court and inspired by Le Van Khoi's revolt in Gia Dinh, Nong Van Van and Nguyen Quang Khai, chieftain of Dai Man, launched a revolt in 1833.</s>
+     <s>The revolt widely spread in a vast mountainous region of Viet Bac (in the northwest) which involved a number of chieftains of the Muong ethnic minority as well as Viet villages in the mountainous regions.</s>
+     <s>Captured by the insurgents, the provincial mandarins were branded "corrupt mandarins" on the face and set free.</s>
+     <s>Major forces were sent by the Nguyen to launch attacks on the areas controlled by the insurgents on two occasions, however they were set back.</s>
+     <s>A fierce attack was launched for a third time when Nong Van Van took his troops to retreat to Tuyen Quang through Chinese land.</s>
+     <s>Encircled in forest in the last battle in 1835, he led the insurgents to resist heroically.</s>
+     <s>The royal troops set fire to the forest and killed the leader of the insurgents, the revolt was defeated.</s>
+</p>
+<p>
+     <s>Cao Ba Quat's revolt (1854-1856).</s>
+</p>
+<p>
+     <s>The lives of oppressed and exploited peasants as well as their heroic struggle exerted a strong impact on the circle of poor scholars.</s>
+     <s>Cao Ba Quat was a progressive scholar and famous poet in the early half of the 19th century.</s>
+     <s>A native of Phu Thi village, Gia Lam district, Hanoi and a holder of bachelorship, he was very famous as a learned scholar.</s>
+     <s>However he was maltreated because of his broad-mindedness and his hatred for the treacherous Nguyen king and dignitaries.</s>
+     <s>In 1854, Cao Ba Quat and his friends planned a revolt in Hanoi and Bac Ninh, relying on forces of peasants and chieftains in the highlands.</s>
+     <s>The scheme was disclosed and the revolt was launched prematurely.</s>
+     <s>The court mastered its forces to suppress the revolt, but the insurgents heroically fought back.</s>
+     <s>In early 1855, Cao Ba Quat was killed in an atrocious battle in An Son (Son Tay - Ha Tay).</s>
+     <s>The revolt was waged on until October 1856 before it was suppressed.</s>
+</p>
+</div>
+</body>
+</text>
+</TEI.2>

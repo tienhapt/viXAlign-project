@@ -1,0 +1,219 @@
+<?xml version="1.0" standalone="no"?>
+<!-- edited with XML Spy v4.0.1 U (http://www.xmlspy.com) by NGUYEN THI MINH HUYEN (LORIA) -->
+<!DOCTYPE TEI.2 SYSTEM "C:/CORPUS/dtd/xlite/xteilite.dtd" [
+	<!ENTITY % ISO_Latin1 PUBLIC "ISO 8879-1986//ENTITIES Added Latin 1//EN//XML" "C:/CORPUS/dtd/pen/ISOlat1.pen">
+	%ISO_Latin1;
+]>
+<TEI.2 id="ptdautranh20.en.xml">
+	<teiHeader date.created="30/12/2002">
+		<fileDesc>
+			<titleStmt>
+				<title type="source"></title>
+				<author></author>
+				<respStmt>
+					<resp></resp>
+					<name></name>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<distributor>Nhan dan dien tu</distributor>
+				<authority/>
+				<date>1/12/2002</date>
+			</publicationStmt>
+			<sourceDesc>
+				<p/>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<langUsage>
+				<language id="EN">English</language>
+			</langUsage>
+			<textClass>
+				<keywords>
+					<list>
+						<item>prose</item>
+						<item>history</item>
+					</list>
+				</keywords>
+			</textClass>
+		</profileDesc>
+	</teiHeader>
+	<text>
+		<body id="b1">
+<head>
+The struggle movement for freedom and democracy (After World War I to the mid 1920s).
+</head>
+<div>
+<p>
+     <s>New step in Vietnam's national liberation movement of Vietnam.</s>
+     <s>International and domestic situation after the World War I.</s>
+     <s>The French step up exploitation.</s>
+</p>
+<p>
+     <s>After the World War I, with a view to restoring the heavily damaged economy of the mother country, the French imperialists increased exploitation of the people in France and in its colonies.</s>
+</p>
+<p>
+     <s>In Indochina and Vietnam in particular, the seizure of land to open plantations was one of the most ruthless resorts of the French colonialists.</s>
+</p>
+<p>
+     <s>Rubber plantations quickly grew in area.</s>
+     <s>Towards 1929, the area of rubber plantations reached 100,000 hectares, increasing almost 14 times in comparison with 1920, and the yield of rubber latex reached 11,000 tonnes, three times over 1915.</s>
+</p>
+<p>
+     <s>Besides rubber plantations, there were plantations of tea, coconut, tobacco, sugarcane, silk-cotton, and so on.</s>
+</p>
+<p>
+     <s>Rice fields seized by the French also quickly increased in area, notably in Cochinchina.</s>
+     <s>Besides rice grown in plantations, a number of French trading companies took rice from the countryside for export.</s>
+     <s>Each year, the French exported an average volume of 1,762,578 tonnes of rice, far exceeding that before the World War I and accounting for 60-70% of the import export turnover during that time.</s>
+</p>
+<p>
+     <s>In couple with its exploitation in agriculture, French colonialism also pushed up the seizure of mines (mainly in Tonkin).</s>
+     <s>The exploitation area increased to 428,000 hectares, seven times the number before World War I.</s>
+     <s>Coal was exploited in the greatest quantity which was mainly for export.</s>
+</p>
+<p>
+     <s>Together with the development of plantations and mineral exploitation, French capitalism invested in light industries such as textiles, building materials, rice milling, electricity, water, sugar, distilleries, tea and tobacco processing, paper, printing, stationery, matches, glass, soap.</s>
+     <s>Trade, transport and communications, etc also saw more energetic operations than before.</s>
+</p>
+<p>
+     <s>As always, taxes and duties always served as the main source of exploitation by the colonial administration.</s>
+     <s>The then poll-tax was equal to 60 kilograms in value.</s>
+     <s>Besides, a surtax of 15% of poll-tax and land-tax was added for provincial budget.</s>
+     <s>Indirect duties were increased, especially the excise on salt, alcohol and opium.</s>
+</p>
+<p>
+     <s>Changes in social life.</s>
+</p>
+<p>
+     <s>The working class achieved a fast growth.</s>
+     <s>In comparison with before the World War I, the number of mining workers increased five times, and plantation workers, more than 20 times.</s>
+     <s>By the end of 1929, the total of workers that concentrated in plantations, mines and enterprises amounted to 22,000.</s>
+     <s>If agricultural workers (farm labourers) in the countryside, seasonal workers (who worked in the countryside at harvest-time and in cities after harvest-time) and mobile workers involved in road projects were to be included, the number of workers would be much higher.</s>
+</p>
+<p>
+     <s>The number of working hours was high except for some privileged factories owned by the State.</s>
+     <s>Each day, plantation workers went to work at 4 am and only returned to their tents at 7-8 pm.</s>
+     <s>The working time set for the Nam Dinh Textile Factory was 16 hours per day in 1924, 14 hours between 1925 and 1927 and 12 hours in 1929.</s>
+</p>
+<p>
+     <s>Wages paid to the workers were very low in comparison with the living costs.</s>
+     <s>Of the wage, from 30-40% was spent for rice, or 70% for food in general, and 15% for housing.</s>
+     <s>Fines and partial withholding of wages because illness, days-off, etc further reduced workers' paltry incomes.</s>
+</p>
+<p>
+     <s>In addition to arduous work and starvation wages, the workers were beaten and detained in private prisons owned by owners of plantations, mines.</s>
+     <s>The appalling hygienic conditions resulted in the death and illness of many workers.</s>
+     <s> Peasants accounted for 90% of the population the majority of whom had little or no land.</s>
+     <s>They had to hire land of the landlords or rich peasants, or to pay land taxes.</s>
+     <s>In Tonkin and Annam, land-rent accounted for 40-70% of peasants' income, and in Cochinchina, 50-80%.</s>
+</p>
+<p>
+     <s>Paying taxes became the greatest terror to peasants.</s>
+     <s>Each year when the time for paying taxes came, hundreds of thousands of men were chained, detained or beaten till their relatives were able to settle their dues.</s>
+     <s>In addition, peasants had to make gifts to the village authorities and landlords; carry out old practices such as funeral and burial repasts, rural festivities, etc.</s>
+     <s>Floods and draughts, epidemics were frequent.</s>
+     <s>Few peasants were able to avoid debts.</s>
+     <s>Debts were accumulated with high interest rate, sometimes amounting to 200-300% per year.</s>
+</p>
+<p>
+     <s>Most of the peasants were illiterate and they could not afford to send their children to school.</s>
+</p>
+<p>
+     <s>The number of Vietnamese capitalists increased after the World War I.</s>
+     <s>They were present in all cities and economic sectors throughout the country.</s>
+     <s>In 1926, a Vietnamese bank was set up with the participation of Vietnamese capitalists to invest in mines, enterprises, transport and communication whose share only accounted for less than 1% in comparison with that invested by the French capitalists in the same branches; the number of workers in enterprises owned by Vietnamese capitalists only accounted for 3% of the total number throughout the country.</s>
+</p>
+<p>
+     <s>The number of the petty bourgeoisie got greater with the walks of intelligentsia, officials, students, handicraftsmen and poor dwellers in cities.</s>
+</p>
+<p>
+     <s>The feudal class consisting of landlords, kings and mandarins of the old apparatus were nurtured by the French.</s>
+     <s>Accounting for 3-5% of the population, the feudal class held approximately 50% of land.</s>
+     <s> Landlords lent their land seasonally or annually with certain amounts of income or cash to be paid, and the tenants had to bear all risks of weather; they might alternatively grant their land on lease to tenants and at harvest time they were invited to collect rent.</s>
+     <s>Landlords often combined exploitation of rent with loans of high interest, speculated rice and carried out commercial and industrial operations.</s>
+     <s>In communes and villages, landlords held all power in their hands.</s>
+     <s> The influence of the 1917 October Revolution and the world revolutionary movement The Russian October Revolution was successful in 1917. The Communist International (the Third International) was set up in 1919. The Union of Soviet Socialist Republics was established in 1922.</s>
+</p>
+<p>
+     <s>Influenced by the above events, communist parties were founded in many countries, speeding up the development of the world revolutionary movement.</s>
+</p>
+<p>
+     <s>Such a situation in the world exerted positive impacts on the national liberation movement in Vietnam.</s>
+</p>
+<p>
+     <s>Revolutionary movements (After the World War I to mid 1920s).</s>
+     <s>National democratic movement from 1919 - 1926.</s>
+</p>
+<p>
+     <s>After the World War I, with the growth of the bourgeois class and urban petty bourgeoisie (officials, teachers, writers, journalists, students, etc.) an energetic struggle movement developed to demand rights to freedom and democracy.</s>
+     <s> A number of political organisations were established such as Lap Hien, Phuc Viet, Thanh Nien Cao Vong, Tam Tam Xa.</s>
+     <s>Many progressive newspapers were published such as Chuong Ran (The Cracked Bell), Nguoi Nha Que (The Peasant), Annam Tre (The Young Annam), Thuc Nghiep Dan Bao (The Commerce and Industry Newspaper), etc.</s>
+</p>
+<p>
+     <s>Of the most resonant events were Pham Hong Thai's attempt on the life of Governor-General Merlin, the demand for the release of Phan Boi Chau, and the funeral of Phan Chau Trinh.</s>
+</p>
+<p>
+     <s>In June 1924, French Governor-General Merlin of Indochina was in Japan and China in seeking collusion with the reactionary authorities of these countries in order to carry out acts of sabotage Vietnamese revolution.</s>
+     <s>The Tam Tam Xa assigned Pham Hong Thai to assassinate this cruel colonial chieftain.</s>
+     <s>Pham Hong Thai kept following Merlin throughout his itinerary.</s>
+     <s>Knowing that Merlin would call at Guangzhou, Pham Hong Thai, disguised himself as a photographer and mixed himself in the hotel where Merlin would be welcomed.</s>
+     <s>Pham Hong Thai threw a bombshell at the banquet.</s>
+     <s>Four French colonialists were killed, two others were wounded, but Merlin was able to escape death.</s>
+     <s>Closely chased, Pham Hong Thai drowned himself in the Zhujiang river.</s>
+</p>
+<p>
+     <s>The assassination was unsuccessful, however Pham Hong Thai's act made a big echo both at home and abroad.</s>
+</p>
+<p>
+     <s>Phan Boi Chau was a patriot who began his revolutionary activities in early the 20th century.</s>
+     <s>After the World War I, he continued his activities in China.</s>
+     <s>Arrested by the French in Shanghai in mid 1925, he was and secretly taken back in Vietnam and held in Hoa Lo prison (Hanoi).</s>
+     <s>The French colonialists tried to conceal their act, but news on his arrest and detention leaked out.</s>
+     <s>The campaign to demand the release of Phan Boi Chau went high.</s>
+     <s>He was put on trial at an open court and expected to be given a death sentence as it had been passed by the French previously.</s>
+</p>
+<p>
+     <s>Before the court, Phan Boi Chau eloquently defended his patriotic activities.</s>
+     <s>His lawyers also defended his pure life and patriotic activities.</s>
+     <s>The people throughout the country strongly protested against the trial of Phan Boi Chau.</s>
+     <s>The French had to reduce the death sentence to life imprisonment.</s>
+     <s>However, the storm of protest against his trial and for his release went high throughout the country and even spread out to France.</s>
+     <s>In the end, the French had to acquit him, but he was forced to live in Hue under a kind of house arrest.</s>
+</p>
+<p>
+     <s>Besides Phan Boi Chau's activities in early the 20th century, there were those of Phan Chau Trinh, another patriotic scholar.</s>
+     <s>When the anti-tax movement took place in Annam in 1908, Phan Chau Trinh was caught and exiled to Poulo Condor.</s>
+     <s>Released from jail, he set for France in 1911.</s>
+     <s>After years of unsuccessful activities abroad, he returned to Saigon and planned to go on with his activities at home.</s>
+     <s>He had made public lectures on several occasions before passing away on March 24, 1926. In Saigon, his funeral attracted as many as 14,000 people of all walks of life.</s>
+     <s>Meetings in commemoration of Phan Chau Trinh were held everywhere regardless of the ban of the French colonialists.</s>
+</p>
+<p>
+     <s>Workers' movement toward 1925-1926.</s>
+</p>
+<p>
+     <s>The implementation of French colonialists' policies to enhance investment and exploitation after the World War I led to a fast increase in the number of Vietnamese workers.</s>
+     <s>However, their living and working conditions were wretched.</s>
+     <s>Such situation early inspired them to rise up in struggle.</s>
+     <s>They became in movements demanding for freedom and democracy, for the release of Phan Boi Chau and for the mourning for Phan Chau Trinh.</s>
+     <s>They broke contracts with employers and quitted jobs ahead of time.</s>
+     <s>Between 1919 - 1925, as many as 25 struggles were waged by the working class.</s>
+     <s>Most resounding were the struggles of workers in Nam Dinh, Hanoi, Hai Duong in 1924 and the strike of workers in Ba Son shipyard (Saigon) in 1925.</s>
+</p>
+<p>
+     <s>Although energetic, the worker movement in this period lacked organisation, co-ordination and leadership and failed to reflect the political independence of a organisation of the working class.</s>
+</p>
+<p>
+     <s>Nature and significance of the then struggle movement.</s>
+</p>
+<p>
+     <s>The national and democratic movement, as well as the workers' movement during this period were characteristic of the masses' thirst for freedom and democracy, demand for improvement of living conditions, and patriotism.</s>
+     <s>However, these movements were immature and spontaneous and were aimed at immediate needs and lacked connection.</s>
+     <s>In despite of this, they served as a piece of fertile land for the birth of higher political organisations in the time to come.</s>
+</p>
+</div>
+</body>
+</text>
+</TEI.2>

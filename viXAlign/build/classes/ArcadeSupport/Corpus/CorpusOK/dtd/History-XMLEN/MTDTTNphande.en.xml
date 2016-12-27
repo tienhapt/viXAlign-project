@@ -1,0 +1,105 @@
+<?xml version="1.0" standalone="no"?>
+<!-- edited with XML Spy v4.0.1 U (http://www.xmlspy.com) by NGUYEN THI MINH HUYEN (LORIA) -->
+<!DOCTYPE TEI.2 SYSTEM "C:/CORPUS/dtd/xlite/xteilite.dtd" [
+	<!ENTITY % ISO_Latin1 PUBLIC "ISO 8879-1986//ENTITIES Added Latin 1//EN//XML" "C:/CORPUS/dtd/pen/ISOlat1.pen">
+	%ISO_Latin1;
+]>
+<TEI.2 id="MTDTTNphande.en.xml">
+	<teiHeader date.created="30/12/2002">
+		<fileDesc>
+			<titleStmt>
+				<title type="source"></title>
+				<author></author>
+				<respStmt>
+					<resp></resp>
+					<name></name>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<distributor>Nhan dan dien tu</distributor>
+				<authority/>
+				<date>1/12/2002</date>
+			</publicationStmt>
+			<sourceDesc>
+				<p/>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<langUsage>
+				<language id="EN">English</language>
+			</langUsage>
+			<textClass>
+				<keywords>
+					<list>
+						<item>prose</item>
+						<item>history</item>
+					</list>
+				</keywords>
+			</textClass>
+		</profileDesc>
+	</teiHeader>
+	<text>
+		<body id="b1">
+<head>
+The campaign for the August Revolution.
+</head>
+<div>
+<p>
+     <s>Birth of the anti-imperialist National United Front.</s>
+</p>
+<p>
+     <s>World War II broke out in September 1939. One and a half years after this, German fascism's annexation and domination were imposed in most European countries.</s>
+     <s>The force equilibrium among imperialist cliques tilted in favour of the axis of Germany, Italy and Japan.</s>
+     <s>World War II was developing with its unforeseeable atrociousness and scope involving the whole of mankind into a huge holocaust.</s>
+     <s>The cruel and barbarous domination of fascism trampled upon national independence of many countries and eradicated all forms of bourgeois democracy.</s>
+     <s>Not only the working class and people, but also the bourgeoisie in imperialist powers had to suffer the disaster.</s>
+</p>
+<p>
+     <s>The strategic plot of fascism who waged World War II put the working class and people as well as the whole mankind before an imperative task, ie to liberate their nations from the enslavement of German, Italian and Japanese fascism, save mankind from genocide, put an end to the war and restore peace.</s>
+     <s>Independence, freedom and peace constituted the immediate task of the world revolution and the earnest aspiration of mankind.</s>
+     <s>The mission of all communist and workers' parties over the world was to exercise leadership to and pioneer in the struggle of nations for independence, freedom, peace and socialism, and to defeat the onslaught of fascism.</s>
+     <s>In order to fulfil this mission, communist and worker parties in countries brought together around them all patriotic, democratic, peace-loving and socialist forces to overthrow the main and most dangerous enemy ie German, Italian and Japanese fascism.</s>
+</p>
+<p>
+     <s>In February 1930, Ho Chi Minh was far-sighted to foretell that: "World War II is imminent.</s>
+     <s>When such a war breaks out, the French imperialists will probably bring our people to a more horrible annihilation." His prediction came true as nine years later World War II broke out.</s>
+     <s>The French imperialists immediately carried out fierce suppression against the Vietnamese revolution, trying to eliminate the Communist Party.</s>
+     <s>Thanks to its correct estimation and vigilance, the Party was able to cope with this.</s>
+</p>
+<p>
+     <s>In November 1939, at the sixth Conference of the Party's Central Committee took place in Ba Diem, Hoc Mon (Gia Dinh) presided over by the General Secretary Nguyen Van Cu.</s>
+     <s>Present at the conference were Le Duan, Vo Van Tan, Phan Dang Luu, and others.</s>
+     <s>It was decided at the Conference to shift the strategic direction of the revolution, upholding the task of national liberation, putting aside the task of agrarian revolution, devoting concentration to the immediate strategic task of overthrowing imperialism and its lackeys and liberating the Indochinese nations thus bringing about full independence to them.</s>
+     <s>Such a correct guideline of the Party shed light on the path for the Vietnamese revolution to move forward.</s>
+     <s>To fulfil the immediate task was to overthrow imperialism and its lackeys, the foundation of an Indochinese anti-imperialist national united front was decided at the conference to replace the Democratic Front.</s>
+     <s>Workers, peasants in unity with petty bourgeoisie under the leadership of the working class served as the main force of the front.</s>
+</p>
+<p>
+     <s>The Resolution adopted by the Conference was disseminated to all Party members and commoners.</s>
+     <s>Despite the cruel suppression of the enemy, the movement of the masses was maintained and promoted.</s>
+     <s>A number of struggles against suppression and conscription of soldiers and coolies successively broke out.</s>
+     <s>The Bac Son uprising took place on September 27, 1940.</s>
+     <s>This serves as an undaunted rebellion of fraternal ethnic groups in Bac Son to smash the local enemy authority.</s>
+     <s>The Bac Son guerilla unit was borne.</s>
+     <s>The Bac Son uprising marked a turning point in the form of struggle of the Vietnamese people from a political one to the combination of both political and armed struggles, opening up a new possibility for the struggle to win power and to move from partial to general uprising.</s>
+</p>
+<p>
+     <s>Two months later, on November 23, 1940, the people in Cochinchina rose up with strong spirit, smashing the enemy authority, setting up the revolutionary authority in a number of communes, carrying out democratic freedoms, punishing thugs, and appropriating land of reactionary landlords to distribute to tillers.</s>
+     <s>The insurgent guerillas co-ordinated with the people to capture enemy barracks, district towns, etc.</s>
+     <s>The uprising in Cochinchina set a bright example of staunch and undaunted spirit of the Vietnamese people.</s>
+     <s>Through this essay, the masses adhered more closely to the Party.</s>
+     <s>The red flag with five-pointed yellow star flown in the uprising in Cochinchina later became the national flag of the People's Democratic of Vietnam, and nowadays of the Socialist Republic of Vietnam.</s>
+</p>
+<p>
+     <s>Hardly had the bloody suppression of the French imperialist toward the people in Cochinchina ended, the patriotic soldier led by Sergeant Cung (Doi Cung) rose up and captured the Cho Rang post in Do Luong (Nghe An province) on January 13, 1941.</s>
+</p>
+<p>
+     <s>In more than three months (from September 1940 to January 1941) three uprisings took place over all the three regions of the country.</s>
+     <s>Although they were cruelly suppressed, the uprisings woke up the revolutionary spirit of the masses throughout the country and left a lot of valuable experience on armed struggle.</s>
+     <s>It marked the beginning of a new revolutionary stage: the stage for winning partial power in rehearsal for waging general uprising in August 1945.</s>
+</p>
+</div>
+</body>
+</text>
+</TEI.2>

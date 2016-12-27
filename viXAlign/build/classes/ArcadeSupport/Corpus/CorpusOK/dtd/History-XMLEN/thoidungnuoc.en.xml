@@ -1,0 +1,212 @@
+<?xml version="1.0" standalone="no"?>
+<!-- edited with XML Spy v4.0.1 U (http://www.xmlspy.com) by NGUYEN THI MINH HUYEN (LORIA) -->
+<!DOCTYPE TEI.2 SYSTEM "C:/CORPUS/dtd/xlite/xteilite.dtd" [
+	<!ENTITY % ISO_Latin1 PUBLIC "ISO 8879-1986//ENTITIES Added Latin 1//EN//XML" "C:/CORPUS/dtd/pen/ISOlat1.pen">
+	%ISO_Latin1;
+]>
+<TEI.2 id="thoidungnuoc.en.xml">
+	<teiHeader date.created="30/12/2002">
+		<fileDesc>
+			<titleStmt>
+				<title type="source"></title>
+				<author></author>
+				<respStmt>
+					<resp></resp>
+					<name></name>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<distributor>Nhan dan dien tu</distributor>
+				<authority/>
+				<date>1/12/2002</date>
+			</publicationStmt>
+			<sourceDesc>
+				<p/>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<langUsage>
+				<language id="EN">English</language>
+			</langUsage>
+			<textClass>
+				<keywords>
+					<list>
+						<item>prose</item>
+						<item>history</item>
+					</list>
+				</keywords>
+			</textClass>
+		</profileDesc>
+	</teiHeader>
+	<text>
+		<body id="b1">
+<head>
+     The making of a nation
+</head >
+<div>
+<p>
+     <s>1. The origins of the nation.</s>
+</p>
+<p>
+     <s>a) North Vietnam 4,000 years ago.</s>
+</p>
+<p>
+     <s>Approximately 4,000 years ago, north Vietnam lay in a region of tropical monsoon climate which was wet and humid.</s>
+     <s>There were many high mountains, thick forests, rivers, streams, lakes, swamps, lowlands and seas in this area.</s>
+</p>
+<p>
+     <s>Forests accounted for most of the land area covering mountains, highlands, hilly areas and even lowlands.</s>
+     <s>There were diversified species of forest birds and animals.</s>
+</p>
+<p>
+     <s>Lowlands were small and narrow (as seas went deep in land which were intervened by forests), but very fertile (thanks to the alluvium silted up by rivers).</s>
+</p>
+<p>
+     <s>In such a natural context, the inhabitants of the old Viet scattered everywhere, from north to south, from highlands to lowlands and from coastal areas to islands off the mainland.</s>
+     <s>But the major centres of human habitation focused on the deltas of the Red River and the Ma River.</s>
+</p>
+<p>
+     <s>The advent of smelting technique.</s>
+</p>
+<p>
+     <s>During recent decades, Vietnamese scientists have discovered a series of artefacts belonging to the Bronze Age which date back to approximately 3,500 to 4,000 years ago.</s>
+</p>
+<p>
+     <s>Phung Nguyen site was discovered throughout the midlands and highlands of the Red River delta.</s>
+     <s>Con Chan Tien and Hoa Loc sites in the Ma River basin and along the coast of Thanh Hoa province, and Ben Do site in the Dong Nai River basin were also discovered.</s>
+</p>
+<p>
+     <s>A great number of stone tools and jewels which were very smoothly and beautifully polished at a high skill (axes, hoes, scythes, drills, bracelets, earrings, strings of stone beads, etc) have been unearthed in these sites; pottery with beautiful motifs (utensils, jugs, pots, bowls, disks, animal statuettes, etc) and animal bones and fishing tools.</s>
+     <s>But the most important remains that were discovered were pieces of bronze, bronze residues, bronze sticks and bronze strings.</s>
+</p>
+<p>
+     <s>Bronze tools, while penetrating the world of stone, pottery, bamboo and wooden tools, step-by-step increased the productivity, leading to major changes in the society.</s>
+</p>
+<p>
+     <s>Life of the ancient Viet tribes.</s>
+</p>
+<p>
+     <s>The archaeological artefacts show that, 4,000 years ago, the ancient Viet tribes settled down in vast communes of tens of hectares each.</s>
+     <s>They were farm dwellers who had a rather high level of production.</s>
+     <s>Wet rice was the main crop, grown on hills and slopes and in river deltas.</s>
+     <s>Production tools comprised stone hoes, axes and scythes.</s>
+</p>
+<p>
+     <s>Pottery-making reached a high level.</s>
+     <s>Big jugs and pots were made and used as containers for food that was gathered.</s>
+     <s>Dogs, pigs, buffaloes and chickens were domesticated.</s>
+     <s>Hunting still existed but no longer played the primary role.</s>
+     <s>Fishing developed among tribes that settled near rivers and seas.</s>
+     <s>The remains that have discovered show the existence of handicrafts such as weaving and garment-making, and bronze casting.</s>
+</p>
+<p>
+     <s>Most noticeable of the Viet tribes was their good sense of aesthetics shown in stone tools, jewellery and especially in pottery products.</s>
+     <s>Stone tools were well-polished and geometrical in shape.</s>
+     <s>The beautiful and colourful jewels were finely drilled and latched with amazing skill.</s>
+     <s>Pottery decorated with fine and gentle motifs constitutes an excellent combination of motifs with designs and brings about great admiration.</s>
+</p>
+<p>
+     <s>The Viet tribes had a custom to bury the dead near their habitation with the head facing the east.</s>
+     <s>Implements, ornaments and animal heads were buried together with the dead in the grave.</s>
+     <s>The insignificant difference in number of items found in graves shows that the polarisation of rich and poor in the society was not much and just at the initial stage.</s>
+</p>
+<p>
+     <s>Of the ancient Viet tribes, those living in the deltas of the Red and Ma Rivers had a higher level of development.</s>
+     <s>Their dwellings were either concentrated or alternated and their products were exchanged among themselves which led to the strengthening of their relationships.</s>
+     <s>They served as the root and laid the first material and spiritual foundation at the dawn of the building and defence of the Vietnamese nation.</s>
+</p>
+<p>
+     <s>The legend of fairy Au Co and lord Lac Long Quan who gave birth to one hundred eggs that later became one hundred sons of which fifty were taken by the mother to the highlands and the other fifty were taken by the father to the plains and coastal regions explained the presence of the tribes and the unique and noble origin of the Vietnamese nation.</s>
+</p>
+<p>
+     <s>2. Changes in production.</s>
+</p>
+<p>
+     <s>a) The need to control floods and water resources.</s>
+</p>
+<p>
+     <s>The basins of the Red and Ma Rivers - the early homeland of the Viet nation - were impacted by tropical monsoon climate with much sunshine and rain which was favourable for the growth of plants.</s>
+     <s>However, big typhoons and rains often led to flooding that severely damaged the crops every year.</s>
+</p>
+<p>
+     <s>When the Viet tribes expanded their crusade to lowland areas and agricultural production played the major role in their life, the need to control floods and water resources was put before them as an imperative question.</s>
+</p>
+<p>
+     <s>Together with the progress achieved in smelting and the growth of population, the Viet tribes knew how to draw big and small edges in the fields, dig ponds for holding water, dig channels and build dams to take water for irrigation, and especially to build dykes to block floods.</s>
+</p>
+<p>
+     <s>The myth on Son Tinh and Thuy Tinh reflected the successful struggle against floods by the ancient Viet people who did ploughing and cultivated rice in the fields of the Red River basin.</s>
+</p>
+<p>
+     <s>b) Changes in agricultural production.</s>
+</p>
+<p>
+     <s>The advent and development of the smelting technique helped produce new production tools such as bronze axes, sickle blades, ploughshares and later, iron hoes and shovels, etc.</s>
+     <s>Metal tools step-by-step replaced stone ones.</s>
+</p>
+<p>
+     <s>Agricultural production where stone hoes wre previously used to upturn the land was now replaced by bronze axes and ploughshares for the cultivation of rice.</s>
+     <s>Ploughing was pulled either by manpower or buffaloes and oxen.</s>
+     <s>The appearance of ploughshares and irrigation marked a turning point in the process of technical development.</s>
+     <s>The yield of crops increased.</s>
+     <s>Agricultural area was expanded with three land categories: hilly field, garden and lowland field.</s>
+     <s>Rice cultivation increased to two crops from only one per year.</s>
+     <s>With the practical experience gained during the production process, the planting structure became more and more stable.</s>
+</p>
+<p>
+     <s>Wet rice (both glutinous and non-glutinous) were the main crops.</s>
+     <s>Besides rice cultivation were beans, vegetables, sugarcane, jute and mulberry.</s>
+     <s>Fruit trees consisted of lychee, longan, canarium, custard apple, water melon, areca, etc.</s>
+</p>
+<p>
+     <s>Folk tales often tell the story of An Tiem who grew water melons on an island in the sea and the legend of Betel - Areca.</s>
+</p>
+<p>
+     <s>Together with farming was livestock breeding, fishing, hunting and food-gathering.</s>
+     <s>The number of buffaloes and oxen grew faster among the tamed cattle.</s>
+     <s>Elephants were also domesticated.</s>
+     <s>Fishing developed when boat-building technique improved.</s>
+</p>
+<p>
+     <s>c) Changes in handicraft production - Dong Son bronze drum.</s>
+</p>
+<p>
+     <s>Besides agriculture, handicrafts prospered at that time.</s>
+</p>
+<p>
+     <s>Stone-making, after reaching its peak, began to give way to smelting.</s>
+     <s>Skilful stone craftsmen shifted to making jewels of precious stone.</s>
+</p>
+<p>
+     <s>Pottery took a more practical trend in development with less models and decorative motifs.</s>
+     <s>However, it became stronger, harder, more polished and more plentiful.</s>
+</p>
+<p>
+     <s>Wood work and weaving achieved noticeable changes thanks to bronze tools.</s>
+     <s>Men knew how to make bamboo arrows and weaving splints, chip wooden paddles, spears, pestle and mortars and coffins, and build wooden boats and houses, etc.</s>
+</p>
+<p>
+     <s>Weavers were able to produce fine types of cloth and yarn to make fish nets.</s>
+     <s>Lacquer began to be used.</s>
+</p>
+<p>
+     <s>Of the handicrafts, smelting (bronze and iron casting) played the most important role.</s>
+</p>
+<p>
+     <s>The first application of the smelting technique was to cast working tools and weapons.</s>
+     <s>When copper was discovered in greater quantities, bronze was used to cast drums, jars, utensils and art objects.</s>
+     <s>A number of earthen and stone casting moulds and bronze melting basins have been found.</s>
+     <s>The Dong Son artefacts (Thanh Hoa province) marked the stage of highest development of bronze casting and the initial step of iron production.</s>
+</p>
+<p>
+     <s>The most typical relic that represents the excellent skill of bronze casting was the bronze drum.</s>
+     <s>Studying the Dong Son drum, with decorated motifs on its upper surface we can imagine many activities in the life of our ancestors.</s>
+</p>
+<p>
+     <s>When bronze casting reached its peak, iron smelting appeared.</s>
+</p>
+</div>
+</body>
+</text>
+</TEI.2>

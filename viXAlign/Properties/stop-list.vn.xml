@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ignoredWords>
+	<word name="." pos="."/>
+	<word name="," pos=","/>
+	<word name=":" pos=":"/>
+	<word name="!" pos="!"/>
+	<word name="?" pos="?"/>
+	<word name=";" pos=";"/>
+	<word name="-" pos="-"/>
+	<word name="..." pos="..."/>
+	<word name="'" pos="'"/>
+	<word name="(" pos="("/>
+	<word name=")" pos=")"/>
+	<word name="\." pos="."/>
+	<word name="\," pos=","/>
+	<word name="\:" pos=":"/>
+	<word name="\!" pos="!"/>
+	<word name="\?" pos="?"/>
+	<word name="\;" pos=";"/>
+	<word name="\-" pos="-"/>
+	<word name="\.\.\." pos="..."/>
+	<word name="\'" pos="'"/>
+	<word name="\(" pos="("/>
+	<word name="\)" pos=")"/>
+	<word name="*" pos="*"/>
+	<word name="\*" pos="*"/>
+	<word name="&quot;" pos="&quot;"/>
+	<word name="đã" pos="J"/>	
+        <word name="đang" pos="J"/>
+	<word name="sẽ" pos="J"/>
+	<word name="rồi" pos="J"/>
+	<word name="bị" pos="V"/>
+	<word name="được" pos="V"/>
+	<word name="đó" pos="P"/>
+</ignoredWords>

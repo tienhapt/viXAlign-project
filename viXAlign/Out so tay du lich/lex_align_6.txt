@@ -1,0 +1,11 @@
+Source : D:\workspace\Arcade2\src\ArcadeSupport\Corpus\CorpusOK\HoangTuBe-OK\sotaydulichvn.sent.xml
+Target : D:\workspace\Arcade2\src\ArcadeSupport\Corpus\CorpusOK\HoangTuBe-OK\sotaydulichen.sent.xml
+1227 saved word pairs
+491 saved word pairs
+
+
+
+------------------------------------------------------------
+
+
+

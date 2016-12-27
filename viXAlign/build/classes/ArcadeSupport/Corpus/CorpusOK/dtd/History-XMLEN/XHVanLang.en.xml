@@ -1,0 +1,128 @@
+<?xml version="1.0" standalone="no"?>
+<!-- edited with XML Spy v4.0.1 U (http://www.xmlspy.com) by NGUYEN THI MINH HUYEN (LORIA) -->
+<!DOCTYPE TEI.2 SYSTEM "C:/CORPUS/dtd/xlite/xteilite.dtd" [
+	<!ENTITY % ISO_Latin1 PUBLIC "ISO 8879-1986//ENTITIES Added Latin 1//EN//XML" "C:/CORPUS/dtd/pen/ISOlat1.pen">
+	%ISO_Latin1;
+]>
+<TEI.2 id="XHVanLang.en.xml">
+	<teiHeader date.created="30/12/2002">
+		<fileDesc>
+			<titleStmt>
+				<title type="source"></title>
+				<author></author>
+				<respStmt>
+					<resp></resp>
+					<name></name>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<distributor>Nhan dan dien tu</distributor>
+				<authority/>
+				<date>1/12/2002</date>
+			</publicationStmt>
+			<sourceDesc>
+				<p/>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<langUsage>
+				<language id="EN">English</language>
+			</langUsage>
+			<textClass>
+				<keywords>
+					<list>
+						<item>prose</item>
+						<item>history</item>
+					</list>
+				</keywords>
+			</textClass>
+		</profileDesc>
+	</teiHeader>
+	<text>
+		<body id="b1">
+<head>
+Van Lang Society.
+</head>
+<div>
+<p>
+     <s>1. Material life.</s>
+</p>
+<p>
+     <s>The Van Lang people were, in the main, rice growers who inhabited villages and hamlets.</s>
+</p>
+<p>
+     <s>Their daily food mainly comprised rice, vegetables and fish.</s>
+     <s>Bowls were common things in daily use.</s>
+     <s>As a practice, buffaloes, oxen, pigs or chicken were killed at festive days to serve as offerings for worship, and then collectively shared.</s>
+     <s>Square Chung cake (symbolising the earth) and round Day cake (symbolising the heaven) were special offerings to worship the earth, heaven and ancestors in the first days of the year.</s>
+     <s>Chewing betel and lacquering teeth black were a common practice.</s>
+</p>
+<p>
+     <s>As for clothing, men wore loincloths and women wore skirts of various types.</s>
+     <s>When it was hot, the inhabitants kept themselves half-naked, and when it was cold, they wore overalls (which looked like a blanket with a hole in the middle).</s>
+     <s>They had their hair cut short, twisted in bun or grown long behind the back.</s>
+     <s>They wore a scarf around the head all year round and kept their feet bare.</s>
+     <s>Boys and girls wore jewellery made of precious stone or brass.</s>
+     <s>Fishermen had their body tattooed.</s>
+</p>
+<p>
+     <s>From coastal to inland areas, houses were built on stilts, with curved roof (bearing the resemblance of a boat-stern) or vaulted roof (bearing the resemblance of a tortoise shell) covered by wooden or bamboo sheets, or leaves.</s>
+     <s>A staircase was built either in the front, or at the side of the house.</s>
+     <s>Domestic livestock was kept on the ground floor and men lived on the upper floor.</s>
+</p>
+<p>
+     <s>Village and hamlets were often concentrated around hills, near springs or on land strips along rivers.</s>
+     <s>Boats served as the major means of transport.</s>
+     <s>The Lac Viet inhabitants were good at swimming and rowing boats.</s>
+     <s>Elephants also served as a means of transport but for the well-to-do only.</s>
+</p>
+<p>
+     <s>2. Spiritual life.</s>
+</p>
+<p>
+     <s>The Van Lang people were fond of dancing and singing.</s>
+     <s>Men and women sang and danced in couples at festivities or under the moonlight.</s>
+     <s>They sang while working, rowing or hunting.</s>
+     <s>Common musical instruments consisted of the bronze drum, bamboo flute, gong, pan-flute, etc.</s>
+</p>
+<p>
+     <s>The aesthetic sense was developed at a rather high level by that time.</s>
+     <s>The Van Lang people loved decoration and make-up.</s>
+     <s>Jewellery was fine and diverse.</s>
+     <s>Pottery consisted of diversified types and styles with beautiful motifs like works of art.</s>
+     <s>The Dong Son drum showed the height of the bronze-casting technique and the sense of aesthetics and arts of the Lac Viet people.</s>
+</p>
+<p>
+     <s>The spiritual life of Van Lang society was centrally reflected in festive days.</s>
+     <s>There was much excitement among crowds on such occasions, when boys and girl dressed beautifully and greatly enjoyed playing games, dancing and singing.</s>
+     <s>The sounds of drum, gong and pan-flute merrily mixed.</s>
+     <s>Boat-rowing, rice pounding and gesture-narrating competitions, disguised dance and offering ceremonies were also organised in festive days.</s>
+</p>
+<p>
+     <s>All the above activities reflected practical wishes of the Van Lang people for favourable condition of rain and shine, good harvest, high fertility and stability in their life and work.</s>
+</p>
+<p>
+     <s>As for religion, the Van Lang people worshipped supernatural forces (deities of land, mountain and river) and divine creatures and animals (gods of dragon, bird and tiger).</s>
+     <s>At a higher level of the spiritual development, they worshipped their ancestors and heroes who had made great contributions to village and hamlet.</s>
+</p>
+<p>
+     <s>3. Communal awareness.</s>
+</p>
+<p>
+     <s>Through many years of life, work and combat, communal awareness took shape step-by-step in the mind of the Van Lang inhabitants.</s>
+     <s>They found it necessary to rely on, love and protect one another to exist.</s>
+</p>
+<p>
+     <s>The sentiment in the community gradually developed into a communal awareness.</s>
+     <s>They began to recognise the ties between nature and man, their origin, the legends on the national heroes, and the custom and practice to be preserved.</s>
+     <s>Furthermore, they realised the strength and advantage of communal unity in controlling and making use of water resources, in exchanging products and in struggling to defend their homeland and country.</s>
+     <s>Therefore, they shared the same concept on lifestyle, nationality and territory.</s>
+</p>
+<p>
+     <s>The good traditions characteristic of the Vietnamese people such as hard work, simplicity, optimism, steadfastness and an indomitable spirit have taken root from the sentiment and communal awareness since those early days.</s>
+</p>
+</div>
+</body>
+</text>
+</TEI.2>

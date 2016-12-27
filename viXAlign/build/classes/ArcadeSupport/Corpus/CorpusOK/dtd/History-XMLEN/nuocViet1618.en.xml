@@ -1,0 +1,219 @@
+<?xml version="1.0" standalone="no"?>
+<!-- edited with XML Spy v4.0.1 U (http://www.xmlspy.com) by NGUYEN THI MINH HUYEN (LORIA) -->
+<!DOCTYPE TEI.2 SYSTEM "C:/CORPUS/dtd/xlite/xteilite.dtd" [
+	<!ENTITY % ISO_Latin1 PUBLIC "ISO 8879-1986//ENTITIES Added Latin 1//EN//XML" "C:/CORPUS/dtd/pen/ISOlat1.pen">
+	%ISO_Latin1;
+]>
+<TEI.2 id="nuocViet1618.en.xml">
+	<teiHeader date.created="30/12/2002">
+		<fileDesc>
+			<titleStmt>
+				<title type="source"></title>
+				<author></author>
+				<respStmt>
+					<resp></resp>
+					<name></name>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<distributor>Nhan dan dien tu</distributor>
+				<authority/>
+				<date>1/12/2002</date>
+			</publicationStmt>
+			<sourceDesc>
+				<p/>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<langUsage>
+				<language id="EN">English</language>
+			</langUsage>
+			<textClass>
+				<keywords>
+					<list>
+						<item>prose</item>
+						<item>history</item>
+					</list>
+				</keywords>
+			</textClass>
+		</profileDesc>
+	</teiHeader>
+	<text>
+		<body id="b1">
+<head>
+Vietnam from the 16th to 18th centuries.
+</head>
+<div>
+<p>
+     <s>The Le and the peasant movement.</s>
+     <s>The situation under the Le.</s>
+</p>
+<p>
+     <s>During the reign of King Le Thanh Tong, the government was strong, economy was stable and science and culture recorded significant achievements.</s>
+</p>
+<p>
+     <s>Towards the beginning of the 16th century, Le Uy Muc came to the throne.</s>
+     <s>He indulged in drink and had his drink servers killed as entertainment.</s>
+     <s>He was called by a contemporary "the devil king".</s>
+     <s>Court affairs were left to the courtiers.</s>
+     <s>Eunuchs and relatives on Uy Muc's mother's side gathered around him against meritorious, military and civil officials.</s>
+     <s>Fighting took place everywhere from Thanh Hoa to Thang Long because of contradictions among factions.</s>
+</p>
+<p>
+     <s>When Uy Muc was killed Tuong Duc came to the throne.</s>
+     <s>As soon as he came to the enthrone, he ordered the building of the grand king palace and royal courtroom.</s>
+     <s>He was also notorious for his indulgence in debauchery.</s>
+     <s>It was written by old history that: "He looks lustful like pig, and disorder is just a matter of time".</s>
+     <s>Factions engaged in continued conflicts.</s>
+     <s>The court was in chaos.</s>
+     <s>In 1516, Tuong Duc was killed.</s>
+     <s>The throne was succeeded by some other kings who were unable to keep the court affairs under control.</s>
+     <s>The feudal Le State was on the brink of collapse.</s>
+</p>
+<p>
+     <s>Peasants' lives.</s>
+</p>
+<p>
+     <s>Towards the 16th century, the landlords and mandarins took possession of most of public land in communes and villages.</s>
+     <s>Land distribution per capita of population no longer worked effectively as in the past.</s>
+     <s>The poor only had some infertile land in their possession whilst most of the fertile land was owned by a small number of rich and the influential people.</s>
+</p>
+<p>
+     <s>Each time a new king was enthroned the land in communes and villages were seized to confer to the mandarins and meritorious officials who, more greedily still, tried to loot as much of the people's wealth as possible.</s>
+     <s>The crimes of the court were exposed by the then high-ranking official Luong Dac Bang that "taxation was heavily levied, wealth was wasted as mud and dirt; cruelty could be compared to the Quin emperor, and the people were seen as trash".</s>
+     <s>The building of palaces and ramparts and heavy labour exhausted the people' strength.</s>
+     <s>People in remote areas of Thuan Hoa (Thua Thien - Hue) and Quang Nam (from Quang Nam - Da Nang to Phu Yen - Khanh Hoa) had to hunt elephants, as tributes to the court, otherwise gold had to be contributed in replacement.</s>
+</p>
+<p>
+     <s>The building of the two major projects of big royal court room and king's palace were put under Vu Nhu To's management.</s>
+     <s>Old history has it that "a lake was dug to link the facade of the royal court room with the To Lich river.</s>
+     <s>The lake followed a zigzag course on which boats were able to sail.</s>
+     <s>The people were wretched, and the troops were exhausted.</s>
+     <s>No sooner had the rampart been built than it was dug up to fill the lake.</s>
+     <s>Some places were changed upon completion without end for years.</s>
+     <s>The number of troops who were engaged in building ramparts dying disease was one tenth".</s>
+</p>
+<p>
+     <s>Meanwhile, no care was taken of farming production.</s>
+     <s>Dykes were left at the mercy of the weather.</s>
+     <s>No more land reclamation and settlements were organised by the government.</s>
+</p>
+<p>
+     <s>The people suffered a lot of difficulties in their lives Worst of all was the famine in 1517 which was recorded by old history that: "Corpses of those who died of hunger piled up.</s>
+     <s>In a number of districts in Hai Duong and Kinh Bac (Bac Ninh and Bac Giang) regions, the famine was even still worse".</s>
+</p>
+<p>
+     <s>The burden of tax, hard labour, natural calamities, famine and continuous conflicts led to falling agricultural production.</s>
+</p>
+<p>
+     <s>Peasant movement.</s>
+</p>
+<p>
+     <s>Contradiction between peasants and landlords and that between the people and the feudal state became very acute.</s>
+     <s>In early 1511, Tran Tuan led a revolt in Son Tay.</s>
+     <s>The revolt attracted tens of thousands of men.</s>
+     <s>Later that year, he took his troops to threaten the capital city.</s>
+     <s>Panic-stricken, the court mastered all its force to hold the revolt in check.</s>
+</p>
+<p>
+     <s>Although Tran Tuan's revolt was extinguished, the peasant movement continued to spread widely which culminated in the revolt led by Tran Cao.</s>
+     <s>In early 1516, Tran Cao waged an uprising in Dong Trieu (Quang Ninh).</s>
+     <s>The insurgents had their heads shaved with only three tufts of hair left, that is why they were named the "three-tuft insurgents".</s>
+     <s>The banner of the insurrection was raised up and it was vehemently responded to by the people in the north eastern region.</s>
+     <s>From their base in Dong Trieu, the insurgents expanded their control to Hai Duong township and captured Thang Long capital.</s>
+     <s>It took the Le court a lot of efforts to recapture the capital.</s>
+     <s>Thang Long was threatened later by the insurgents on two more occasions.</s>
+     <s>Not until 1521 was the uprising led by Tran Cao extinguished.</s>
+</p>
+<p>
+     <s>Although the peasant revolts led by Tran Tuan and Tran Cao were defeated, they inflicted a shattering blow on the rule of the Le and pushed it further to the brink of collapse.</s>
+     <s> Feudal War and Its Aftermath.</s>
+     <s>Feudal war between the Northern and Southern Courts.</s>
+</p>
+<p>
+     <s>As soon as the peasant revolts were brought to an end, feudal factions got involved in conflict.</s>
+     <s>Mac Dang Dung was an ordinary court official who, making use of a split Le, sided with one faction to destroy the other so as to climb up to the position of Prime Minister.</s>
+     <s>In 1527, he usurped the throne from the Le and set up the Mac.</s>
+</p>
+<p>
+     <s>Nguyen Kim, a military official of the Le, refused to follow the Mac.</s>
+     <s>Kim and the supporters of the Le retreated to Thanh Hoa establishing a relative of Le Loi descendents on the throne under the label "support the Le to destroy the Mac".</s>
+     <s>In old history, this court was usually referred to as the Southern Court so as to differentiate it from the Northern Court (the Mac in the North).</s>
+</p>
+<p>
+     <s>The two feudal groups appearing in our country engaged in continuous war.</s>
+     <s>The land stretching from Nghe An up to the north was turned into a battlefield for more than 50 years.</s>
+     <s>Both the Northern and Southern Courts tried to plunder human and wealth sources to pour into the war.</s>
+     <s>Not until 1592, was the Southern Court was able to capture Thang Long capital when the Mac group had to retreat to Cao Bang.</s>
+     <s>The war between the Southern and Northern Courts was brought to an end.</s>
+</p>
+<p>
+     <s>Occupation of the Nguyen in Thuan - Quang and the war between the Trinh and Nguyen.</s>
+</p>
+<p>
+     <s>After Nguyen Kim's death, Trinh Kiem - his son-in-law - replaced him to hold power.</s>
+     <s>Trinh Kiem killed Nguyen Kim's eldest son for fear of losing his position.</s>
+     <s>Frightened, Nguyen Hoang - the younger son of Nguyen Kim - sought permission to go to Thuan Hoa in order to escape the control of his brother-in-law.</s>
+</p>
+<p>
+     <s>Resourceful as he was, Nguyen Hoang first ruled Thuan Hoa in 1558, and then extended his rule to Quang Nam.</s>
+     <s>He and his descendants tried to build Thuan Hoa into a base for long-term occupation.</s>
+</p>
+<p>
+     <s>The Nguyen still sent their men to Thang Long to pay tributes to the Court in the 16th century.</s>
+     <s>But from early the 17th century, the Nguyen built up the Thay rampart in the southern bank of the Gianh river, openly challenging the Trinh.</s>
+</p>
+<p>
+     <s>Acute contradictions between the two feudal groups were turned into a flame of war.</s>
+     <s>From 1627 to 1672, the two groups engaged in fighting on seven occasions, some of which lasted for years.</s>
+     <s>The entire area of Nghe An and Bo Chinh (Quang Binh) was turned into an atrocious battlefield.</s>
+     <s>Exhausted, both sides had to take the Gianh river as the demarcation line to divide the country into two, in the end.</s>
+     <s>The area from the Gianh river up to the north belonged to the Nguyen and was called the 'North.'</s>
+     <s>The area from the Gianh river down to the south belonged to the Trinh and was called as the 'South.' With a view to winning the people's hearts and minds, both the North and the South resorted to the label "support the Le".</s>
+</p>
+<p>
+     <s>From 1595 onward, Trinh Tung and his successors claimed themselves lords and the people in the North called them Trinh Lords.</s>
+     <s>The Trinh refrained from usurping the throne of the Le, however, they used Le kings as puppets to maintain an orthodox rule and oppose other factions.</s>
+     <s>In fact, the Trinh enjoyed full power to exercise their rule.</s>
+</p>
+<p>
+     <s>In the South, the power was held by the Nguyen in succession.</s>
+     <s>The people in the South called them the Nguyen Lords.</s>
+</p>
+<p>
+     <s>The division of the country lasted till late the 18th century.</s>
+</p>
+<p>
+     <s>The situation of the country.</s>
+</p>
+<p>
+     <s>The war between the Southern and Northern Courts blocked the economic development of the country, and the corrupt Le State with cruel seizure of land by the feudal mandarins and landlords plunged the peasants into endless distress.</s>
+</p>
+<p>
+     <s>Throughout the vast area of Thanh Nghe and Son Nam (Ha Nam, Nam Dinh and Thai Binh), villages and hamlets were desolated and fields were left fallow.</s>
+     <s>As a result, famines and droughts were frequent.</s>
+</p>
+<p>
+     <s>Cao Bang remained as the base of the Mac.</s>
+     <s>Serving in army and family separation are still recorded in popular verses until today:</s>
+     <s>"Like a stork dabbling at the edge of the river,</s>
+     <s>Seeing off her husband with rice weighing heavy on shoulder and tears in eyes,</s>
+     <s>Go back home, my darling, to look after my mother and kids,</s>
+     <s>I'll go to Cao Bang where hardships are awaiting me".</s>
+</p>
+<p>
+     <s>No sooner had the war between the North and the South come to an end did the war between the Trinh and Nguyen begin.</s>
+     <s>People along the banks of the Gianh river were driven away from their homeland.</s>
+     <s>The Thay rampart in the southern bank of the river served as a wall partitioning the country.</s>
+</p>
+<p>
+     <s>"Cleverness will help you pass Thanh Ha Hardly can you cross the Thay rampart even with wings".</s>
+</p>
+<p>
+     <s>Countless griefs and damage were caused by feudal wars to our nation.</s>
+</p>
+</div>
+</body>
+</text>
+</TEI.2>

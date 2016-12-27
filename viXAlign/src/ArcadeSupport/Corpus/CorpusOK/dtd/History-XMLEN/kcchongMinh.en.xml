@@ -1,0 +1,166 @@
+<?xml version="1.0" standalone="no"?>
+<!-- edited with XML Spy v4.0.1 U (http://www.xmlspy.com) by NGUYEN THI MINH HUYEN (LORIA) -->
+<!DOCTYPE TEI.2 SYSTEM "C:/CORPUS/dtd/xlite/xteilite.dtd" [
+	<!ENTITY % ISO_Latin1 PUBLIC "ISO 8879-1986//ENTITIES Added Latin 1//EN//XML" "C:/CORPUS/dtd/pen/ISOlat1.pen">
+	%ISO_Latin1;
+]>
+<TEI.2 id="kcchongMinh.en.xml">
+	<teiHeader date.created="30/12/2002">
+		<fileDesc>
+			<titleStmt>
+				<title type="source"></title>
+				<author></author>
+				<respStmt>
+					<resp></resp>
+					<name></name>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<distributor>Nhan dan dien tu</distributor>
+				<authority/>
+				<date>1/12/2002</date>
+			</publicationStmt>
+			<sourceDesc>
+				<p/>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<langUsage>
+				<language id="EN">English</language>
+			</langUsage>
+			<textClass>
+				<keywords>
+					<list>
+						<item>prose</item>
+						<item>history</item>
+					</list>
+				</keywords>
+			</textClass>
+		</profileDesc>
+	</teiHeader>
+	<text>
+		<body id="b1">
+<head>
+The resistance against the Ming.
+</head>
+<div>
+<p>
+     <s>The Resistance of the Ho.</s>
+</p>
+<p>
+     <s>The Tran was replaced by the Ho, however, the country still plunged deeper into difficulty plus crop failures many years on end.</s>
+     <s>The famine in 1405 was the worst of all when well-to-do households were made by the Court to sell rice to common people.</s>
+     <s>The people had to lead extremely difficult lives.</s>
+     <s> Meanwhile, the Ming made preparations for conquest of our country.</s>
+</p>
+<p>
+     <s>The Ming was a feudal dynasty founded by Chu Yaun-chang in 1368.</s>
+     <s>At first, his operation was limited to eastern Wu and he claimed himself as the Wu emperor.</s>
+     <s>That is why our people also referred to the Ming as the Wu at that time.</s>
+</p>
+<p>
+     <s>In face of the aggression of the enemy, Ho Quy Ly recruited more troops, made more weapons, built more warships and particularly constructed a long line of defence on the southern bank of the Da (Black) river connecting with the Red and the Thai Binh rivers.</s>
+</p>
+<p>
+     <s>In late 1406, more than 20,000 Ming troops and tens of thousands of civil labourers led by Zhang Fu, penetrated our country.</s>
+</p>
+<p>
+     <s>After some small battles, the Ho troops retreated in defence to Da Bang fortress (Ba Vi, Ha Tay) in the centre of the defence line of Dong Do (present-day Hanoi).</s>
+</p>
+<p>
+     <s>In January 1407, Da Bang fortress was lost, the defence line along the Red river was broken, the Ho troops had to retreat to Thanh Hoa from Dong Do to prepare for a counter-attack which was defeated afterward.</s>
+     <s>Ho Quy Ly and his mandarins fled to Nghe An.</s>
+     <s>In late June 1407, Ho Quy Ly and his son were captured by the enemy at the Ky La seaport (Cua Nhuong, Ha Tinh).</s>
+     <s>The resistance of the Ho was extinguished.</s>
+</p>
+<p>
+     <s>The Ho was defeated mainly because the resistance was waged in isolation without having the broad unity of the entire people, and also because the Ho was isolated and hated by the people.</s>
+     <s>As general Ho Nguyen Trung, Ho Quy Ly's son, said it previously before the Court, "I don't fear to fight, but I'm afraid of people's aversion."</s>
+</p>
+<p>
+     <s>The yoke of the Ming.</s>
+</p>
+<p>
+     <s>Having defeated the Ho, the Ming imposed their ruling apparatus throughout our country.</s>
+     <s>Our country was turned into the district Chiao Chih and seen as Chinese land.</s>
+     <s>Their government was set up, and fortifications were built in district and canton townships so as to exploit and oppress our people.</s>
+</p>
+<p>
+     <s>Up to the middle of 1407, the Ming enemy had taken in their possession as many as 20,000 elephants, horses and buffaloes, and approximately ten thousand big boats.</s>
+     <s>Wherever they went, the Ming troops massacred patriots and razed villages and hamlets in an attempt to extinguish the struggle flame of our people.</s>
+</p>
+<p>
+     <s>The invaders imposed many heavy taxes and tripled the land tax.</s>
+     <s>They took our women, children, good physicians and workers to China.</s>
+</p>
+<p>
+     <s>The invaders also compelled our people to abandon their age-old traditions and customs to follow the lifestyle of the Ming.</s>
+     <s>They took our valuable books to China and burnt down most of the remainder.</s>
+     <s>They destroyed many cultural sites such as tombs, temples, pagodas, the Quy Dien bell, the Pho Minh cauldron, etc.</s>
+     <s>All these acts were aimed at compelling our people to break away with their good traditions handed down by our ancestors.</s>
+</p>
+<p>
+     <s>At the same time, the Ming limited education, making teachers leave their schools in the implementation of a obscurantist policy.</s>
+     <s>They trained more fortune-tellers and wizards to spread superstition.</s>
+</p>
+<p>
+     <s>The resistance of the Tran aristocrats.</s>
+</p>
+<p>
+     <s>Having captured our country, the Minh tried to hunt down descendants of the Tran.</s>
+     <s>Tran Ngoi (Tran Quy) who was son of King Tran Nghe Tong fled to Yen Mo (Ninh Binh).</s>
+     <s>He was supported and made leader by Tran Trieu Co, a patriot.</s>
+</p>
+<p>
+     <s>In November 1407, Tran Ngoi claimed himself King Gian Dinh.</s>
+     <s>Early next year, his troops gathered in Nghe An to build their resistance base there.</s>
+     <s>Dang Tat in Tan Binh (Quang Binh and northern Quang Tri) and Nguyen Canh Chan in Thang Hoa (Quang Nam) rose up in arms in response and joined the insurgent army.</s>
+</p>
+<p>
+     <s>Next year, Tran Ngoi advanced to Thanh Hoa from Nghe An.</s>
+     <s>The insurgent troops launched a number of attacks on Ham Tu (Hung Yen).</s>
+</p>
+<p>
+     <s>The vigorous build-up of the insurgent army pushed the Ming troops into the defensive without being able to resist.</s>
+     <s>They had to ask for reinforcements.</s>
+     <s>In late 1408, the enemy reinforcements from Yunnan came in to coordinate with the troops in Dong Quan to attack our insurgent troops in Bo Co (Nam Dinh).</s>
+     <s>Fierce counter-attacks were launched by our troops, and Tran Ngoi himself beat the war-drum to encourage his soldiers.</s>
+     <s>Our troops won a major victory in this battle.</s>
+</p>
+<p>
+     <s>After their defeat in Bo Co, the Ming troops retreated to Dong Quan (Hanoi) in defence.</s>
+     <s>However, there was mistrust among the ranks of the insurgent army.</s>
+     <s>Tran Ngoi killed generals Dang Tat and Nguyen Canh Chan.</s>
+     <s>Thus the resistance was disintegrated.</s>
+</p>
+<p>
+     <s>Before the unjust deaths of Dang Tat and Nguyen Canh Chan, their sons Dang Dung and Nguyen Canh Di, together with many insurgents, abandoned Tran Ngoi and went to Nghe An to look for Tran Quy Khoang (King Tran Nghe Tong's nephew) to make him king.</s>
+</p>
+<p>
+     <s>In April 1409, Tran Quy Khoang came to the throne taking his dynastic title Trung Quang.</s>
+     <s>His army quickly widened its control from Thanh Hoa to Thang Hoa.</s>
+     <s>Thanks to its strong force, the insurgent army moved to Ha Hong (Hai Duong).</s>
+</p>
+<p>
+     <s>The Ming again sent more troops to our country.</s>
+     <s>This time, they were led by the old cunning and cruel general Zhang Fu.</s>
+     <s>Before an outnumbering enemy, our troops had to abandon the Red river delta and retreated to Thanh Hoa.</s>
+</p>
+<p>
+     <s>In mid-1411, the enemy attacked Thuan Hoa.</s>
+     <s>The insurgent troops tried to keep the enemy in check at Ai Tu (Quang Tri), fighting to their fullest.</s>
+</p>
+<p>
+     <s>From this battle on, Tran Quy Khoang's force gradually weakened.</s>
+     <s>In early 1414, Tran Quy Khoang, Dang Dung and Nguyen Canh Di were captured one after the another.</s>
+     <s>Seduced by the enemy commander, these leaders of the resistance refused to yield: Nguyen Canh Di shouted Zhang Fu into his face "I wish I could kill you," when he was captured, and Dang Dung, before his death, still composed the poem 'Nostalgia' to express his deep resentment at for not being able to fulfil his obligations to his country.</s>
+</p>
+<p>
+     <s>All patriotic movements form 1407 to 1417, despite their ebullience and vigour at times, were defeated one after another because of their unconnected activities.</s>
+     <s>Making use of this weakness, the Ming was able to suppress all the insurgencies one by one.</s>
+</p>
+</div>
+</body>
+</text>
+</TEI.2>

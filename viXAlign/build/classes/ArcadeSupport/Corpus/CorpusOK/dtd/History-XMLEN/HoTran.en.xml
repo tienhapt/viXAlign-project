@@ -1,0 +1,138 @@
+<?xml version="1.0" standalone="no"?>
+<!-- edited with XML Spy v4.0.1 U (http://www.xmlspy.com) by NGUYEN THI MINH HUYEN (LORIA) -->
+<!DOCTYPE TEI.2 SYSTEM "C:/CORPUS/dtd/xlite/xteilite.dtd" [
+	<!ENTITY % ISO_Latin1 PUBLIC "ISO 8879-1986//ENTITIES Added Latin 1//EN//XML" "C:/CORPUS/dtd/pen/ISOlat1.pen">
+	%ISO_Latin1;
+]>
+<TEI.2 id="HoTran.en.xml">
+	<teiHeader date.created="30/12/2002">
+		<fileDesc>
+			<titleStmt>
+				<title type="source"></title>
+				<author></author>
+				<respStmt>
+					<resp></resp>
+					<name></name>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<distributor>Nhan dan dien tu</distributor>
+				<authority/>
+				<date>1/12/2002</date>
+			</publicationStmt>
+			<sourceDesc>
+				<p/>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<langUsage>
+				<language id="EN">English</language>
+			</langUsage>
+			<textClass>
+				<keywords>
+					<list>
+						<item>prose</item>
+						<item>history</item>
+					</list>
+				</keywords>
+			</textClass>
+		</profileDesc>
+	</teiHeader>
+	<text>
+		<body id="b1">
+<head>
+The Ho replaces the Tran.
+</head>
+<div>
+<p>
+     <s>The collapse of the Tran.</s>
+</p>
+<p>
+     <s>The struggle launched by peasants, serfs and slaves in the later half of the 14th century weakened the Tran.</s>
+     <s>Communes and villages were desolated.</s>
+     <s>The number of village inhabitants was reduced.</s>
+     <s>In the Court, the number of mandarins selected from examinations played an increasingly important role.</s>
+     <s>They did not accept the rule "only descendants of mandarins can become mandarins".</s>
+     <s>The debauchery of some Tran kings brought a number of incapable sycophantic mandarins to key positions.</s>
+     <s>Chu Van An, a famous scholar and mandarin, lodged a petition to the king requesting the beheading of seven corrupt courtiers.</s>
+     <s>As this was declined by the king, An resigned from his post and came back home to pursue a teaching career.</s>
+     <s>Disputes and killings took place right in the royal family.</s>
+     <s>Most of the rich aristocrats tried to secure a better life for themselves in domains and fiefdoms.</s>
+     <s>Little attention was paid by them to the Court affairs.</s>
+     <s>Saddened and left in an impasse, Tran Nguyen Dan, one of the top officials in the Court, deplored that:</s>
+     <s>"Reading millions of pages could not help.</s>
+     <s>Neither ardent love toward the people made any use".</s>
+</p>
+<p>
+     <s>During that time, Champa troops waged a number of attacks from the southern border.</s>
+     <s>They even crossed the sea and launched an attack on Thang Long capital.</s>
+     <s>The Tran king and mandarins had to flee, the capital city was destroyed, and the people were left in misery and poverty.</s>
+</p>
+<p>
+     <s>In face of the innumerable difficulties, the weakened and rotten State of the Tran was no longer able to assume its role.</s>
+     <s>The collapse of the Tran was unavoidable.</s>
+</p>
+<p>
+     <s>Ho Quy Ly's reforms.</s>
+</p>
+<p>
+     <s>Amidst such complications and difficulties there appeared a new personality.</s>
+     <s>It was Ho Quy Ly.</s>
+</p>
+<p>
+     <s>Ho Quy Ly was descendant of a high-ranking mandarin of the Le family.</s>
+     <s>He was talented and, as his two aunts married the king, he soon became one of the high-ranking mandarins of the Court.</s>
+     <s>Using clever tactics Ho Quy Ly quickly climbed to the highest position in the Court.</s>
+</p>
+<p>
+     <s>Ho Quy Ly reorganised the rank of military officials and grasped all political and military power in his hands.</s>
+     <s>Having founded a firm position, he decided on a number of reforms to rescue the shaky State.</s>
+</p>
+<p>
+     <s>In 1396, he had paper money issued and the circulation of bronze coins banned.</s>
+     <s>In 1397, he had the policy on land limits promulgated, stipulating the area of land to be owned by aristocrats, mandarins and landlords.</s>
+     <s>The land in excess would be given to the State.</s>
+</p>
+<p>
+     <s>In the next year, he ordered the measurement of land in localities and, at the same time, reorganised the court examination system, developed education, and reduced the number of monks.</s>
+</p>
+<p>
+     <s>In 1400, Ho Quy Ly dethroned the Tran king and declared himself king.</s>
+     <s>Thus the Ho was founded.</s>
+     <s>In subsequent years, he promulgated policies on the limit of serfs (providing the number of serfs to be owned by certain people in society) and new taxation methods, etc.</s>
+</p>
+<p>
+     <s>Ho Quy Ly also had a new population census conducted to serve as a basis for troop recruitment and labour mobilisation to build projects for national defence.</s>
+     <s>The Ho Court was resolute in opposing acts of aggression of the Ming invaders.</s>
+     <s>However, the Ho sent his troops to invade Champa.</s>
+</p>
+<p>
+     <s>In 1397, with the intent of moving the capital to Thanh Hoa, Ho Quy Ly made people throughout the country make their contributions to the construction of Tay Do citadel in An Ton (Vinh Loc district).</s>
+</p>
+<p>
+     <s>The citadel was a rectangular with a perimeter of approximately three kilometres.</s>
+     <s>The surface of the citadel was covered with polished stone blocks of two metres in length, one metre in height and 0.7 metre in width each.</s>
+     <s>Some blocks were as long as four metres and of tens of tonnes in weight.</s>
+     <s>The citadel archways were 8-9 metres high, painstakingly built with huge blocks of stone whose firmness mainly relied on the pressure of layers of stone blocks.</s>
+</p>
+<p>
+     <s>Ho Quy Ly's reforms had far-reaching impacts on most social circles and activities politically, militarily, culturally and educationally.</s>
+     <s>These reforms, more or less, limited the concentration of land in the hands of the aristocrats and landlords, and weakened the power of the Tran family.</s>
+     <s>The incomes of the central government increased considerably.</s>
+</p>
+<p>
+     <s>However, these reforms did not resolve the imperative demand of the people's lives and freedom.</s>
+     <s>Serfs and slaves who had been privately owned now belonged to the State.</s>
+     <s>Peasants had to contribute more than before while agriculture declined.</s>
+</p>
+<p>
+     <s>Paper money did not bring about desired convenience for trade.</s>
+     <s>The new tax policy made the people's contributions more complicated.</s>
+     <s>In addition, Ho Quy Ly's usurpation of the throne sowed alarm and discontent among scholars and mandarins.</s>
+     <s>The aristocrats of the Tran took advantage of this to oppose Ho Quy Ly.</s>
+</p>
+</div>
+</body>
+</text>
+</TEI.2>

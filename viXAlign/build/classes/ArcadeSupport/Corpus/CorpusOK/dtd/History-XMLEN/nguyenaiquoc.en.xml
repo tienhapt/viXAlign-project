@@ -1,0 +1,152 @@
+<?xml version="1.0" standalone="no"?>
+<!-- edited with XML Spy v4.0.1 U (http://www.xmlspy.com) by NGUYEN THI MINH HUYEN (LORIA) -->
+<!DOCTYPE TEI.2 SYSTEM "C:/CORPUS/dtd/xlite/xteilite.dtd" [
+	<!ENTITY % ISO_Latin1 PUBLIC "ISO 8879-1986//ENTITIES Added Latin 1//EN//XML" "C:/CORPUS/dtd/pen/ISOlat1.pen">
+	%ISO_Latin1;
+]>
+<TEI.2 id="nguyenaiquoc.en.xml">
+	<teiHeader date.created="30/12/2002">
+		<fileDesc>
+			<titleStmt>
+				<title type="source"></title>
+				<author></author>
+				<respStmt>
+					<resp></resp>
+					<name></name>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<distributor>Nhan dan dien tu</distributor>
+				<authority/>
+				<date>1/12/2002</date>
+			</publicationStmt>
+			<sourceDesc>
+				<p/>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<langUsage>
+				<language id="EN">English</language>
+			</langUsage>
+			<textClass>
+				<keywords>
+					<list>
+						<item>prose</item>
+						<item>history</item>
+					</list>
+				</keywords>
+			</textClass>
+		</profileDesc>
+	</teiHeader>
+	<text>
+		<body id="b1">
+<head>
+Nguyen Ai Quoc (Ho Chi Minh's) revolutionary activities abroad (1919-1925).
+</head>
+<div>
+<p>
+     <s>The period before and during World War I.</s>
+     <s>Nguyen Ai Quoc's, later known as Ho Chi Minh, first patriotic activities before going abroad.</s>
+</p>
+<p>
+     <s>The revolutionary patriotic movement of our people in early the 20th century that involved various social strata greatly frightened the French colonialists who frenziedly coped with it.</s>
+     <s>However, owing to the lack of a correct path and close organisation, the movement ended in failure.</s>
+     <s>The crisis of leadership required a fast solution in order to bring forward the revolution.</s>
+     <s>The young Nguyen Tat Thanh (who later took the name of Nguyen Ai Quoc) began his revolutionary career at this point of time.</s>
+     <s> Nguyen Ai Quoc was born on May 19, 1890 into a family of a patriotic scholar of peasant origin.</s>
+     <s>His homeland was in Kim Lien commune, Nam Dan district, Nghe An province, a locality of anti-aggression traditions throughout history.</s>
+     <s>Growing up when the country was lost to the French, he witnessed how the people in his homeland led their miserable and humiliating lives.</s>
+     <s>He hatched a strong will from his youth to drive away the French colonialists and liberate his people.</s>
+     <s>Engaging in underground activities he acted as liaison for a number of patriotic scholars in those days.</s>
+</p>
+<p>
+     <s>In late 1904, Nguyen Ai Quoc followed his father to Hue.</s>
+     <s>In 1895, he lived and went to school in Hue when he was with his parents and elder brother there, but after his mother's death, his family came back home before going to Hue again in 1904.</s>
+     <s>Familiarising himself with French civilisation during his studies at the National School, he was anxious to find out what was behind the words of freedom, equality and humanity proclaimed by the French Revolution.</s>
+</p>
+<p>
+     <s>Our people's patriotic movements in the late 19th and early the 20th centuries which ended in failure one after another before the barbarous suppression of the enemy gave him a lot of food for thought.</s>
+     <s> Although greatly admiring patriotic scholars such as Phan Dinh Phung, Hoang Hoa Tham, Phan Boi Chau, he did not agree with the path chosen by them and determined to seek one of his own.</s>
+</p>
+<p>
+     <s>Having joined the anti-tax demonstrations of the people in Thua Thien - Hue in 1908, he secretly made his way further to the south.</s>
+     <s>On his way, he made a temporary stop and did a teaching job at Duc Thanh School (Phan Thiet) which was set up by some patriotic scholars.</s>
+     <s>He then moved on to Saigon in order to seek an opportunity to travel to Western European countries to find out how they grew into great powers so as to "return home, go deep among the masses, arouse their organisation and unity, train and introduce them to the struggle for freedom and independence".</s>
+</p>
+<p>
+     <s>Nguyen Ai Quoc seeks a new path for national salvation In mid 1911, at the Nha Rong Port (Saigon), Nguyen Ai Quoc took on the job of a cook on a French merchant ship so as away to go abroad.</s>
+</p>
+<p>
+     <s>His journey lasted almost six years.</s>
+     <s>First, he set foot at Marseilles (France) in July 1911, later to a number of other countries in Africa, America, Europe and, finally, back in France again on December 1917 when World War I was at its height of atrociousness.</s>
+     <s>Wherever he went, he had to earn his living by taking on casual jobs such as waiter, cook, gardener, snow sweeper, etc directly learning and training himself amongst the working class.</s>
+     <s>In Great Britain, he joined the Overseas Worker's Association.</s>
+     <s>In the United States, he worked as an employee in Brooklyn and attended meetings organised by the black people in Harlem.</s>
+     <s>Back in France, he actively participated in the patriotic movement of the Vietnamese overseas as well as the struggle movement of the French working class.</s>
+     <s>By then these movements were strongly developing under the impact of the Russian October Revolution.</s>
+     <s>He founded the Association of Patriotic Vietnamese to educate and awaken the Vietnamese.</s>
+     <s>He made friends with a number of prestigious political, social and cultural activists in France.</s>
+     <s>He wrote articles for newspapers to lay bare the crimes of France in its colonies, made use of many forums, conferences, meetings and clubs to carry out propagation for revolution in Vietnam and Indochina.</s>
+     <s>He quickly became the leader of the movement of the Vietnamese and one of the leaders of the movement of French colonies in France.</s>
+     <s>In late 1918, he joined the French Socialist Party, the sole and biggest party upholding the interests of the working people at that time.</s>
+</p>
+<p>
+     <s>His initial and well-oriented activities constituted a large contribution of the Vietnamese working class and people to the international and French workers' movement.</s>
+     <s>This served as necessary and adequate conditions for the Vietnamese revolution after World War I to meet with the theory of national salvation of the era: Marxism-Leninism.</s>
+</p>
+<p>
+     <s>The period 1919-1925 Nguyen Ai Quoc's activities in France after World War I Having left the country in 1911 in seeking a path for national salvation and traveled to many countries in Western Europe, Africa and Latin America, Nguyen Tat Thanh (later known as Ho Chi Minh) returned to Paris (France).</s>
+     <s>He had to do many jobs to earn his living.</s>
+     <s>He made contacts with Vietnamese patriots in France such as Phan Chu Trinh, Phan Van Truong and others.</s>
+     <s>He joined the Association of Patriotic Vietnamese in France and became its principal leader.</s>
+     <s>He also made contacts with many walks of life in French society, notably the working class.</s>
+</p>
+<p>
+     <s>In 1919, the winners of the World War I gathered in Versailles (near Paris) to share the trophies among themselves.</s>
+     <s>On behalf of the Association of Patriotic Vietnamese, under the name of Nguyen Ai Quoc, he sent a petition to the conference.</s>
+     <s>The petition demanded the French government to extend democratic freedoms to the Vietnamese people.</s>
+     <s>From then, the name Nguyen Ai Quoc went down in history as a symbol of patriotism and, at the same time, stirred up the close pursuit of the French imperialists.</s>
+</p>
+<p>
+     <s>By that time, the triumph of the great October Revolution in Russia had made a big echo in France.</s>
+     <s>Reading articles written by Lenin, books and newspapers on the Russian October Revolution, and taking part in debates on the world revolutionary movements, he found that only socialism and the pursuit of the revolutionary path shown by Marx and Lenin could free the Vietnamese nation.</s>
+     <s>From then, he took the initiative in participating in the French worker's movement and, in late 1920, together with genuine French revolutionaries, he became one of the founders of the French Communist Party.</s>
+</p>
+<p>
+     <s>In 1921, with the support of the French Communist Party, Nguyen Ai Quoc and militants of other French colonies who lived in France founded the Association of Colonised Nations.</s>
+     <s>He was a member of the Executive Committee of the Association and, at the same time, looked after the publication of Le Paria- the newspaper of the Association.</s>
+</p>
+<p>
+     <s>He regularly wrote for Le Paria and other progressive newspapers, laying bare the crimes of the French in its colonies.</s>
+     <s>He made speeches at meetings, and conferences in order to win the sympathy and support of the French people for the anti-colonialist struggle.</s>
+</p>
+<p>
+     <s>Nguyen Ai Quoc in the Soviet Union and his work with the Communist International In mid 1923, Nguyen Ai Quoc left France for the Soviet Union.</s>
+     <s>He participated in the Peasant International held in Moscow from October 1-15, 1923, and was elected to its executive committee.</s>
+</p>
+<p>
+     <s>Later, he worked for the Communist International.</s>
+     <s>He wrote for Pravda (The Truth) of the Communist Party of the Soviet Union and La Correspondence Internationale of the Communist International, expressing his opinions on the national liberation revolution in colonies.</s>
+</p>
+<p>
+     <s>From June 17 to July 18, 1924, the Communist International was in its Fifth Congress.</s>
+     <s>At the Congress, he made a speech in the capacity of a delegate of the French Communist Party pointing out the significance of the national liberation revolution and the close tie between this movement with the revolution movement of the proletarian class in mother countries.</s>
+     <s>He called for the support of the proletarian class and Communist Parties in the mother countries to the national liberation movement, set forth measures to turn the national liberation movement in colonies into an integral part of the world revolution movement.</s>
+</p>
+<p>
+     <s>After the Fifth Congress of the Communist International, Nguyen Ai Quoc took part in the congresses of International Youth, International Woman and International Labour.</s>
+</p>
+<p>
+     <s>During his stay in the Soviet Union, Nguyen Ai Quoc contributed much time and effort to study Lenin's works and investigated initial achievements and experiences in building socialism in the Soviet country.</s>
+</p>
+<p>
+     <s>Impacts of these activities on the national liberation movement in Vietnam A genuine patriot, having gone through years of activities broad, Nguyen Ai Quoc became a militant communist.</s>
+     <s>Nguyen Ai Quoc showed to the Vietnamese people the path to free themselves from the yoke of imperialism and feudalism, ie to combine patriotism with socialism and proletarian internationalism.</s>
+     <s>Using newspapers and international forums he disseminated the new revolutionary theory into Vietnam to awaken those who were interested in the destiny of the country, particularly the circles of youths, scholars, students, etc.</s>
+     <s>At the same time, he began to build international ties and friendship between the Vietnamese revolutionary movement and the revolutionary movement in France as well as the national liberation movements in colonies and the world revolution movement.</s>
+</p>
+</div>
+</body>
+</text>
+</TEI.2>

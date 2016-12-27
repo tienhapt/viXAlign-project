@@ -1,0 +1,99 @@
+<?xml version="1.0" standalone="no"?>
+<!-- edited with XML Spy v4.0.1 U (http://www.xmlspy.com) by NGUYEN THI MINH HUYEN (LORIA) -->
+<!DOCTYPE TEI.2 SYSTEM "C:/CORPUS/dtd/xlite/xteilite.dtd" [
+	<!ENTITY % ISO_Latin1 PUBLIC "ISO 8879-1986//ENTITIES Added Latin 1//EN//XML" "C:/CORPUS/dtd/pen/ISOlat1.pen">
+	%ISO_Latin1;
+]>
+<TEI.2 id="mattranVM.en.xml">
+	<teiHeader date.created="30/12/2002">
+		<fileDesc>
+			<titleStmt>
+				<title type="source"></title>
+				<author></author>
+				<respStmt>
+					<resp></resp>
+					<name></name>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<distributor>Nhan dan dien tu</distributor>
+				<authority/>
+				<date>1/12/2002</date>
+			</publicationStmt>
+			<sourceDesc>
+				<p/>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<langUsage>
+				<language id="EN">English</language>
+			</langUsage>
+			<textClass>
+				<keywords>
+					<list>
+						<item>prose</item>
+						<item>history</item>
+					</list>
+				</keywords>
+			</textClass>
+		</profileDesc>
+	</teiHeader>
+	<text>
+		<body id="b1">
+<head>
+The Viet Minh Front - an anti-Japanese high tide for national salvation towards the August 1945 General Uprising.
+</head>
+<div>
+<p>
+     <s>World War II swiftly developed.</s>
+     <s>Having occupied France and most of the European continent, German fascism hastened its preparation to attack the Soviet Union.</s>
+     <s>Japan also hastened its imperative preparation to make a thrust southward.</s>
+     <s>The War took place with atrociousness and scope never seen before, but it was also expected to open up new opportunities for the liberation movement in many countries.</s>
+</p>
+<p>
+     <s>The Vietnamese people's movement to defeat French colonialism and to draw away Japanese fascism entered a new stage.</s>
+     <s>The imperative demand of the revolution required a close, sensitive and centralised guidance of the Party.</s>
+     <s>On February 8, 1941 Nguyen Ai Quoc secretly returned to Vietnam from abroad and stayed in Pac Bo (Cao Bang).</s>
+     <s>He immediately set to build revolutionary bases, set up organisations for national salvation and make urgent preparation for a conference of the Party Central Committee.</s>
+     <s>From May 10-19, 1941 the eighth plenum of the Party Central Committee presided over by Nguyen Ai Quoc decided to uphold the banner of national liberation and gather all patriotic forces and individuals into a broad national united front in order to drive away the French colonialists and Japanese fascists and their lackeys to regain national independence, postpone the call for "confiscation of landlords' land to distribute to tillers" and replace it by the call for "confiscation of the imperialists' and traitors' land to distribute to the poor," reduce taxes and duties, re-allocate public land in the implementation of the ideal "land to tillers."</s>
+     <s>In order to fulfil these major imperative tasks, it was necessary to set up a national united front, build up revolutionary strength including both the political force of the mass and the armed forces, set up guerilla bases, develop revolutionary forces both in towns and in the countryside, and be ready to seize upon favourable opportunities to wage partial uprisings and win partial power in preparation to launch a general uprising to win full power in the whole country.</s>
+     <s>The plenum laid special emphasis on the building of the Party "a long the direction of enabling the it to exercise its leadership over the Indochinese revolution to win total victory."</s>
+     <s>An official Party Central Committee with Truong Chinh in the capacity of general secretary, was officially elected by the plenum.</s>
+</p>
+<p>
+     <s>As proposed by Nguyen Ai Quoc, the plenum decided the foundation of the League for Vietnamese Independence (known as the Viet Minh) to replace the anti-imperialist National United Front of Indochina.</s>
+     <s>The birth of the Viet Minh, comprised various mass organisations of workers, peasants, youths, women, soldiers of the colonial army, civil servants, traders, etc symbolised the unity and oneness as well as the staunch and indomitable traditions of the Vietnamese people.</s>
+     <s>The Viet Minh's programme for national salvation consisted of a system of political, economic, cultural policies as well as other specific ones vis-�is all social strata to meet the imperative requirements of the nation and make best use of the strength of national unity against the imperialists and their lackeys.</s>
+     <s>In his letter to the people throughout the country on June 6, 1941 Nguyen Ai Quoc wrote: "At the moment, the interest to liberate the nation stands as the highest, we must unite to overthrow the imperialists and the traitors so as to save our race from an emergency situation...</s>
+     <s>National salvation is a common task.</s>
+     <s>Every Vietnamese must be responsible to shoulder this task." The eighth plenum of the Party Central Committee in 1941 constituted a great historic significance, marking a complete shift of strategic guidance of our Party in the new situation.</s>
+     <s>Together with the Resolution of the Party Central Committee in 1939, the eighth plenum played a decisive role in the victory of the August 1945 Revolution.</s>
+</p>
+<p>
+     <s>Under the banner of the Viet Minh, the revolutionary movement achieved steadfast developments.</s>
+     <s>In Cao Bang, a system of organisations was established by the Viet Minh from communal to provincial levels.</s>
+     <s>In many communes and districts, most of the people joined in committees for national salvation, became actively involved in political, military and cultural training; self-defence and guerilla units were set up in many hamlets and communes.</s>
+     <s>Training of military and political cadres was carried out urgently.</s>
+     <s>The Viet Minh acted as the representative of rights to mastership of the people, directly involved in settling every communal affair.</s>
+</p>
+<p>
+     <s>In February 1943 it was decided at a conference of the Party Standing Central Committee to expand the national united front on the basis of strengthening the worker-peasant alliance, promotion of guerilla bases in the lowlands and highlands, further development of the armed forces, attachment of much importance to revolutionary activities in urban areas, notably the mobilisation of workers, close combination of the revolution movement in the countryside and in the towns during the preparation for uprisings.</s>
+     <s>In August 1943, our guerilla bases were systematically linked together by a political corridor of the masses, facilitating the birth of a liberated zone.</s>
+     <s>To oppose the enslaved culture of imperialism and to build a new culture of Vietnam, in 1943 the Party promulgated the Draft of Cultural Platform of Vietnam, seeing culture as a front requiring the leadership of the Party.</s>
+</p>
+<p>
+     <s>On June 7, 1944 the General Committee of the Viet Minh issued the instruction to prepare for uprisings.</s>
+     <s>On August 10, 1944 the Party Central Committee issued its appeal to prepare weapons to drive away the common enemy.</s>
+     <s>On December 22, 1944 the Vietnam Propagation and Liberation Army launched surprise attacks, destroying the Phai Khat and Na Ngan posts in Cao Bang.</s>
+</p>
+<p>
+     <s>On March 9, 1945 the Japanese overthrew the French, wholly occupying Indochina.</s>
+     <s>On March 12, 1945 the Party Central Committee issued the instruction "Conflict between the Japanese and the French and our action" pointing out that "Japanese fascism is the main, immediate and sole enemy of the Indochinese people," with the call to "drive away Japanese fascism", "set up the people's revolutionary government", and launch a strong revolutionary tide against the Japanese for national salvation to clear the way for a general uprising.</s>
+     <s>The instruction served as the guide for every revolutionary activity of the Vietnamese people in the anti-Japanese movement and exerted a decisive influence on the victory of the August 1945 General Uprising.</s>
+   
+</p> 
+</div>
+</body>
+</text>
+</TEI.2>

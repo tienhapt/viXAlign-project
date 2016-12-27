@@ -1,0 +1,130 @@
+<?xml version="1.0" standalone="no"?>
+<!-- edited with XML Spy v4.0.1 U (http://www.xmlspy.com) by NGUYEN THI MINH HUYEN (LORIA) -->
+<!DOCTYPE TEI.2 SYSTEM "C:/CORPUS/dtd/xlite/xteilite.dtd" [
+	<!ENTITY % ISO_Latin1 PUBLIC "ISO 8879-1986//ENTITIES Added Latin 1//EN//XML" "C:/CORPUS/dtd/pen/ISOlat1.pen">
+	%ISO_Latin1;
+]>
+<TEI.2 id="xovietNT.en.xml">
+	<teiHeader date.created="30/12/2002">
+		<fileDesc>
+			<titleStmt>
+				<title type="source"></title>
+				<author></author>
+				<respStmt>
+					<resp></resp>
+					<name></name>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<distributor>Nhan dan dien tu</distributor>
+				<authority/>
+				<date>1/12/2002</date>
+			</publicationStmt>
+			<sourceDesc>
+				<p/>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<langUsage>
+				<language id="EN">English</language>
+			</langUsage>
+			<textClass>
+				<keywords>
+					<list>
+						<item>prose</item>
+						<item>history</item>
+					</list>
+				</keywords>
+			</textClass>
+		</profileDesc>
+	</teiHeader>
+	<text>
+		<body id="b1">
+<head>
+The Nghe-Tinh Soviet movement.
+</head>
+<div>
+<p>
+     <s>The working class and peasant movements in 1930-1931.</s>
+</p>
+<p>
+     <s>From 1929, the world economic crisis heavily wrecked the capitalist economies.</s>
+     <s>It also exerted a serious impact on the economy and living conditions of the Vietnamese people.</s>
+     <s> Production was impeded, commodities were unsold, many enterprises, especially those of the national bourgeoisie and small traders, went bankrupt.</s>
+     <s>More and more workers and officials were laid off; those who still remained in job had their pay cut down and working hours increased; unemployment constituted a permanent threat to everyone.</s>
+     <s>Peasants were poverty stricken and distressed by the economic crisis.</s>
+</p>
+<p>
+     <s>In addition, following some political upheavals such as the assassination of Basin, the Yen Bai uprising and others, the French colonialists carried out terror and suppression without mercy.</s>
+     <s>Tens of thousands of people were arrested and imprisoned.</s>
+</p>
+<p>
+     <s>Under these circumstances, the birth of the Communist Party of Vietnam on March 2, 1930 served as an inexhaustible source of encouragement to the working class and people.</s>
+     <s>Under the leadership of the Party, workers and peasants throughout the country successively rose up in struggle.</s>
+</p>
+<p>
+     <s>On May 1, 1930, Vietnamese workers and peasants celebrated May Day for the first time.</s>
+     <s>Leaflets and banners that called for pay increase and fewer working hours, abolition of maltreatment toward workers, postponement of tax payments for peasants together with the slogan "workers of the world unite" appeared in many localities such as Hanoi, Haiphong, Nam Dinh, Thai Binh, Vinh, Hue, Da Nang, Quy Nhon, Bien Hoa, Saigon, and others.</s>
+     <s>Peasants in Tien Hai demonstrated and moved to Thai Binh provincial town; peasants in Cao Lanh and Tan Phu demonstrated to demand the postponement of tax payments.</s>
+     <s>Rail workers in Di An (Saigon) and at Cho Lon power station went on strike.</s>
+     <s>In Vinh, workers of the Ben Thuy Match Factory demonstrated and went on strike who were vehemently responded by the peasants in the villages around the provincial town.</s>
+</p>
+<p>
+     <s>After May 1, 1930 the movement continued to grow fast throughout the country, particularly in Thai Binh, Nghe An, Ha Tinh, Quang Ngai, Cao Lanh, before it cooled down towards the middle of 1931.</s>
+</p>
+<p>
+     <s>The Nghe-Tinh Soviet.</s>
+</p>
+<p>
+     <s>During 1930-1931, Nghe An and Ha Tinh were the places where the struggle movement was most strongly waged.</s>
+     <s> On the anniversary of May Day in 1930, workers of the Match Factory and the Ben Thuy Sawing Mill with thousands of peasants in the vicinities of Vinh demonstrated to show off their strength, raising high slogans to demand higher wages, fewer working hours, reduction of tax, observation of labour law, etc.</s>
+     <s>On the same day, thousands of peasants in Thanh Chuong and Can Loc districts also demonstrated to demand reduction of poll-tax and land rent, abolition of market and wharf dues, etc.</s>
+</p>
+<p>
+     <s>The French carried out brutal repression, but the movement continued to spread in width and scope throughout Nghe An and Ha Tinh provinces.</s>
+</p>
+<p>
+     <s>On September 12, 1930, tens of thousands of peasants in Hung Nguyen district stood in a queue of several kilometres long headed by red hammer and sickle banners moving to Vinh for the submission of their petition.</s>
+     <s>The colonial administration sent its troops to suppress and its aircrafts to bomb the demonstrators, killing 217 and injuring 126.</s>
+     <s>These brutal acts could not put down the struggle movement of the Nghe - Tinh peasants.</s>
+     <s>Throughout September and November, peasants continued to rise up causing a lot of damage to district towns, plantations, forestry stations, railway stations, prisons, etc.</s>
+     <s>The colonial and feudal administration in many communes and hamlets fell apart.</s>
+     <s>Village authorities either surrendered to the revolution or ran away.</s>
+</p>
+<p>
+     <s>To replace the disintegrated reactionary administration, under the leadership of Party cells, executive committees of peasant unions in communes took over the management of socio-political life in the countryside.</s>
+     <s>That was a form of people's power of soviet type.</s>
+     <s> The people's power implemented a number of measures to improve the living conditions of the people: abolition of taxes and dues, postponement of debt repayments, redistribution of land; reduction of land rent.</s>
+     <s>Social evils such as gambling, theft, superstition, alcoholism, etc were substantially reduced.</s>
+     <s>Many classes for learning the national language (romanised script) were organised.</s>
+     <s>Mass organisations such as Peasant Union, Women's Union, Anti-imperialist Youth League and others grew fast.</s>
+     <s>Each hamlet had its own self-defence militia unit to keep order and protect the revolutionary power.</s>
+</p>
+<p>
+     <s>When Nghe An and Ha Tinh were seething with the soviet movement, the Central Committee of the Communist Party of Vietnam held its first conference in October 1930.</s>
+     <s>The Committee called for wide response to and protection of the Nghe-Tinh Soviet.</s>
+     <s>Demonstrations and strikes were successively organised by workers and peasants throughout the three regions of the country.</s>
+</p>
+<p>
+     <s>The colonial and feudal administration resorted to all means in an attempt to extinguish the revolutionary movement of the masses.</s>
+     <s>Besides their tricks of sowing discord, seduction and bribe, they had many people killed, many house destroyed and burnt down by their troops and aircrafts.</s>
+</p>
+<p>
+     <s>A number of leading bodies of the Party was broken.</s>
+     <s>Tens of thousand of revolutionary cadres and fighters were arrested, deported and executed.</s>
+     <s> Not until the middle of 1931 could the French colonialists be able to restore their reactionary order in the countryside of Nghe An and Ha Tinh provinces.</s>
+</p>
+<p>
+     <s>Significance of the working class and peasant movements in 1930-1931.</s>
+</p>
+<p>
+     <s>The worker-peasant movement in 1930-1931 which culminated in the Nghe-Tinh soviet proved that the line and tasks of the Vietnamese revolution charted by the Communist Party of Vietnam received vehement response of the working masses.</s>
+     <s>For the first time in the history of the Vietnamese revolution, under the leadership of Party's organisations, workers and peasants rose up like storm, overwhelming the reactionary administration in many rural locations.</s>
+     <s>The high tide of revolution in 1930-1931 confirmed the capability of the Communist Party of Vietnam to exercise its leadership over the cause of national liberation.</s>
+     <s>"Its heroic spirit always remains ardent in our souls and it has charted the path to victory later on" (Ho Chi Minh).</s>
+</p>
+</div>
+</body>
+</text>
+</TEI.2>

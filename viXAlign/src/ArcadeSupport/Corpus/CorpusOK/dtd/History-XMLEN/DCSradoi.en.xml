@@ -1,0 +1,116 @@
+<?xml version="1.0" standalone="no"?>
+<!-- edited with XML Spy v4.0.1 U (http://www.xmlspy.com) by NGUYEN THI MINH HUYEN (LORIA) -->
+<!DOCTYPE TEI.2 SYSTEM "C:/CORPUS/dtd/xlite/xteilite.dtd" [
+	<!ENTITY % ISO_Latin1 PUBLIC "ISO 8879-1986//ENTITIES Added Latin 1//EN//XML" "C:/CORPUS/dtd/pen/ISOlat1.pen">
+	%ISO_Latin1;
+]>
+<TEI.2 id="DCSradoi.en.xml">
+	<teiHeader date.created="30/12/2002">
+		<fileDesc>
+			<titleStmt>
+				<title type="source"></title>
+				<author></author>
+				<respStmt>
+					<resp></resp>
+					<name></name>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<distributor>Nhan dan dien tu</distributor>
+				<authority/>
+				<date>1/12/2002</date>
+			</publicationStmt>
+			<sourceDesc>
+				<p/>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<langUsage>
+				<language id="EN">English</language>
+			</langUsage>
+			<textClass>
+				<keywords>
+					<list>
+						<item>prose</item>
+						<item>history</item>
+					</list>
+				</keywords>
+			</textClass>
+		</profileDesc>
+	</teiHeader>
+	<text>
+		<body id="b1">
+<head>
+The Birth of the Communist Party of Vietnam.
+</head>
+<div>
+<p>
+     <s>First communist organisations in Vietnam.</s>
+     <s>Working class and patriotic movements in the later half of the 1920s.</s>
+</p>
+<p>
+     <s>After the birth of new revolutionary organisations, the revolutionary movement in Vietnam became more vehement.</s>
+     <s>With the activities of the Revolutionary Youth Association and the Tan Viet, the working class continuously rose up.</s>
+     <s>The year of 1928 witnessed big strikes throughout the country: in Tonkin, strikes were organised by bread workers in Hanoi, textile workers in Nam Dinh; in Annam, strikes were organised by workers of the Ben Thuy Sawing Mill, mechanics and drivers of Vinh Garage; and in Cochinchina, strikes were organised by workers of the Saigon Ice Factory, Portailles Printing House and Cho Lon Milling Factory, etc.</s>
+</p>
+<p>
+     <s>Most resounding was the struggle waged by workers of the Phu Rieng Plantation in September 1928 which had a big repercussion to Paris.</s>
+     <s> Towards 1929, the working class movement was at a high point.</s>
+     <s>From April 1919 to April 1930 as many as 43 strikes were organised.</s>
+     <s>The demand for stopping maltreatment, eight working hours per day, pay increase, payment for strike day-offs, etc became slogans in most strikes.</s>
+     <s>In the strike of the workers of the Nam Dinh Textile Mill from June to July 1929, the trade union of Nam Dinh distributed leaflets explaining "the dyers are going on strike for the rights and interests not only of their own, but also of their distressed friends...".</s>
+     <s>and calling on workers in Nam Dinh and elsewhere to respond.</s>
+     <s>The trade union of Tonkin also issued an appeal to workers to raise money and organise strikes for the common interests.</s>
+</p>
+<p>
+     <s>Together with the working class movement, the movement of other social strata was no less enthusiastic.</s>
+     <s>Following the campaigns to demand the release of Phan Boi Chau, the commemoration of Phan Chu Trinh, which involved tens of thousands of people in 1925-1926, towards 1927, students of the National school and the schools of Painlerin and Dong Khanh in Hue went on strike; in Hanoi, workers, students and small traders went on strike to protest against the Dan Bao newspaper for insulting patriotic scholars.</s>
+     <s>In 1928, Cochinchina was disturbed by the suppression of 'Nguyen An Ninh's Underground Society.'</s>
+     <s>Nguyen An Ninh was a patriotic scholar who, upon returning home after his graduation in France, wrote for newspapers and made public speeches to demand democratic freedoms.</s>
+     <s>He was arrested in 1926 and released in 1928. Leaving prison, he continued his activities, going deep in the masses, making public speeches saw response from many.</s>
+     <s>Owing to this, he was arrested again together with hundreds of others.</s>
+</p>
+<p>
+     <s>Nguyen An Ninh's case was pending while many other cases took place that stirred up the public opinion throughout the country, particularly the assassination of Bazin and the Yen Bai uprising.</s>
+</p>
+<p>
+     <s>The birth of first communist organisations Amidst the seething political atmosphere with strikes and other activities of workers and different classes, and with random searches and arrests by the colonial administration, the Revolutionary Youth Association held its National Congress in Hong Kong from May 1-9, 1929. At the beginning of the Congress, the delegation of Tonkin, led by Quoc Anh (also known as Tran Van Cung), proposed the foundation of a Communist Party because the Revolutionary Youth Association could no longer meet the leading role in the new situation.</s>
+     <s>The proposal was not approved by the Congress.</s>
+     <s>The delegation of Tonkin left the Congress, declaring its disconnection with the Revolutionary Youth Association.</s>
+</p>
+<p>
+     <s>In June 1929, the Communist Party of Indochina was founded in Tonkin, distributing leaflets to present itself before the public.</s>
+     <s>Not all members of the Revolutionary Youth Association became members of the new Party as with a simple change of name.</s>
+     <s>Each of the members of the Revolutionary Youth Association had to undergo consideration to be admitted to the new Party.</s>
+     <s>The impact exerted by the Communist Party of Indochina quickly spread.</s>
+     <s>In late 1929, the Party was able to build a system of foundations throughout the three regions of the country.</s>
+     <s>Mass organisations of the Party such as the Workers' Red Union, Peasants' Red Union, League of Young Communists, Woman Association for Liberation were set up.</s>
+     <s>The underground newspaper of the Party was widely circulated.</s>
+     <s>The Party began to exercise its leadership over a number of workers' struggles.</s>
+     <s>Under the leadership of the Party, the Phu Rieng workers again rose up in late 1929 to early 1930, capturing the attention of the public and the press.</s>
+</p>
+<p>
+     <s>Before the increasing impact of the Communist Party of Indochina, the remaining part of the Revolutionary Youth Association, mainly in Cochinchina, declared the foundation of the Communist Party of Annam.</s>
+     <s>The advanced part of the Tan Viet, before the new revolutionary trend, separated from the old organisation and declared the foundation of the Communist League of Indochina.</s>
+</p>
+<p>
+     <s>Thus, in late 1929 to early 1930, there three communist organisations appeared in Vietnam ie the Communist Party of Indochina, the Communist Party of Annam and the Communist League of Indochina.</s>
+     <s>All these three Parties went deep amongst the masses, peasants and patriotic scholars, and combined struggle with propaganda for their new organisations.</s>
+</p>
+<p>
+     <s>The significance of the birth of the communist organisations The demand of the new situation.</s>
+</p>
+<p>
+     <s>The appearance of the three communist organisations marked a new development of the workers and patriotic movements in Vietnam in late the 1920s.</s>
+     <s>Particularly, the working class grew alive to its leadership toward the Vietnamese revolutionary movement.</s>
+</p>
+<p>
+     <s>However, the organisational split was taking place among the ranks of the communists.</s>
+     <s>Therefore, the integration of the Vietnamese communists into a single organisation was required as a pressing demand.</s>
+     <s>This was the only way to unite forces of the masses and speed up the cause of national liberation.</s>
+</p>
+</div>
+</body>
+</text>
+</TEI.2>

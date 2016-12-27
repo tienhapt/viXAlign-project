@@ -1,0 +1,95 @@
+<?xml version="1.0" standalone="no"?>
+<!-- edited with XML Spy v4.0.1 U (http://www.xmlspy.com) by NGUYEN THI MINH HUYEN (LORIA) -->
+<!DOCTYPE TEI.2 SYSTEM "C:/CORPUS/dtd/xlite/xteilite.dtd" [
+	<!ENTITY % ISO_Latin1 PUBLIC "ISO 8879-1986//ENTITIES Added Latin 1//EN//XML" "C:/CORPUS/dtd/pen/ISOlat1.pen">
+	%ISO_Latin1;
+]>
+<TEI.2 id="DuongDinhNghe.en.xml">
+	<teiHeader date.created="30/12/2002">
+		<fileDesc>
+			<titleStmt>
+				<title type="source"></title>
+				<author></author>
+				<respStmt>
+					<resp></resp>
+					<name></name>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<distributor>Nhan dan dien tu</distributor>
+				<authority/>
+				<date>1/12/2002</date>
+			</publicationStmt>
+			<sourceDesc>
+				<p/>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<langUsage>
+				<language id="EN">English</language>
+			</langUsage>
+			<textClass>
+				<keywords>
+					<list>
+						<item>prose</item>
+						<item>history</item>
+					</list>
+				</keywords>
+			</textClass>
+		</profileDesc>
+	</teiHeader>
+	<text>
+		<body id="b1">
+<head>
+The resistance against the Nanhan.
+</head>
+<div>
+<p>
+     <s>Duong Dinh Nghe restores the sovereignty (931 - 937).</s>
+</p>
+<p>
+     <s>Whilst the Khuc family in our country rose up in revolt for sovereignty, a governor of the Liu family in Kwangchow (Kwangtung) seized this area and founded the state of Nanhan.</s>
+     <s>At the beginning, Nanhan maintained normal relationship with our country, but later the former hatched a plot to conquer the latter.</s>
+</p>
+<p>
+     <s>In 917, Khuc Hao passed away and his son, Khuc Thua My, succeeded his father, proclaiming himself governor.</s>
+     <s>Khuc Thua My had spent some time in Nanhan before who clearly realised its plan of expansion.</s>
+     <s>Therefore, he sent his envoy to the later Liang (which replaced the Tang by that point of time) so as to seek its support to resist the Nanhan.</s>
+</p>
+<p>
+     <s>Using the pretext of Khuc Thua My's disobedience, the Nanhan emperor sent big marine and infantry armies to invade our country in the spring of 930. Khuc Thua My troops failed to resist the invaders and were captured and taken to Kwangchow.</s>
+     <s>The Nanhan ravaged our country and occupied Dai La citadel (Hanoi).</s>
+</p>
+<p>
+     <s>Although Khuc Thua Du was captured, our people never submitted to the invaders.</s>
+     <s>Duong Dinh Nghe, one of Khuc Hao's generals was determined to carry on the cause of national liberation.</s>
+</p>
+<p>
+     <s>Duong Dinh Nghe was born in Rang village (Duong Xa, Thieu Hoa, Thanh Hoa).</s>
+     <s>The Duong family was a big one.</s>
+     <s>A straightforward man of patriotism, Duong Dinh Nghe set up rooms for the practice of martial arts and gathered talented people.</s>
+     <s>Three thousand troops of good martial arts were trained.</s>
+     <s>The Rang village soon became a venue of patriotic forces.</s>
+     <s>Ngo Quyen from Duong Lam (Ha Tay) and Dinh Cong Tru from Hoa Lu (Ninh Binh) also came here.</s>
+     <s>The Nanhan invaders were aware of this but they were not able to suppress it.</s>
+</p>
+<p>
+     <s>In the spring of 931, Duong Dinh Nghe took his troops to the north from Rang village, laid siege to and launched an attack on Dai La citadel.</s>
+</p>
+<p>
+     <s>The Nanhan troops were frightened.</s>
+     <s>They sent men back home to ask for reinforcements.</s>
+     <s>The enemy reinforcement was still on its way when Duong Dinh Nghe closely encircled the citadel and captured it.</s>
+     <s>Soon afterward, he organised a force to attack the Nanhan reinforcement.</s>
+     <s>The reinforcement troops were dealt a shattering blow upon their arrival and the enemy general was killed on spot.</s>
+</p>
+<p>
+     <s>Again, the invaders were driven out of our country.</s>
+     <s>Duong Dinh Nghe proclaimed himself governor.</s>
+     <s>The national sovereignty of our country was restored.</s>
+</p>
+</div>
+</body>
+</text>
+</TEI.2>

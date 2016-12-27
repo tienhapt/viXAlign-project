@@ -1,0 +1,338 @@
+<?xml version="1.0" standalone="no"?>
+<!-- edited with XML Spy v4.0.1 U (http://www.xmlspy.com) by NGUYEN THI MINH HUYEN (LORIA) -->
+<!DOCTYPE TEI.2 SYSTEM "C:/CORPUS/dtd/xlite/xteilite.dtd" [
+	<!ENTITY % ISO_Latin1 PUBLIC "ISO 8879-1986//ENTITIES Added Latin 1//EN//XML" "C:/CORPUS/dtd/pen/ISOlat1.pen">
+	%ISO_Latin1;
+]>
+<TEI.2 id="knlamson.en.xml">
+	<teiHeader date.created="30/12/2002">
+		<fileDesc>
+			<titleStmt>
+				<title type="source"></title>
+				<author></author>
+				<respStmt>
+					<resp></resp>
+					<name></name>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<distributor>Nhan dan dien tu</distributor>
+				<authority/>
+				<date>1/12/2002</date>
+			</publicationStmt>
+			<sourceDesc>
+				<p/>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<langUsage>
+				<language id="EN">English</language>
+			</langUsage>
+			<textClass>
+				<keywords>
+					<list>
+						<item>prose</item>
+						<item>history</item>
+					</list>
+				</keywords>
+			</textClass>
+		</profileDesc>
+	</teiHeader>
+	<text>
+		<body id="b1">
+<head>
+The Lam Son Insurrection (1418-1425).
+</head>
+<div>
+<p>
+     <s> The period of western Thanh Hoa.</s>
+     <s>Le Loi raises the banner of revolt.</s>
+</p>
+<p>
+     <s>The insurrections led by Tran Ngoi and Tran Quy Khoang were defeated, but the indomitable struggle of our people still existed and, increasingly, progressed.</s>
+     <s>The most typical was the Lam Son insurrection led by Le Loi.</s>
+</p>
+<p>
+     <s>Lam Son which belongs to Tho Xuan district, Thanh Hoa province today was the first base of the Lam Son insurrection and the native homeland of the national hero Le Loi.</s>
+     <s>Lam Son was on the left bank of the Chu river, linking the highlands with the lowlands where the Kinh and two other ethnic minorities of Muong and Thai lived together.</s>
+     <s>The heroic and united people, the hazardous terrain and the weak enemy authority there served as good condition to nurture an uprising movement against the Ming.</s>
+</p>
+<p>
+     <s>Le Loi was a clever, generous and prestigious patriot.</s>
+     <s>Feeling deep grief at the slavery and distress of the people, he was determined to rise up in arms against the invaders for the salvation of the country and people.</s>
+     <s>The Ming used rank and wealth in a bid to buy him over, but all their tricks were doomed to failure.</s>
+     <s>He often said, "A gentleman living in this world should come to the rescue in times of great danger, do big feats, leave good fame to next generations without submitting to others as slave".</s>
+     <s>It was also his statement that, "I raise the troops against the enemy not gain riches and honour for myself but for next thousands of generations to know that we never submit ourselves to the cruel enemy".</s>
+     <s>Le Loi devoted all his wealth to the gathering of righteous men and the build-up of force.</s>
+</p>
+<p>
+     <s>Hearing of Le Loi raising the banner of revolt in Lam Son, righteous men came from all parts of the country in a large number.</s>
+     <s>In early 1416, the command of the resistance was first set up consisting of 19 members led by Le Loi who organised an oath in Lung Nhai, pledging to be together in life or death to fight back the enemy for the salvation of the country.</s>
+</p>
+<p>
+     <s>Nguyen Trai was one of the first men to come to Lam Son.</s>
+</p>
+<p>
+     <s>Nguyen Trai was of vast knowledge and great talent with ardent patriotism and love toward the people.</s>
+     <s>After the defeat of the Ho's resistance, he was detained in Dong Quan citadel.</s>
+     <s>The Ming made every effort to seduce him.</s>
+     <s>His obligation to the country and his own personal hatred toward the enemy were burning in his heart, but he tried to conceal this so as to shade the enemy's eyes and wait for an opportunity.</s>
+</p>
+<p>
+     <s>In spring 1418 (on the second day of that lunar year), Le Loi proclaimed himself Binh Dinh Vuong (King of Pacification) and promulgated an edict calling on people to join efforts against the enemy.</s>
+</p>
+<p>
+     <s>First years of the resistance.</s>
+</p>
+<p>
+     <s>At first, the righteous army only consisted of less than 2,000 men with serious shortage of ammunition and food.</s>
+     <s>Despite all hardships and difficulties, the insurgent army relied on the hazardous terrain of forests in Thanh Hoa to deal resolutely with the outnumbering invasion army.</s>
+</p>
+<p>
+     <s>"With the people united like one single family, we hold high the standard of revolt;</s>
+     <s>With officers and men like father and son, we share the last drop of wine" ('Proclamation of victory over the Ming').</s>
+</p>
+<p>
+     <s>Only ten days after the banner of revolt was raised, the insurgent army launched the first battle and won an important victory by killing thousands of enemy troops and capturing a lot of weapons.</s>
+     <s>Three days later, a surprise attack was sprung by the enemy which forced the insurgent army to retreat to the Chi Linh mountain.</s>
+     <s>Food ran out, the insurgents had to eat bamboo shoots and root-stalk as their daily food, and suffered every challenge and hardship during those days in the mountain.</s>
+</p>
+<p>
+     <s>The enemy tightened its encirclement, trying to find Le Loi, the leader of the insurrection.</s>
+     <s>The situation was at stake, Le Lai disguised himself as Le Loi calling himself the Lam Son lord and leading a suicide squad to launch an attack straight to the enemy encirclement.</s>
+     <s>The Ming concentrated its force to deal with Le Lai's troops.</s>
+     <s>Le Lai and his squad were captured and massacred by the enemy.</s>
+     <s>Believing that Le Loi and his regular force were destroyed, the enemy pulled out from Chi Linh.</s>
+</p>
+<p>
+     <s>The lofty example of sacrifice of Le Lai and his suicide squad saved the insurrection from jeopardy, protected the commander and the command of the insurrection and preserved the main force.</s>
+</p>
+<p>
+     <s>Le Lai belonged to Muong ethnic minority whose homeland was in Dung Tu village, Kien Tho commune, Ngoc Lac district, Thanh Hoa.</s>
+     <s>He was one of the 19 men attending the 'Lung Nhai Oath' in early 1416. Of the five members of his family involved in the insurrection, four were killed in various battlefields.</s>
+     <s>It was praised later by King Le Thanh Tong that: "In supporting King Thai To (Le Loi) to build a great cause his family wholeheartedly strove and laid down their lives for the country".</s>
+</p>
+<p>
+     <s>Two months after the enemy pulled out, the insurgent army returned in Lam Son, rehabilitating the force and fortifying the base.</s>
+     <s>Wholeheartedly supported by the people, the insurgents were given more numerical strength as well as supplies for the continued building of their fortifications.</s>
+</p>
+<p>
+     <s>In mid 1419, the Ming launched another attack on Lam Son.</s>
+     <s>The insurgent army again retreated to the Chi Linh mountain.</s>
+</p>
+<p>
+     <s>In early 1423, the Ming amassed 10 thousand troops for a massive 'siege and sweep.'</s>
+     <s>The insurgent army had to retreat to Chi Linh mountain for a third time where they had to suffer acute shortage of food and clothes during those days.</s>
+     <s>Le Loi even had battle elephants and horses killed to feed his soldiers.</s>
+     <s>In face of such a serious situation, the command decided to negotiate a truce with the enemy to 'avert the encirclement, strengthen the force, and procure more food and weapons for a protracted war".</s>
+     <s>Worn out in a long war without gaining fast victory the Ming troops tried to seduce Le Loi and his command in order to discourage the morale of the insurgent army, so they agreed to the truce.</s>
+     <s>The insurgent army again returned to the Lam Son base.</s>
+</p>
+<p>
+     <s>In late 1424, the Ming changed about and launched an attack on Lam Son after their seduction efforts failed.</s>
+</p>
+<p>
+     <s>The liberation of Nghe An, Tan Binh and Thuan Hoa.</s>
+     <s>Advance to Nghe An, new guerrilla base set up, the force build up.</s>
+</p>
+<p>
+     <s>An end was put to the truce.</s>
+     <s>Before the new situation, Nguyen Chich proposed a temporary removal from the forest of Thanh Hoa to "shift the troops to Nghe An where the terrain is hazardous, the land is vast relying on which the struggle can be waged to recapture Dong Do".</s>
+     <s>Nguyen Chich's proposed plan was accepted by Le Loi.</s>
+</p>
+<p>
+     <s>Nguyen Chich used to be a poor peasant in his homeland of in Van Loc (Dong Son, Thanh Hoa) who led an uprising against the Ming in the southern districts of Thanh Hoa and northern districts of Nghe An.</s>
+     <s>In 1420, he took all his troops to join the Lam Son insurrection and became a high-ranking officer of the command.</s>
+</p>
+<p>
+     <s>The insurgents followed trails along mountains to western Nghe An from Lam Son.</s>
+     <s>The first battle was a success as the enemy barricade at Tra Lan, upper Lam river, was razed.</s>
+     <s>Before that, the barricade had been encircled for two months until the enemy troops inside were forced to capitulate.</s>
+     <s>Taking advantage of the overwhelming strength, the insurgent army launched another attack along the Lam river breaking the enemy in Kha Luu.</s>
+</p>
+<p>
+     <s>After two glorious victories, the insurgent army advanced down to the lowlands.</s>
+     <s>They drew wide response from the people everywhere who rose up and overthrew the domination authorities.</s>
+     <s>Within a short span of time, most of Nghe An was liberated.</s>
+     <s>The enemy had to withdrew into their citadels in defence.</s>
+     <s> Le Loi tightened the encirclement around Nghe An citadel and thinned out the enemy troops by enticing them out of their stronghold to engage in battle.</s>
+     <s>On the other hand, Le Loi sent his troops to Dien Chau (northern Nghe An) for an ambush and fought a big battle and won a big victory.</s>
+</p>
+<p>
+     <s>In the midst of the victory, the insurgent troops made a thrust straight to Thanh Hoa.</s>
+     <s>The insurgents were enthusiastically supported by the local people many of whom contributed food and weapons to them when others joined their force.</s>
+     <s>In less than one month, a vast area from Dien Chau to Thanh Hoa was liberated.</s>
+     <s>The enemy had to withdraw into Dien Chau and Tay Do citadels in defence.</s>
+     <s> The liberation of Tan Binh and Thuan Hoa in late 1425.</s>
+</p>
+<p>
+     <s>Taking further advantage of the victories, Le Loi sent a marine army under the leadership of Tran Nguyen Han to Tan Binh (Quang Binh and northern Quang Tri) and Thuan Hoa (Thua Thien - Hue) from Nghe An.</s>
+     <s>After a number of small battles, the enemy force was quickly shattered.</s>
+     <s>A vast area was totally liberated.</s>
+     <s>Tran Nguyen Han admitted tens of thousands of youths in this area into his army.</s>
+     <s> Thus, only in one year from October 1424 after leaving the Lam Son base to October 1425, the insurgent army seized back a vast area from Thanh Hoa down to the south.</s>
+     <s>The Ming troops had to withdraw into their citadels of Nghe An, Dien Chau and Tay Do, like isolated islands in the sea.</s>
+</p>
+<p>
+     <s>Advance to the north and the Tot Dong - Chuc Dong Victory.</s>
+</p>
+<p>
+     <s>After a vast area from Thanh Hoa down to the south was basically liberated, the insurgent army set up a large base, and their forces quickly grew.</s>
+     <s>In September 1426, the command of the insurrection decided to advance to the north.</s>
+     <s>The army was divided into three columns, marching deep into areas temporarily occupied by the enemy.</s>
+</p>
+<p>
+     <s>- The first column, of more than 3,000 troops, advanced to the northwestern region.</s>
+</p>
+<p>
+     <s>- The second column of more than 4,000 troops, liberated the eastern and southern area of Dong Quan (present-day Hanoi).</s>
+</p>
+<p>
+     <s>- The third column, of approximately 2,000 troops, advanced to Dong Quan to show off its force to the enemy.</s>
+</p>
+<p>
+     <s>All three columns consisted of no more than 9,000 troops, but they were assigned to penetrate deeply into the Red river delta to support people's uprisings, lay siege to enemy citadels, liberate land and set up a new government and, at the same time, intercept the enemy reinforcements coming from China.</s>
+</p>
+<p>
+     <s>Wherever the insurgents went, the were supported by the people who provided them with rice and meat as supplies, forged weapons for them and joined them to liberate the homeland.</s>
+     <s>A number of exemplary patriots emerged such as a woman of the Luong family in Co Long (Nam Dinh) and a young girl of the Dao family in Dao Dang (Hung Yen) who resorted to clever schemes to kill the invaders.</s>
+</p>
+<p>
+     <s>The old woman was a native of Chue Cau (Y Yen, Nam Dinh) whose real name was Luong Thi Minh Nguyet.</s>
+     <s>She set up a small restaurant in Co Long township so as to seek out information and look for ways to kill the invaders.</s>
+     <s>The invaders in Co Long often had their meals at her restaurant and stayed overnight there after eating and drinking well.</s>
+     <s>She secretly killed them and threw them down the canal that flowed to the Day river.</s>
+     <s>Later, a temple was built to worship her which still remains today.</s>
+</p>
+<p>
+     <s>The young girl of the Dao family was a native of Dao Dang village (Phu Tien, Hung Yen).</s>
+     <s>She was very beautiful and good at singing.</s>
+     <s>The invaders stationed in the village often invited her to perform dances and songs after big feasts.</s>
+     <s>A common practice at that time was to sleep in bags to avoid mosquitoes.</s>
+     <s>The invaders also followed this practice.</s>
+     <s>At night, while a number of them slept in such bags, the girl and young men in the village quietly threw them into the river.</s>
+     <s>Many invaders disappeared, but those who remained did not know why.</s>
+     <s>Finally, they had to abandon their post in Dao Dang village.</s>
+</p>
+<p>
+     <s>Big battles were fought by the insurgent army in which thousands of invaders were killed.</s>
+     <s>The enemy had to shift to defence, withdrawing into Dong Quan citadel.</s>
+</p>
+<p>
+     <s>Tot Dong - Chuc Dong victory, 1426.</s>
+</p>
+<p>
+     <s>In October 1426, fifty thousand Ming reinforcements led by Wang Tong headed to Dong Quan capital.</s>
+     <s>The number of their troops reached 100,000. Wang Tong decided to launch a counter-attack on our regular troops at Cao Bo (Chuong My, Ha Tay) in an attempt to reverse the situation.</s>
+</p>
+<p>
+     <s>At dawn on November 7, 1426, Wang Tong ordered his troops to make their way to Cao Bo.</s>
+     <s>Thanks to secret information, the insurgents knew in advance the direction and the scheme of the invaders, and laid in ambush at Tot Dong and Chuc Dong.</s>
+     <s>When the big army of Wang Tong fell into the ambush in the middle of the two battlefields, all of a sudden, the insurgents rushed into the enemy ranks, scattering their formation and pushing them into a muddy field to wipe them out.</s>
+     <s>Five thousands invaders were killed and ten thousand others were captured.</s>
+     <s>Wang Tong was wounded and risked his life fleeing back to Dong Quan.</s>
+</p>
+<p>
+     <s>Describing this battle, Nguyen Trai wrote:</s>
+     <s>"The streams of blood shed by the enemy at Ninh Kieu stank for a thousand miles,.</s>
+     <s>The piles of corpses left by them at Tot Dong for a thousand years would be reminders of their shame".</s>
+</p>
+<p>
+     <s>The Tot Dong - Chuc Dong victory had a far-reaching impact and resulted in the initiative of the insurgents who soon laid siege to Dong Quan capital and liberated many districts and cantons.</s>
+     <s>The Ming troops step by step got bogged down in defence and their fighting morale quickly decayed.</s>
+     <s>In face of such jeopardy, Wang Tong sent his men home to ask for more reinforcements, and the same time, proposed a sham truce with Le Loi.</s>
+</p>
+<p>
+     <s>On behalf of Le Loi, Nguyen Trai laid bare the injustice of the war of aggression and deceitful tricks of Wang Tong's proposed truce.</s>
+     <s>In combination with the siege laid around the citadel, Nguyen Trai called upon the enemy troops to surrender.</s>
+</p>
+<p>
+     <s>The Chi Lang - Xuong Giang victory and the end of the war.</s>
+     <s>The Chi Lang - Xuong Giang victory.</s>
+</p>
+<p>
+     <s>In October 1427, 15,000 reinforcements from China that were divided into two armies, landed in our country.</s>
+     <s>The major army of 10,000 troops, led by Lieu Sheng, came from Guangxi and the second one, led by Mu Sheng came from Yunnan.</s>
+</p>
+<p>
+     <s>The command of the insurrection decided to concentrate its forces to destroy the enemy reinforcements, first the army led by Lieu Sheng, without letting them penetrate deep into our land.</s>
+</p>
+<p>
+     <s>On October 8, 1427, Lieu Sheng led his troops to cross the border.</s>
+     <s>Our troops engaged in battle and gradually stepped back, luring the enemy into an ambush in Chi Lang (Lang Son).</s>
+     <s>Lieu Sheng recklessly led his troops to dash into the battlefield and was immediately killed by a javelin.</s>
+     <s>The enemy troops were panic-stricken and their formation was quickly broken.</s>
+     <s>The insurgents engaged in a hand-to-hand fighting with the enemy killing more than ten thousand of them.</s>
+</p>
+<p>
+     <s>The enemy troops tried to reorganise their line-up and marched down Xuong Giang (Bac Giang).</s>
+     <s>On the way, they were ambushed at Can Tram and Pho Cat (Bac Giang) where as many as thirty thousand of them were killed.</s>
+</p>
+<p>
+     <s>When the remaining tens of thousands of them were able to drag themselves to Xuong Giang citadel, it had been razed by the insurgent troops.</s>
+     <s>They had to gather on an open field without any way to advance or retreat.</s>
+</p>
+<p>
+     <s>At that time, Le Loi ordered the generals to take the war booty collected in Chi Lang battle to show to Mu Sheng at his post in Le Hoa (Ha Giang).</s>
+     <s>Seeing the war booty shown, Mu Sheng understood that Lieu Sheng was killed and his army was defeated.</s>
+     <s>Panic-stricken, the invaders fled home in disorder.</s>
+     <s>The insurgent troops pursued the enemy and killed more than ten thousand of them.</s>
+</p>
+<p>
+     <s>The victorious news reaching Xuong Giang from Le Hoa greatly encouraged our troops and demoralised the enemy.</s>
+     <s>The opportunity came and the order for a general offensive was issued on November 3, 1427. The insurgent army quickly engaged in battle with the enemy, killing almost 50,000 of them and capturing all the rest.</s>
+</p>
+<p>
+     <s>The Chi Lang - Xuong Giang victory was most heartening.</s>
+     <s>Describing the overwhelming impetus of our troops, Nguyen Trai wrote:</s>
+     <s>"Drinking at rivers, our elephants dried the streams,</s>
+     <s>Whetted on racks, our swords eroded mountains,</s>
+     <s>On our first onslaught, all the sharks were exterminated,</s>
+     <s>After the second assault, not a single vulture remained.</s>
+     <s>...Winds and clouds changed colour,</s>
+     <s>Sun and moon waned".</s>
+</p>
+<p>
+     <s>Hearing that the two armies of reinforcements led by Lieu Sheng and Mu Sheng were completely destroyed, the enemy in Dong Quan capital and other citadels were frightened to death.</s>
+     <s>Wang Tong had to propose a cease-fire, consenting to organise an oath-swearing party in Dong Quan to withdraw home in peace.</s>
+</p>
+<p>
+     <s>The Dong Quan oath-swearing party was organised in December 1427. There Wang Tong undertook to withdraw his entire troops without reconquering our country again.</s>
+     <s>Le Loi declared to provide food and boats, and repair roads and bridges to facilitate the Ming troops' withdrawal.</s>
+</p>
+<p>
+     <s>The Proclamation of Victory over the Ming - a song of triumph.</s>
+</p>
+<p>
+     <s>The enemy was cleaned out from the country, Nguyen Trai wrote the Proclamation of Victory over the Ming, summarising the nation's history and the Lam Son insurrection.</s>
+</p>
+<p>
+     <s>The Proclamation of Victory over the Ming points out the process of national building and defence when "the Trieu, Dinh, Le, Ly and Tran (of Vietnam) built up our independence and stood as equals to the Han, Tang, Sung and Yuan (of China)".</s>
+     <s>The Proclamation laid bare the barbarous and perfidious crimes of the Ming and described the development of the Lam Son insurrection from the difficult days in the Chi Linh mountain to the glorious victories of Tot Dong - Chuc Dong and Chi Lang - Xuong Giang.</s>
+     <s>It also pointed out the significance of the Lam Son insurrection:</s>
+     <s>"From now on our land is safe,</s>
+     <s>Rivers and mountains will see a new era.</s>
+     <s>Forever we have cleansed ourselves of shame,</s>
+     <s>Fore ever we shall have peace".</s>
+</p>
+<p>
+     <s>In ten years of long and arduous struggle, the Lam Son insurrection was wholeheartedly supported by the people.</s>
+     <s>All people, from little Nguyen Xi who trained hunting dogs in the first days of the embryonic army to a woman of the Luong family; from Le Lai and Le Co of the Muong and Thai ethnic minorities in Thanh Hoa to Xa Kha Sam of the Thai ethnic minority in Tay Bac (northwest), made their contributions to the insurrection.</s>
+</p>
+<p>
+     <s>Wherever the insurgents went, they were supported by the people who rose up to destroy the enemy.</s>
+     <s>The insurgents engaged in fighting with a most heroic spirit without stepping back before any ordeal and hardship at the price of their own lives.</s>
+     <s>That constituted of the decisive factor of the victory of the Lam Son insurgents.</s>
+</p>
+<p>
+     <s>The command of the insurrection comprised talented men with ardent patriotism, staunchness, courage, intelligence and wisdom.</s>
+     <s>The most exemplary of them all were Le Loi and Nguyen Trai.</s>
+     <s>Le Loi, the leader of the insurrection was a man of talent, good virtues and prestige who attracted and gathered broad strata of people in a broad unity to fight back the enemy of the people.</s>
+     <s>Nguyen Trai was a talented scholar and warrior who devoted all his heart and mind to the cause of national liberation.</s>
+     <s>The clear-sighted leadership of Le Loi, Nguyen Trai and the command served as another major factor that resulted in the final and glorious victory of the insurrection.</s>
+</p>
+</div>
+</body>
+</text>
+</TEI.2>

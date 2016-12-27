@@ -1,0 +1,112 @@
+<?xml version="1.0" standalone="no"?>
+<!-- edited with XML Spy v4.0.1 U (http://www.xmlspy.com) by NGUYEN THI MINH HUYEN (LORIA) -->
+<!DOCTYPE TEI.2 SYSTEM "C:/CORPUS/dtd/xlite/xteilite.dtd" [
+	<!ENTITY % ISO_Latin1 PUBLIC "ISO 8879-1986//ENTITIES Added Latin 1//EN//XML" "C:/CORPUS/dtd/pen/ISOlat1.pen">
+	%ISO_Latin1;
+]>
+<TEI.2 id="ptraoDTDC.en.xml">
+	<teiHeader date.created="30/12/2002">
+		<fileDesc>
+			<titleStmt>
+				<title type="source"></title>
+				<author></author>
+				<respStmt>
+					<resp></resp>
+					<name></name>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<distributor>Nhan dan dien tu</distributor>
+				<authority/>
+				<date>1/12/2002</date>
+			</publicationStmt>
+			<sourceDesc>
+				<p/>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<langUsage>
+				<language id="EN">English</language>
+			</langUsage>
+			<textClass>
+				<keywords>
+					<list>
+						<item>prose</item>
+						<item>history</item>
+					</list>
+				</keywords>
+			</textClass>
+		</profileDesc>
+	</teiHeader>
+	<text>
+		<body id="b1">
+<head>
+The national democratic movement 1936 - 1939.
+</head>
+<div>
+<p>
+     <s>1. Anti-fascist movement of the world's people for peace and democracy.</s>
+</p>
+<p>
+     <s>The economic crisis of 1929 - 1933 heavily damaged the capitalist economies and sharpened social contradictions in these countries.</s>
+     <s>A number of empires such as Germany, Italy and Japan sought a way out for the precarious situation by introducing fascism.</s>
+     <s>Domestically, the fascist forces suppressed revolution and abolished democratic freedoms.</s>
+     <s>Externally, they hastened preparations for war to re-divide the world market.</s>
+</p>
+<p>
+     <s>In the face of fascism threatening the whole mankind, the seventh Congress of the Communist International in July 1935 decided to organise popular fronts in each country to unite progressive forces against fascism and defend democracy and world peace.</s>
+</p>
+<p>
+     <s>In France, the Popular Front won a great victory in the general election and came to power in 1936. The government backed by the French Popular Front, promulgated policies of democratic liberties and amnesty ordinance also for colonies.</s>
+</p>
+<p>
+     <s>2. National democratic movement in Vietnam in 1936-1939.</s>
+</p>
+<p>
+     <s>In order to co-ordinate with the anti-fascist movement of the world people, the Communist Party of Indochina mobilised the foundation of Indochinese popular front to gather all progressive forces to oppose the French reactionary colonialists and demand the implementation of democratic freedoms, labour code, amnesty of political prisoners, improvement of the people's living conditions, anti-fascism and defence of the world peace.</s>
+     <s>As such, the Communist Party of Indochina temporarily put aside the task of toppling French capitalism and feudalism.</s>
+</p>
+<p>
+     <s>By then, the French Popular Front intended to send a delegation to investigate the situation in Indochina.</s>
+     <s>The Communist Party of Indochina mobilised an open movement in Cochinchina in preparing for a congress of delegates of the Indochinese people with a view to studying the aspirations of all social strata so as to present to the delegation.</s>
+     <s>Hundreds of action committees were organised.</s>
+     <s>The movement quickly spread in Annam and Tonkin.</s>
+     <s>The reactionaries in these colonies carried out numerous acts to undermine this move.</s>
+     <s>Although such a congress did not take place at last, the preparation for it stirred up a movement for freedom, democracy and better living conditions.</s>
+</p>
+<p>
+     <s>The press played a very important role at that time.</s>
+     <s>A number of progressive newspapers supported or influenced by the Party were openly published.</s>
+     <s>Other books and articles disseminating elementary Marxism-Leninism, new lines and policies of the Party were broadly circulated.</s>
+     <s>The Association for National Language Dissemination strongly carried out its activities.</s>
+     <s>A number of young scholars volunteered to go deep into the working masses to eradicate illiteracy, propagate popular science, etc.</s>
+     <s>With the guidance of the Party's bodies, many semi-public organisations such as trade unions, friendly societies, mutual aid committees and others were set up.</s>
+</p>
+<p>
+     <s>The struggle movement of the masses went high.</s>
+     <s>Peasants elsewhere incessantly organised demonstrations to demand the abolition of poll-tax, reduction of other taxes and duties, distribution of public land, abolition of statutory labour, etc.</s>
+     <s>Workers of the Dau Tieng and Phu Rieng plantations, Cam Pha and Hon Gai mines, Nam Dinh textile mill, Truong Thi railway factory and a number of other big factories in Hanoi and Saigon went on strike and demonstrated with slogans for wage increase, reduction of working hours, abolition of mal-treatment, non-employment of children under 10 years of age, no night work-shift for women, and so on.</s>
+     <s>In 1938, on the anniversary of May Day 25,000 people belonging to 25 mass organisations were in orderly rank with banners and posters gathered in a meeting at Dau Xao square (presently the Friendship Palace) and raised their demand for democratic freedoms and improvement of living conditions.</s>
+</p>
+<p>
+     <s>Towards the end of 1938, the threat of a new world war was drawing near.</s>
+     <s>In Indochina, the French reactionary colonialists banned opposition acts and suppressed militants of the national democratic movement.</s>
+     <s>The open struggle movement thus shrank and ended before the outbreak of World War II.</s>
+</p>
+<p>
+     <s>3. Effect and significance of the movement.</s>
+</p>
+<p>
+     <s>Through the national democratic movement in 1936-1939, the Communist Party of Indochina showed its capability in applying a correct policy on popular front to broadly unite patriotic progressive forces to wage the struggle for the aims set for by the Party itself.</s>
+</p>
+<p>
+     <s>In a combination of open lawful with underground activities, the Party widely disseminated its lines and policies which served as the contents to educate and organise the masses and strengthened its leading role.</s>
+</p>
+<p>
+     <s>The national democratic movement in 1936 - 1939 actually made further step in preparing the mass forces, revolutionary cadres and struggle experience for the next period.</s>
+</p> 
+</div>
+</body>
+</text>
+</TEI.2>

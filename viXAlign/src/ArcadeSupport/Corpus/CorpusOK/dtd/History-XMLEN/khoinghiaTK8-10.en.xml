@@ -1,0 +1,156 @@
+<?xml version="1.0" standalone="no"?>
+<!-- edited with XML Spy v4.0.1 U (http://www.xmlspy.com) by NGUYEN THI MINH HUYEN (LORIA) -->
+<!DOCTYPE TEI.2 SYSTEM "C:/CORPUS/dtd/xlite/xteilite.dtd" [
+	<!ENTITY % ISO_Latin1 PUBLIC "ISO 8879-1986//ENTITIES Added Latin 1//EN//XML" "C:/CORPUS/dtd/pen/ISOlat1.pen">
+	%ISO_Latin1;
+]>
+<TEI.2 id="khoinghiaTK8-10.en.xml">
+	<teiHeader date.created="30/12/2002">
+		<fileDesc>
+			<titleStmt>
+				<title type="source"></title>
+				<author></author>
+				<respStmt>
+					<resp></resp>
+					<name></name>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<distributor>Nhan dan dien tu</distributor>
+				<authority/>
+				<date>1/12/2002</date>
+			</publicationStmt>
+			<sourceDesc>
+				<p/>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<langUsage>
+				<language id="EN">English</language>
+			</langUsage>
+			<textClass>
+				<keywords>
+					<list>
+						<item>prose</item>
+						<item>history</item>
+					</list>
+				</keywords>
+			</textClass>
+		</profileDesc>
+	</teiHeader>
+	<text>
+		<body id="b1">
+<head>
+The Insurrections of the Viet People from the eighth - tenth centuries.
+</head>
+<div>
+<p>
+     <s>The insurrection led by Phung Hung (766-779), the King 'Parents' and the fragile sovereignty (783-791).</s>
+</p>
+<p>
+     <s>In the later half of the eighth century, the rule of the Tang dynasty in Vietnam began to weaken.</s>
+     <s>The war between local governments and the court which culminated in the An Lu Shan and Shu Zen Min rebellion engulfed the Tang dynasty in ruin.</s>
+     <s>However, the foreign protector and governors enhanced their power in Annam and imposed a lot of taxes at their own will.</s>
+     <s>In 767, Gao Zheng Ping, officer of Vu Dinh region (in Northern Vietnam) assisted Zhang Po Yi, the governor of Annam to defeat the invasion of Javan troops in Chu Dien.</s>
+     <s>Later, he was assigned to rule Annam.</s>
+     <s>He did his best to exploit the wealth of our people by imposing heavy taxes.</s>
+     <s>In an unidentified year of the Ta Ly reign (766-799), when the people's hatred was growing and troops in Tong Binh were rioting, Phung Hung, the head of Duong Lam land (presently Duong Lam commune, Ba Vi district, Ha Tay province) made use of the opportunity and launched a major insurrection against the ruling authority.</s>
+</p>
+<p>
+     <s>Phung Hung's grandfather was a hereditary mandarin in Duong Lam who enjoyed abundant wealth and high prestige among the people in the locality.</s>
+     <s>In the age-old memory of the native people, the two brothers Phung Hung and Phung Hai were strong enough to defeat buffaloes and tigers and carry heavy boats on their backs for tens of miles.</s>
+     <s>At first, the Phung brothers rose up and took control of Duong Lam, and then their insurgent troops expanded the battle and seized a vast area around Phong Chau, building it into a stronghold against the enemy.</s>
+     <s>Phung Hung named himself Do Quan and Phung Hai named himself Do Bao, both of whom held the land for the defence against the Tang dynasty.</s>
+</p>
+<p>
+     <s>Later, taking the advice of Do Han Anh, a chief and a countryman of theirs, Phung Hung and Phung Hai took their troops to Tong Binh and encircled the citadel of the foreign rulers.</s>
+     <s>Gao Zheng Ping took his troops outside the citadel to intercept the insurgent troops.</s>
+     <s>Panic-stricken by the heavy defeat, he withdrew his troops, fell ill and died out of fear.</s>
+     <s>The insurgent army captured Tong Binh, Phung Hung came into the citadel and reorganised the rule in an effort to build a lasting sovereignty.</s>
+</p>
+<p>
+     <s>As 'Viet dien u linh' (a collection of tales on the gods of the Viet kingdom) has it, Phung Hung maintained the sovereignty for seven years before he passed away.</s>
+     <s>Regrettably, no historical chronicle recorded what he did during his reign.</s>
+     <s>After his death, there was a fight for power among the patriots.</s>
+     <s>Phung Hai was widely wanted on the throne.</s>
+     <s>However, the headman Bo Pha Can did not show his support and brought Phung An, Phung Hung's son, to the throne to succeed his father.</s>
+     <s>Phung An then took troops to fight Phung Hai.</s>
+     <s>Phung Hai avoided Bo Pha Can and left for Chu Nham cavern without anyone knowing about him from then.</s>
+     <s>The young force defending the new-born sovereignty was now weakened because of the internal split and the fratricidal strife.</s>
+     <s>Phung An honoured his father 'Bo Cai Dai Vuong' (King 'Parents') and succeeded his father's cause for two years before the Tang dynasty sent Zhao Chang to rule Annam.</s>
+     <s>A cunning general, Zhao Chang organised a big army to exert military pressure, and sent his men to Tong Binh to buy over Phung An with wealth at the same time.</s>
+     <s>In late 791, Phung An took his subordinates to yield to Zhao Chang.</s>
+</p>
+<p>
+     <s>People of the Phung family scattered everywhere.</s>
+     <s>The new-born sovereignty of more or less than nine years of existence was broken.</s>
+</p>
+<p>
+     <s>The insurrection led by Duong Thanh (819 - 820).</s>
+</p>
+<p>
+     <s>In carrying out their wicked plot of "poking the Viets against the Viets," the Tang, like other previous Han dynasties in the past, made use of a part of Viet mandarins and troops in their ruling apparatus.</s>
+     <s>Influenced by the patriotic movement of our people, those mandarins and troops were deeply divided.</s>
+     <s>A number of them launched many military revolts against the ruling administration.</s>
+</p>
+<p>
+     <s>In 803, the troops under the leadership of Vuong Quy Nguyen, a Viet general, rose up in arms and drove home the Chinese protector Pei Tai.</s>
+     <s>Again, Zhao Chang was sent back to rule Annam.</s>
+     <s>The military revolt was suppressed.</s>
+     <s>That was not long before another bigger military revolt, which was led by Duong Thanh, broke out, bearing the spirit of an insurrection.</s>
+</p>
+<p>
+     <s>Around the Yuan Hua reign (806 - 820) Li Xiang Gu, a member of the Tang royal family, who was notoriously "harsh, cruel and unpopular" was assigned as protector who took more than 1,000 relatives of the family to rule Annam.</s>
+</p>
+<p>
+     <s>Duong Thanh was a Viet chief coming from a family of a hereditary chief with strong power in Chau Hoan (Nghe An).</s>
+     <s>He hatched a deep hatred towards the foreign mandarins.</s>
+     <s>With a view to controlling him, Li Xiang Gu called him to Tong Binh and assigned him as 'yamen general.'</s>
+     <s>The more he hated the foreign dominators, the more anxiously he awaited the opportunity to drive them away.</s>
+</p>
+<p>
+     <s>By that time, the Tay, Nung and Zhuang minorities in Jiangzuo and Jiangyou (also known as 'Man Huang Dong' in Chinese history) were in constant revolts against the Tang reign.</s>
+     <s>The Tang emperor promulgated an edict assigning Li Xiang Gu to suppress these revolts.</s>
+     <s>Li Xiang Gu assigned Duong Thanh with 3,000 troops and weapons to launch an attack on Huang Dong.</s>
+     <s>With the military force in his hands, Duong Thanh, his son Chi Liet and their close aid Do Si Giao worked out a scheme calling the troops to "turn the spear" against Li Xiang Gu and the gang of foreign rulers instead of suppressing the Huang Dong people.</s>
+</p>
+<p>
+     <s>Meeting with enthusiastic response by the patriotic troops, Duong Thanh and the troops came back and launched a surprise attack on the headquarters of the enemy, killing Li Xiang Gu and more than 1,000 of his subordinates, and took control of the citadel.</s>
+</p>
+<p>
+     <s>The Tang emperor resorted to a cunning plot of "forgiving Duong Thanh's mistake" and assigned him as the governor of Qiong Zhou (Hainan island), which in fact meant deporting him there so as to do harm to him at a later stage.</s>
+     <s>Not tricked by the enemy plot, Duong Thanh opposed the order of the Tang emperor and firmly determined to keep Tong Binh citadel.</s>
+     <s>Gui Zhong Wu, the new protector sent by the Tang to Annam, resorted to dividing tricks to sow discord between Duong Thanh and other local chiefs and buy over a number of his military leaders and troops.</s>
+     <s>Later, he sent a big army to attack Tong Binh citadel.</s>
+     <s>The citadel was broken.</s>
+     <s>Duong Thanh and his son Chi Trinh were killed, and his wealth was confiscated.</s>
+     <s>Duong Chi Liet and Do Si Giao withdrew the troops to defend Tac Khau in Truong Chau (Tam Diep, Ninh Binh) who were also defeated later (June 820).</s>
+</p>
+<p>
+     <s>From then, our people, under the leadership of the circle of patriotic chiefs and mandarins, together with patriotic troops, launched a number of other revolts (in 823, 841, 858, 860, 880, and so on).</s>
+     <s>Most of the foreign dominators were driven home each time a revolt broke out against them.</s>
+</p>
+<p>
+     <s>The struggle movements of our people against the Tang dynasty had the characteristic of generality and continuity in three centuries throughout all localities from the lowlands to the highlands, from the north down to the Hoanh Son spur in the south.</s>
+     <s>The movement was highly popular, incorporating every walk of life: commoners, troops, local chiefs and patriotic mandarins.</s>
+     <s>All major insurrections in localities led to the building of resistance bases, the overthrow of the local apparatus of the foreign rulers and partial seizure of the power at times and at locations.</s>
+</p>
+<p>
+     <s>The popular movement was also characterized by a highly offensive spirit with a number of insurrections being developed into wars of national liberation, launching attacks on the enemy strongholds and headquarters (Tong Binh).</s>
+     <s>The enemy force was quickly disintegrated before the offensive of the rebellious mass.</s>
+     <s>The foreign protectors, governors and others were either killed or fled back home.</s>
+     <s>Of the factors, the massive participation of the people and the increasingly strong combativeness were very important.</s>
+</p>
+<p>
+     <s>Despite many insurrections and revolts, none of them recorded final victory because, although the ruling administration of the enemy in Annam was toppled, the Tang dynasty was still strong and close to our northern border and was capable of sending big expeditionary corps to invade and conquer our country.</s>
+     <s>And despite the high spirit of national sovereignty, awareness and unity that was ceaselessly strengthened and developed, the existence of the system of local chiefs constituted an obstacle to the building of a great national unity.</s>
+     <s>Upon fighting the enemy, ie the foreign rulers whose chieftains were protectors, governors, etc the local chiefs united with one another.</s>
+     <s>But after winning some temporary victories, disputes broke out for the supreme power (titles of king and lords) thus splitting the movement and scattering the forces.</s>
+     <s>That is why whenever a big enemy army was sent from China for suppression, a number of local chiefs were alarmed and tricked by the dividing and seducing plots of the enemy which led them to capitulation or acts detrimental to the cause of national liberation.</s>
+     <s>Having undergone many big exercises with numerous difficulties, hardship and sacrifice in this period, the national movement was tempered and matured in preparation for gaining total victory in the 10th century.</s>
+</p>
+</div>
+</body>
+</text>
+</TEI.2>

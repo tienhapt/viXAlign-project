@@ -1,0 +1,110 @@
+<?xml version="1.0" standalone="no"?>
+<!-- edited with XML Spy v4.0.1 U (http://www.xmlspy.com) by NGUYEN THI MINH HUYEN (LORIA) -->
+<!DOCTYPE TEI.2 SYSTEM "C:/CORPUS/dtd/xlite/xteilite.dtd" [
+	<!ENTITY % ISO_Latin1 PUBLIC "ISO 8879-1986//ENTITIES Added Latin 1//EN//XML" "C:/CORPUS/dtd/pen/ISOlat1.pen">
+	%ISO_Latin1;
+]>
+<TEI.2 id="kcchongTrieu.en.xml">
+	<teiHeader date.created="30/12/2002">
+		<fileDesc>
+			<titleStmt>
+				<title type="source"></title>
+				<author></author>
+				<respStmt>
+					<resp></resp>
+					<name></name>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<distributor>Nhan dan dien tu</distributor>
+				<authority/>
+				<date>1/12/2002</date>
+			</publicationStmt>
+			<sourceDesc>
+				<p/>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<langUsage>
+				<language id="EN">English</language>
+			</langUsage>
+			<textClass>
+				<keywords>
+					<list>
+						<item>prose</item>
+						<item>history</item>
+					</list>
+				</keywords>
+			</textClass>
+		</profileDesc>
+	</teiHeader>
+	<text>
+		<body id="b1">
+<head>
+The resistance against the Chao.
+</head>
+<div>
+<p>
+     <s>Chao To's autonomy and the establishment of Nan Yue State.</s>
+</p>
+<p>
+     <s>In 210 BC Sh'ih Huang-ti passed away and his son Sh'ih Er Shi enthroned.</s>
+     <s>From then, the Q'in empire began to decline.</s>
+     <s>The cantons newly founded in southern China step by step escaped from the control of the Q'in central government.</s>
+     <s>Taking advantage of the situation, Ren Ao and Chao To seized Nam Hai and set up a new kingdom of their own in opposition to the Q'in dynasty.</s>
+</p>
+<p>
+     <s>Ren Ao died and Chao To replaced him to carry out a divisional plot.</s>
+</p>
+<p>
+     <s>Chao To belonged to the Han people whose birthplace was in Hebei province, China.</s>
+     <s>After the death of Ren Ao, Chao To ruled Nan Hai, killing dignitaries of the Q'in to replace them with his men.</s>
+</p>
+<p>
+     <s>In 206 BC the Q'in collapsed, Chao To sent his troops to capture Cui Lin and Xiang Jun districts and set up Nan Yue kingdom, taking his royal title Nan Yue Wu Wang (Nam Viet Vu Vuong).</s>
+     <s>He located the capital in Fan Yong.</s>
+     <s>This officially marked the birth of the Nan Yue kingdom of the Chao.</s>
+</p>
+<p>
+     <s>Nan Yue of the Chao, was, in fact, the State of a clique of generals and mandarins of the Han people.</s>
+     <s>It was not a kingdom of the Viet people.</s>
+     <s>Nan Yue consisted of three districts: Nan Hai, Cui Lin and Xiang Jun adjacent to the north of Au Lac kingdom.</s>
+</p>
+<p>
+     <s>Nan Yue, a powerful country with a vast area of land (comprising Guangdong, Guangxi and part of Guizhou in southern China), a prosperous economy and a favourable communications network, was adjacent to the north of Au Lac kingdom.</s>
+     <s>That aroused the former's temptation to conquer the latter.</s>
+</p>
+<p>
+     <s>Aggression by the Chao.</s>
+</p>
+<p>
+     <s>In Queen Cao's time, the Han launched an attack on Nan Yue of the Chao in 181 BC which ended in failure.</s>
+     <s>In 180 BC when Queen Gao died the Han withdrew its troops.</s>
+     <s>The north of Nan Yue was stabilised and Chao To seized upon the opportunity to invade Au Lac.</s>
+</p>
+<p>
+     <s>A number of crusades were launched by the Chao troops to conquer Au Lac some of which advanced deeply into Tien Du (Bac Ninh), Vu Ninh (Que Vo, Ha Bac) and the Binh Giang (Duong) river.</s>
+     <s>Major and atrocious combats took place in Tien Du and the suburban area of Co Loa citadel.</s>
+     <s>By that time, Au Lac was a strong kingdom which was armed with bows and arrows and other advantageous weapons.</s>
+     <s>Also Au Lac had the firm citadel of Co Loa, the leadership of king An Duong Vuong and talented generals.</s>
+     <s>They boasted a broad internal unity, the strong support of the entire people and the determination to defeat the Chao to defend national independence and sovereignty.</s>
+</p>
+<p>
+     <s>In accordance with old history and legend, Chao To pretended to pursue peace and tried to buy over the aristocrats of Au Lac by wealth on the one hand, and let his son Zhongshui get engaged with princess My Chau of Au Lac, on the other.</s>
+     <s>King An Duong Vuong was dissuaded from letting his daughter My Chau get married with Zhongshui.</s>
+     <s>General Cao Lo told the king: "They pretend to make peace and marriage just to conquer our country." The king, instead of taking the advice, mistreated and dismissed general Cao Lo.</s>
+     <s>While staying in Au Lac as the son in law of the king, Zhongshui spied on the secret of crossbows of Au Lac and the defence arrangement of Co Loa citadel.</s>
+     <s>Pleading a visit his father, Zhongshui returned home and briefed Chao To in detail on the situation in Au Lac.</s>
+     <s>Chao To immediately had the crossbows copied and sent troops to Co Loa in a surprise attack.</s>
+     <s>Unable to defend the citadel, king An Duong Vuong and his daughter My Chau saddled their horses and rode south.</s>
+     <s>When cornered by the sea ahead, the king beheaded My Chau and drowned himself in the sea (Legend of the Golden Tortoise).</s>
+</p>
+<p>
+     <s>In 179 BC Au Lac fell under the domination of the Chao marking the start of a long gloomy age full of anguish and resentment in the history of our nation.</s>
+     <s>It is usually referred to as the period of northern domination which lasted from 179 BC to 905. Not until then, thanks to the success of the insurrection launched by Khuc Thua Du, was the domination of the Tang dynasty overthrown and were our national independence and sovereignty restored which put a complete end to the northern domination.</s>
+</p>
+</div>
+</body>
+</text>
+</TEI.2>

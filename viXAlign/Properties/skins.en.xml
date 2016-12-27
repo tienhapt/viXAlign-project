@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<skins>
+    <common>
+        <object name="version" label="1.0"/>        
+        <object name="appName" label="Multilingual Alignment"/>
+	<object name="openFile" label="Open File"/>
+	<object name="saveAs" label="Save As"/>
+    </common>
+
+    <Desktop type="form">
+	<object name="hsize" label="400"/>
+	<object name="wsize" label="900"/>
+        <object name="title" label="Aligner"/>
+	<object name="sourceLabel" label="Source "/>
+	<object name="targetLabel" label="Target "/>
+	<object name="fileName" label="File "/>
+        <object name="tokenChkbox" label="Tokenized"/>
+	<object name="language" label="Language"/>
+	<object name="out" label="Result File "/>
+	<object name="propFile" label="Properties"/>
+	<object name="ignoreFile" label="Stop-list "/>
+	<object name="browse" label="Browse..."/>
+	<object name="resetParam" label="Reload parameters"/>
+	<object name="run" label="Start the aligner"/>
+	<menu name="file">
+        	<object name="fileMenu" label="File"/>
+        	<object name="mniTopic" label="Open.."/>
+        	<object name="mniOption" label="Save.."/>
+        	<object name="mniQuit" label="Quit"/>
+	</menu>
+    </Desktop>
+
+</skins>
+
+

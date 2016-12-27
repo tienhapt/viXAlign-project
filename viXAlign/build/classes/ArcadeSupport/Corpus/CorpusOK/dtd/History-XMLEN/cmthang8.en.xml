@@ -1,0 +1,115 @@
+<?xml version="1.0" standalone="no"?>
+<!-- edited with XML Spy v4.0.1 U (http://www.xmlspy.com) by NGUYEN THI MINH HUYEN (LORIA) -->
+<!DOCTYPE TEI.2 SYSTEM "C:/CORPUS/dtd/xlite/xteilite.dtd" [
+	<!ENTITY % ISO_Latin1 PUBLIC "ISO 8879-1986//ENTITIES Added Latin 1//EN//XML" "C:/CORPUS/dtd/pen/ISOlat1.pen">
+	%ISO_Latin1;
+]>
+<TEI.2 id="cmthang8.en.xml">
+	<teiHeader date.created="30/12/2002">
+		<fileDesc>
+			<titleStmt>
+				<title type="source"></title>
+				<author></author>
+				<respStmt>
+					<resp></resp>
+					<name></name>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<distributor>Nhan dan dien tu</distributor>
+				<authority/>
+				<date>1/12/2002</date>
+			</publicationStmt>
+			<sourceDesc>
+				<p/>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<langUsage>
+				<language id="EN">English</language>
+			</langUsage>
+			<textClass>
+				<keywords>
+					<list>
+						<item>prose</item>
+						<item>history</item>
+					</list>
+				</keywords>
+			</textClass>
+		</profileDesc>
+	</teiHeader>
+	<text>
+		<body id="b1">
+<head>
+The August Revolution and its historic significance.
+</head>
+<div>
+<p>
+     <s>In early 1945, the anti-Japanese movement for national salvation gained strength and was very rich both in form and content.</s>
+     <s>In mid-August 1945, the direct opportunity for the revolution appeared.</s>
+     <s>The chance of a lifetime for our nation came to rise up in a general uprising to seize the power.</s>
+     <s>Aware of the decisive victory of the Soviet army on the north-eastern front in China and the collapse and capitulation of the Japanese army, on August 12, 1945 the Insurrection Committee ordered the Liberation Army and guerilla and self-defence units to co-ordinate with all the people to launch attacks on towns and cities.</s>
+     <s>On the night of August 13, 1945 the National Insurrection Committee ordered a general uprising.</s>
+</p>
+<p>
+     <s>From August 13-15, 1945 the Nationwide Conference of the Party organised in Tan Trao (Tuyen Quang) was attended by delegates representing Party's committees both at home and abroad.</s>
+     <s>The conference decided to launch a general uprising throughout the country to seize the power before the Allied troops landing in Indochina.</s>
+     <s>The then struggle slogans were "No to war of aggression!" "Full independence!" and "Power to the people!"</s>
+     <s>The guiding principle for such a general uprising was to be centralised, united and well-timed; the line of action during such a general uprising was to immediately seize places where victory was certain regardless of their locations in villages or in towns, combine political with military struggle, demoralise the enemy troops and seduce them to capitulation before attack.</s>
+</p>
+<p>
+     <s>When the Nationwide Conference of the Party ended a National Congress was convened also in Tan Trao on August 18. Present at the Congress were 60 delegates representing all the three regions, the Vietnamese overseas, parties, mass organisations, ethnic and religious groups.</s>
+     <s>At the Congress, the Party adopted a correct line to lead the people to rise up to disarm the Japanese troops before the Allied troops landing in Indochina; seize the power from the Japanese and topple their lackeys, and act as masters of the country to welcome the Allies who were to arrive in Indochina to disarm the Japanese troops.</s>
+     <s>The Congress unanimously approved the Indochinese Communist Party's guideline for a general uprising and the Viet Minh's 10-point programme.</s>
+     <s>The Congress decided the foundation of a National Committee for Liberation with the functions of a provisional government headed by Ho Chi Minh as the President.</s>
+     <s>The red banner emblazoned with a gold star was adopted by the Congress as the national flag, and the 'Marching Song,' as the national anthem.</s>
+</p>
+<p>
+     <s>Soon after the National Congress, President Ho Chi Minh made an appeal to all the people, national salvation organisations and armymen to rise up to seize power: "This hour is decisive one for our nation.</s>
+     <s>Let us all stand up and fight for our own liberation...</s>
+     <s>Forward! Under the Viet Minh banner, let us march courageously forward!".</s>
+</p>
+<p>
+     <s>Under the leadership of the Party, more than 20 million compatriots rose up in the glorious General Uprising, freeing the whole country.</s>
+     <s>From August 14, in observing the order of the Provisional Liberation Committee, units of the Liberation Army captured many posts of the Japanese in the provinces of Cao Bang, Bac Can, Thai Nguyen, Tuyen Quang and Yen Bai, and marched on to liberate their provincial towns.</s>
+     <s>From August 14-18, many communes and districts of most northern provinces and the provinces of Thanh Hoa, Nghe An, Ha Tinh, Quang Ngai, Khanh Hoa, My Tho, and Sa Dec grasped the opportunity to rise up to seize power.</s>
+     <s>On August 19, the uprising was successful in Hanoi.</s>
+     <s>On the night of August 22 and the day of August 23, red flags with gold star filled the city of Hue.</s>
+     <s>On August 25, the uprising was successful in Saigon.</s>
+     <s>The August 1945 the General Uprising took place and ended in success in the whole country in only 15 days.</s>
+</p>
+<p>
+     <s>The August 1945 General Uprising was the revolt of tens of millions of people who had an aversion for the suppressive yoke of imperialism and feudalism and determined to break the chains of slavery.</s>
+     <s>This was a broad national and class struggle which involved the poorest and most heavily exploited walks of life in the Vietnamese society, smashing the domination of imperialism and feudal king and mandarins, regaining national independence, democracy and paving the way to socialism.</s>
+</p>
+<p>
+     <s>The August Revolution is a national liberation revolution, a national revolution and a people's democracy revolution.</s>
+     <s>It is a bright exploit in the history of our nation, crystallizing all fine, intelligent, creative, heroic, indomitable, self-strengthening and self-reliance traditions.</s>
+     <s>With the August Revolution, our people smashed the chains of slavery and colonialism, overthrew the feudal court, established an independent Vietnam, set up a new democratic and republican regime.</s>
+     <s>Our country, from a semi-feudal colony, became an independent democratic unified from Dong Van to Ca Mau.</s>
+     <s>Our people, from the position of slaves, became independent men and masters of their own country who decided their own destiny.</s>
+     <s>The Communist Party of Vietnam, from an underground Party, became the leading Party of a State of the people, by the people and for the people.</s>
+</p>
+<p>
+     <s>The birth of the People's Democratic Republic of Vietnam denied two suppressive and exploitive regimes that had plunged our people into misery, distress and indignity, making a great leap and "a historic change" in the history of evolution of the country, bringing our country into a new era, an era of national independence in combination with socialism.</s>
+</p>
+<p>
+     <s>During the process of revolution development, the People's Democratic Republic of Vietnam became a socialist country, a strong platform for socialism in Southeast Asia.</s>
+</p>
+<p>
+     <s>The victory of the August Revolution broke the first and weakest link in the chain of old colonialism, first of all, French colonialism, setting out a bright example for oppressed nations.</s>
+</p>
+<p>
+     <s>On September 2, 1945, the provisional government of the People's Democratic Republic of Vietnam appeared to the public.</s>
+     <s>President Ho Chi Minh solemnly read-out the Declaration of Independence which confirmed: "Vietnam has the right to enjoy freedom and independence and has really become a free and independent country.</s>
+     <s>The Vietnamese people are determined to mobilise their entire physical an intellectual strength, and sacrifice their lives and property in order to safeguard their freedom and independence".</s>
+     <s>From then, the history of Vietnam has turned to a new page.</s>
+     <s>The Vietnamese nation began to revive.</s>
+     <s>The aura of independence, freedom and socialism began shining in the country.</s>
+     <s>The Vietnamese people began to walk abreast with the vanguard nations of the world.</s>
+</p>
+</div>
+</body>
+</text>
+</TEI.2>

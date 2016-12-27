@@ -1,0 +1,133 @@
+<?xml version="1.0" standalone="no"?>
+<!-- edited with XML Spy v4.0.1 U (http://www.xmlspy.com) by NGUYEN THI MINH HUYEN (LORIA) -->
+<!DOCTYPE TEI.2 SYSTEM "C:/CORPUS/dtd/xlite/xteilite.dtd" [
+	<!ENTITY % ISO_Latin1 PUBLIC "ISO 8879-1986//ENTITIES Added Latin 1//EN//XML" "C:/CORPUS/dtd/pen/ISOlat1.pen">
+	%ISO_Latin1;
+]>
+<TEI.2 id="quangtrung.en.xml">
+	<teiHeader date.created="30/12/2002">
+		<fileDesc>
+			<titleStmt>
+				<title type="source"></title>
+				<author></author>
+				<respStmt>
+					<resp></resp>
+					<name></name>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<distributor>Nhan dan dien tu</distributor>
+				<authority/>
+				<date>1/12/2002</date>
+			</publicationStmt>
+			<sourceDesc>
+				<p/>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<langUsage>
+				<language id="EN">English</language>
+			</langUsage>
+			<textClass>
+				<keywords>
+					<list>
+						<item>prose</item>
+						<item>history</item>
+					</list>
+				</keywords>
+			</textClass>
+		</profileDesc>
+	</teiHeader>
+	<text>
+		<body id="b1">
+<head>
+Quang Trung and rebuilding of the country.
+</head>
+<div>
+<p>
+     <s>Economic rehabilitation and building of a national culture.</s>
+</p>
+<p>
+     <s>After the victory over the Qing invaders, the Tay Son command was soon turned into a feudal government.</s>
+     <s>Quang Trung set up the capital in Phu Xuan.</s>
+</p>
+<p>
+     <s>As a result of the war, the country was faced with numerous difficulties as villages and hamlets were desolated, land was left fallow, industry and trade were stagnated.</s>
+     <s>Nguyen Nhac and Nguyen Le only indulged themselves in enjoying leisure of life.</s>
+     <s>In face of such situation, Quang Trung adopted an edict on farming encouragement that made those wandering to go back to, and settle in, their home village.</s>
+     <s>The system of land distribution per capita was better carried out.</s>
+     <s>Poor peasants had their own land for farming.</s>
+</p>
+<p>
+     <s>Many taxes were relieved.</s>
+     <s>Quang Trung also requested the Qing to "open border passes, unblock trade to facilitate the circulation of goods to benefit the people's consumption".</s>
+     <s>Trade and handicraft were steadily restored.</s>
+</p>
+<p>
+     <s>Quang Trung ordered the compilation and promulgation of a new criminal code, and swiftly reorganised the government from the central to local levels.</s>
+     <s>He also ordered the adoption of registration cards on which one's full name and address were put down for household and population management.</s>
+     <s>Bearing such a card was always required to each commoner.</s>
+</p>
+<p>
+     <s>In the field of culture and education, Quang Trung promulgated an edict on education.</s>
+     <s>He said: "For the building of the country, education serves as the most important factor, for maintaining the rule and peace, recruitment of talents serves as the foundation".</s>
+     <s>The government encouraged communes and districts to open more schools.</s>
+     <s>Vietnamised script (Nom) was attached great importance to which was adopted as the official national script.</s>
+     <s>Many of Quang Trung's decrees were written in Nom.</s>
+</p>
+<p>
+     <s>Quang Trung ordered the establishment of an institute (Vien Sung Chinh) which was put under the leadership of Nguyen Thiep for the translation of Confucian classics intended for use in education.</s>
+</p>
+<p>
+     <s>Defence and diplomatic policies.</s>
+</p>
+<p>
+     <s>The aggression of the Qing was repelled.</s>
+     <s>However, national security and territorial integrity were still threatened.</s>
+     <s>In the north, opposing forces led by Le Duy Chi were active in Cao Bang; in the south, after the setback at Rach Gam - Xoai Mut, with the help sought from French capitalism Nguyen Anh came back and recaptured Gia Dinh.</s>
+     <s>In China, Le Chieu Thong and his gang still natured their plot to get revenge.</s>
+</p>
+<p>
+     <s>Fully aware of these dangers, Quang Trung worked out a number of policies on strengthening national defence and carrying out an active foreign policy.</s>
+     <s>He maintained the execution of military service, one out of every three tax-payers would be taken into the army.</s>
+</p>
+<p>
+     <s>Quang Trung's army consisted of infantry, navy, elephant-borne troops and cavalry.</s>
+     <s>Warships were of various sizes, the biggest of which could carry war elephants, or 500-600 troops and cannons.</s>
+</p>
+<p>
+     <s>Quang Trung sent his troops to Cao Bang to suppress Le Duy Chi's forces.</s>
+</p>
+<p>
+     <s>Externally, the Qing emperor had to recognise Quang Trung as "the king" which was tantemount to the recognition of our national independence and territorial integrity.</s>
+</p>
+<p>
+     <s>The situation in the north was temporarily restored, however, it remained rather strained in the south.</s>
+     <s>Nguyen Anh tried to build up his force to launch an attack on Quy Nhon.</s>
+     <s>Quang Trung decided to open a major attack to destroy all Nguyen Anh's force and recapture Gia Dinh.</s>
+</p>
+<p>
+     <s>In August 1792, he wrote an appeal, calling the people to show their response: "Wherever we went, the enemy was crushed and defeated, and wherever we launched battles, the cruel Siamese and Qing troops had to surrender".</s>
+     <s>Quang Trung saw Nguyen Anh as "a corpse who can be easily broken as a dried or rotten branch".</s>
+     <s>With regard to the French troops among Nguyen Anh's ranks, the appeal read: "What is this type of men worth?"</s>
+     <s>Their eyes are as grey as those of snakes, and they should be seen as corpses driven ashore by sea waves.</s>
+     <s>What is new to mention to us about their copper warships and balloons!".</s>
+</p>
+<p>
+     <s>Regrettably, the preparations were still being carried out when Quang Trung suddenly passed away on September 16, 1792.</s>
+     <s>He was only thirty nine by then.</s>
+     <s>All his life, he strove for a staunch and incessant struggle for the interests of our people and nation as well as for the national independence and unification.</s>
+     <s>Mourning the death of her husband, Ngoc Han wrote:</s>
+     <s>"In plain clothes he raised the red banner,</s>
+     <s>How vast his merit was in helping the people with national restoration".</s>
+</p>
+<p>
+     <s>After Quang Trung's death, his son Quang Toan was enthroned.</s>
+     <s>But Quang Toan was so young, and the mandarins in Phu Xuan were so incompetent and corrupt that they were unable to control the State affairs.</s>
+     <s>Many of Quang Trung's ambitious plans were left unfinished.</s>
+</p>
+</div>
+</body>
+</text>
+</TEI.2>

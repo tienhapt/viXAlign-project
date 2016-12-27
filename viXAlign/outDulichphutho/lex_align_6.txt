@@ -1,0 +1,11 @@
+Source : D:\workspace\Arcade2\src\ArcadeSupport\Corpus\CorpusOK\HoangTuBe-OK\dulichphuthoen.xml
+Target : D:\workspace\Arcade2\src\ArcadeSupport\Corpus\CorpusOK\HoangTuBe-OK\dulichphuthovn.xml
+369 saved word pairs
+122 saved word pairs
+
+
+
+------------------------------------------------------------
+
+
+

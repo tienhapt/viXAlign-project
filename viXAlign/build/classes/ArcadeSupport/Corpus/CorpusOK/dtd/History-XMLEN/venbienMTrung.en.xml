@@ -1,0 +1,93 @@
+<?xml version="1.0" standalone="no"?>
+<!-- edited with XML Spy v4.0.1 U (http://www.xmlspy.com) by NGUYEN THI MINH HUYEN (LORIA) -->
+<!DOCTYPE TEI.2 SYSTEM "C:/CORPUS/dtd/xlite/xteilite.dtd" [
+	<!ENTITY % ISO_Latin1 PUBLIC "ISO 8879-1986//ENTITIES Added Latin 1//EN//XML" "C:/CORPUS/dtd/pen/ISOlat1.pen">
+	%ISO_Latin1;
+]>
+<TEI.2 id="venbienMTrung.en.xml">
+	<teiHeader date.created="30/12/2002">
+		<fileDesc>
+			<titleStmt>
+				<title type="source"></title>
+				<author></author>
+				<respStmt>
+					<resp></resp>
+					<name></name>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<distributor>Nhan dan dien tu</distributor>
+				<authority/>
+				<date>1/12/2002</date>
+			</publicationStmt>
+			<sourceDesc>
+				<p/>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<langUsage>
+				<language id="EN">English</language>
+			</langUsage>
+			<textClass>
+				<keywords>
+					<list>
+						<item>prose</item>
+						<item>history</item>
+					</list>
+				</keywords>
+			</textClass>
+		</profileDesc>
+	</teiHeader>
+	<text>
+		<body id="b1">
+<head>
+The liberation of central coastal provinces in South Vietnam.
+</head>
+<div>
+<p>
+     <s>In early March 1975 when the gunfire precluded our offensive and uprising in the Tay Nguyen front, the people and armed forces in coastal provinces of the Tri-Thien (Quang Tri - Thua Thien) Military Zone and Military Zone No 5 in central Vietnam also entered the spring-summer campaign.</s>
+     <s>In implementation of the military order and in accordance with the fighting coordination plan, the armed forces of Tri-Thien Military Zone started gunfire, simultaneously attacking the enemy in southern Quang Tri, the plains in southern Hue, Hue city and its surroundings, and communication trunks.</s>
+     <s>Under strong attacks from various directions and in fear of our great army from the north, the enemy had to withdraw to the Hai Van pass and Da Nang.</s>
+     <s>Noticing signs of the enemy retreat from Quang Tri to Hue and Da Nang to preserve its forces, on March 17, the Standing Committee of the Zone Party and the Military Committee of the Tri-Thien Military Zone decided to use all frontline forces in Quang Tri to take the initiative to launch surprise attacks on the enemy along the whole line.</s>
+     <s>On the night of March 18, the enemy abandoned Quang Tri and retreated to Hue and Da Nang.</s>
+     <s>Seizing upon the opportunity, our people and armed forces made a swift shift to offensive.</s>
+     <s>In the morning of March 19, revolutionary flags flew over Quang Tri's ancient citadel and provincial town.</s>
+     <s> Thanks to the detailed and timely guidance given by the Politburo and the Central Military Committee, the Standing Committee of the Zone Party and the Military Committee of the Tri-Thien Military Zone were determined to make use of the opportunity to liberate Thua Thien - Hue with all strength.</s>
+     <s>On March 21, from both Thua Thien - Hue and Quang Nam - Quang Ngai directions, our forces launched the campaign to liberate Hue city, Tam Ky town (Quang Nam) and Quang Ngai town, encircling and splitting Da Nang from the north and the south.</s>
+</p>
+<p>
+     <s>The enemy in Hue was put into a siege and attacked from northern, western and southern directions.</s>
+     <s>On the night of March 24, our troops simultaneously launched attacks from these three directions, destroying and capturing targets inside the city.</s>
+     <s>On March 23, revolutionary flags was raised over the top of the Phu Van Tower (Phu Van Lau), marking a historic landmark of the total liberation of Hue city.</s>
+</p>
+<p>
+     <s>After Tay Nguyen was liberated, the liberation of Quang Tri, Thua Thien and Hue city dealt a new blow at the morale and strength of the puppet administration and army at all levels, making them more puzzled and frightened.</s>
+     <s>From an orderly retreat aimed at regrouping its forces, the flight became disorderly and disintegrated.</s>
+     <s> Foreseeing new developments of the situation after the liberation of Tay Nguyen, Tri Thien-Hue, Quang Nam and Quang Ngai, the Politburo met on March 25, working out the guideline to firmly grasp the strategic opportunity, gain time, swiftly concentrate our forces on the main directions, take bold and surprise actions so as to give the enemy no time for anticipation and reaction with a view to fulfilling the liberation of Saigon before the rainy season.</s>
+     <s>In the short term, the Politburo decided the concentration of our forces to destroy the enemy marine division and the remnants in central Vietnam to liberate Da Nang.</s>
+     <s>With high determination and unified action in accordance with the idea of the Politburo, the Military Committee and Military Command of the Military Zone No 5 and the second Army Corps quickly mustered our armed forces, dispatching a number of units close to Da Nang to this city via shortest routes.</s>
+     <s>In the morning of March 28, our artillery force opened the campaign to liberate Da Nang by staging a strong firepower attack on the enemy.</s>
+     <s>At 15.00 hours on March 29, wings of our troops had a rendezvous in Son Tra.</s>
+     <s> The offensive to capture Da Nang city by armies of our main force in co-ordination with local armed forces and popular uprising taking place and ending after 33 hours totally liberated Da Nang, the second largest city in the South.</s>
+     <s>More than 10,000 enemy troops including the Military Command of the 1st Corps and the strongest military complex in central Vietnam were eliminated.</s>
+     <s>The Military Zone No1 of the puppet army was eradicated.</s>
+     <s>The strategic regrouping of the enemy for the defence of the coastal plains was smashed as soon as it was deployed.</s>
+</p>
+<p>
+     <s>At the same time with the offensive and uprising to liberate central coastal provinces (from Tri-Thien-Hue to Tam Ky, Quang Ngai and Da Nang) at high speed and with resounding victories, in accordance with general plan and further to the development of the Tay Nguyen campaign, in the Military Zone No5 down the south, the people and armed forces of Binh Dinh, Phu Yen and Khanh Hoa also combined offensive with uprising, totally liberating their three provinces.</s>
+     <s>On April 1, Quy Nhon provincial town and the entire province of Binh Dinh were liberated.</s>
+     <s>On the same day, in coordination with the Division 320A, the people and armed forces of Phu Yen province liberated Tuy Hoa provincial town, and the entire province subsequently.</s>
+     <s>On April 2, our troops advanced forward to liberate Nha Trang provincial town, and after two days, captured Cam Ranh military seaport, totally liberating Khanh Hoa province.</s>
+     <s>On March 28, the people and armed forces of Lam Dong province in co-ordination with the main forces of the Liberation Army simultaneously launched offensive and uprising, liberating Da Lat city and the entire province on April, 3-4.</s>
+     <s>By April 3, 1975 the General Offensive and Uprising in the spring 1975 that started on March 4 with the Buon Ma Thuot victory lasted for one month with the battles to capture Da Nang, Cam Ranh and central coastal provinces.</s>
+     <s>The victories in Tay Nguyen, Hue, Da Nang doubled the combat strength of our army.</s>
+     <s>It was held by the Politburo that strategically our forces were of overwhelming strength, the enemy was faced with the danger of disintegration and collapse.</s>
+     <s>The United States appeared helpless to redeem the situation of the puppet army even in case the aid was to be increased.</s>
+     <s>The revolutionary war in the South entered a stage of great leaps forward with ripe opportunity to launch general and uprising in Saigon - Gia Dinh.</s>
+     <s>The final strategic decisive battle of our people and army began from that moment.</s>
+</p>
+</div>
+</body>
+</text>
+</TEI.2>

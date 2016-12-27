@@ -1,0 +1,1933 @@
+<!-- <!DOCTYPE TEI.2 SYSTEM "xteilite.dtd" [ -->
+<!--  TEI Lite DTD -->
+<!--  This is the TEI Lite DTD.  It can be referred to using the
+formal public identifier 
+ 
+       -//TEI//DTD TEI Lite 1.0 //EN
+
+or the slightly more specific 
+
+       -//TEI//DTD TEI Lite 1.6 //EN
+
+      This is version 1.6, generated 25 June 1995 
+      and tweaked manually by CMSMcQ (tei@uic.edu).
+
+--> 
+
+<!-- XML Compatible Version of the TEI Lite                    -->
+<!-- 1997-11-27 : PB : first XML release
+  Some Problems: 
+   * No AND (&) content model group
+      Elements: respStmt, cit and publicationStmt
+      Solution: (a & b) = (a , b) | (b , a)
+   * No CDATA declared content
+      Element: formula
+      Solution: change the CDATA with the PCDATA declaration
+      Should use a CDATA marked section
+   * No exclusion on content model
+      Elements: speaker, stage and s
+      Solution: none
+   * No inclusion on content model
+      Elements: text
+      Solution: non
+   * PUBLIC identifier for NOTATION, ENTITIES and usrmods 
+     declaration
+      - Put within comment for instance because the use of PUBLIC
+        ID is not clear in the 1.0 XML spec.
+      - I think that they should appear within the document not
+        within the DTD
+                                                               -->
+<!-- 1997-11-29 : PB : revisions
+   * Simplification of the Content Model for:
+      Elements: q, note, sic. index, corr, add, item
+                                                               -->
+<!--  Text Encoding Initiative: Guidelines for Electronic      -->
+<!--  Text Encoding and Interchange. Document TEI P3, 1994.    -->
+<!--  Copyright (c) 1994 ACH, ACL, ALLC. Permission to copy    -->
+<!--  in any form is granted, provided this notice is          -->
+<!--  included in all copies.                                  -->
+<!--  These materials may not be altered; modifications to     -->
+<!--  these DTDs should be performed as specified in the       -->
+<!--  Guidelines in chapter "Modifying the TEI DTD."           -->
+<!--  These materials subject to revision. Current versions    -->
+<!--  are available from the Text Encoding Initiative.         -->
+
+<!--  Revisions:                                               -->
+<!--  1995-06-25 : CMSMcQ : Version 1.6.  Add notations, ISO   -->
+<!--                        entity sets for characters         -->
+<!--                        Add eg to x.common                 -->
+<!--  1995-06-08 : CMSMcQ : Version 1.5.  Add divGen to front  -->
+<!--  1995-02-28 : CMSMcQ : Version 1.4.  Add biblFull at the  -->
+<!--                        request of David Seaman            -->
+<!--  1995-02-17 : CMSMcQ : Version 1.3.  Add ident, code ...  -->
+<!--                        (and add teilitex.dtd)             -->
+<!--  1995-01-27 : CMSMcQ : Version 1.2?  LB changes of 23 Jan -->
+<!--  1995-01-21 : CMSMcQ : first cut at selection             -->
+<!--  1995-01-21 : CMSMcQ : made file from skelmods.ent        -->
+<!--  A TEI document is a text preceded by a TEI header.       -->
+
+<!ENTITY % xml.global	'
+	xml:lang	CDATA	#IMPLIED'		>
+
+<!ENTITY % a.global	'
+	%xml.global;
+	id	ID	#IMPLIED
+	n	CDATA	#IMPLIED
+	rend	CDATA	#IMPLIED'			>
+
+<!ENTITY % default.inclusions ' index | interp | interpGrp | lb | milestone | pb '>
+
+<!ENTITY % basic.content ' ident | code | kw | abbr | address
+| date | name | num | rs | time | add | corr | del | gap | orig | reg
+| sic | unclear | emph | foreign | gloss | hi | mentioned | soCalled
+| term | title | ptr | ref | xptr | xref | anchor | s | seg | gi
+| formula '>
+
+<!ENTITY % seq.content '%basic.content; | %default.inclusions;'>
+
+<!ENTITY % para.content ' eg | bibl | biblFull | cit | q
+| label | list | listBibl | note | figure | stage | table 
+| text | %seq.content;'>
+
+<!ENTITY % phrase.content ' l | lg | p | sp | eg | bibl | biblFull 
+| cit | q | label | list | listBibl | note | figure | stage | table 
+| text | %basic.content; | %default.inclusions;'>
+
+
+
+<!ELEMENT TEI.2 (teiHeader, text)>
+
+<!ATTLIST TEI.2 
+     %a.global;
+     ana	IDREFS	#IMPLIED 
+     corresp	IDREFS	#IMPLIED 
+     next	IDREF	#IMPLIED 
+     prev	IDREF	#IMPLIED 
+     TEIform	CDATA	"TEI.2" >
+
+<!ELEMENT gi (#PCDATA)>
+
+<!ATTLIST gi 
+     %a.global;
+     ana IDREFS #IMPLIED 
+     corresp IDREFS #IMPLIED 
+     next IDREF #IMPLIED 
+     prev IDREF #IMPLIED 
+     TEI (yes | no) "yes" 
+     TEIform CDATA "gi" >
+
+<!ELEMENT eg (#PCDATA)>
+
+<!ATTLIST eg 
+     %a.global;
+     ana IDREFS #IMPLIED 
+     corresp IDREFS #IMPLIED 
+     next IDREF #IMPLIED 
+     prev IDREF #IMPLIED 
+     TEIform CDATA "eg" >
+
+<!ELEMENT code (#PCDATA)>
+
+<!ATTLIST code 
+     %a.global;
+     ana IDREFS #IMPLIED 
+     corresp IDREFS #IMPLIED 
+     next IDREF #IMPLIED 
+     prev IDREF #IMPLIED>
+
+<!ELEMENT ident (#PCDATA)>
+
+<!ATTLIST ident 
+     %a.global;
+     ana IDREFS #IMPLIED 
+     corresp IDREFS #IMPLIED 
+     next IDREF #IMPLIED 
+     prev IDREF #IMPLIED>
+
+<!ELEMENT kw (#PCDATA)>
+
+<!ATTLIST kw 
+     %a.global;
+     ana IDREFS #IMPLIED 
+     corresp IDREFS #IMPLIED 
+     next IDREF #IMPLIED 
+     prev IDREF #IMPLIED>
+
+<!ELEMENT teiHeader (fileDesc, (encodingDesc)*, (profileDesc)*,
+(revisionDesc)?)>
+
+<!ATTLIST teiHeader 
+     %a.global;
+     ana IDREFS #IMPLIED 
+     corresp IDREFS #IMPLIED 
+     next IDREF #IMPLIED 
+     prev IDREF #IMPLIED 
+     type CDATA "text" 
+     creator CDATA #IMPLIED 
+     status (new | update) "new" 
+     date.created CDATA #IMPLIED 
+     date.updated CDATA #IMPLIED 
+     TEIform CDATA "teiHeader" >
+
+<!ELEMENT fileDesc (titleStmt, (editionStmt)?, (extent)?,
+publicationStmt, (seriesStmt)?, (notesStmt)?, (sourceDesc)+)>
+
+<!ATTLIST fileDesc 
+     %a.global;
+     ana IDREFS #IMPLIED 
+     corresp IDREFS #IMPLIED 
+     next IDREF #IMPLIED 
+     prev IDREF #IMPLIED 
+     TEIform CDATA "fileDesc" >
+
+<!ELEMENT titleStmt (((title)+, (author | editor | sponsor | funder | principal | respStmt)*))>
+
+<!ATTLIST titleStmt 
+     %a.global;
+     ana IDREFS #IMPLIED 
+     corresp IDREFS #IMPLIED 
+     next IDREF #IMPLIED 
+     prev IDREF #IMPLIED 
+     TEIform CDATA "titleStmt" >
+
+<!ELEMENT sponsor (#PCDATA | %seq.content;)*>
+
+<!ATTLIST sponsor 
+     %a.global;
+     ana IDREFS #IMPLIED 
+     corresp IDREFS #IMPLIED 
+     next IDREF #IMPLIED 
+     prev IDREF #IMPLIED 
+     TEIform CDATA "sponsor" >
+
+<!ELEMENT funder (#PCDATA | %seq.content;)*>
+
+<!ATTLIST funder 
+     %a.global;
+     ana IDREFS #IMPLIED 
+     corresp IDREFS #IMPLIED 
+     next IDREF #IMPLIED 
+     prev IDREF #IMPLIED 
+     TEIform CDATA "funder" >
+
+<!ELEMENT principal (#PCDATA | %seq.content;)*>
+
+<!ATTLIST principal 
+     %a.global;
+     ana IDREFS #IMPLIED 
+     corresp IDREFS #IMPLIED 
+     next IDREF #IMPLIED 
+     prev IDREF #IMPLIED 
+     TEIform CDATA "principal" >
+
+<!ELEMENT editionStmt ((edition, (respStmt)*) | (p)+)>
+
+<!ATTLIST editionStmt 
+     %a.global;
+     ana IDREFS #IMPLIED 
+     corresp IDREFS #IMPLIED 
+     next IDREF #IMPLIED 
+     prev IDREF #IMPLIED 
+     TEIform CDATA "editionStmt" >
+
+<!ELEMENT edition (#PCDATA | %seq.content;)*>
+
+<!ATTLIST edition 
+     %a.global;
+     ana IDREFS #IMPLIED 
+     corresp IDREFS #IMPLIED 
+     next IDREF #IMPLIED 
+     prev IDREF #IMPLIED 
+     TEIform CDATA "edition" >
+
+<!ELEMENT extent (#PCDATA | %seq.content;)*>
+
+<!ATTLIST extent 
+     %a.global;
+     ana IDREFS #IMPLIED 
+     corresp IDREFS #IMPLIED 
+     next IDREF #IMPLIED 
+     prev IDREF #IMPLIED 
+     TEIform CDATA "extent" >
+
+<!--  5.2.4:  The publication statement                        -->
+
+<!-- ((publisher | distributor | authority) & ((pubPlace)?, (address)?, (idno)*, (availability)?, (date)?) -->
+
+<!ELEMENT publicationStmt	(p+ | ((publisher | distributor | authority) , 
+                                        (pubPlace?, address?, idno*, availability?, date?)+)+)>
+
+<!ATTLIST publicationStmt 
+     %a.global;
+     ana IDREFS #IMPLIED 
+     corresp IDREFS #IMPLIED 
+     next IDREF #IMPLIED 
+     prev IDREF #IMPLIED 
+     TEIform CDATA "publicationStmt" >
+
+<!ELEMENT distributor (#PCDATA | %seq.content;)*>
+
+<!ATTLIST distributor 
+     %a.global;
+     ana IDREFS #IMPLIED 
+     corresp IDREFS #IMPLIED 
+     next IDREF #IMPLIED 
+     prev IDREF #IMPLIED 
+     TEIform CDATA "distributor" >
+
+<!ELEMENT authority (#PCDATA | %seq.content;)*>
+
+<!ATTLIST authority 
+     %a.global;
+     ana IDREFS #IMPLIED 
+     corresp IDREFS #IMPLIED 
+     next IDREF #IMPLIED 
+     prev IDREF #IMPLIED 
+     TEIform CDATA "authority" >
+
+<!ELEMENT idno (#PCDATA | %default.inclusions;)*>
+
+<!ATTLIST idno 
+     %a.global;
+     ana IDREFS #IMPLIED 
+     corresp IDREFS #IMPLIED 
+     next IDREF #IMPLIED 
+     prev IDREF #IMPLIED 
+     type CDATA #IMPLIED 
+     TEIform CDATA "idno" >
+
+<!ELEMENT availability ((p)+)>
+
+<!ATTLIST availability 
+     %a.global;
+     ana IDREFS #IMPLIED 
+     corresp IDREFS #IMPLIED 
+     next IDREF #IMPLIED 
+     prev IDREF #IMPLIED 
+     status (free | unknown | restricted) #IMPLIED 
+     TEIform CDATA "availability" >
+
+<!--  5.2.5:  The series statement                             -->
+
+<!ELEMENT seriesStmt ((title, (idno | respStmt)*) | (p)+)>
+
+<!ATTLIST seriesStmt 
+     %a.global;
+     ana IDREFS #IMPLIED 
+     corresp IDREFS #IMPLIED 
+     next IDREF #IMPLIED 
+     prev IDREF #IMPLIED 
+     TEIform CDATA "seriesStmt" >
+
+<!--  5.2.6:  The notes statement                              -->
+
+<!ELEMENT notesStmt ((note)+)>
+
+<!ATTLIST notesStmt 
+     %a.global;
+     ana IDREFS #IMPLIED 
+     corresp IDREFS #IMPLIED 
+     next IDREF #IMPLIED 
+     prev IDREF #IMPLIED 
+     TEIform CDATA "notesStmt" >
+
+<!--  5.2.7:  The source description                           -->
+
+<!ELEMENT sourceDesc (p | bibl | biblFull | listBibl)+>
+
+<!ATTLIST sourceDesc 
+     %a.global;
+     ana IDREFS #IMPLIED 
+     corresp IDREFS #IMPLIED 
+     next IDREF #IMPLIED 
+     prev IDREF #IMPLIED 
+     default (YES | NO) "NO" 
+     TEIform CDATA "sourceDesc" >
+
+<!--  5.3:  The encoding description                           -->
+
+<!ELEMENT encodingDesc ((projectDesc)*, (samplingDecl)*,
+(editorialDecl)*, (tagsDecl)?, (refsDecl)*, (classDecl)*, (p)*)>
+
+<!ATTLIST encodingDesc 
+     %a.global;
+     ana IDREFS #IMPLIED 
+     corresp IDREFS #IMPLIED 
+     next IDREF #IMPLIED 
+     prev IDREF #IMPLIED 
+     TEIform CDATA "encodingDesc" >
+
+<!--  5.3.1:  The project description                          -->
+
+<!ELEMENT projectDesc ((p)+)>
+
+<!ATTLIST projectDesc 
+     %a.global;
+     ana IDREFS #IMPLIED 
+     corresp IDREFS #IMPLIED 
+     next IDREF #IMPLIED 
+     prev IDREF #IMPLIED 
+     default (YES | NO) "NO" 
+     TEIform CDATA "projectDesc" >
+
+<!--  5.3.2:  The sampling declaration                         -->
+
+<!ELEMENT samplingDecl ((p)+)>
+
+<!ATTLIST samplingDecl 
+     %a.global;
+     ana IDREFS #IMPLIED 
+     corresp IDREFS #IMPLIED 
+     next IDREF #IMPLIED 
+     prev IDREF #IMPLIED 
+     default (YES | NO) "NO" 
+     TEIform CDATA "samplingDecl" >
+
+<!--  5.3.3:  The editorial practices declaration              -->
+
+<!ELEMENT editorialDecl ((p)+)>
+
+<!ATTLIST editorialDecl 
+     %a.global;
+     ana IDREFS #IMPLIED 
+     corresp IDREFS #IMPLIED 
+     next IDREF #IMPLIED 
+     prev IDREF #IMPLIED 
+     default (YES | NO) "NO" 
+     TEIform CDATA "editorialDecl" >
+
+<!--  5.3.4:  Tag usage and rendition declarations             -->
+
+<!ELEMENT tagsDecl ((rendition)*, (tagUsage)*)>
+
+<!ATTLIST tagsDecl 
+     %a.global;
+     ana IDREFS #IMPLIED 
+     corresp IDREFS #IMPLIED 
+     next IDREF #IMPLIED 
+     prev IDREF #IMPLIED 
+     TEIform CDATA "tagsDecl" >
+
+<!ELEMENT tagUsage (#PCDATA | %para.content;)*>
+
+<!ATTLIST tagUsage 
+     %a.global;
+     ana IDREFS #IMPLIED 
+     corresp IDREFS #IMPLIED 
+     next IDREF #IMPLIED 
+     prev IDREF #IMPLIED 
+     gi CDATA #REQUIRED 
+     occurs CDATA #IMPLIED 
+     ident CDATA #IMPLIED 
+     render IDREF #IMPLIED 
+     TEIform CDATA "tagUsage" >
+
+<!ELEMENT rendition (#PCDATA | ident | code | kw | abbr | address
+| date | name | num | rs | time | add | corr | del | gap | orig | reg
+| sic | unclear | emph | foreign | gloss | hi | mentioned | soCalled |
+term | title | ptr | ref | xptr | xref | anchor | s | seg | gi | formula |
+eg | bibl | biblFull | cit | q | label | list | listBibl |
+note | figure | stage | table | text)*>
+
+<!ATTLIST rendition 
+     %a.global;
+     ana IDREFS #IMPLIED 
+     corresp IDREFS #IMPLIED 
+     next IDREF #IMPLIED 
+     prev IDREF #IMPLIED 
+     TEIform CDATA "rendition" >
+
+<!--  5.3.5.3:  The reference scheme declaration               -->
+
+<!ELEMENT refsDecl ((p)+)>
+
+<!ATTLIST refsDecl 
+     %a.global;
+     ana IDREFS #IMPLIED 
+     corresp IDREFS #IMPLIED 
+     next IDREF #IMPLIED 
+     prev IDREF #IMPLIED 
+     doctype CDATA "TEI.2" 
+     TEIform CDATA "refsDecl" >
+
+<!--  5.3.6:  The classification declaration                   -->
+
+<!ELEMENT classDecl ((taxonomy)+)>
+
+<!ATTLIST classDecl 
+     %a.global;
+     ana IDREFS #IMPLIED 
+     corresp IDREFS #IMPLIED 
+     next IDREF #IMPLIED 
+     prev IDREF #IMPLIED 
+     TEIform CDATA "classDecl" >
+
+<!ELEMENT taxonomy ((category)+ | ((bibl | biblFull),
+(category)*))>
+
+<!ATTLIST taxonomy 
+     %a.global;
+     ana IDREFS #IMPLIED 
+     corresp IDREFS #IMPLIED 
+     next IDREF #IMPLIED 
+     prev IDREF #IMPLIED 
+     TEIform CDATA "taxonomy" >
+
+<!ELEMENT category (catDesc, (category)*)>
+
+<!ATTLIST category 
+     %a.global;
+     ana IDREFS #IMPLIED 
+     corresp IDREFS #IMPLIED 
+     next IDREF #IMPLIED 
+     prev IDREF #IMPLIED 
+     TEIform CDATA "category" >
+
+<!ELEMENT catDesc (#PCDATA | %seq.content;)*>
+
+<!ATTLIST catDesc 
+     %a.global;
+     ana IDREFS #IMPLIED 
+     corresp IDREFS #IMPLIED 
+     next IDREF #IMPLIED 
+     prev IDREF #IMPLIED 
+     TEIform CDATA "catDesc" >
+
+<!--  5.4:  The profile description                            -->
+
+<!ELEMENT profileDesc ((creation)?, (langUsage)*, (textClass)*)>
+
+<!ATTLIST profileDesc 
+     %a.global;
+     ana IDREFS #IMPLIED 
+     corresp IDREFS #IMPLIED 
+     next IDREF #IMPLIED 
+     prev IDREF #IMPLIED 
+     TEIform CDATA "profileDesc" >
+
+<!--  5.4.1:  Creation                                         -->
+
+<!ELEMENT creation (#PCDATA | %seq.content;)*>
+
+<!ATTLIST creation 
+     %a.global;
+     ana IDREFS #IMPLIED 
+     corresp IDREFS #IMPLIED 
+     next IDREF #IMPLIED 
+     prev IDREF #IMPLIED 
+     TEIform CDATA "creation" >
+
+<!--  5.4.2:  Language usage                                   -->
+
+<!ELEMENT langUsage (p | language)+>
+
+<!ATTLIST langUsage 
+     %a.global;
+     ana IDREFS #IMPLIED 
+     corresp IDREFS #IMPLIED 
+     next IDREF #IMPLIED 
+     prev IDREF #IMPLIED 
+     default (YES | NO) "NO" 
+     TEIform CDATA "langUsage" >
+
+<!ELEMENT language (#PCDATA | %seq.content;)*>
+
+<!ATTLIST language 
+     %a.global;
+     wsd ENTITY #IMPLIED 
+     usage CDATA #IMPLIED 
+     TEIform CDATA "language" >
+
+<!--  5.4.3:  Text Classification                              -->
+
+<!ELEMENT textClass ((classCode | catRef | keywords)*)>
+
+<!ATTLIST textClass 
+     %a.global;
+     ana IDREFS #IMPLIED 
+     corresp IDREFS #IMPLIED 
+     next IDREF #IMPLIED 
+     prev IDREF #IMPLIED 
+     default (YES | NO) "NO" 
+     TEIform CDATA "textClass" >
+
+<!ELEMENT keywords ((term)+ | list)>
+
+<!ATTLIST keywords 
+     %a.global;
+     ana IDREFS #IMPLIED 
+     corresp IDREFS #IMPLIED 
+     next IDREF #IMPLIED 
+     prev IDREF #IMPLIED 
+     scheme IDREF #IMPLIED 
+     TEIform CDATA "keywords" >
+
+<!ELEMENT classCode (#PCDATA | %seq.content;)*>
+
+<!ATTLIST classCode 
+     %a.global;
+     ana IDREFS #IMPLIED 
+     corresp IDREFS #IMPLIED 
+     next IDREF #IMPLIED 
+     prev IDREF #IMPLIED 
+     scheme IDREF #IMPLIED 
+     TEIform CDATA "classCode" >
+
+<!ELEMENT catRef EMPTY>
+
+<!ATTLIST catRef 
+     %a.global;
+     ana IDREFS #IMPLIED 
+     corresp IDREFS #IMPLIED 
+     next IDREF #IMPLIED 
+     prev IDREF #IMPLIED 
+     target IDREFS #REQUIRED 
+     scheme IDREF #IMPLIED 
+     TEIform CDATA "catRef" >
+
+<!--  5.5:  The Revision Description                           -->
+
+<!ELEMENT revisionDesc (list | (change)+)>
+
+<!ATTLIST revisionDesc 
+     %a.global;
+     ana IDREFS #IMPLIED 
+     corresp IDREFS #IMPLIED 
+     next IDREF #IMPLIED 
+     prev IDREF #IMPLIED 
+     TEIform CDATA "revisionDesc" >
+
+<!ELEMENT change (date, (respStmt)+, item)>
+
+<!ATTLIST change 
+     %a.global;
+     ana IDREFS #IMPLIED 
+     corresp IDREFS #IMPLIED 
+     next IDREF #IMPLIED 
+     prev IDREF #IMPLIED 
+     TEIform CDATA "change" >
+
+<!--  6.12: Elements available in all forms of the TEI main    -->
+<!--  DTD                                                      -->
+<!--  Definition of elements, sub-group by sub-group.          -->
+<!--  6.1:  Paragraph                                          -->
+
+<!ELEMENT p (#PCDATA | %para.content;)*>
+
+<!ATTLIST p 
+     %a.global;
+     ana IDREFS #IMPLIED 
+     corresp IDREFS #IMPLIED 
+     next IDREF #IMPLIED 
+     prev IDREF #IMPLIED 
+     TEIform CDATA "p" >
+
+<!--  6.3.2.1:  Highlighted phrases                            -->
+
+<!ELEMENT foreign (#PCDATA | %para.content;)*>
+
+<!ATTLIST foreign 
+     %a.global;
+     TEIform CDATA "foreign" >
+
+<!--  6.3.2.2:  Highlighted phrases (cont'd)                   -->
+
+<!ELEMENT emph (#PCDATA | %para.content;)*>
+
+<!ATTLIST emph 
+     %a.global;
+     ana IDREFS #IMPLIED 
+     corresp IDREFS #IMPLIED 
+     next IDREF #IMPLIED 
+     prev IDREF #IMPLIED 
+     TEIform CDATA "emph" >
+
+<!ELEMENT hi (#PCDATA | %para.content;)*>
+
+<!ATTLIST hi 
+     %a.global;
+     TEIform CDATA "hi" >
+
+<!--  6.3.3:  Highlighted phrases (cont'd)                     -->
+
+<!ELEMENT q (#PCDATA | %phrase.content;)*>
+
+<!ATTLIST q 
+     %a.global;
+     ana IDREFS #IMPLIED 
+     corresp IDREFS #IMPLIED 
+     next IDREF #IMPLIED 
+     prev IDREF #IMPLIED 
+     type CDATA #IMPLIED 
+     direct (y | n | unspecified) "unspecified" 
+     who CDATA #IMPLIED 
+     TEIform CDATA "q" >
+
+<!ELEMENT cit ((q , (bibl | biblFull | ptr | ref | xptr | xref)) | ((bibl | biblFull | ptr | ref | xptr | xref) , q))>
+
+<!ATTLIST cit 
+     %a.global;
+     ana IDREFS #IMPLIED 
+     corresp IDREFS #IMPLIED 
+     next IDREF #IMPLIED 
+     prev IDREF #IMPLIED 
+     TEIform CDATA "cit" >
+
+<!ELEMENT soCalled (#PCDATA | %seq.content;)*>
+
+<!ATTLIST soCalled 
+     %a.global;
+     ana IDREFS #IMPLIED 
+     corresp IDREFS #IMPLIED 
+     next IDREF #IMPLIED 
+     prev IDREF #IMPLIED 
+     TEIform CDATA "soCalled" >
+
+<!--  6.3.4:  Highlighted phrases (cont'd)                     -->
+
+<!ELEMENT term (#PCDATA | %seq.content;)*>
+
+<!ATTLIST term 
+     %a.global;
+     ana IDREFS #IMPLIED 
+     corresp IDREFS #IMPLIED 
+     next IDREF #IMPLIED 
+     prev IDREF #IMPLIED 
+     type CDATA #IMPLIED 
+     TEIform CDATA "term" >
+
+<!ELEMENT mentioned (#PCDATA | %seq.content;)*>
+
+<!ATTLIST mentioned 
+     %a.global;
+     ana IDREFS #IMPLIED 
+     corresp IDREFS #IMPLIED 
+     next IDREF #IMPLIED 
+     prev IDREF #IMPLIED 
+     TEIform CDATA "mentioned" >
+
+<!ELEMENT gloss (#PCDATA | %seq.content;)*>
+
+<!ATTLIST gloss 
+     %a.global;
+     ana IDREFS #IMPLIED 
+     corresp IDREFS #IMPLIED 
+     next IDREF #IMPLIED 
+     prev IDREF #IMPLIED 
+     target IDREF #IMPLIED 
+     TEIform CDATA "gloss" >
+
+<!--  6.4.1:  Proper Nouns                                     -->
+
+<!ELEMENT name (#PCDATA | %seq.content;)*>
+
+<!ATTLIST name 
+     %a.global;
+     ana IDREFS #IMPLIED 
+     corresp IDREFS #IMPLIED 
+     next IDREF #IMPLIED 
+     prev IDREF #IMPLIED 
+     key CDATA #IMPLIED 
+     reg CDATA #IMPLIED 
+     type CDATA #IMPLIED 
+     TEIform CDATA "name" >
+
+<!ELEMENT rs (#PCDATA | %seq.content;)*>
+<!ATTLIST rs 
+     %a.global;
+     ana IDREFS #IMPLIED 
+     corresp IDREFS #IMPLIED 
+     next IDREF #IMPLIED 
+     prev IDREF #IMPLIED 
+     key CDATA #IMPLIED 
+     reg CDATA #IMPLIED 
+     type CDATA #IMPLIED 
+     TEIform CDATA "rs" >
+
+<!--  6.4.3:  Numbers and measures                             -->
+
+<!ELEMENT num (#PCDATA | %seq.content;)*>
+
+<!ATTLIST num 
+     %a.global;
+     ana IDREFS #IMPLIED 
+     corresp IDREFS #IMPLIED 
+     next IDREF #IMPLIED 
+     prev IDREF #IMPLIED 
+     type CDATA #IMPLIED 
+     value CDATA #IMPLIED 
+     TEIform CDATA "num" >
+
+<!--  6.4.4:  Dates and times                                  -->
+
+<!ELEMENT date (#PCDATA | %seq.content;)*>
+
+<!ATTLIST date 
+     %a.global;
+     ana IDREFS #IMPLIED 
+     corresp IDREFS #IMPLIED 
+     next IDREF #IMPLIED 
+     prev IDREF #IMPLIED 
+     calendar CDATA #IMPLIED 
+     value CDATA #IMPLIED 
+     certainty CDATA #IMPLIED 
+     TEIform CDATA "date" >
+
+<!ELEMENT time (#PCDATA | %seq.content;)*>
+
+<!ATTLIST time 
+     %a.global;
+     ana IDREFS #IMPLIED 
+     corresp IDREFS #IMPLIED 
+     next IDREF #IMPLIED 
+     prev IDREF #IMPLIED 
+     value CDATA #IMPLIED 
+     type (am | pm | 24hour | descriptive) #IMPLIED 
+     zone CDATA #IMPLIED 
+     TEIform CDATA "time" >
+
+<!--  6.4.5:  Abbreviations                                    -->
+
+<!ELEMENT abbr (#PCDATA | %seq.content;)*>
+
+<!ATTLIST abbr 
+     %a.global;
+     ana IDREFS #IMPLIED 
+     corresp IDREFS #IMPLIED 
+     next IDREF #IMPLIED 
+     prev IDREF #IMPLIED 
+     expan CDATA #IMPLIED 
+     resp IDREF #IMPLIED 
+     cert CDATA #IMPLIED 
+     type CDATA #IMPLIED 
+     TEIform CDATA "abbr" >
+
+<!--  6.5.1:  Editorial tags for correction                    -->
+
+<!ELEMENT sic (#PCDATA | %phrase.content;)*>
+
+<!ATTLIST sic 
+     %a.global;
+     ana IDREFS #IMPLIED 
+     corresp IDREFS #IMPLIED 
+     next IDREF #IMPLIED 
+     prev IDREF #IMPLIED 
+     corr CDATA #IMPLIED 
+     resp IDREF #IMPLIED 
+     cert CDATA #IMPLIED 
+     TEIform CDATA "sic" >
+
+<!ELEMENT corr (#PCDATA | %phrase.content;)*>
+
+<!ATTLIST corr 
+     %a.global;
+     ana IDREFS #IMPLIED 
+     corresp IDREFS #IMPLIED 
+     next IDREF #IMPLIED 
+     prev IDREF #IMPLIED 
+     sic CDATA #IMPLIED 
+     resp CDATA #IMPLIED 
+     cert CDATA #IMPLIED 
+     TEIform CDATA "corr" >
+
+<!--  6.5.2:  Editorial tags for regularization                -->
+
+<!ELEMENT reg (#PCDATA | %seq.content;)*>
+
+<!ATTLIST reg 
+     %a.global;
+     ana IDREFS #IMPLIED 
+     corresp IDREFS #IMPLIED 
+     next IDREF #IMPLIED 
+     prev IDREF #IMPLIED 
+     orig CDATA #IMPLIED 
+     resp CDATA #IMPLIED 
+     TEIform CDATA "reg" >
+
+<!ELEMENT orig (#PCDATA | %seq.content;)*>
+
+<!ATTLIST orig 
+     %a.global;
+     ana IDREFS #IMPLIED 
+     corresp IDREFS #IMPLIED 
+     next IDREF #IMPLIED 
+     prev IDREF #IMPLIED 
+     reg CDATA #IMPLIED 
+     resp CDATA #IMPLIED 
+     TEIform CDATA "orig" >
+
+<!--  6.5.3:  Other editorial tags                             -->
+
+<!ELEMENT gap EMPTY>
+
+<!ATTLIST gap 
+     %a.global;
+     ana IDREFS #IMPLIED 
+     corresp IDREFS #IMPLIED 
+     next IDREF #IMPLIED 
+     prev IDREF #IMPLIED 
+     desc CDATA #IMPLIED 
+     reason CDATA #IMPLIED 
+     resp IDREF #IMPLIED 
+     hand IDREF #IMPLIED 
+     agent CDATA #IMPLIED 
+     extent CDATA #IMPLIED 
+     TEIform CDATA "gap" >
+
+<!ELEMENT add (#PCDATA | %phrase.content;)*>
+
+<!ATTLIST add 
+     %a.global;
+     ana IDREFS #IMPLIED 
+     corresp IDREFS #IMPLIED 
+     next IDREF #IMPLIED 
+     prev IDREF #IMPLIED 
+     place CDATA #IMPLIED 
+     resp IDREF #IMPLIED 
+     cert CDATA #IMPLIED 
+     hand IDREF #IMPLIED 
+     TEIform CDATA "add" >
+
+<!ELEMENT del (#PCDATA | %seq.content;)*>
+
+<!ATTLIST del 
+     %a.global;
+     type CDATA #IMPLIED 
+     status CDATA "unremarkable" 
+     resp IDREF #IMPLIED 
+     cert CDATA #IMPLIED 
+     hand IDREF #IMPLIED 
+     TEIform CDATA "del" >
+
+<!ELEMENT unclear (#PCDATA | %para.content;)*>
+
+<!ATTLIST unclear 
+     %a.global;
+     ana IDREFS #IMPLIED 
+     corresp IDREFS #IMPLIED 
+     next IDREF #IMPLIED 
+     prev IDREF #IMPLIED 
+     reason CDATA #IMPLIED 
+     resp CDATA #IMPLIED 
+     cert CDATA #IMPLIED 
+     hand IDREF #IMPLIED 
+     agent CDATA #IMPLIED 
+     TEIform CDATA "unclear" >
+
+<!--  6.4.2:  Addresses and their components                   -->
+
+<!ELEMENT address ((addrLine)+)>
+
+<!ATTLIST address 
+     %a.global;
+     ana IDREFS #IMPLIED 
+     corresp IDREFS #IMPLIED 
+     next IDREF #IMPLIED 
+     prev IDREF #IMPLIED 
+     TEIform CDATA "address" >
+
+<!ELEMENT addrLine (#PCDATA | %seq.content;)*>
+
+<!ATTLIST addrLine 
+     %a.global;
+     ana IDREFS #IMPLIED 
+     corresp IDREFS #IMPLIED 
+     next IDREF #IMPLIED 
+     prev IDREF #IMPLIED 
+     TEIform CDATA "addrLine" >
+
+<!--  6.6:  Simple cross references                            -->
+
+<!ELEMENT ptr EMPTY>
+
+<!ATTLIST ptr 
+     %a.global;
+     ana IDREFS #IMPLIED 
+     corresp IDREFS #IMPLIED 
+     next IDREF #IMPLIED 
+     prev IDREF #IMPLIED 
+     resp CDATA #IMPLIED 
+     crdate CDATA #IMPLIED 
+     targType CDATA #IMPLIED 
+     targOrder (Y | N | U) "U" 
+     evaluate (all | one | none) #IMPLIED 
+     target IDREFS #REQUIRED 
+     TEIform CDATA "ptr" >
+
+<!ELEMENT ref (#PCDATA | %para.content;)*>
+
+<!ATTLIST ref 
+     %a.global;
+     ana IDREFS #IMPLIED 
+     corresp IDREFS #IMPLIED 
+     next IDREF #IMPLIED 
+     prev IDREF #IMPLIED 
+     resp CDATA #IMPLIED 
+     crdate CDATA #IMPLIED 
+     targType CDATA #IMPLIED 
+     targOrder (Y | N | U) "U" 
+     evaluate (all | one | none) #IMPLIED 
+     target IDREFS #IMPLIED 
+     TEIform CDATA "ref" >
+
+<!--  6.7:  Lists and List Items                               -->
+
+<!ELEMENT list ((head)?, (((item)+) | ((label, item)+)))>
+
+<!ATTLIST list 
+     %a.global;
+     ana IDREFS #IMPLIED 
+     corresp IDREFS #IMPLIED 
+     next IDREF #IMPLIED 
+     prev IDREF #IMPLIED 
+     type CDATA "simple" 
+     TEIform CDATA "list" >
+
+<!ELEMENT item (#PCDATA | %phrase.content;)*>
+
+<!ATTLIST item 
+     %a.global;
+     TEIform CDATA "item" >
+
+<!ELEMENT label (#PCDATA | %seq.content;)*>
+
+<!ATTLIST label 
+     %a.global;
+     ana IDREFS #IMPLIED 
+     corresp IDREFS #IMPLIED 
+     next IDREF #IMPLIED 
+     prev IDREF #IMPLIED 
+     TEIform CDATA "label" >
+
+<!ELEMENT head (#PCDATA | %para.content;)*>
+
+<!ATTLIST head 
+     %a.global;
+     ana IDREFS #IMPLIED 
+     corresp IDREFS #IMPLIED 
+     next IDREF #IMPLIED 
+     prev IDREF #IMPLIED 
+     type CDATA #IMPLIED 
+     TEIform CDATA "head" >
+
+<!--  6.8.1:  Annotation                                       -->
+
+<!ELEMENT note (#PCDATA | %phrase.content;)*>
+
+<!ATTLIST note 
+     %a.global;
+     type CDATA #IMPLIED 
+     resp CDATA #IMPLIED 
+     place CDATA "unspecified" 
+     anchored (yes | no) "yes" 
+     target IDREFS #IMPLIED 
+     targetEnd IDREFS #IMPLIED 
+     TEIform CDATA "note" >
+
+<!--  6.8.2:  Index Entries                                    -->
+
+<!ELEMENT index EMPTY>
+
+<!ATTLIST index 
+     %a.global;
+     ana IDREFS #IMPLIED 
+     corresp IDREFS #IMPLIED 
+     next IDREF #IMPLIED 
+     prev IDREF #IMPLIED 
+     index CDATA #IMPLIED 
+     level1 CDATA #REQUIRED 
+     level2 CDATA #IMPLIED 
+     level3 CDATA #IMPLIED 
+     level4 CDATA #IMPLIED 
+     TEIform CDATA "index" >
+
+<!ELEMENT divGen EMPTY>
+
+<!ATTLIST divGen 
+     %a.global;
+     ana IDREFS #IMPLIED 
+     corresp IDREFS #IMPLIED 
+     next IDREF #IMPLIED 
+     prev IDREF #IMPLIED 
+     type CDATA #IMPLIED 
+     TEIform CDATA "divGen" >
+
+<!--  6.9.3:  Milestone tags                                   -->
+
+<!ELEMENT milestone EMPTY>
+
+<!ATTLIST milestone 
+     %a.global;
+     ed CDATA #IMPLIED 
+     unit CDATA #REQUIRED 
+     TEIform CDATA "milestone" >
+
+<!ELEMENT pb EMPTY>
+
+<!ATTLIST pb 
+     %a.global;
+     ed CDATA #IMPLIED 
+     TEIform CDATA "pb" >
+
+<!ELEMENT lb EMPTY>
+
+<!ATTLIST lb 
+     %a.global;
+     ed CDATA #IMPLIED 
+     TEIform CDATA "lb" >
+
+<!--  6.10.1:  Tags for Bibliographic References               -->
+
+<!ELEMENT bibl (#PCDATA | ident | code | kw | abbr | address |
+date | name | num | rs | time | add | corr | del | gap | orig | reg |
+sic | unclear | emph | foreign | gloss | hi | mentioned | soCalled |
+term | title | ptr | ref | xptr | xref | anchor | s | seg | gi | formula |
+author | biblScope | edition | editor | extent | idno |
+imprint | note | publisher | pubPlace | respStmt)*>
+
+<!ATTLIST bibl 
+     %a.global;
+     ana IDREFS #IMPLIED 
+     corresp IDREFS #IMPLIED 
+     next IDREF #IMPLIED 
+     prev IDREF #IMPLIED 
+     default (YES | NO) "NO" 
+     TEIform CDATA "bibl" >
+
+<!ELEMENT biblFull (titleStmt, (editionStmt)?, (extent)?,
+publicationStmt, (seriesStmt)?, (notesStmt)?, (sourceDesc)*)>
+
+<!ATTLIST biblFull 
+     %a.global;
+     ana IDREFS #IMPLIED 
+     corresp IDREFS #IMPLIED 
+     next IDREF #IMPLIED 
+     prev IDREF #IMPLIED 
+     default (YES | NO) "NO" 
+     TEIform CDATA "biblFull" >
+
+<!ELEMENT listBibl ((head)?, (bibl | biblFull)+, (trailer)?)>
+
+<!ATTLIST listBibl 
+     %a.global;
+     ana IDREFS #IMPLIED 
+     corresp IDREFS #IMPLIED 
+     next IDREF #IMPLIED 
+     prev IDREF #IMPLIED 
+     default (YES | NO) "NO" 
+     TEIform CDATA "listBibl" >
+
+<!--  6.10.2.2:  Tags for Bibliographic References (cont'd)    -->
+
+<!ELEMENT author (#PCDATA | %seq.content;)*>
+
+<!ATTLIST author 
+     %a.global;
+     ana IDREFS #IMPLIED 
+     corresp IDREFS #IMPLIED 
+     next IDREF #IMPLIED 
+     prev IDREF #IMPLIED 
+     TEIform CDATA "author" >
+
+<!ELEMENT editor (#PCDATA | %seq.content;)*>
+
+<!ATTLIST editor 
+     %a.global;
+     ana IDREFS #IMPLIED 
+     corresp IDREFS #IMPLIED 
+     next IDREF #IMPLIED 
+     prev IDREF #IMPLIED 
+     role CDATA "editor" 
+     TEIform CDATA "editor" >
+
+<!ELEMENT respStmt (((resp, name), (resp | name)*) | 
+                    ((name, resp), (resp | name)*))>
+
+<!ATTLIST respStmt 
+     %a.global;
+     ana IDREFS #IMPLIED 
+     corresp IDREFS #IMPLIED 
+     next IDREF #IMPLIED 
+     prev IDREF #IMPLIED 
+     TEIform CDATA "respStmt" >
+
+<!ELEMENT resp (#PCDATA | %seq.content;)*>
+
+<!ATTLIST resp 
+     %a.global;
+     ana IDREFS #IMPLIED 
+     corresp IDREFS #IMPLIED 
+     next IDREF #IMPLIED 
+     prev IDREF #IMPLIED 
+     TEIform CDATA "resp" >
+
+<!ELEMENT title (#PCDATA | %para.content;)*>
+
+<!ATTLIST title 
+     %a.global;
+     ana IDREFS #IMPLIED 
+     corresp IDREFS #IMPLIED 
+     next IDREF #IMPLIED 
+     prev IDREF #IMPLIED 
+     level (a | m | j | s | u) #IMPLIED 
+     type CDATA #IMPLIED 
+     TEIform CDATA "title" >
+
+<!--  6.10.2.3:  Tags for Bibliographic References (cont'd)    -->
+
+<!ELEMENT imprint (pubPlace | publisher | date | biblScope)*>
+
+<!ATTLIST imprint 
+     %a.global;
+     ana IDREFS #IMPLIED 
+     corresp IDREFS #IMPLIED 
+     next IDREF #IMPLIED 
+     prev IDREF #IMPLIED 
+     TEIform CDATA "imprint" >
+
+<!ELEMENT publisher (#PCDATA | %seq.content;)*>
+
+<!ATTLIST publisher 
+     %a.global;
+     ana IDREFS #IMPLIED 
+     corresp IDREFS #IMPLIED 
+     next IDREF #IMPLIED 
+     prev IDREF #IMPLIED 
+     TEIform CDATA "publisher" >
+
+<!ELEMENT biblScope (#PCDATA | %seq.content;)*>
+
+<!ATTLIST biblScope 
+     %a.global;
+     ana IDREFS #IMPLIED 
+     corresp IDREFS #IMPLIED 
+     next IDREF #IMPLIED 
+     prev IDREF #IMPLIED 
+     type CDATA #IMPLIED 
+     TEIform CDATA "biblScope" >
+
+<!ELEMENT pubPlace (#PCDATA | %seq.content;)*>
+
+<!ATTLIST pubPlace 
+     %a.global;
+     ana IDREFS #IMPLIED 
+     corresp IDREFS #IMPLIED 
+     next IDREF #IMPLIED 
+     prev IDREF #IMPLIED 
+     key CDATA #IMPLIED 
+     reg CDATA #IMPLIED 
+     TEIform CDATA "pubPlace" >
+
+<!--  6.11.1:  Verse                                           -->
+
+<!ELEMENT l (#PCDATA | %para.content;)*>
+
+<!ATTLIST l 
+     %a.global;
+     ana IDREFS #IMPLIED 
+     corresp IDREFS #IMPLIED 
+     next IDREF #IMPLIED 
+     prev IDREF #IMPLIED 
+     enjamb CDATA #IMPLIED 
+     met CDATA #IMPLIED 
+     real CDATA #IMPLIED 
+     rhyme CDATA #IMPLIED 
+     part (Y | N | I | M | F) "N" 
+     TEIform CDATA "l" >
+
+<!ELEMENT lg ((argument | byline | docAuthor | docDate | epigraph
+| head | opener | salute | signed)*, (l | lg)+, (byline | closer |
+epigraph | salute | signed | trailer)*)>
+
+<!ATTLIST lg 
+     %a.global;
+     ana IDREFS #IMPLIED 
+     corresp IDREFS #IMPLIED 
+     next IDREF #IMPLIED 
+     prev IDREF #IMPLIED 
+     type CDATA #IMPLIED
+     org (composite | uniform) "uniform" 
+     sample (initial | medial | final | unknown | complete) "complete" 
+     part (Y | N | I | M | F) "N" 
+     met CDATA #IMPLIED 
+     real CDATA #IMPLIED 
+     rhyme CDATA #IMPLIED 
+     TEIform CDATA "lg" >
+
+<!--  6.11.2:  Drama                                           -->
+
+<!ELEMENT sp ((speaker)?, (p | l | lg | seg | stage)+)>
+
+<!ATTLIST sp 
+     %a.global;
+     ana IDREFS #IMPLIED 
+     corresp IDREFS #IMPLIED 
+     next IDREF #IMPLIED 
+     prev IDREF #IMPLIED 
+     who IDREFS #IMPLIED 
+     TEIform CDATA "sp" >
+
+<!-- -(speaker) -->
+
+<!ELEMENT speaker (#PCDATA | %seq.content;)*>
+
+<!ATTLIST speaker 
+     %a.global;
+     ana IDREFS #IMPLIED 
+     corresp IDREFS #IMPLIED 
+     next IDREF #IMPLIED 
+     prev IDREF #IMPLIED 
+     TEIform CDATA "speaker" >
+
+<!-- -(stage) -->
+
+<!ELEMENT stage (#PCDATA | %phrase.content;)*>
+
+<!ATTLIST stage 
+     %a.global;
+     ana IDREFS #IMPLIED 
+     corresp IDREFS #IMPLIED 
+     next IDREF #IMPLIED 
+     prev IDREF #IMPLIED 
+     type CDATA "mix" 
+     TEIform CDATA "stage" >
+
+<!--  7:  Top-level parts of default structure                 -->
+<!-- +(index | interp | interpGrp | lb | milestone | pb) -->
+
+<!ELEMENT text ((front)?, (body | group), (back)?)>
+
+<!ATTLIST text 
+     %a.global;
+     ana IDREFS #IMPLIED 
+     corresp IDREFS #IMPLIED 
+     next IDREF #IMPLIED 
+     prev IDREF #IMPLIED 
+     decls IDREFS #IMPLIED 
+     TEIform CDATA "text" >
+
+<!ELEMENT body ((argument | byline | docAuthor | docDate |
+epigraph | head | opener | salute | signed)*, (((divGen)*, ((div, (div
+| divGen)*) | (div0, (div0 | divGen)*) | (div1, (div1 | divGen)*))) |
+(((eg | bibl | biblFull | l | lg | p | sp | cit | q | label | list |
+listBibl | note | stage))+, ((divGen)*, ((div, (div | divGen)*) |
+(div0, (div0 | divGen)*) | (div1, (div1 | divGen)*))?))), (byline |
+closer | epigraph | salute | signed | trailer)*)>
+
+<!ATTLIST body 
+     %a.global;
+     ana IDREFS #IMPLIED 
+     corresp IDREFS #IMPLIED 
+     next IDREF #IMPLIED 
+     prev IDREF #IMPLIED 
+     decls IDREFS #IMPLIED 
+     TEIform CDATA "body" >
+
+<!ELEMENT group ((argument | byline | docAuthor | docDate |
+epigraph | head | opener | salute | signed)*, (text | group)+, (byline
+| closer | epigraph | salute | signed | trailer)*)>
+
+<!ATTLIST group 
+     %a.global;
+     ana IDREFS #IMPLIED 
+     corresp IDREFS #IMPLIED 
+     next IDREF #IMPLIED 
+     prev IDREF #IMPLIED 
+     decls IDREFS #IMPLIED 
+     TEIform CDATA "group" >
+
+<!--  7.1.1:  Un-numbered divisions                            -->
+
+<!ELEMENT div ((argument | byline | docAuthor | docDate | epigraph
+| head | opener | salute | signed)*, ((div | divGen)+ | (((eg | bibl |
+biblFull | l | lg | p | sp | cit | q | label | list | listBibl | note
+| stage))+, (div | divGen)*)), (byline | closer | epigraph | salute |
+signed | trailer)*)>
+
+<!ATTLIST div 
+     %a.global;
+     ana IDREFS #IMPLIED 
+     corresp IDREFS #IMPLIED 
+     next IDREF #IMPLIED 
+     prev IDREF #IMPLIED 
+     decls IDREFS #IMPLIED 
+     type CDATA #IMPLIED
+     org (composite | uniform) "uniform" 
+     sample (initial | medial | final | unknown | complete) "complete" 
+     part (Y | N | I | M | F) "N" 
+     TEIform CDATA "div" >
+
+<!--  7.1.2:  Numbered divisions                               -->
+
+<!ELEMENT div0 ((argument | byline | docAuthor | docDate |
+epigraph | head | opener | salute | signed)*, ((div1 | divGen)+ |
+(((eg | bibl | biblFull | l | lg | p | sp | cit | q | label | list |
+listBibl | note | stage))+, (div1 | divGen)*)), (byline | closer |
+epigraph | salute | signed | trailer)*)>
+
+<!ATTLIST div0 
+     %a.global;
+     ana IDREFS #IMPLIED 
+     corresp IDREFS #IMPLIED 
+     next IDREF #IMPLIED 
+     prev IDREF #IMPLIED 
+     decls IDREFS #IMPLIED 
+     type CDATA #IMPLIED
+     org (composite | uniform) "uniform" 
+     sample (initial | medial | final | unknown | complete) "complete" 
+     part (Y | N | I | M | F) "N" 
+     TEIform CDATA "div0" >
+
+<!ELEMENT div1 ((argument | byline | docAuthor | docDate |
+epigraph | head | opener | salute | signed)*, ((div2 | divGen)+ |
+(((eg | bibl | biblFull | l | lg | p | sp | cit | q | label | list |
+listBibl | note | stage))+, (div2 | divGen)*)), (byline | closer |
+epigraph | salute | signed | trailer)*)>
+
+<!ATTLIST div1 
+     %a.global;
+     ana IDREFS #IMPLIED 
+     corresp IDREFS #IMPLIED 
+     next IDREF #IMPLIED 
+     prev IDREF #IMPLIED 
+     decls IDREFS #IMPLIED 
+     type CDATA #IMPLIED
+     org (composite | uniform) "uniform" 
+     sample (initial | medial | final | unknown | complete) "complete" 
+     part (Y | N | I | M | F) "N" 
+     TEIform CDATA "div1" >
+
+<!ELEMENT div2 ((argument | byline | docAuthor | docDate |
+epigraph | head | opener | salute | signed)*, ((div3 | divGen)+ |
+(((eg | bibl | biblFull | l | lg | p | sp | cit | q | label | list |
+listBibl | note | stage))+, (div3 | divGen)*)), (byline | closer |
+epigraph | salute | signed | trailer)*)>
+
+<!ATTLIST div2 
+     %a.global;
+     ana IDREFS #IMPLIED 
+     corresp IDREFS #IMPLIED 
+     next IDREF #IMPLIED 
+     prev IDREF #IMPLIED 
+     decls IDREFS #IMPLIED 
+     type CDATA #IMPLIED
+     org (composite | uniform) "uniform" 
+     sample (initial | medial | final | unknown | complete) "complete" 
+     part (Y | N | I | M | F) "N" 
+     TEIform CDATA "div2" >
+
+<!ELEMENT div3 ((argument | byline | docAuthor | docDate |
+epigraph | head | opener | salute | signed)*, ((div4 | divGen)+ |
+(((eg | bibl | biblFull | l | lg | p | sp | cit | q | label | list |
+listBibl | note | stage))+, (div4 | divGen)*)), (byline | closer |
+epigraph | salute | signed | trailer)*)>
+
+<!ATTLIST div3 
+     %a.global;
+     ana IDREFS #IMPLIED 
+     corresp IDREFS #IMPLIED 
+     next IDREF #IMPLIED 
+     prev IDREF #IMPLIED 
+     decls IDREFS #IMPLIED 
+     type CDATA #IMPLIED
+     org (composite | uniform) "uniform" 
+     sample (initial | medial | final | unknown | complete) "complete" 
+     part (Y | N | I | M | F) "N" 
+     TEIform CDATA "div3" >
+
+<!ELEMENT div4 ((argument | byline | docAuthor | docDate |
+epigraph | head | opener | salute | signed)*, ((div5 | divGen)+ |
+(((eg | bibl | biblFull | l | lg | p | sp | cit | q | label | list |
+listBibl | note | stage))+, (div5 | divGen)*)), (byline | closer |
+epigraph | salute | signed | trailer)*)>
+
+<!ATTLIST div4 
+     %a.global;
+     ana IDREFS #IMPLIED 
+     corresp IDREFS #IMPLIED 
+     next IDREF #IMPLIED 
+     prev IDREF #IMPLIED 
+     decls IDREFS #IMPLIED 
+     type CDATA #IMPLIED
+     org (composite | uniform) "uniform" 
+     sample (initial | medial | final | unknown | complete) "complete" 
+     part (Y | N | I | M | F) "N" 
+     TEIform CDATA "div4" >
+
+<!ELEMENT div5 ((argument | byline | docAuthor | docDate |
+epigraph | head | opener | salute | signed)*, ((div6 | divGen)+ |
+(((eg | bibl | biblFull | l | lg | p | sp | cit | q | label | list |
+listBibl | note | stage))+, (div6 | divGen)*)), (byline | closer |
+epigraph | salute | signed | trailer)*)>
+
+<!ATTLIST div5 
+     %a.global;
+     ana IDREFS #IMPLIED 
+     corresp IDREFS #IMPLIED 
+     next IDREF #IMPLIED 
+     prev IDREF #IMPLIED 
+     decls IDREFS #IMPLIED 
+     type CDATA #IMPLIED 
+     org (composite | uniform) "uniform" 
+     sample (initial | medial | final | unknown | complete) "complete" 
+     part (Y | N | I | M | F) "N" 
+     TEIform CDATA "div5" >
+
+<!ELEMENT div6 ((argument | byline | docAuthor | docDate |
+epigraph | head | opener | salute | signed)*, ((div7 | divGen)+ |
+(((eg | bibl | biblFull | l | lg | p | sp | cit | q | label | list |
+listBibl | note | stage))+, (div7 | divGen)*)), (byline | closer |
+epigraph | salute | signed | trailer)*)>
+
+<!ATTLIST div6 
+     %a.global;
+     ana IDREFS #IMPLIED 
+     corresp IDREFS #IMPLIED 
+     next IDREF #IMPLIED 
+     prev IDREF #IMPLIED 
+     decls IDREFS #IMPLIED 
+     type CDATA #IMPLIED 
+     org (composite | uniform) "uniform" 
+     sample (initial | medial | final | unknown | complete) "complete" 
+     part (Y | N | I | M | F) "N" 
+     TEIform CDATA "div6" >
+
+<!ELEMENT div7 ((argument | byline | docAuthor | docDate |
+epigraph | head | opener | salute | signed)*, ((eg | bibl | biblFull |
+l | lg | p | sp | cit | q | label | list | listBibl | note | stage))+,
+(byline | closer | epigraph | salute | signed | trailer)*)>
+
+<!ATTLIST div7 
+     %a.global;
+     ana IDREFS #IMPLIED 
+     corresp IDREFS #IMPLIED 
+     next IDREF #IMPLIED 
+     prev IDREF #IMPLIED 
+     decls IDREFS #IMPLIED 
+     type CDATA #IMPLIED 
+     org (composite | uniform) "uniform" 
+     sample (initial | medial | final | unknown | complete) "complete" 
+     part (Y | N | I | M | F) "N" 
+     TEIform CDATA "div7" >
+
+<!--  7.2.4:  Tags for start and end of divisions              -->
+
+<!ELEMENT trailer (#PCDATA | %seq.content;)*>
+
+<!ATTLIST trailer 
+     %a.global;
+     ana IDREFS #IMPLIED 
+     corresp IDREFS #IMPLIED 
+     next IDREF #IMPLIED 
+     prev IDREF #IMPLIED 
+     TEIform CDATA "trailer" >
+
+<!ELEMENT byline (#PCDATA | ident | code | kw | abbr | address |
+date | name | num | rs | time | add | corr | del | gap | orig | reg |
+sic | unclear | emph | foreign | gloss | hi | mentioned | soCalled |
+term | title | ptr | ref | xptr | xref | anchor | s | seg | gi | formula | docAuthor)*>
+
+<!ATTLIST byline 
+     %a.global;
+     ana IDREFS #IMPLIED 
+     corresp IDREFS #IMPLIED 
+     next IDREF #IMPLIED 
+     prev IDREF #IMPLIED 
+     TEIform CDATA "byline" >
+
+<!ELEMENT dateline (#PCDATA | date | time | name | address)*>
+
+<!ATTLIST dateline 
+     %a.global;
+     ana IDREFS #IMPLIED 
+     corresp IDREFS #IMPLIED 
+     next IDREF #IMPLIED 
+     prev IDREF #IMPLIED 
+     TEIform CDATA "dateline" >
+
+<!ELEMENT argument ((head)?, (eg | bibl | biblFull | l | lg | p |
+sp | cit | q | label | list | listBibl | note | stage)*)>
+
+<!ATTLIST argument 
+     %a.global;
+     ana IDREFS #IMPLIED 
+     corresp IDREFS #IMPLIED 
+     next IDREF #IMPLIED 
+     prev IDREF #IMPLIED 
+     TEIform CDATA "argument" >
+
+<!ELEMENT epigraph (eg | bibl | biblFull | l | lg | p | sp | cit
+| q | label | list | listBibl | note | stage)*>
+
+<!ATTLIST epigraph 
+     %a.global;
+     ana IDREFS #IMPLIED 
+     corresp IDREFS #IMPLIED 
+     next IDREF #IMPLIED 
+     prev IDREF #IMPLIED 
+     TEIform CDATA "epigraph" >
+
+<!ELEMENT opener (#PCDATA | %seq.content; | signed | dateline | salute)*>
+
+<!ATTLIST opener 
+     %a.global;
+     ana IDREFS #IMPLIED 
+     corresp IDREFS #IMPLIED 
+     next IDREF #IMPLIED 
+     prev IDREF #IMPLIED 
+     TEIform CDATA "opener" >
+
+<!ELEMENT closer (#PCDATA | %seq.content; | signed | dateline | salute)*>
+
+<!ATTLIST closer 
+     %a.global;
+     ana IDREFS #IMPLIED 
+     corresp IDREFS #IMPLIED 
+     next IDREF #IMPLIED 
+     prev IDREF #IMPLIED 
+     TEIform CDATA "closer" >
+
+<!ELEMENT salute (#PCDATA | %seq.content;)*>
+
+<!ATTLIST salute 
+     %a.global;
+     ana IDREFS #IMPLIED 
+     corresp IDREFS #IMPLIED 
+     next IDREF #IMPLIED 
+     prev IDREF #IMPLIED 
+     TEIform CDATA "salute" >
+
+<!ELEMENT signed (#PCDATA | %seq.content;)*>
+
+<!ATTLIST signed 
+     %a.global;
+     ana IDREFS #IMPLIED 
+     corresp IDREFS #IMPLIED 
+     next IDREF #IMPLIED 
+     prev IDREF #IMPLIED 
+     TEIform CDATA "signed" >
+
+<!--  7.5:  Additional Tag Set for Front Matter                -->
+
+<!ELEMENT front ((divGen | titlePage)*, (((argument | byline |
+docAuthor | docDate | epigraph | head | opener | salute | signed),
+(argument | byline | docAuthor | docDate | epigraph | head | opener |
+salute | signed | titlePage)*) | ((div), (div | (divGen |
+titlePage))*) | ((div1), (div1 | (divGen | titlePage))*))?)>
+
+<!ATTLIST front 
+     %a.global;
+     ana IDREFS #IMPLIED 
+     corresp IDREFS #IMPLIED 
+     next IDREF #IMPLIED 
+     prev IDREF #IMPLIED 
+     decls IDREFS #IMPLIED 
+     TEIform CDATA "front" >
+
+<!--  7.5:  Tags for title pages                               -->
+
+<!ELEMENT titlePage (byline | docAuthor | docDate | docEdition |
+docImprint | docTitle | epigraph | titlePart)+>
+
+<!ATTLIST titlePage 
+     %a.global;
+     ana IDREFS #IMPLIED 
+     corresp IDREFS #IMPLIED 
+     next IDREF #IMPLIED 
+     prev IDREF #IMPLIED 
+     type CDATA #IMPLIED 
+     TEIform CDATA "titlePage" >
+
+<!ELEMENT docTitle ((titlePart)+)>
+
+<!ATTLIST docTitle 
+     %a.global;
+     ana IDREFS #IMPLIED 
+     corresp IDREFS #IMPLIED 
+     next IDREF #IMPLIED 
+     prev IDREF #IMPLIED 
+     TEIform CDATA "docTitle" >
+
+<!ELEMENT titlePart (#PCDATA | %para.content;)*>
+
+<!ATTLIST titlePart 
+     %a.global;
+     ana IDREFS #IMPLIED 
+     corresp IDREFS #IMPLIED 
+     next IDREF #IMPLIED 
+     prev IDREF #IMPLIED 
+     type CDATA "main" 
+     TEIform CDATA "titlePart" >
+
+<!ELEMENT docAuthor (#PCDATA | %seq.content;)*>
+
+<!ATTLIST docAuthor 
+     %a.global;
+     ana IDREFS #IMPLIED 
+     corresp IDREFS #IMPLIED 
+     next IDREF #IMPLIED 
+     prev IDREF #IMPLIED 
+     TEIform CDATA "docAuthor" >
+
+<!ELEMENT docEdition (#PCDATA | %para.content;)*>
+
+<!ATTLIST docEdition 
+     %a.global;
+     ana IDREFS #IMPLIED 
+     corresp IDREFS #IMPLIED 
+     next IDREF #IMPLIED 
+     prev IDREF #IMPLIED 
+     TEIform CDATA "docEdition" >
+
+<!ELEMENT docImprint (#PCDATA | %seq.content; | pubPlace | docDate | publisher)*>
+
+<!ATTLIST docImprint 
+     %a.global;
+     ana IDREFS #IMPLIED 
+     corresp IDREFS #IMPLIED 
+     next IDREF #IMPLIED 
+     prev IDREF #IMPLIED 
+     TEIform CDATA "docImprint" >
+
+<!ELEMENT docDate (#PCDATA | %seq.content;)*>
+
+<!ATTLIST docDate 
+     %a.global;
+     ana IDREFS #IMPLIED 
+     corresp IDREFS #IMPLIED 
+     next IDREF #IMPLIED 
+     prev IDREF #IMPLIED 
+     value CDATA #IMPLIED 
+     TEIform CDATA "docDate" >
+
+<!--  teiback2.dtd:  written by OddDTD 1994-09-09              -->
+<!--  7.6:  Tags for Back Matter                               -->
+
+<!ELEMENT back ((divGen | titlePage)*, (((argument | byline |
+docAuthor | docDate | epigraph | head | opener | salute | signed),
+(argument | byline | docAuthor | docDate | epigraph | head | opener |
+salute | signed | titlePage)*) | ((div), (div | (divGen |
+titlePage))*) | ((div1), (div1 | (divGen | titlePage))*))?)>
+
+<!ATTLIST back 
+     %a.global;
+     ana IDREFS #IMPLIED 
+     corresp IDREFS #IMPLIED 
+     next IDREF #IMPLIED 
+     prev IDREF #IMPLIED 
+     decls IDREFS #IMPLIED 
+     TEIform CDATA "back" >
+
+<!--  14.2.1:  Extended pointers                               -->
+
+<!ELEMENT xref (#PCDATA | %para.content;)*>
+
+<!ATTLIST xref 
+     %a.global;
+     ana IDREFS #IMPLIED 
+     corresp IDREFS #IMPLIED 
+     next IDREF #IMPLIED 
+     prev IDREF #IMPLIED 
+     type CDATA #IMPLIED 
+     resp CDATA #IMPLIED 
+     crdate CDATA #IMPLIED 
+     targType CDATA #IMPLIED 
+     targOrder (Y | N | U) "U" 
+     evaluate (all | one | none) #IMPLIED 
+     doc ENTITY #IMPLIED 
+     from CDATA "ROOT" 
+     to CDATA "DITTO" 
+     TEIform CDATA "xref" >
+
+<!ELEMENT xptr EMPTY>
+
+<!ATTLIST xptr 
+     %a.global;
+     ana IDREFS #IMPLIED 
+     corresp IDREFS #IMPLIED 
+     next IDREF #IMPLIED 
+     prev IDREF #IMPLIED 
+     type CDATA #IMPLIED 
+     resp CDATA #IMPLIED 
+     crdate CDATA #IMPLIED 
+     targType CDATA #IMPLIED 
+     targOrder (Y | N | U) "U" 
+     evaluate (all | one | none) #IMPLIED 
+     doc ENTITY #IMPLIED 
+     from CDATA "ROOT" 
+     to CDATA "DITTO" 
+     TEIform CDATA "xptr" >
+
+<!--  14.3:  Segments and Anchors                              -->
+
+<!ELEMENT seg (#PCDATA | %para.content;)*>
+
+<!ATTLIST seg 
+     %a.global;
+     ana IDREFS #IMPLIED 
+     corresp IDREFS #IMPLIED 
+     next IDREF #IMPLIED 
+     prev IDREF #IMPLIED 
+     type CDATA #IMPLIED 
+     function CDATA #IMPLIED 
+     subtype CDATA #IMPLIED 
+     part (Y | N | I | M | F) "N" 
+     TEIform CDATA "seg" >
+
+<!ELEMENT anchor EMPTY>
+
+<!ATTLIST anchor 
+     %a.global;
+     type CDATA #IMPLIED 
+     function CDATA #IMPLIED 
+     TEIform CDATA "anchor" >
+
+<!--  15:  Simple analytic mechanisms                          -->
+<!--  15.3:  Spans                                             -->
+
+<!ELEMENT interp EMPTY>
+
+<!ATTLIST interp 
+     %a.global;
+     ana IDREFS #IMPLIED 
+     corresp IDREFS #IMPLIED 
+     next IDREF #IMPLIED 
+     prev IDREF #IMPLIED 
+     resp CDATA #IMPLIED 
+     type CDATA #IMPLIED 
+     inst IDREFS #IMPLIED 
+     value CDATA #REQUIRED 
+     TEIform CDATA "interp" >
+
+<!ELEMENT interpGrp ((interp)*)>
+
+<!ATTLIST interpGrp 
+     %a.global;
+     ana IDREFS #IMPLIED 
+     corresp IDREFS #IMPLIED 
+     next IDREF #IMPLIED 
+     prev IDREF #IMPLIED 
+     resp CDATA #IMPLIED 
+     type CDATA #IMPLIED 
+     inst IDREFS #IMPLIED 
+     TEIform CDATA "interpGrp" >
+
+<!--  15.1:  Linguistic Segment Categories                     -->
+<!-- -(s) -->
+<!ELEMENT s (#PCDATA | %seq.content;)*>
+
+<!ATTLIST s 
+     %a.global;
+     ana IDREFS #IMPLIED 
+     corresp IDREFS #IMPLIED 
+     next IDREF #IMPLIED 
+     prev IDREF #IMPLIED 
+     type CDATA #IMPLIED 
+     function CDATA #IMPLIED 
+     TEIform CDATA "s" >
+
+<!--  teifig2.dtd:  written by OddDTD 1994-09-09               -->
+<!--  22:  Tables, Formulae, Figures                           -->
+<!--  22.1.1:  Tables                                          -->
+
+<!ELEMENT table ((head)*, (row)+)>
+
+<!ATTLIST table 
+     %a.global;
+     ana IDREFS #IMPLIED 
+     corresp IDREFS #IMPLIED 
+     next IDREF #IMPLIED 
+     prev IDREF #IMPLIED 
+     rows CDATA #IMPLIED 
+     cols CDATA #IMPLIED 
+     TEIform CDATA "table" >
+
+<!ELEMENT row ((cell | table)+)>
+
+<!ATTLIST row 
+     %a.global;
+     ana IDREFS #IMPLIED 
+     corresp IDREFS #IMPLIED 
+     next IDREF #IMPLIED 
+     prev IDREF #IMPLIED 
+     role CDATA "data" 
+     TEIform CDATA "row" >
+
+<!ELEMENT cell (#PCDATA | %para.content;)*>
+
+<!ATTLIST cell 
+     %a.global;
+     ana IDREFS #IMPLIED 
+     corresp IDREFS #IMPLIED 
+     next IDREF #IMPLIED 
+     prev IDREF #IMPLIED 
+     role CDATA "data" 
+     rows CDATA "1" 
+     cols CDATA "1" 
+     TEIform CDATA "cell" >
+
+<!--  22.2:  Formulae                                          -->
+<!-- CDATA => #PCDATA                                          -->
+<!-- should contain a CDATA marked section                     -->
+
+<!ELEMENT formula (#PCDATA)>
+
+<!ATTLIST formula 
+     %a.global;
+     ana IDREFS #IMPLIED 
+     corresp IDREFS #IMPLIED 
+     next IDREF #IMPLIED 
+     prev IDREF #IMPLIED 
+     notation CDATA #REQUIRED 
+     TEIform CDATA "formula">
+
+<!--  22.3:  Figures                                           -->
+
+<!ELEMENT figure ((head)?, (p)*, (figDesc)?, (text)?)>
+
+<!ATTLIST figure 
+     %a.global;
+     ana IDREFS #IMPLIED 
+     corresp IDREFS #IMPLIED 
+     next IDREF #IMPLIED 
+     prev IDREF #IMPLIED 
+     entity ENTITY #IMPLIED 
+     TEIform CDATA "figure" >
+
+<!ELEMENT figDesc (#PCDATA | %para.content;)*>
+
+<!ATTLIST figDesc 
+     %a.global;
+     ana IDREFS #IMPLIED 
+     corresp IDREFS #IMPLIED 
+     next IDREF #IMPLIED 
+     prev IDREF #IMPLIED 
+     TEIform CDATA "figDesc" >
+
+<!-- ENTITY % usrmods PUBLIC "-//TEI U5-1995//DTD TEI Lite 1.0 Extensions//EN" -->
+<!-- %usrmods; -->
+
+<!-- end of TEI Lite DTD -->
+
+<!-- NOTATION cgm PUBLIC
+  "ISO 8632:1987//NOTATION Computer Graphics Metafile//EN" -->
+
+<!-- NOTATION cgmchar PUBLIC
+  "ISO 8632-2:1987//NOTATION CGM Character Encoding//EN" -->
+
+<!-- NOTATION jpeg PUBLIC
+  "ISO DIS 10918//NOTATION JPEG Graphics Format//EN" -->
+
+<!-- NOTATION tiff PUBLIC
+  "-//Aldus Corporation//NOTATION Tagged Image File Format//EN" -->
+
+<!-- NOTATION gif PUBLIC
+  "-//Compuserve Information Service//NOTATION Graphics Interchange Format//EN" -->
+
+<!-- NOTATION sgml PUBLIC
+  "ISO 8879:1986//NOTATION Standard Generalized Markup Language//EN" -->
+
+<!-- NOTATION wsd  PUBLIC
+  "-//TEI P3-1994//NOTATION Writing System Declaration//EN" -->
+
+<!-- ]> -->

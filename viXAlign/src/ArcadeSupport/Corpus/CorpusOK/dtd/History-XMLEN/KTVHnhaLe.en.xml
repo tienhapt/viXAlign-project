@@ -1,0 +1,171 @@
+<?xml version="1.0" standalone="no"?>
+<!-- edited with XML Spy v4.0.1 U (http://www.xmlspy.com) by NGUYEN THI MINH HUYEN (LORIA) -->
+<!DOCTYPE TEI.2 SYSTEM "C:/CORPUS/dtd/xlite/xteilite.dtd" [
+	<!ENTITY % ISO_Latin1 PUBLIC "ISO 8879-1986//ENTITIES Added Latin 1//EN//XML" "C:/CORPUS/dtd/pen/ISOlat1.pen">
+	%ISO_Latin1;
+]>
+<TEI.2 id="KTVHnhaLe.en.xml">
+	<teiHeader date.created="30/12/2002">
+		<fileDesc>
+			<titleStmt>
+				<title type="source"></title>
+				<author></author>
+				<respStmt>
+					<resp></resp>
+					<name></name>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<distributor>Nhan dan dien tu</distributor>
+				<authority/>
+				<date>1/12/2002</date>
+			</publicationStmt>
+			<sourceDesc>
+				<p/>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<langUsage>
+				<language id="EN">English</language>
+			</langUsage>
+			<textClass>
+				<keywords>
+					<list>
+						<item>prose</item>
+						<item>history</item>
+					</list>
+				</keywords>
+			</textClass>
+		</profileDesc>
+	</teiHeader>
+	<text>
+		<body id="b1">
+<head>
+Economic and cultural achievements under the Le.
+</head>
+<div>
+<p>
+     <s>Economy.</s>
+     <s>Agriculture.</s>
+</p>
+<p>
+     <s>The first task the Le set to was to rehabilitate the economy and improve the lives of the people.</s>
+     <s>Twenty years of Ming domination had plunged our people in agony and ruin.</s>
+     <s>Villages and hamlets were deserted, and fields were left fallow.</s>
+     <s>Le Loi ordered the confiscation of all land belonging to Ming functionaries and traitors, and un-claimed land to be used as public land of communes and villages.</s>
+     <s>Later, the Le reallocated this land once every six years, which was known to as "land distribution per capita of population".</s>
+</p>
+<p>
+     <s>The Le also set up bodies specialised in the following agricultural tasks:</s>
+     <s>Farming encouragement to gather those drifting away to come back and settle in their homeland.</s>
+     <s>Plantation to reclaim virgin land.</s>
+     <s>Dyke management to build and maintain dykes.</s>
+</p>
+<p>
+     <s>With creative and industrious labour of our people in combination with the farming incentives of the State, the arable land was expanded more villages and hamlets were set up and more dykes were built.</s>
+</p>
+<p>
+     <s>There have been 500 years separating between those days and our time, but a number of irrigation and land reclamation systems in early Le still remain.</s>
+     <s>The Hong Duc dyke stretching from the estuary of the Red river to that of the Day river (Nam Dinh) has prevented penetration of sea water and helped farmers to expand their arable land toward the sea.</s>
+     <s>The Le canal in southern Thanh Hoa was dug, and many villages along the coast from the north to Quang Nam were set up during that time.</s>
+</p>
+<p>
+     <s>To ensure labour force and draught animals for farming, the Le prohibited the killing of buffaloes and oxen as well as the mobilisation of labourers in times of harvests.</s>
+     <s>These measures helped push up agricultural production.</s>
+</p>
+<p>
+     <s>Handicraft and trade.</s>
+</p>
+<p>
+     <s>Thang Long capital had tens of trade guilds such as Yen Thai producing paper, Nghi Tam producing silk, Ha Tan producing lime, etc.</s>
+     <s>Exchange of goods was carried out in both directions between Thang Long and the localities.</s>
+</p>
+<p>
+     <s>In the countryside, more and more handicraft villages appeared: Bat Trang (in the suburbs of Hanoi) and Tho Ha (Bac Ninh) producing pottery; Bai Bai (Bac Ninh) casting copperware; Nho Lam (Nghe An) producing ironware.</s>
+     <s>Shops were set up by the court to mint coins, and regulations issued on the opening of market places.</s>
+</p>
+<p>
+     <s>Market places served as trading centres in the countryside.</s>
+     <s>Each locality or group of neighbouring localities organised a market place that gathered daily or periodically on fixed days of a month.</s>
+</p>
+<p>
+     <s>The rules promulgated by King Le Thanh Tong in respect of market places read: "Wherever there are people there will be market place for circulation of goods and trade exchange for the people.</s>
+     <s>Whatever commune that has no market place can hold one of its own.</s>
+     <s>But the day the new marketplace is held must not take place one day before, or on the same day, of the old market place, so as to avoid contesting for buyers".</s>
+</p>
+<p>
+     <s>Foreign trade was strictly controlled by the State.</s>
+     <s>Foreign merchants were allowed to conduct trade only in restricted places such as Van Don (Quang Ninh), Hoi Trieu (Thanh Hoa), Hoi Thong (Nghe An), etc.</s>
+</p>
+<p>
+     <s>Cooper and gold mines were opened.</s>
+     <s>Culture.</s>
+     <s>Education and examination.</s>
+</p>
+<p>
+     <s>Buddhism was relegated to second place and Confucianism became the official ideology.</s>
+     <s>Confucianism laid the emphasis on the absolute fidelity and obedience to the will and interests of to the king.</s>
+     <s>It also raised the role of the father and husband to the absolute height in families.</s>
+     <s>Confucianism was resorted by the Le as the criteria and model to train talents.</s>
+</p>
+<p>
+     <s>Education (learning and examination) under the Le was methodically carried out.</s>
+     <s>The state encouraged learning to become mandarins so as to assist the king to rule the country.</s>
+     <s>Confucianism books, poetic and prose writing were taught at schools.</s>
+     <s>The Royal College (Quoc Tu Giam), the highest school for descendants of the Le and mandarins' families, was opened in Thang Long capital.</s>
+     <s>In provinces and districts, there were both public and private schools with a large number of students.</s>
+</p>
+<p>
+     <s>Examinations were strictly and regularly organised.</s>
+     <s>In provinces in the lowlands, first-degree examination (thi huong) was organised.</s>
+     <s>Those who passed first degree examinations would take second-degree (thi hoi) and court examinations (thi dinh) in the capital.</s>
+</p>
+<p>
+     <s>New doctors passing court examinations would be invited to a banquet and given beautiful hats and clothes by the king.</s>
+     <s>Particularly, they had their names carved on stone stele of the Royal College.</s>
+</p>
+<p>
+     <s>The education and examination system under the Le helped train a number of mandarins loyal to the State.</s>
+     <s>Of them, quite a few were excellent in science and literature and made large contributions to the country.</s>
+</p>
+<p>
+     <s>Literature, art and science.</s>
+</p>
+<p>
+     <s>Literature under the Le was highly patriotic and indicative of the indomitable spirit and heroic stuff of our nation.</s>
+     <s>Most typical of the then writers was Nguyen Trai.</s>
+     <s>His works such as 'Writings Composed While in the Army,' 'Proclamation of Victory over the Ming', and 'Ode to the Chi Linh Mount' represented the epochal spirit.</s>
+     <s>Throughout his life, no matter where he was and what he did, Nguyen Trai always held in high esteem charity and justice the main contents of which was patriotism and love toward the people.</s>
+     <s>It was his thought to "think of those who till the land when enjoying its fruits," and his wish that "sorrow and lament no longer exist in remote village and hamlet".</s>
+     <s>(In 1442, court dignitaries devised a plot and accused him of murdering King Le Thai To.</s>
+     <s>Nguyen Trai and his family were executed, only his pregnant concubine escaped).</s>
+</p>
+<p>
+     <s>In late the 15th century, a type of academy known as the Tao Dan was set up by King Le Thanh Tong which comprised a number of great scholars.</s>
+     <s>Poems and prose written by Le Thanh Tong and the Tao Dan praised the Le dynasty and the landscape of the country.</s>
+     <s>The royal literature was also highly patriotic.</s>
+</p>
+<p>
+     <s>Le Thanh Tong was an all-round prominent figure.</s>
+</p>
+<p>
+     <s>In literature, he wrote many poems in Nom (Sino-Vietnamese) some of which remain until today in 'Hong Duc Collection of Poems in Nom' (Hong Duc quoc am thi tap).</s>
+</p>
+<p>
+     <s>Performing arts, traditional tunes and music that prospered under the Ly and Tran, and were checked under Ming domination, now revived.</s>
+     <s>Cheo (popular theatre) and tuong (classical drama) were staged in the capital and over the countryside.</s>
+</p>
+<p>
+     <s>Architectural and sculptural arts under the Le were symbolised in works of royal tombs and palaces in Lam Kinh (Thanh Hoa).</s>
+     <s>The flexible symbolic dragon under the Ly and Tran now became a solemn one with big head, long trunk, straight horns, rough mane and legs of sharp curved claws which looked very fierce.</s>
+     <s>It was symbolic of the feudal power of the king.</s>
+</p>
+<p>
+     <s>Excellent works were carried out in science, medicine and pharmacy, mathematics, history and geography under the Le.</s>
+     <s>Nguyen Trai wrote 'Geography of the Country' (Du dia chi), Phan Phu Tien wrote 'Summary of Medicinal Plants', Luong The Vinh wrote 'Basic Arithmetic' and Ngo Si Lien wrote 'A Complete History of the Great Viet'.</s>
+</p>
+</div>
+</body>
+</text>
+</TEI.2>

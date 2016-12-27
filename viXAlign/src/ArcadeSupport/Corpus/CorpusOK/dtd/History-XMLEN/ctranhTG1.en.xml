@@ -1,0 +1,116 @@
+<?xml version="1.0" standalone="no"?>
+<!-- edited with XML Spy v4.0.1 U (http://www.xmlspy.com) by NGUYEN THI MINH HUYEN (LORIA) -->
+<!DOCTYPE TEI.2 SYSTEM "C:/CORPUS/dtd/xlite/xteilite.dtd" [
+	<!ENTITY % ISO_Latin1 PUBLIC "ISO 8879-1986//ENTITIES Added Latin 1//EN//XML" "C:/CORPUS/dtd/pen/ISOlat1.pen">
+	%ISO_Latin1;
+]>
+<TEI.2 id="ctranhTG1.en.xml">
+	<teiHeader date.created="30/12/2002">
+		<fileDesc>
+			<titleStmt>
+				<title type="source"></title>
+				<author></author>
+				<respStmt>
+					<resp></resp>
+					<name></name>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<distributor>Nhan dan dien tu</distributor>
+				<authority/>
+				<date>1/12/2002</date>
+			</publicationStmt>
+			<sourceDesc>
+				<p/>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<langUsage>
+				<language id="EN">English</language>
+			</langUsage>
+			<textClass>
+				<keywords>
+					<list>
+						<item>prose</item>
+						<item>history</item>
+					</list>
+				</keywords>
+			</textClass>
+		</profileDesc>
+	</teiHeader>
+	<text>
+		<body id="b1">
+<head>
+The patriotic movement during the World War I (1914-1918).
+</head>
+<div>
+<p>
+     <s>The war-time policy of the French.</s>
+</p>
+<p>
+     <s>With the outbreak of World War I, the French colonialists stepped up exploitation of Vietnam's resources for the war effort and sent nearly 10,000 Vietnamese soldiers to the European trenches.</s>
+     <s>But patriotic Vietnamese launched a number of revolts.</s>
+</p>
+<p>
+     <s>World War I broke out in August 1914 and quickly spread to involve many imperialist countries as well as their colonies and dependencies.</s>
+</p>
+<p>
+     <s>At this time, the patriotic movement in Vietnam temporarily died down because of the terror and repression of the enemy.</s>
+     <s>Seizing upon this opportunity, the French colonialists tried to take our people's manpower and wealth to pour into the hotbed of war.</s>
+</p>
+<p>
+     <s>Almost 10,000 Vietnamese soldiers and military workmen were taken and sent to battlefields in Europe as cannon-fodder.</s>
+</p>
+<p>
+     <s>The French colonialists invested more capital into agriculture (plantations for growing rice, vegetables, beans, etc) and industry (mining, shipbuilding, etc.) to meet their imperative demand of foods as well as other industrial and commercial supplies in the wartime.</s>
+</p>
+<p>
+     <s>The Vietnamese society was further differentiated.</s>
+     <s>During the four years of the World War I, the workers became more concentrated than before, and the national bourgeoisie and petty bourgeoisie also grew in number.</s>
+     <s> The planned revolt of soldiers in Hue (1916).</s>
+</p>
+<p>
+     <s>Our people's opposition to the French's strict conscription of Vietnamese to send to Europe as cannon-fodder grew strong.</s>
+     <s> In early 1916, progressive patriots in the two provinces of Quang Nam and Quang Ngai led by Thai Phien and Tran Cao Van secretly contacted a number of soldiers in Hue for joint action.</s>
+     <s>The anti-French patriotic King Duy Tan was also actively involved.</s>
+     <s> The revolt was planned to take place on the night of May 3, 1916.</s>
+     <s>Unfortunately, the secret was revealed beforehand when the Vietnamese soldiers were disarmed and kept in their posts.</s>
+     <s>The revolt was abortively suppressed in Hue.</s>
+     <s>King Duy Tan was arrested and exiled to the Island of Reunion in Africa.</s>
+     <s>Thai Phien and Tran Cao Van were executed.</s>
+</p>
+<p>
+     <s>The revolt of the soldiers in Thai Nguyen (1917).</s>
+</p>
+<p>
+     <s>As soon as setting foot on our land, the French colonialists frenziedly carried out the policy of "using the Vietnamese to suppress the Vietnamese."</s>
+     <s>The Vietnamese troops were used to repress our people's revolts and ensure security for them.</s>
+     <s>However, Vietnamese soldiers were maltreated both materially and spiritually.</s>
+     <s>That resulted in the Vietnamese soldiers' eagerness to revolt against the French.</s>
+</p>
+<p>
+     <s>A revolt broke out in Thai Nguyen, a place of long heroic fighting traditions.</s>
+     <s>The French envoy in Thai Nguyen was notorious for his dishonesty and brutality.</s>
+     <s>Among the political prisoners held in the Thai Nguyen prison was Luong Ngoc Quyen, a patriot, who had one time joined revolutionary activities in China with patriotic scholar Phan Boi Chau.</s>
+     <s>Thanks to their daily contacts with the political prisoners, many of the soldiers were included with patriotism and became eager to show their response.</s>
+     <s>The soldiers were headed by Sergeant Trinh Van Can (also known as Doi Can).</s>
+     <s>That is how the revolt was planned by political prisoners and soldiers.</s>
+</p>
+<p>
+     <s>The revolt took place at daybreak of August 31, 1917.</s>
+     <s>The insurgents killed the French commander of the provincial post, broke the prison, liberated political prisoners, captured offices and controlled the town of Thai Nguyen.</s>
+     <s>However, the insurgents did not destroy the garrison of the French troops in the town in time.</s>
+     <s>Two days later, when the French reinforcements were sent from without, a counter offensive was launched by the French troops from within.</s>
+     <s>The insurgents heroically engaged in fighting with the enemy.</s>
+     <s>Luong Ngoc Quyen whose legs were paralyzed (because of long being shackled in prison) fought back heroically until his death.</s>
+     <s>Trinh Van Can had to retreat with his troops from the provincial town.</s>
+</p>
+<p>
+     <s>The struggle lasted for five more months in the mountainous region with numerous difficulties.</s>
+     <s>Trinh Van Can was wounded in battle and then took his own life, raising high the unyielding will of the heroic insurgents and their leader.</s>
+</p>
+</div>
+</body>
+</text>
+</TEI.2>

@@ -1,0 +1,218 @@
+<?xml version="1.0" standalone="no"?>
+<!-- edited with XML Spy v4.0.1 U (http://www.xmlspy.com) by NGUYEN THI MINH HUYEN (LORIA) -->
+<!DOCTYPE TEI.2 SYSTEM "C:/CORPUS/dtd/xlite/xteilite.dtd" [
+	<!ENTITY % ISO_Latin1 PUBLIC "ISO 8879-1986//ENTITIES Added Latin 1//EN//XML" "C:/CORPUS/dtd/pen/ISOlat1.pen">
+	%ISO_Latin1;
+]>
+<TEI.2 id="AnDuongVuong.en.xml">
+	<teiHeader date.created="30/12/2002">
+		<fileDesc>
+			<titleStmt>
+				<title type="source"></title>
+				<author></author>
+				<respStmt>
+					<resp></resp>
+					<name></name>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<distributor>Nhan dan dien tu</distributor>
+				<authority/>
+				<date>1/12/2002</date>
+			</publicationStmt>
+			<sourceDesc>
+				<p/>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<langUsage>
+				<language id="EN">English</language>
+			</langUsage>
+			<textClass>
+				<keywords>
+					<list>
+						<item>prose</item>
+						<item>history</item>
+					</list>
+				</keywords>
+			</textClass>
+		</profileDesc>
+	</teiHeader>
+	<text>
+		<body id="b1">
+<head>
+ A review of Vietnam's history from its Birth to King An Duong Vuong's time.
+</head>
+<div>
+<p>
+     <s>3. With regard to the enemy of our nation, the rule of the Chinese feudal regime during the northern domination did not only show its cruelty and danger, but also revealed its major weakness and limitation.</s>
+</p>
+<p>
+     <s>The northern domination lasted more than one thousand years but it was not continuous, or, to be exact, it was broken by many interruptions.</s>
+</p>
+<p>
+     <s>The domination was interrupted by continuous insurrections and wars for national independence launched by our people.</s>
+</p>
+<p>
+     <s>The interruption resulted from periods of temporary independence regained by the two Trung sisters, Ly Truong Nhan, Ly Nam De, Trieu Viet Vuong, Ly Phat Tu, Mai Hac De and Bo Cai Dai Vuong.</s>
+     <s>Each national administration lasted from three or four years to 50 or 60 years.</s>
+</p>
+<p>
+     <s>From the insurrection led by the two Trung sisters till the banner of the great cause raised by the Khuc family, the enemy could not have a single century of stability for their rule and assimilation.</s>
+</p>
+<p>
+     <s>In view of the width of space and the depth of the social structure, the limitation of the northern domination was clearly seen.</s>
+</p>
+<p>
+     <s>Having conquered our country, the enemy abolished our national sovereignty as well as the State institution of the Hung kings and the Thuc king, but, throughout their domination, they were unable to reach their hand to interfere in and change the traditional structure of our villages and commune.</s>
+</p>
+<p>
+     <s>The Chao and Western Han could only impose the rule of governors at the district level.</s>
+</p>
+<p>
+     <s>From the Western Han dynasty, having suppressed the insurrection led by the two Trung sisters, the domination rule was set up at a national level.</s>
+     <s>It was admitted by the Chinese dominators themselves that "the existence of mandarins were meaningless despite their presence" in many localities and "district chiefs set up just to threaten people to obey," but "in the main the rule was very loose".</s>
+</p>
+<p>
+     <s>The Eastern Jin and the Sui dynasties promoted Viet mandarins who exercised their rule in the countryside since the old time, to the position of district chiefs with a view to helping them to collect tributes and taxes.</s>
+</p>
+<p>
+     <s>Under the Tang, the Chinese dominators in An Nam could register only less than 57,000 out of as many as hundreds of thousand of households in our country for tax payments.</s>
+     <s>The Tang reorganised regions and districts and stipulated the number of households for each village commune, but, in fact, they could not control the communal structure of the Viet people.</s>
+</p>
+<p>
+     <s>From the Eastern Jin to the Tang dynasties, the ruling administration was strengthened.</s>
+     <s>However, no Chinese dynasty was able to control the village and commune and impose a system of mandarins to the communal level throughout our country.</s>
+     <s>The traditional village and commune which were characteristic of an Asian type of rural commune with big autonomy served as the foundation of society and the basis of a Viet culture where the quintessence of a traditional culture was cultivated and nurtured.</s>
+     <s>In the prolonged struggle of our people against the northern domination, peaceful villages hidden behind the green bamboo hedge served as a green fortress to resist the enemy's assimilation and as a marvellous fulcrum to launch numerous insurrections to win back village and commune.</s>
+</p>
+<p>
+     <s>It can be said, from the political, social and structural points of view, that, during the northern domination, the Viet lost their country but they did not lose their village.</s>
+     <s>That is why a Western author compared Vietnam after the period of northern domination with a house which only had its "facade" changed (Giron: 'Croyances et Religions Annamites,' Hanoi, 1902).</s>
+     <s>That constituted a major limitation of the northern domination and a major superiority of our people in their struggle against the assimilation to regain national independence.</s>
+</p>
+<p>
+     <s>In terms of space, the ruling apparatus of the Chao, Han, Sui and Tang dynasties were unable to impose their direct control and domination throughout our country despite their all-out effort and capability.</s>
+     <s>A number of vast areas were out of the control of the foreign invaders.</s>
+     <s>Not until the late Han, were they able to impose their rule to the district level in the north-eastern region of our country.</s>
+     <s>However it was soon broken up by revolts of our people.</s>
+     <s>Up to the Wu dynasty, tens of thousand households in this region did not submit themselves.</s>
+     <s>And up to the Jin dynasty, the dominators were only able to set up their rule in Phu Nghiem (present-day Bac Can).</s>
+     <s>As for the Lam Tay region (north-west of our country), the Tang dynasty could in no way exercise their rule.</s>
+</p>
+<p>
+     <s>In fact, the foreign dominators could only exercise their direct control over the areas around their citadels, headquarters, barracks and settlements of Chinese immigrants.</s>
+</p>
+<p>
+     <s>The domination of the Han-Tang dynasty, that was broken in many places in the time of 'peace,' was heavily damaged or even totally torn apart in time of 'disturbances' although it was just temporary.</s>
+     <s>It should be noted that since the Quin dynasty our country became adjacent to the border of the Chinese empire, a conqueror and dominator.</s>
+     <s>Therefore, each time their ruling administration in our country was toppled, the Chinese dynasties immediately launched suppression and expedition so as to re-capture their "vassal kingdom".</s>
+     <s>That explained why the struggle against the northern domination for national independence was so difficult and protracted, and did not imply that the rule of Great Han expansionism in our country was strong and stable.</s>
+</p>
+<p>
+     <s>The domination by the Chinese feudalists only had length of time without width in space and depth in the structure of our society.</s>
+     <s>The domination was stern and wicked, but it was superficial and only had some slight influence on the Vietnamese society.</s>
+</p>
+<p>
+     <s>4. The northern domination and the struggle against the northern domination were two contrary and antagonistic sides that governed the entire life and the historical process of the Vietnamese society.</s>
+</p>
+<p>
+     <s>In this struggle, the traditional culture of the Viet people was put before a great challenge.</s>
+     <s>The Han culture penetrated into and expanded in our country.</s>
+     <s>It was mild on the one hand thanks to the Chinese immigrants, and it was coercive on the other hand because the Chinese dominators used it as a means of enslavement and assimilation.</s>
+     <s>In a culture that was coercively mixed by the Han ruling administration, the Viet culture could not avoid loss and being influenced.</s>
+     <s>The Dong Son civilisation during the first centuries AD was degraded, its structure was disintegrated and its remainder dissolved in the popular culture.</s>
+</p>
+<p>
+     <s>A life full of changes during ten centuries of the northern domination taught our people a big lesson to combine traditions with renovation so as to survive, develop and win.</s>
+</p>
+<p>
+     <s>Objectively, the rule of the Han W- Tang, "a unconscious tool of history," forced the Viet people to break a number of old traditions in a system of tribal chiefs and communes.</s>
+     <s>This constituted no small obstacle to the revolt and resistance movement in the early period of the northern domination.</s>
+     <s>Having paid dearly for the valuable experiences with their own blood, our people's patriotism and national consciousness triumphed over the tribal ideology and localism and helped unite and enhance the national movement.</s>
+     <s>It was a historical irony that the rule of the Chinese dominators played an important role as an unconscious tool in doing away with the tribal and divisional structure.</s>
+     <s>The disappearance of tribal structure, the preservation and strengthening of village and communal structure, the enhancement of national unity in conformity with the structure of district and county, an administrative - territorial unit, constituted major changes of the Vietnamese society during the northern domination.</s>
+</p>
+<p>
+     <s>Our people were aware of preserving and bringing into full play the quintessence of the traditional culture.</s>
+     <s>At the same time, they absorbed, in a selective way, alien cultural factors to enrich the national culture and enhance the country's potential in all fields.</s>
+</p>
+<p>
+     <s>Take the spoken language, one of the main characteristics of our nation for example.</s>
+     <s>One thousand years of the northern domination was one thousand years when the Viet language became a mono-syllable and tonal language.</s>
+     <s>In addition to pure Viet syllables, there appeared a wealth of Han-Viet ones, similar neither to ancient Han nor any Chinese dialects.</s>
+     <s>Both the phonic structure and semantics of were changed so as to be totally integrated in the phonic structure and semantics of the Viet language, to increase its rich expressions.</s>
+</p>
+<p>
+     <s>The Van Lang and Au Lac kingdoms did not find handwriting for themselves.</s>
+     <s>Having emerged from the northern domination, our people accepted the Han characters and a number of Han - Tang cultural types such as poem, prose, proclamation, edict, etc.</s>
+     <s>Our people also learnt to borrow from Han handwriting to create their own scripts, called Nom.</s>
+     <s>Nom was similar to the Han handwriting in its square shape which helped record the national tongue thus preparing and paving the way for the formation of a national written culture.</s>
+     <s>Nom means Nam (Southern) and the Nom belonged to the Nam people which was believed to appear in the late the northern domination.</s>
+</p>
+<p>
+     <s>From China of the Han and Tang dynasties, Confucianism and Taoism penetrated into our country, each carrying with it a distinctive cultural model.</s>
+     <s>However, Confucianism could not prosper during the period of the northern domination.</s>
+     <s>The response of the Viet people was insignificant because it represented the racial discrimination and oppression of the foreign invaders.</s>
+</p>
+<p>
+     <s>In opposition, Buddhism from India and also from China, which penetrated into Vietnam in time of the northern domination, found a favourable environment to take root deep in an anguished people who yearned for emancipation.</s>
+     <s>Buddhism did not run counter to the traditional religion of the Viet people.</s>
+     <s>In addition to Heaven and ancestors, the Viet people now had kind Buddha who was merciful, philanthropic and helpful.</s>
+</p>
+<p>
+     <s>Buddhist ideology, despite its deep penetration into the soul of the Viet people, neither created negative thoughts nor did away with their determination to carry on the struggle to regain the country.</s>
+     <s>Ly Phat Tu (which literally means Ly, son of Buddha) was a pious Buddhist who was the chief of a resistance against the domination and aggression of the Sui dynasty.</s>
+     <s>While the harsh policy and obscurantism of the Han - Tang dynasty constrained the education of the population, the monks opened classes in pagodas.</s>
+     <s>Besides their religious work, Buddhist clergymen looked after other demands of the people such as pulse feeling and prescription, funerals, geomancy, quiet-seeking, etc.</s>
+     <s>Having education and living close to the people in defiance of the dominators, many of them shared the suffering with their compatriots and made their contribution to the struggle of the nation.</s>
+     <s>Bonze Dinh Khong (who died in 808) enkindled the faith in national independence.</s>
+     <s>Bonze La Qui An (852 - 936) kept the land position of Dinh Bang at the will of Bonze Dinh Khong from being destroyed by a Chinese general and geomancer who exorcised it in an attempt to hamper "the land of Heaven's son"(!) Although characteristic of prophetic nature and geomancy, the bonzes' work reflected the consciousness of national independence.</s>
+     <s>Vietnamese Buddhism merged into the nation.</s>
+</p>
+<p>
+     <s>Based on an agricultural and communal civilisation, our people accepted a number of elements of the cultures of China, India and the coastal region down the South such as new planting varieties (millet, kaoliang, beans, etc.), new farming techniques (fertilisation of human manure, water-reel, etc) handicraft techniques (brocade weaving, chinaware and paper production, etc) and also some customs and practices in relation to eating, clothing, dwelling and naming, etc.</s>
+</p>
+<p>
+     <s>The Viet culture did not shrink itself in passive defence and isolation.</s>
+     <s>It did not refuse the positive contributions from outside elements and showed its ability in receiving and absorbing the beauty and the good of the alien cultures including that from the country of its invader and dominator.</s>
+     <s>It is noteworthy that the Chinese culture that penetrated into the south were inclusive of elements that used to belong to Bach Viet (Hundred Yues) which were accepted, systematised and improved by the Han.</s>
+     <s>That is why these elements were easily accepted by the Viet people.</s>
+     <s>"The population in the south (of the Han empire) accepted the new culture not as an alien culture, but as a broad show and expansion of their old culture," ('Han Chinese Expansion in South China,' Wiens, Yale University, 1967, p45).</s>
+     <s>Through the northern domination and the struggle against the northern domination, our people realised a lofty and beautiful China of the working people, absorbed a number of its cultural achievements so as to fight back against the barbarous and foul China of the Han - Tang empire.</s>
+</p>
+<p>
+     <s>Thus there were two opposite tendencies in the evolution of the Viet culture during the northern domination ie: The 'Sino-isation,' a deliberate scheme of the dominators and their stooges, that gave rise to an almost unconscious impact on the broad masses; and The Vietnamisation aimed at retaining and bringing into full play the quintessence of the traditional culture which took shape since the time of national construction, absorbed and integrated alien cultural elements as required by the demand of life and time and were re-organised and re-structured on a Viet basis.</s>
+</p>
+<p>
+     <s>As a matter of course the second trend was decisive on the basis of which our country and its struggle against the northern domination were not exterminated.</s>
+     <s>On the contrary, it grew strong physically and spiritually, and finally triumphed over Great Han expansionism to regain the national independence.</s>
+</p>
+<p>
+     <s>In opposition to the enemy's "universal pacification," our people surmounted the tribal ideology and dispersal of the old society to bring into full play the great ideology of Vietnam ie patriotism, the determination for national independence, sovereignty, self-reliance and self-strengthening.</s>
+</p>
+<p>
+     <s>In opposition to the Chinese imperial state apparatus and the organisation of the ruling administration at the district and precinct level, our people contrived for the preservation and strengthening of village and community to turn them into green fortresses to fight back the enemy's assimilation and domination, relying on the village as the base and proceeding from the village to regain the country.</s>
+</p>
+<p>
+     <s>In opposition to the strength of a big and powerful empire of huge population, wealth and army, our people built up the invincible strength of Vietnam ie the strength of broad national unity.</s>
+     <s>The resistance against the northern domination was of a highly and broadly popular character that was fast turned into a people's war for national liberation.</s>
+</p>
+<p>
+     <s>As a result, our protracted struggle against the northern domination became mature as far as spiritual, political, economic, cultural, military aspects were concerned.</s>
+     <s>Finally, with the sovereign government of the Khuc and Duong families and with the historic victory of Bach Dang under the leadership of Ngo Quyen in late the 10th century, the prolonged and stubborn struggle of our people won glorious victory.</s>
+</p>
+<p>
+     <s>The victory washed away the shame of the loss of our country and the abuses of one thousand years of the northern domination.</s>
+</p>
+<p>
+     <s>With the victory, our country overcame the most serious challenge in its entire history of existence and development, proving an unparalleled and remarkable vitality of our nation.</s>
+</p>
+<p>
+     <s>And from that victory, a milestone in history, an end was put to a long period of agonies of our country and an era of long independence and brilliant revival was ushered in.</s>
+</p>
+</div>
+</body>
+</text>
+</TEI.2>

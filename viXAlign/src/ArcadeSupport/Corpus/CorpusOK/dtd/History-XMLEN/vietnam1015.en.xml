@@ -1,0 +1,134 @@
+<?xml version="1.0" standalone="no"?>
+<!-- edited with XML Spy v4.0.1 U (http://www.xmlspy.com) by NGUYEN THI MINH HUYEN (LORIA) -->
+<!DOCTYPE TEI.2 SYSTEM "C:/CORPUS/dtd/xlite/xteilite.dtd" [
+	<!ENTITY % ISO_Latin1 PUBLIC "ISO 8879-1986//ENTITIES Added Latin 1//EN//XML" "C:/CORPUS/dtd/pen/ISOlat1.pen">
+	%ISO_Latin1;
+]>
+<TEI.2 id="vietnam1015.en.xml">
+	<teiHeader date.created="30/12/2002">
+		<fileDesc>
+			<titleStmt>
+				<title type="source"></title>
+				<author></author>
+				<respStmt>
+					<resp></resp>
+					<name></name>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<distributor>Nhan dan dien tu</distributor>
+				<authority/>
+				<date>1/12/2002</date>
+			</publicationStmt>
+			<sourceDesc>
+				<p/>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<langUsage>
+				<language id="EN">English</language>
+			</langUsage>
+			<textClass>
+				<keywords>
+					<list>
+						<item>prose</item>
+						<item>history</item>
+					</list>
+				</keywords>
+			</textClass>
+		</profileDesc>
+	</teiHeader>
+	<text>
+		<body id="b1">
+<head>
+A review of Vietnam's history from the 10th century to late the 15th century.
+</head>
+<div>
+<p>
+     <s>Vietnam's history from the 10th century to late the 15th century is a succession of the Ngo, Dinh, Early Le, Ly, Tran, Ho and Late Le dynasties.</s>
+     <s>Although each dynasty came to wane, this period, in general, constituted a leap forward of our nation forward.</s>
+</p>
+<p>
+     <s>With a long and staunch struggle through tens of centuries, our people won back national independence for the motherland.</s>
+     <s>However, the northern feudal power, heavily stuffed with great Han expansionism , did not give up its wicked intention to conquer our country.</s>
+     <s>With a view to quickly getting rid of poverty, backwardness, dependency and slavery, our people assigned themselves two tasks to carry out at the same time: national construction and national defence.</s>
+</p>
+<p>
+     <s>Political.</s>
+</p>
+<p>
+     <s>After the first foundation laid by the Ngo, particularly the Dinh and the Earlier Le, for a fully sovereign State, dynasties of the Ly, Tran and Le, step by step built it into an absolute monarchy.</s>
+</p>
+<p>
+     <s>The power of kings was more and more strengthened.</s>
+</p>
+<p>
+     <s>The functionary apparatus from central to local levels was gradually and methodically set up.</s>
+     <s>Each body had a specific function.</s>
+     <s>The knowledge levels of mandarins were increasingly improved.</s>
+     <s>Communes and villages steadily lost their autonomy.</s>
+</p>
+<p>
+     <s>Between the Penal Code and the Hong Duc Code was a great step toward the construction of a Vietnamese jurisdiction.</s>
+</p>
+<p>
+     <s>The army increasingly grew more powerful.</s>
+     <s>Relations among nationalities in the country were consolidated.</s>
+</p>
+<p>
+     <s>However, throughout the process of national construction the ruling class step by step deviated from the people.</s>
+</p>
+<p>
+     <s>Economy.</s>
+</p>
+<p>
+     <s>Bringing into full play the traditions handed down by our ancestors, throughout the 10th - 15th centuries, our people worked hard to expand the arable land, drew experience in production and pushed agriculture forward.</s>
+     <s>The system of canals and ditches was expanded, ensuring irrigation for the cultivated land.</s>
+     <s>The system of river and sea dykes that was mainly built under the Tran, helped to check floods and protect crops in an effective manner.</s>
+</p>
+<p>
+     <s>Handicraft was diversified and gradually developed.</s>
+     <s>Of high technical levels of development were pottery-ware, construction, bronze casting, silk and brocade weaving and paper production.</s>
+     <s>Toward the end of the 14th century, proceeding from the imperative demand of national defence, Vietnamese handicraftsmen were able to cast big cannons and build big sea-going vessels.</s>
+     <s>Thang Long gradually became a crowded city.</s>
+</p>
+<p>
+     <s>Another aspect, the period between the 10th century to late the 15th century saw reductions of public land in communes and villages and a strong expansion of private ownership of land.</s>
+     <s>The one-time dominant ownership of fiefdoms and domains by aristocrats step by step gave way to the land ownership of landlords, which prevailed by the later half of the 15th century.</s>
+     <s>The feudal production relationship that had appeared earlier was now established.</s>
+</p>
+<p>
+     <s>Culture and art.</s>
+</p>
+<p>
+     <s>Getting rid of dependency on the Northerners, our people quickly built a culture of their own.</s>
+     <s>A culture of Thang Long gradually took shape with architectural and sculptural works of large scale (Bao Thien tower and Quynh Lam Buddhist statue), uniqueness (the one-pillar pagoda), and sophisticated and fine carvings (dragons).</s>
+     <s>Cultural activities of the people were healthy and martial.</s>
+</p>
+<p>
+     <s>Education unceasingly developed that resulted in the prosperity of literature and history under the Tran and the Le.</s>
+     <s>It was in this period that remarkable pieces of poetry and prose appeared such as 'Appeal to Officers and Soldiers' and 'Proclamation of Victory over the Ming' which were fully filled with patriotism, self-relying and self-strengthening spirits.</s>
+     <s>Literature in Nom (Sino-Vietnamese) made firm steps forward when birth was given to the volumes of 'History of the Great Viet.' National spirit was thoroughly grasped in major works of culture, literature and art.</s>
+</p>
+<p>
+     <s>Despite limitations as a result of the old Confucianist system of competition, examination, our people rose up to a number of major achievements in military, medicine and natural science.</s>
+</p>
+<p>
+     <s>The cause of national defence.</s>
+</p>
+<p>
+     <s>Our history from the 10th century to late the 15th century was a succession of excellent exploits in opposing the northern invaders: two successful wars of resistance against the Sung, three successful wars of resistance against the Yuan-Mongols and the glorious victory of the Lam Son insurrection that cleanly swept the Ming invaders out of our country.</s>
+     <s>The growth of every dynasty was closely linked with the cause of national defence.</s>
+     <s>National independence was maintained.</s>
+     <s>The expansionist scheme of the invaders to move southward was smashed up.</s>
+     <s>The shining cause against the invaders actually had far-reaching impact on all aspects of life of our people, thus shaping the staunch and lofty tradition in national defence as well as excellent military arts of our nation.</s>
+     <s>Together with the great cause of national defence, a number of national heroes appeared such as Le Hoan, Ly Thuong Kiet, Tran Hung Dao, Le Loi and Nguyen Trai whose names will be borne forever in the heart and mind of each Vietnamese.</s>
+</p>
+<p>
+     <s>In short, five centuries since the national independence had been totally won back was a process of creative labour and heroic struggle that defeated all wars of aggression of northern expansionist forces, and built a strong and rich feudal State with the brilliant culture of Thang Long.</s>
+</p>
+</div>
+</body>
+</text>
+</TEI.2>

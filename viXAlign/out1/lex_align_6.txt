@@ -1,0 +1,11 @@
+Source : D:\workspace\Arcade2\src\ArcadeSupport\Corpus\CorpusOK\HoangTuBe-OK\dulichdenhungen.xml
+Target : D:\workspace\Arcade2\src\ArcadeSupport\Corpus\CorpusOK\HoangTuBe-OK\dulichdenhungvn.xml
+92 saved word pairs
+33 saved word pairs
+
+
+
+------------------------------------------------------------
+
+
+

@@ -1,0 +1,112 @@
+<?xml version="1.0" standalone="no"?>
+<!-- edited with XML Spy v4.0.1 U (http://www.xmlspy.com) by NGUYEN THI MINH HUYEN (LORIA) -->
+<!DOCTYPE TEI.2 SYSTEM "C:/CORPUS/dtd/xlite/xteilite.dtd" [
+	<!ENTITY % ISO_Latin1 PUBLIC "ISO 8879-1986//ENTITIES Added Latin 1//EN//XML" "C:/CORPUS/dtd/pen/ISOlat1.pen">
+	%ISO_Latin1;
+]>
+<TEI.2 id="hiepdinhParis.en.xml">
+	<teiHeader date.created="30/12/2002">
+		<fileDesc>
+			<titleStmt>
+				<title type="source"></title>
+				<author></author>
+				<respStmt>
+					<resp></resp>
+					<name></name>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<distributor>Nhan dan dien tu</distributor>
+				<authority/>
+				<date>1/12/2002</date>
+			</publicationStmt>
+			<sourceDesc>
+				<p/>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<langUsage>
+				<language id="EN">English</language>
+			</langUsage>
+			<textClass>
+				<keywords>
+					<list>
+						<item>prose</item>
+						<item>history</item>
+					</list>
+				</keywords>
+			</textClass>
+		</profileDesc>
+	</teiHeader>
+	<text>
+		<body id="b1">
+<head>
+The Paris Agreement to restore peace in Vietnam.
+</head>
+<div>
+<p>
+     <s>The Resolution of the 13th Conference of the Party Central Committee pointed out: "The military and political struggle in the South serves as the decisive factor for the victory in the battlefield as well as the basis for the victory in the diplomatic front."</s>
+     <s>Victory can be won on the conference table based on what is won on the battlefield.</s>
+     <s>The diplomatic struggle however does not simply reflect the struggle on the battlefield.</s>
+     <s>Given the then international situation and the characteristics of the struggle between our people and the enemy, the diplomatic struggle had an active and important role of its own to play.</s>
+     <s>The Paris conference leading to the Agreement to put an end to the war and restore peace in Vietnam at a later stage confirmed this correct point of view.</s>
+</p>
+<p>
+     <s>After the general offensive and uprising in Tet 1968 by the people and armed forces in the South, on March 31, 1968 the US President Johnson declared an unilateral cessation of bombing against the North from the 20th parallel upward; not to run for presidency for the second term, and to send representatives to Paris - capital of the Republic of France - for talks with the government of the Democratic Republic of Vietnam.</s>
+     <s>Unlike the Geneva Conference on Indochina in 1954, the Paris Conference was a bilateral dialogue resulting from our greater victories and strength in comparison with 1954.</s>
+     <s>As for the United States, owing to their heavy defeat in 1968, they had to accept negotiations to seek an honourable way out of the war.</s>
+</p>
+<p>
+     <s>On May 13, 1968 the Paris Conference took place between the two sides.</s>
+     <s>Thanks to the resolute stance of the government of the Democratic Republic of Vietnam, the United States had to sit down for talks with the Front for National Liberation (FNL) who, from June 1969, became the provisional government of the Republic of South Vietnam.</s>
+     <s>On January 25, 1969 the plenary meeting of the quadripartite talks on Vietnam took place.</s>
+     <s>During the process of the peace talks, FSL put forth 10-point peace plan on May 8, 1969.</s>
+     <s>The United States put forth an eight-point proposal on May 14, 1969.</s>
+     <s>On July 8, 1969 Nixon declared the first withdrawal of 25,000 US troops from South Vietnam.</s>
+     <s>On August 4, 1969 Dr. Kissinger, the national security advisor to the White House had a private meeting with Minister Xuan Thuy for the first time in Paris.</s>
+     <s>On August 25, 1969, President Ho Chi Minh replied to the letter of the US President Nixon, clearly pointing out that the United States had to end the war of aggression, withdraw all US troops from South Vietnam, respect the self-determination of the people of South Vietnam and the Vietnamese nation so as to achieve peace.</s>
+     <s>That was the way for the United States to withdraw from the war in honour.</s>
+     <s>On February 21, 1970 special advisor Le Duc Tho and Minister Xuan Thuy met with Kissinger.</s>
+     <s>Private meetings between the special advisor and Kissinger started from then.</s>
+     <s>In March 1970, the Politburo of the Party decided to step up military, political and diplomatic activities and demanded the set-up of a coalition government in South Vietnam.</s>
+     <s>On December 10, 1970 in the 94th plenary meeting of the Paris Conference on Vietnam, Minister Nguyen Thi Binh put forth the three-point proposal on cease-fire and a complete withdrawal of the US troops from South Vietnam by June 30, 1971.</s>
+</p>
+<p>
+     <s>In early 1971, the Americans and their puppets launched the Lam Son 719 operation attack on Highway No 9 - Southern Laos, in order to cut off the strategic lines of communication from the North to the South, split Indochina and test "Vietnamisation of the war."</s>
+     <s>But the operation was pitifully defeated.</s>
+     <s>The victory created a new position and strength for the anti-US resistance of our people and army.</s>
+     <s>It also enabled us to closely combine the struggle on military, political and diplomatic fronts, continue to make use of the initiative to win new victories of even bigger strategic significance in 1972.</s>
+     <s>On March 30, 1972 our people and army began the strategic offensive of bigger scope and stronger intensity, taking the Americans and their puppets by surprise, disintegrating them by big chunks and weakening them seriously.</s>
+</p>
+<p>
+     <s>On March 24, 1972 President Nixon declared indefinite cessation of open meetings of the Paris Conference on Vietnam.</s>
+     <s>Subsequently, on May 8, 1972 Nixon declared an escalation, expanding the war of destruction against North Vietnam by air, including strategic air-force, laying mines to block Haiphong seaport and river sanctuaries along the coast.</s>
+     <s>Suffering big defeats in the South, the Americans had to accept the resumption of the quadripartite talks in Paris on July 13, 1972.</s>
+     <s>On October 8, 1972 the Democratic Republic of Vietnam took the initiative in putting forth the draft of "The Agreement on Ending the War and Restoring Peace in Vietnam."</s>
+     <s>On October 10, 1972 the Democratic Republic of Vietnam and the United States completed the wording of the Agreement, but on October 23, 1972 the United States raised a number of obstacles as a pretext to delay the signing of the Agreement and set up an air-bridge to provide massive aid to the Saigon puppet regime.</s>
+     <s>On November 2, 1972 Nixon ordered B52s to attack targets north of the 17th parallel.</s>
+     <s>When the talks were resumed on November 20, 1972 the United States demanded change to most of substantive issues in every charter of the Agreement at the request of the Saigon regime.</s>
+</p>
+<p>
+     <s>In combination with his sly diplomatic activities and a new adventurous "decisive military action," on December 18, 1972 President Nixon ordered B52s to bomb Hanoi, Haiphong and other cities in a bid to force us to accept their conditions on the conference table to end the war in their advantage.</s>
+     <s>With as many as 729 sorties of strategic B52s and 4,000 sorties of tactical airplanes, the United States dropped bombs equivalent to 35,000 tonnes of explosives over Hanoi, Haiphong and a number of other targets north of the 20th parallel.</s>
+     <s>Under the atrocious bombing of the enemy, the people of Hanoi and Haiphong remained unwavering.</s>
+     <s>With their ingenuity and courage, our people and army heroically fought them back, shooting down many modern US airplanes and taking prisoner many US pilots.</s>
+     <s>The United States not only failed to achieve its aims in the strategic attack but also suffered heavy losses.</s>
+</p>
+<p>
+     <s>After the defeat of the United States in their strategic attack by air, on January 8, 1973 the struggle in the diplomatic front was settled with victory prevailing upon Vietnam.</s>
+     <s>The United States no longer sought negotiations "from the position of strength."</s>
+     <s>On January 27, 1973 the Paris Agreement on ending the war and restoring peace in Vietnam was officially signed in Paris among the four parties.</s>
+     <s>On January 1973 President Nixon sent a note to the government of the Democratic Republic of Vietnam, undertaking to make contribution to heal the wounds of war in Vietnam.</s>
+     <s>On March 29, 1973 the last US serviceman left South Vietnam.</s>
+</p>
+<p>
+     <s>In almost five years, a long period unseen in history of negotiations with 201 open meetings, 45 private meetings at high level, 500 press conferences, 1,000 press interviews as well as hundreds of pro-Vietnam demonstrations, our diplomatic struggle in Paris actually made important contribution to the anti-US war of resistance for national salvation.</s>
+     <s>The most important victory of the Paris Agreement was the withdrawal of all US and foreign troops from South Vietnam whilst our regular forces remained in place, making the equilibrium of force change in our favour, creating basic conditions for us to win the total victory, liberate the South and unify the country.</s>
+</p>
+</div>
+</body>
+</text>
+</TEI.2>

@@ -1,0 +1,116 @@
+<?xml version="1.0" standalone="no"?>
+<!-- edited with XML Spy v4.0.1 U (http://www.xmlspy.com) by NGUYEN THI MINH HUYEN (LORIA) -->
+<!DOCTYPE TEI.2 SYSTEM "C:/CORPUS/dtd/xlite/xteilite.dtd" [
+	<!ENTITY % ISO_Latin1 PUBLIC "ISO 8879-1986//ENTITIES Added Latin 1//EN//XML" "C:/CORPUS/dtd/pen/ISOlat1.pen">
+	%ISO_Latin1;
+]>
+<TEI.2 id="cacvuaHung.en.xml">
+	<teiHeader date.created="30/12/2002">
+		<fileDesc>
+			<titleStmt>
+				<title type="source"></title>
+				<author></author>
+				<respStmt>
+					<resp></resp>
+					<name></name>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<distributor>Nhan dan dien tu</distributor>
+				<authority/>
+				<date>1/12/2002</date>
+			</publicationStmt>
+			<sourceDesc>
+				<p/>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<langUsage>
+				<language id="EN">English</language>
+			</langUsage>
+			<textClass>
+				<keywords>
+					<list>
+						<item>prose</item>
+						<item>history</item>
+					</list>
+				</keywords>
+			</textClass>
+		</profileDesc>
+	</teiHeader>
+	<text>
+		<body id="b1">
+<head>
+   The Van Lang Kingdom and Hung Kings.
+</head>
+<div>
+<p>
+     <s>1. Factors leading to the birth of the first kingdom.</s>
+</p>
+<p>
+     <s>Up to the stage of the Dong Son culture, Vietnam's primitive habitants had gone through major changes in both production and society.</s>
+</p>
+<p>
+     <s>In accordance with old legends and history, there were 15 tribes living in the basins of the Red and Ma Rivers and each tribe was governed by a chief.</s>
+</p>
+<p>
+     <s>The chief and the aristocracy had the power to distribute land, manage water sources for irrigation, used the common wealth, took the surplus wealth and exploited the labour of the people.</s>
+</p>
+<p>
+     <s>Contradictions between the aristocratic circle and the people began to grow, but were not acute.</s>
+</p>
+<p>
+     <s>In reality, a State would take shape in a society when there appeared acute class contradictions which could not be reconciled.</s>
+</p>
+<p>
+     <s>However, the Van Lang kingdom did not appear in that common way.</s>
+</p>
+<p>
+     <s>The 15 Lac Viet tribes were then living mainly on farming</s>
+     <s>Water control and irrigation played a vital role to them</s>
+     <s>It came to their minds that they had to unite so as to be able to dig long canals and build big dykes and dams to supply water for production.</s>
+</p>
+<p>
+     <s>At the same time, the 15 tribes were usually harassed by the enemies nearby</s>
+     <s>Therefore they had to get together to cope with the enemy's expansion and encroachment.</s>
+</p>
+<p>
+     <s>It was for the need of irrigation, the management of the society and the fight against territorial expansion that led to the advent of the first kingdom in Vietnam.</s>
+</p>
+<p>
+     <s>2. The Van Lang kingdom.</s>
+</p>
+<p>
+     <s>Of the 15 tribes, Van Lang was the strongest, with an area stretching over the both banks the Red River and from Ba Vi mountain to Tam Dao mountain</s>
+     <s>This tribe had an excellent chief who played the central role in gathering other tribes and became the chief of the union of the tribes and later, the leader of the all 15 tribes.</s>
+</p>
+<p>
+     <s>The leader proclaimed himself king and was called in old history as King Hung who was succeeded by many generations of his successors.</s>
+</p>
+<p>
+     <s>King Hung named the kingdom Van Lang and located the capital at Bach Hac (Viet Tri, Phu Tho)</s>
+     <s>King Hung often presided over religious ceremonies and headed the army</s>
+     <s>Assisting the king were civilian chiefs.</s>
+</p>
+<p>
+     <s>The whole country was divided into 15 regions (which used to be 15 tribes)</s>
+     <s>Heading each region was a military chief</s>
+     <s>This position was hereditary.</s>
+</p>
+<p>
+     <s>Under a region were communes, each of which was headed by a village elder who could also be assisted by a communal council</s>
+     <s>Each commune had a common house to be used for gathering and other cultural and religious activities.</s>
+</p>
+<p>
+     <s>A regular army and laws may not have existed at that time</s>
+     <s>Whenever a war broke out, the armed forces would be mobilised from communes</s>
+     <s>Reward and punishment depended on customs and practice at each commune or region.</s>
+</p>
+<p>
+     <s>The Van Lang kingdom of the Hung kings was a simple type of state, but it had already made a large contribution to unite the hearts and minds of the whole community of Lac Viet tribes for national construction and defence.</s>
+</p>
+</div>
+</body>
+</text>
+</TEI.2>

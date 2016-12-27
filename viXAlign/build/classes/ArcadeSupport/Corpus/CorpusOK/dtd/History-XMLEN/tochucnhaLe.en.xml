@@ -1,0 +1,177 @@
+<?xml version="1.0" standalone="no"?>
+<!-- edited with XML Spy v4.0.1 U (http://www.xmlspy.com) by NGUYEN THI MINH HUYEN (LORIA) -->
+<!DOCTYPE TEI.2 SYSTEM "C:/CORPUS/dtd/xlite/xteilite.dtd" [
+	<!ENTITY % ISO_Latin1 PUBLIC "ISO 8879-1986//ENTITIES Added Latin 1//EN//XML" "C:/CORPUS/dtd/pen/ISOlat1.pen">
+	%ISO_Latin1;
+]>
+<TEI.2 id="tochucnhaLe.en.xml">
+	<teiHeader date.created="30/12/2002">
+		<fileDesc>
+			<titleStmt>
+				<title type="source"></title>
+				<author></author>
+				<respStmt>
+					<resp></resp>
+					<name></name>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<distributor>Nhan dan dien tu</distributor>
+				<authority/>
+				<date>1/12/2002</date>
+			</publicationStmt>
+			<sourceDesc>
+				<p/>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<langUsage>
+				<language id="EN">English</language>
+			</langUsage>
+			<textClass>
+				<keywords>
+					<list>
+						<item>prose</item>
+						<item>history</item>
+					</list>
+				</keywords>
+			</textClass>
+		</profileDesc>
+	</teiHeader>
+	<text>
+		<body id="b1">
+<head>
+The socio-political organisation of the Le.
+</head>
+<div>
+<p>
+     <s>The state structure.</s>
+     <s>Governmental apparatus.</s>
+</p>
+<p>
+     <s>After the total liberation of the country, Le Loi and the command of the insurrection transformed itself into a feudal dynasty with governmental bodies being organised from the central to district and commune levels.</s>
+</p>
+<p>
+     <s>The Le kings (Le Loi and his successors) held supreme power claiming themselves "sons of Heaven" and ruling the people on Heaven's behalf.</s>
+     <s>The king was assisted by ministers who headed ministries.</s>
+     <s>Besides ministries, there was the Han lam vien (Academy) in charge of compiling governmental documents, Quoc tu giam (Imperial College) in charge of educational affairs and university, and Ngu su dai (Court Counsel) in the role of a control and inspection body.</s>
+</p>
+<p>
+     <s>With a view to concentrating all power in the hands of the king, the Le abolished the rank of Prime Minister.</s>
+     <s>The king also acted as the commander in chief of the army.</s>
+     <s>Mandarins in Thang Long capital and other localities were prohibited to organise their own armies.</s>
+</p>
+<p>
+     <s>King Le Thanh Tong divided the country into 13 dao (provinces) with each dao governed by three ty (departments) ie: thua ty in charge of administration, household registration and taxation; hien ty in charge of managing the army and keeping security; and do ty in charge of judgements and law reforcement.</s>
+     <s>Under each dao were phu (districts) in the lowlands (known as chau in the highlands) and communes.</s>
+     <s>Particularly, King Le Thanh Tong had a map of all 13 provinces drawn, which was called the Hong Duc Atlas.</s>
+</p>
+<p>
+     <s>In 1465, Le Thanh Tong ordered the provinces to draw maps which were completed by 1471. With this oldest atlas, the progress in the cause of national management and in geographical science of that time can be noted.</s>
+</p>
+<p>
+     <s>The army.</s>
+</p>
+<p>
+     <s>Militarily, the Le divided the country into five zones with approximately 80 thousand troops.</s>
+     <s>Like the Ly and Tran, the peasant-soldier system was maintained under the Le.</s>
+</p>
+<p>
+     <s>The Le divided the army into five sections, which took turns in doing military service and agricultural work.</s>
+     <s>When four other sections went home to do farming, the last one was on duty.</s>
+     <s>In the event of war, there would be no division of sections and all soldiers remained on duty.</s>
+</p>
+<p>
+     <s>The army under the Le was a strong armed force with high fighting skill and spirit.</s>
+     <s>The military training regime was strictly stipulated.</s>
+     <s>High-ranking military officials learned martial arts and the art of warfare at martial art school in Thang Long.</s>
+</p>
+<p>
+     <s>Each spring, soldiers from all provinces gathered in the capital to perform martial art and manoeuvres.</s>
+     <s>Soldiers from Thanh Hoa and other southern provinces were allowed to perform manoeuvres in their localities.</s>
+     <s>In addition, once every three years, military exercises were organised by the court for each arm such as infantry, cavalry and elephantry.</s>
+</p>
+<p>
+     <s>All soldiers in active service were allocated land in communes and villages based on their rank.</s>
+     <s>Military officials were given land based on their positions like other mandarins.</s>
+</p>
+<p>
+     <s>The Hong Duc Code.</s>
+</p>
+<p>
+     <s>The Le kings paid due attention to the building of law.</s>
+     <s>As soon as he was enthroned, Le Loi promulgated a number of rules and regulations on the allocation of public land in communes and villages, and legal procedure.</s>
+     <s>Addition and amendment were made by the next kings to regulations on judging crimes like bribery or the ban of free contacts with foreigners.</s>
+</p>
+<p>
+     <s>In Le Thanh Tong's reign, the state promulgated a new code which was known as the Hong Duc Code.</s>
+     <s>The Hong Duc Code was aimed at: Safeguarding the interests of the king and the Le royal family; all opposition against the court would be heavily dealt with.</s>
+</p>
+<p>
+     <s>Safeguarding the interests of the mandarin bureaucracy and landlords; Stipulating an equal inheritance of assets between the deceased's children regardless of their sex.</s>
+     <s>If a family had no son, the daughters were eligible to inherit all property left.</s>
+</p>
+<p>
+     <s>The Hong Duc Code safeguarded the interests of the ruling class, and to some extent, those of women.</s>
+</p>
+<p>
+     <s>Society.</s>
+     <s>National unity and safeguard of the boundaries.</s>
+</p>
+<p>
+     <s>The first kings of the Le dynasty were well aware of the safeguarding of the border and national unity.</s>
+     <s>The court conferred promotions and ranks to ethnic chiefs and respected their positions.</s>
+     <s>Ethnic minorities such as Tay, Thai, Nung, etc in northern and northwestern regions harmoniously lived in the great family of the fatherland.</s>
+</p>
+<p>
+     <s>Some particular ethnic chiefs opposed to the court were condemned and suppressed.</s>
+     <s>Le Loi also launched a military march to the northwestern region to suppress Dao Cat Han's rebellion.</s>
+     <s>In this march, he wrote a verse emphasising the national defence and the will to safeguard the boundaries:</s>
+     <s>"Border defence requires good stratagems.</s>
+     <s>And the country needs long-term schemes..."</s>
+</p>
+<p>
+     <s>With regard to the Ming, the Le resorted to flexible, yet resolute stratagems to defend the country's boundaries.</s>
+     <s>Le Thanh Tong increased the number of troops in the northern provinces, and launched military marches to crush encroachments by Ming troops in Lang Son and Yen Quang.</s>
+</p>
+<p>
+     <s>Le Thanh Tong said to his entourage that: "How can a piece of our mountain and a piece of our river be abandoned? Be resolute in debate without letting them make gradual infringement.</s>
+     <s>If they refute our reason, we can send our envoy to their court to clarify right and wrong.</s>
+     <s>Who dares to give a piece of land left by Thai To (Le Loi) to the enemy, he will be given heavy punishment".</s>
+</p>
+<p>
+     <s>Social life.</s>
+</p>
+<p>
+     <s>Society under the Le comprised two major classes ie the peasantry and the feudal rulers.</s>
+     <s>The feudal class consisted of the king, mandarins and landlords who owned most of the land whilst the peasants owned a little or no land.</s>
+     <s>The aristocratic circle who possessed fiefs and domains under the Tran lost their role under the Le.</s>
+     <s>Serfdom still existed.</s>
+     <s>The peasant class accounted for the majority of the population, but most of them were poor with low status in society.</s>
+     <s>They ploughed the land of mandarins and landlords and paid rent to the landowners.</s>
+     <s>If they ploughed the public land, they had to pay rent and render their services in the royal army.</s>
+     <s>In addition, men of 18 to 60 had to pay poll-tax.</s>
+     <s>They had to compulsorily contribute 40 days of public labour per year.</s>
+     <s>Thanks to the land they farmed on, their lives were improved step by step.</s>
+     <s>Some families had to sell their wives or children to well-to-do families, but only in times between crops.</s>
+</p>
+<p>
+     <s>Though slowly, the number of merchants and handicraftsmen kept growing.</s>
+     <s>They had to contribute part of their income or products to the State.</s>
+     <s>Little importance was attached to their trade.</s>
+</p>
+<p>
+     <s>In the 15th century, crop failures and famines rarely occurred, and the lives of the people were rather stable.</s>
+     <s>The situation was described through the following popular verse:</s>
+     <s>Under the reigns of Kings Thai To and Thai Tong,</s>
+     <s>Rice was so abundant that it cloyed buffaloes' taste".</s>
+</p>
+<p>
+     <s>In general, the prosperity under the Le was at a peak.</s>
+     <s>Thanks to economic development and stable politics, the lives of the people were much improved.</s>
+</p>
+</div>
+</body>
+</text>
+</TEI.2>

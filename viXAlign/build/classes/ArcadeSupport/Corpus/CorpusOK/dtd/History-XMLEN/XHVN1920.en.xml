@@ -1,0 +1,111 @@
+<?xml version="1.0" standalone="no"?>
+<!-- edited with XML Spy v4.0.1 U (http://www.xmlspy.com) by NGUYEN THI MINH HUYEN (LORIA) -->
+<!DOCTYPE TEI.2 SYSTEM "C:/CORPUS/dtd/xlite/xteilite.dtd" [
+	<!ENTITY % ISO_Latin1 PUBLIC "ISO 8879-1986//ENTITIES Added Latin 1//EN//XML" "C:/CORPUS/dtd/pen/ISOlat1.pen">
+	%ISO_Latin1;
+]>
+<TEI.2 id="XHVN1920.en.xml">
+	<teiHeader date.created="30/12/2002">
+		<fileDesc>
+			<titleStmt>
+				<title type="source"></title>
+				<author></author>
+				<respStmt>
+					<resp></resp>
+					<name></name>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<distributor>Nhan dan dien tu</distributor>
+				<authority/>
+				<date>1/12/2002</date>
+			</publicationStmt>
+			<sourceDesc>
+				<p/>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<langUsage>
+				<language id="EN">English</language>
+			</langUsage>
+			<textClass>
+				<keywords>
+					<list>
+						<item>prose</item>
+						<item>history</item>
+					</list>
+				</keywords>
+			</textClass>
+		</profileDesc>
+	</teiHeader>
+	<text>
+		<body id="b1">
+<head>
+Vietnamese society in the late 19th to early 20th century.
+</head>
+<div>
+<p>
+     <s>Large-scale colonial exploitation.</s>
+</p>
+<p>
+     <s>Towards the end of the 19th century to early the 20th century, the French colonialists hurriedly began their first large-scale exploitation in Vietnam after extinguishing the armed struggle of our people and setting up their ruling administration.</s>
+</p>
+<p>
+     <s>Having long been in thirst for the rich natural resources of our country for long, the French were now free to plunder.</s>
+     <s>Investments were eagerly made for exploitation with the aim openly declared: "Nowhere in this world is richer in resources than in Tonkin...</s>
+     <s>How many industries will have to be set up...</s>
+     <s>How many brilliant operations will have to be planned...</s>
+     <s>Tonkin is rich...</s>
+     <s>From here, rich wealth can be freely looted to send to the parent state.</s>
+     <s>Let's advance! Advance!" (Savigni and Bishop - 'Resources of Tonkin') They first speeded up the exploitation to plunder minerals, notably coal in Hong Gai - Quang Yen for France and for sales in other countries.</s>
+     <s>A number of electric, water, cement, textile, rice-milling factories were hurriedly built to make use of cheap manpower of our country, to produce on-the-spot number of goods of which France was in need.</s>
+     <s>Traditional handicrafts and family side occupation such as weaving, sugar-making, livestock breeding, pottery-making and others slowly died.</s>
+     <s>The national industry was dependent on French industry right from its birth.</s>
+</p>
+<p>
+     <s>More and more French import-export companies were set up controlling all deliveries of French commodities to local market in the countryside as well as purchase of local products and commodities.</s>
+     <s>The Vietnamese market soon became a private market of French capitalism.</s>
+     <s>French companies took control of all export and import activities to make profits.</s>
+</p>
+<p>
+     <s>The seizure of land to open plantations was accelerated.</s>
+     <s>In both the south and the north, there were colonisers who owned thousands and even tens of thousands of hectares of land for cultivating rice, rubber, tea, etc.</s>
+     <s>Our people were impoverished in every way because of heavy taxes and duties.</s>
+     <s>New taxes overlapped old ones that had been imposed before the domination of the French.</s>
+     <s>Worse still was the excise on salt, alcohol and opium.</s>
+     <s>That is not to mention services to be made by our people for building roads, bridges, edifices, military posts and digging canals, etc year after year that resulted in the desolation of villages where many people left their home without return.</s>
+     <s>By then, the living conditions of our people were wretched.</s>
+</p>
+<p>
+     <s>New changes.</s>
+</p>
+<p>
+     <s>The exploitation of the French colonialists resulted in a deep differentiation of Vietnamese society in early the 20th century.</s>
+     <s>A class of people was eager to come forward with commercial and industrial activities.</s>
+     <s>They called for the establishment of sale-shops or workshops to produce goods that could compete with those of the French.</s>
+     <s>A number of Vietnamese firms operated in cities throughout the country such as Hong Tan Hung in Hanoi, Trieu Duong in Vinh, Nam Dong Huong in Saigon, etc.</s>
+     <s>A number of manufacturing companies were also set up such as Nam Phong for production of textiles and mats in Thai Binh province, Lien Thanh for production of fish sauce in Phan Thiet, and so on.</s>
+</p>
+<p>
+     <s>This was the first germ of the national bourgeoisie.</s>
+     <s>Deliberately blocked and impeded by the French colonialists, this class was small in number and weak in force.</s>
+     <s> The petty bourgeoisie (traders, small workshop owners, public and private officials, intelligentsia, students, etc) grew in number thanks to the urban development, the expansion of exchanges of goods and the gradual completion of the colonial administration and education.</s>
+</p>
+<p>
+     <s>Of major importance in this period was the concentration of the working class.</s>
+     <s>A number of peasants who went bankrupt as their land was appropriated by the French colonisers and feudal landlords left the countryside to work in mines, plantations and factories of the French or local capitalists.</s>
+     <s>By then there were approximately 10,000 people working in industry.</s>
+     <s>Although it was insignificant in comparison with the whole population, however, it was rather evenly distributed throughout the country and concentrated in important economic premises of the French colonialists.</s>
+     <s>Still, the local feudalists and capitalists joined hands with the colonialists to bleed them white.</s>
+     <s>That is why they nurtured high fighting spirit in the very early days to oppose the employers and demand better living and working conditions (higher wages, reduction of working hours, tents at working site, etc.) Whilst Vietnamese society was deeply differentiated in the early years of the 20th century, ideas of bourgeois democracy entered our country through new books and newspapers from China.</s>
+     <s>Getting along the European capitalist path, Japan soon became as strong as old capitalist countries such as Great Britain, Russia, France, Germany, and served as an example for the then Vietnamese patriots to follow.</s>
+</p>
+<p>
+     <s>Under such circumstances, changes took place in the struggle movement of the Vietnamese people.</s>
+     <s>Awakened in early the 20th century, the Vietnamese patriots realised that the old path to save the country no longer worked and boldly welcome the new ideas and eagerly sought new paths for national salvation with a view to liberating the homeland and bringing about rights of democracy to the people.</s>
+</p>
+</div>
+</body>
+</text>
+</TEI.2>

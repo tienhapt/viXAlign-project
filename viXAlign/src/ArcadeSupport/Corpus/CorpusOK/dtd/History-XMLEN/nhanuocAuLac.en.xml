@@ -1,0 +1,95 @@
+<?xml version="1.0" standalone="no"?>
+<!-- edited with XML Spy v4.0.1 U (http://www.xmlspy.com) by NGUYEN THI MINH HUYEN (LORIA) -->
+<!DOCTYPE TEI.2 SYSTEM "C:/CORPUS/dtd/xlite/xteilite.dtd" [
+	<!ENTITY % ISO_Latin1 PUBLIC "ISO 8879-1986//ENTITIES Added Latin 1//EN//XML" "C:/CORPUS/dtd/pen/ISOlat1.pen">
+	%ISO_Latin1;
+]>
+<TEI.2 id="nhanuocAuLac.en.xml">
+	<teiHeader date.created="30/12/2002">
+		<fileDesc>
+			<titleStmt>
+				<title type="source"></title>
+				<author></author>
+				<respStmt>
+					<resp></resp>
+					<name></name>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<distributor>Nhan dan dien tu</distributor>
+				<authority/>
+				<date>1/12/2002</date>
+			</publicationStmt>
+			<sourceDesc>
+				<p/>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<langUsage>
+				<language id="EN">English</language>
+			</langUsage>
+			<textClass>
+				<keywords>
+					<list>
+						<item>prose</item>
+						<item>history</item>
+					</list>
+				</keywords>
+			</textClass>
+		</profileDesc>
+	</teiHeader>
+	<text>
+		<body id="b1">
+<head>
+The development of the Au Lac State.
+</head>
+<div>
+<p>
+     <s>1. The development in production.</s>
+</p>
+<p>
+     <s>Through making or casting metal working tools and weapons, the Au Lac people step by step learnt the technique to produce similar iron ones.</s>
+     <s>Besides bronze ploughshares which were widely used, iron hoes and spades began to appear.</s>
+     <s>Buffaloes and oxen also began to be used as pulling power which helped make hard ploughing faster and easier.</s>
+     <s>More rice, potatoes, beans, etc.</s>
+     <s>were produced as a result of which livestock breeding achieved a relevant growth.</s>
+     <s>The number of livestock such as cattle buffaloes, oxen, pigs, dogs, etc grew very fast in number.</s>
+     <s>Fruit trees such as banana, orange, lychee, longan, coconut, custard apple, etc.</s>
+     <s>were grown in home gardens.</s>
+     <s>Betel and areca were grown by each household.</s>
+</p>
+<p>
+     <s>The new progress in making handicrafts gave rise to the development of pottery production, mining and metallurgy.</s>
+     <s>Pottery craftsmen produced a large number of jars, pots, bowls, etc., which served as common items for daily life.</s>
+     <s>Pottery consisted of both fine and rough types.</s>
+     <s>They were baked at high temperature and became much stronger.</s>
+     <s>Bricks and tiles were also baked for construction.</s>
+     <s>The Au Lac were able to cast many bronze utensils and jewels.</s>
+     <s>Things to be buried with the dead were also cast in bronze.</s>
+</p>
+<p>
+     <s>2. Au Lac's State apparatus and society.</s>
+</p>
+<p>
+     <s>The Au Lac kingdom under An Duong Vuong's reign was divided into bo (regions).</s>
+     <s>Below each bo were communes (village and hamlet).</s>
+     <s>An Duong Vuong was the head of the Au Lac kingdom.</s>
+     <s>The king was also the owner of the entire land and leader of the army with the power to appoint the dignitaries.</s>
+     <s>Heading a region was a Lac tuong (military chief) and heading each commune was a Bo chinh (village elder).</s>
+     <s>Although the number of dignitaries accounted for a small section of the population, they were powerful and wealthy.</s>
+     <s>Members of the commune served as principal workers of the society.</s>
+     <s>They had to contribute part of their rice yield or products to the king and the aristocrats.</s>
+     <s>They were compulsorily sent to construction sites to build public works such as dykes, dams or taken for the service in the army.</s>
+     <s>Serfs totally depended on their lords and could be put on sale or exchange by the latter.</s>
+     <s>The number of serfs increased in the Au Lac society.</s>
+     <s>However, their numbers were small in comparison with that of farmers and craftsmen.</s>
+</p>
+<p>
+     <s>The Au Lac society, to a large extent, was similar to that of Van Lang, but the polarisation of the rich and the poor became more noticeable.</s>
+     <s>However, the unity and mutual assistance in villages and hamlets still remained profound and strong.</s>
+</p>
+</div>
+</body>
+</text>
+</TEI.2>

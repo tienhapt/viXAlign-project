@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<thresholds>
+	<param name="PUNCS" value="...,;:-?!&quot;'"/>
+	<param name="MAX_DIFF" value="500"/> <!-- -->
+	<param name="MAX_DEV" value="100"/> <!-- -->
+	<param name="MIN_EPS_SCORE" value="300"/> <!-- -->
+	<param name="MAX_FREQ_RATIO" value="2"/> <!-- max difference of frequence of two considered words -->
+	<param name="MIN_FREQ" value="3"/> <!-- min frequence of considered words -->
+	<param name="LPC" value="0.85"/> <!-- -->
+	<param name="NB_CHAR_COEFF" value="0.92"/> <!-- -->
+	<param name="MAX_COST" value="100"/> <!-- for matching distance vector algo of Fung, 1997 -->
+	<param name="MIN_T_SCORE" value="1.65"/> <!--for KVec algo of Fung, 1994 -->
+</thresholds>

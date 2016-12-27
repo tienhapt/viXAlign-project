@@ -1,0 +1,221 @@
+<?xml version="1.0" standalone="no"?>
+<!-- edited with XML Spy v4.0.1 U (http://www.xmlspy.com) by NGUYEN THI MINH HUYEN (LORIA) -->
+<!DOCTYPE TEI.2 SYSTEM "C:/CORPUS/dtd/xlite/xteilite.dtd" [
+	<!ENTITY % ISO_Latin1 PUBLIC "ISO 8879-1986//ENTITIES Added Latin 1//EN//XML" "C:/CORPUS/dtd/pen/ISOlat1.pen">
+	%ISO_Latin1;
+]>
+<TEI.2 id="ktvhnhaTran.en.xml">
+	<teiHeader date.created="30/12/2002">
+		<fileDesc>
+			<titleStmt>
+				<title type="source"></title>
+				<author></author>
+				<respStmt>
+					<resp></resp>
+					<name></name>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<distributor>Nhan dan dien tu</distributor>
+				<authority/>
+				<date>1/12/2002</date>
+			</publicationStmt>
+			<sourceDesc>
+				<p/>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<langUsage>
+				<language id="EN">English</language>
+			</langUsage>
+			<textClass>
+				<keywords>
+					<list>
+						<item>prose</item>
+						<item>history</item>
+					</list>
+				</keywords>
+			</textClass>
+		</profileDesc>
+	</teiHeader>
+	<text>
+		<body id="b1">
+<head>
+Economy and culture under Tran dynasty.
+</head>
+<div>
+<p>
+     <s>Society and economy.</s>
+</p>
+<p>
+     <s>The economic situation in post-war years.</s>
+</p>
+<p>
+     <s>The policy on agricultural encouragement and land expansion for cultivation of the Tran after the war brought about good results thanks to which, despite the heavy destruction of the war, agriculture was quickly rehabilitated and, step-by-step, advanced.</s>
+     <s>In areas along coasts and rivers, aristocrats continued recruiting labourers to break fresh ground for setting up new plantations.</s>
+     <s>Arable land area was significantly increased.</s>
+     <s>Land was allocated to serfs and poor peasants who would have to pay land taxes to landowners.</s>
+     <s>The exploitation in terms of contribution of produce became more common than before.</s>
+     <s>On the other hand, in villages and communes, the number of non-official landlords increased thanks to the hire of labourers for land reclamation and the cheap purchase of private land.</s>
+</p>
+<p>
+     <s>A number of powerful aristocrats dug trenches around their residential buildings with a view to separating their fiefs from the neighbourhood.</s>
+</p>
+<p>
+     <s>However, public land belonging to the village and commune accounted for the bulk of the area and continued to serve as the main source of income for the State.</s>
+     <s>In villages that did not possess much public land, peasants could move to new places for land reclamation and resettlement.</s>
+     <s>Dykes, irrigation canals and ditches were given due care.</s>
+     <s>In years of crop failures, the State reduced taxes or granted relief to needy people.</s>
+     <s>Agriculture continued to gain further progress.</s>
+</p>
+<p>
+     <s>As a result, handicrafts also saw new achievements.</s>
+     <s>The Tran opened more handicraft workshops of its own to better meet the demand of the king and mandarins.</s>
+     <s>The technical skills were improved.</s>
+     <s>The State's handicraftsmen were able to produce a wide range of sophisticated products, build sea-going vessels and cast canons.</s>
+</p>
+<p>
+     <s>The demand for handicrafts grew quickly among the population.</s>
+     <s>A number of handicraftsmen of the same trade such as pottery, weaving, dyeing, paper-making, etc joined together forming trade villages.</s>
+     <s>A number of others left for Thang Long, setting up handicraft guilds.</s>
+     <s>Technical skills as well as the range of products were unified and qualitatively improved.</s>
+     <s>However, individual handicraft households either in the village or guild sometimes had to carry out additional farming and gardening.</s>
+</p>
+<p>
+     <s>Exchange and trade activities were briskly carried out.</s>
+     <s>Marketplaces were opened in many localities, and big traders conducting whole sales by boats began to appear.</s>
+     <s>Thang Long and Nam Xang (Ha Nam) served as two major trade centres attracting dealers from all parts of the country.</s>
+     <s>Van Don remained a trade seaport for foreign merchants.</s>
+</p>
+<p>
+     <s>Social strata.</s>
+</p>
+<p>
+     <s>After the war of resistance against the Mongols, society was much differentiated.</s>
+     <s>The aristocrats owned a lot of land.</s>
+     <s>Descendants of landlords became mandarins thanks to their learning and examinations.</s>
+</p>
+<p>
+     <s>In the early stage of the Tran, the aristocratic circle was well aware of their ruling role.</s>
+     <s>They were fond of reading, studying military manuals, conducting martial art training.</s>
+     <s>The unity between the king and mandarins was tight.</s>
+</p>
+<p>
+     <s>In accordance with historical records: King Tran Thanh Tong often recommended the aristocrats in the his family that, "The country is left by our ancestors.</s>
+     <s>Their successors should share riches and honours among the family.</s>
+     <s>Looking from the outside, all the people served only one venerate person, but inside you and I are flesh and blood relatives who should jointly share every sorrow and joy.</s>
+     <s>You should take these words to hand down to your descendants." Villages and communes still retained their self-rule.</s>
+     <s>The ruled class of peasants who earned their living by ploughing public land was the largest sector in society.</s>
+     <s>After the war, particularly in the 14th century, crop failures frequently occurred.</s>
+     <s>Many peasants had to sell their plots of land and even their children.</s>
+     <s>Those who rented land and paid land taxes grew fast in number.</s>
+     <s>The number of serfs in fiefdoms owned by aristocrats and pagodas also increased.</s>
+     <s>Their lives were even worse than the rent-land peasants and entirely depended on the landowners.</s>
+</p>
+<p>
+     <s>Handicraftsmen and traders only accounted for a small part of the population.</s>
+     <s>They gathered in villages or guilds, but were sometimes scattered in farming areas.</s>
+     <s>The Tran did not impose any limit on travel for business or handicrafts.</s>
+</p>
+<p>
+     <s>Under the Tran, the number of slaves also increased.</s>
+     <s>Some of them who engaged in production would become serfs.</s>
+     <s>The rest had to do hard work for their owners.</s>
+     <s>The State did not ban trading or keeping slaves.</s>
+     <s>The laws allowed criminals of serious offences to be turned into slaves, and bad debtors to be turned into serfs by debtees.</s>
+     <s>Children of serfs would become assets of their parents' owners.</s>
+</p>
+<p>
+     <s>Culture.</s>
+     <s>Cultural activities.</s>
+</p>
+<p>
+     <s>Like the Ly, the people under the Tran were also fond of singing, dancing and playing games.</s>
+</p>
+<p>
+     <s>Describing an art performance to welcome foreign envoys at the Court, a Mongolian envoy wrote: "The singing is mixed with music playing, voices are cleared before singing... Women are in bare feet and their fingers are so tender.</s>
+     <s>When dancing each is surrounded by more than ten men who are half-naked, pounding their feet on stage, standing shoulder-to-shoulder, and singing along.</s>
+     <s>In each column, when one of them puts up his hands, ten others would do the same, and when he puts down his hands, the rest would follow." Tuong (classical drama), cheo (traditional opera) and dancing prospered.</s>
+     <s>People were very fond of games such as seizing shuttlecock (cuop cau), wrestling, rowing, etc.</s>
+     <s>Festivities served as good occasions for people in villages to exchange visits and enjoy the games together.</s>
+</p>
+<p>
+     <s>Houses had high roofs, but their eaves were low.</s>
+     <s>Clothing was simple.</s>
+     <s>Men had their heads close-shaven.</s>
+     <s>Mandarins had blue scarves round their heads and slippers for their feet.</s>
+     <s>The king had a band of silk to cover his hair-bun.</s>
+</p>
+<p>
+     <s>The people under the Tran, besides their martial spirit, had ardent patriotism and respect for nobility of mind.</s>
+     <s>Many youths tattooed on their bellies the words 'Self-sacrifice for justice.' The elders were given high respect.</s>
+</p>
+<p>
+     <s>Buddhism developed.</s>
+     <s>King Tran Thai Tong was versed in Buddhist dogma.</s>
+     <s>By the end of his life, he went to a monastery on the Yen Tu mountain (Dong Trieu, Quang Ninh).</s>
+     <s>A number of aristocrats followed his example and became bonzes.</s>
+     <s>Pagodas were built everywhere.</s>
+     <s>A scholar in the 16th century recorded that: "Under the Tran, the number of people had their hairs shaven and became Buddhist followers accounted for half of the commoners.</s>
+     <s>Particularly, in Dong Trieu district, each large village had some ten pagodas, and each small one had about five or six makeshift platforms for worshipping Buddha, all bustling."</s>
+     <s>Confucianism was widely expanded.</s>
+     <s>Confucian scholars won high respect.</s>
+     <s>Teacher Chu Van An was highly respected by the king and the court.</s>
+</p>
+<p>
+     <s>Education, literature, science and technique.</s>
+</p>
+<p>
+     <s>Due attention was given by the Tran to education.</s>
+     <s>The Royal College (Quoc Tu Giam) enhanced the training for descendants of aristocrats and mandarins.</s>
+     <s>In districts around the capital city public schools were set up.</s>
+     <s>National examinations were regularly organised for the selection of talents.</s>
+     <s>The number of educated mandarins grew in number.</s>
+     <s>Mac Dinh Chi, a holder of doctoral degree, who fluently retorted with the Yuan courtiers in his ambassadorial mission and composed interesting verses to be written on fans, was promoted to a doctor by the Yuan king.</s>
+</p>
+<p>
+     <s>Poems and prose in Chinese prospered.</s>
+     <s>The 'Appeal to all Generals and Soldiers' written by Tran Hung Dao was full of ardent patriotism and humanism.</s>
+     <s>'Ode to the Bach Dang river' written by Truong Han Sieu was exciting and overflowed with national consciousness.</s>
+</p>
+<p>
+     <s>The Sino-Vietnamese language (nom) that had appeared before was used for literary writing by many scholars such as Nguyen Thuyen and Nguyen Si Co.</s>
+</p>
+<p>
+     <s>In 1227, the historian Le Van Huu fulfilled the compilation of 'History of the Great Viet' (Dai Viet Su Ky) in 30 chapters confirming the long-standing independence of our country.</s>
+     <s>In the court, the board in charge of history writing assumed regular activities.</s>
+</p>
+<p>
+     <s>A lot of valuable scientific and technical achievements were made.</s>
+     <s>Tran Hung Dao wrote 'A Book of Military Stategy' summing up war experiences through generations.</s>
+     <s>Dang Lo invented a device for weather forecast.</s>
+     <s>Tran Nguyen Dan observed and recorded the movements of the moon and stars.</s>
+     <s>Tue Tinh studied traditional herbal medicine and summed up its effects in treatments.</s>
+</p>
+<p>
+     <s>Imperative demands of defence led to the manufacture of big cannons (than co) and building of big sea-going vessels by Ho Nguyen Trung and skilled handicraftsmen.</s>
+</p>
+<p>
+     <s>Architectural arts and sculpture.</s>
+</p>
+<p>
+     <s>For the further development of Thang Long culture, craftsmen under the Tran created new artistic projects of high value.</s>
+     <s>In Thang Long, the royal citadel and palaces were rebuilt.</s>
+     <s>The palace of the king father in Tuc Mac (My Loc, Nam Dinh) was both sizeable and beautiful.</s>
+     <s>The Pho Minh pagoda (in Nam Dinh) had an on-the-water hall for religious activities and a bronze tripod of more than one thousand can (0.605 kilograms each).</s>
+     <s>Outside the pagoda was a tower of 14 storeys totalling 20 metres in height rising up from a squared lake.</s>
+     <s>The Binh Son tower in Lap Thach district (Vinh Phuc) was of 11 storeys totalling 15 metres in height, etc.</s>
+     <s>Rich experience on architecture was summerised in the building of the Tay Do citadel (also known as the citadel of the Ho dynasty) in Vinh Loc district (Thanh Hoa).</s>
+</p>
+<p>
+     <s>In royal tombs of the kings and aristocrats there were stone statues of tigers, lions, buffaloes, dogs and military aids.</s>
+     <s>Changes were made to stone-carved dragons and statues which were more polished and solemn.</s>
+     <s>Carving and bas-relief arts on wood also prospered.</s>
+     <s>The common subjects were coined dragons, flower offering scenes, flowers and leaves, etc.</s>
+     <s>Paintings depicting landscapes and portraits also began to appear.</s>
+</p>
+</div>
+</body>
+</text>
+</TEI.2>

@@ -1,0 +1,97 @@
+<?xml version="1.0" standalone="no"?>
+<!-- edited with XML Spy v4.0.1 U (http://www.xmlspy.com) by NGUYEN THI MINH HUYEN (LORIA) -->
+<!DOCTYPE TEI.2 SYSTEM "C:/CORPUS/dtd/xlite/xteilite.dtd" [
+	<!ENTITY % ISO_Latin1 PUBLIC "ISO 8879-1986//ENTITIES Added Latin 1//EN//XML" "C:/CORPUS/dtd/pen/ISOlat1.pen">
+	%ISO_Latin1;
+]>
+<TEI.2 id="thanhCoLoa.en.xml">
+	<teiHeader date.created="30/12/2002">
+		<fileDesc>
+			<titleStmt>
+				<title type="source"></title>
+				<author></author>
+				<respStmt>
+					<resp></resp>
+					<name></name>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<distributor>Nhan dan dien tu</distributor>
+				<authority/>
+				<date>1/12/2002</date>
+			</publicationStmt>
+			<sourceDesc>
+				<p/>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<langUsage>
+				<language id="EN">English</language>
+			</langUsage>
+			<textClass>
+				<keywords>
+					<list>
+						<item>prose</item>
+						<item>history</item>
+					</list>
+				</keywords>
+			</textClass>
+		</profileDesc>
+	</teiHeader>
+	<text>
+		<body id="b1">
+ <head>
+Co Loa Citadel.
+</head>
+<div>
+<p>
+     <s>With a view to protecting the new Imperial City of Au Lac, king An Duong Vuong instructed the construction of a big and unique earthen citadel.</s>
+</p>
+<p>
+     <s>The edict was given by the king and the inhabitants of Co Loa had to move away to give the land to the king for the building of a citadel.</s>
+     <s>Thousands of skilful workers were sent to Co Loa from all parts of the country.</s>
+     <s>Tens of thousand people in turn had to provide their services.</s>
+     <s>The Co Loa construction site was busy all day and night.</s>
+     <s>The citadel got higher each day and was surrounded by wide and deep trenches.</s>
+     <s>But when each spring came, the citadel was eroded and damaged by flooding.</s>
+     <s>After numerous failures, big rocks were used to build the basement of the citadel where it was deep and the water current was strong.</s>
+     <s>Earthen walls were supported by baked earthen ramparts in some places which helped keep firm the citadel.</s>
+     <s>Old history writes: "The citadel is thousands of truong (approx.</s>
+     <s>4m each) wide in the form of a spiral." Legends keep telling that the Au Lac people built the citadel for 18 years on end.</s>
+     <s>But the more they built, the more the citadel collapsed.</s>
+     <s>Thanks to the help of the Golden Tortoise genie, the king was successful in building the citadel finally.</s>
+</p>
+<p>
+     <s>The remains of Co Loa citadel consists of three rings with total length of more than 16 kilometres.</s>
+     <s>The innermost is a rectangle.</s>
+     <s>The middle and the outer rings follow swamps and lakes and link with the existing hills and slopes, bearing the curves of natural terrain.</s>
+     <s>At the mercy of weather, the citadel still retains its height from 8 to 12 metres in some places.</s>
+     <s>However, it is flattened in many other places.</s>
+</p>
+<p>
+     <s>In accordance with archaeological studies, Co Loa citadel had an average height of five metres with the width of the surface from 6-12 metres and the width of the basement from 20-30 metres.</s>
+     <s>The citadel was stiff outside and slanting inside.</s>
+     <s>On the surface of each ring, high earthen structures were built up at regular distance to serve as watchtowers.</s>
+     <s>The innermost ring alone had 18 such watchtowers.</s>
+     <s>Outside each ring was surrounded by deep trenches.</s>
+     <s>The trenches connected one with another and made way to the Hoang river and Ca swamp (where hundreds of boats could gather).</s>
+     <s>The roads inside the citadel were interwoven.</s>
+     <s>Army barricades were built outside the middle ring and between the innermost and the middle rings was the place for dignitaries.</s>
+     <s>Inside the innermost ring was for the king and the royal family.</s>
+     <s>The Forbidden Palace was built at the highest place in the citadel.</s>
+     <s>the left was the Royal Hall (where Co Loa communal house is located at present).</s>
+</p>
+<p>
+     <s>With millions of cubic metres of earth and rock and a unique construction style, Co Loa citadel constitutes a major creative project of the Lac Viet people.</s>
+</p>
+<p>
+     <s>Besides the strong Co Loa citadel, Au Lac also had a big army consisting tens of thousands of infantry and marines.</s>
+     <s>The troops were equipped with bronze weapons such as axes, spears, broadswords, daggers, etc.</s>
+     <s>Particularly, there was a type of crossbow which could shoot many arrowheads at the same time.</s>
+     <s>Besides bamboo arrows, three-pointed bronze arrowheads were also produced by the Au Lac people.</s>
+</p>
+</div>
+</body>
+</text>
+</TEI.2>

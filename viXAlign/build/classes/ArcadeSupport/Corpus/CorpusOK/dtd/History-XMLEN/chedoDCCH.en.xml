@@ -1,0 +1,101 @@
+<?xml version="1.0" standalone="no"?>
+<!-- edited with XML Spy v4.0.1 U (http://www.xmlspy.com) by NGUYEN THI MINH HUYEN (LORIA) -->
+<!DOCTYPE TEI.2 SYSTEM "C:/CORPUS/dtd/xlite/xteilite.dtd" [
+	<!ENTITY % ISO_Latin1 PUBLIC "ISO 8879-1986//ENTITIES Added Latin 1//EN//XML" "C:/CORPUS/dtd/pen/ISOlat1.pen">
+	%ISO_Latin1;
+]>
+<TEI.2 id="chedoDCCH.en.xml">
+	<teiHeader date.created="30/12/2002">
+		<fileDesc>
+			<titleStmt>
+				<title type="source"></title>
+				<author></author>
+				<respStmt>
+					<resp></resp>
+					<name></name>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<distributor>Nhan dan dien tu</distributor>
+				<authority/>
+				<date>1/12/2002</date>
+			</publicationStmt>
+			<sourceDesc>
+				<p/>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<langUsage>
+				<language id="EN">English</language>
+			</langUsage>
+			<textClass>
+				<keywords>
+					<list>
+						<item>prose</item>
+						<item>history</item>
+					</list>
+				</keywords>
+			</textClass>
+		</profileDesc>
+	</teiHeader>
+	<text>
+		<body id="b1">
+<head>
+The building and defence of the Democratic Republic (1945 -1946).
+</head>
+<div>
+<p>
+     <s>As soon as independence was regained, the Vietnamese people were put before extremely difficult and complicated tasks.</s>
+     <s>This was a stage of struggle to defend and strengthen the revolutionary government, build the new regime and prepare for a nationwide war of resistance.</s>
+     <s>The then biggest threat was the French imperialists' plot to restore their domination in Vietnam.</s>
+     <s>The reactionary colonialists openly made provocation opening fire at civilians at a meeting of almost one million people in Saigon - Cho Lon to celebrate the National Day of September 2.</s>
+     <s>On September 23, 1945 the French colonialists concentrated their forces and launched a surprise attack on Saigon.</s>
+     <s>Less than one month after the victory when the revolutionary government and the newly-built armed forces hardly had time to be strengthened, Nam Bo (Cochinchina) had to step into a war of resistance.</s>
+     <s>However, the people and the armed forces in Nam Bo heroically engaged in battle against the enemy, and, in order to preserve their strength, our forces withdrew from towns to the vast countryside to wage their staunch resistance.</s>
+     <s>Launching an attack on Nam Bo with their plot to split it into a separate territory, the French colonialists hurt the most profound sentiment of our people.</s>
+     <s>Ho Chi Minh's heartfelt and resolute statement that "Cochinchina is the flesh and blood of Vietnam.</s>
+     <s>Rivers may run dry, mountains may wear flat, but this truth will never change" strongly moved the soul of every Vietnamese patriot.</s>
+     <s>A wide enthusiastic campaign was launched to mobilise the youth to engage in combat against the enemy for national salvation: the southward movement.</s>
+     <s>Only two weeks after the gunfire of aggression was opened by the French in Saigon, first liberation units had covered long distances to be present in the southern front.</s>
+</p>
+<p>
+     <s>While the French colonialists harboured by the British colonialists opened fire to invade the south, 20 thousand Chiang Kai-shek's troops arrived in the north, taking with them a whole gang of lackeys belonging to reactionary parties such as Viet Quoc (Vietnam Nationalist Party), Viet Cach (Vietnam Revolutionary Party), etc in order to overthrow the provisional government led by Ho Chi Minh.</s>
+     <s>Never before were there so many foreign enemies in our country as at that time.</s>
+     <s>The local reactionaries openly showed themselves as lackeys of the imperialists to oppose their nation and compatriots.</s>
+</p>
+<p>
+     <s>The Communist Party led by President Ho Chi Minh exercised a far-sighted leadership which was firm in principle and flexible in tactics, making best use of contradictions among the enemies to steer the Vietnamese revolutionary boat out of hazardous waters.</s>
+     <s>The Party and President Ho Chi Minh used flexible tactics in negotiations with the French to expel Chiang Kai-shek's troops out of Vietnam.</s>
+     <s>On March 6, 1946 a preliminary agreement was signed with the French with a view to making time to strengthen our forces in preparation for a nationwide war of resistance.</s>
+     <s>Following this agreement, negotiations were held in Da Lat and then in Fontainebleau (France) to settle a number of specific questions without achieving any result.</s>
+     <s>To gain more time and show our goodwill for peace, President Ho Chi Minh signed with the French government in Paris a provisional agreement on September 14, 1946. However, all accords were betrayed by the French.</s>
+     <s>A series of violations of the signed accords by the French clearly showed their wicked plot for a reconquest of country.</s>
+     <s>In addition to the external and internal enemies, our people had to cope with numerous social and economic difficulties.</s>
+     <s>The horrific famine in late 1944 and in early 1945 that claimed the life of more than two million people as a result of the ruthless exploitive policy of French colonialism and Japanese fascism still loomed large in the north, threatening the life of millions of other people, especially in heavily stricken areas.</s>
+     <s>The enslavement policy carried out by the colonialist and feudal authorities in more than 80 years left over serious consequences including cultural and social ones which needed to be resolved as quickly as possible.</s>
+     <s>In face of such a situation, in parallel with the struggle against external aggressors, our people led by the Party built and strengthened the revolutionary government.</s>
+     <s>The revolutionary government decided to organise a general election to set up a national assembly and an official government, and to construct a constitution for the independent Vietnam.</s>
+     <s>On January 5, 1946 President Ho Chi Minh called on the people to go to the polls: "Tomorrow will be the first day in the history of Vietnam when our people exercise their democratic freedoms."</s>
+     <s>On January 6, 1946 from the battlefield back to the rear, all citizens of the People's Democratic Republic of Vietnam enthusiastically went to the polls.</s>
+     <s>The people throughout the country elected 333 deputies to the first national assembly of Vietnam.</s>
+     <s>The success of the general election dealt a heavy blow at the divisive and subversive plot of the aggressors and their lackeys.</s>
+     <s>It helped raise the prestige of the Democratic Republic of Vietnam on the world arena, give the people valuable lessons on patriotism, awareness of mastership and duties of citizens of an independent state.</s>
+     <s>On March 2, 1946 the first legislature of the National Assembly held its first session in Hanoi, setting up a government led by President Ho Chi Minh.</s>
+     <s>The successful general election of the national assembly as well as of the first legislature constituted a great achievement of the Communist Party of Vietnam in leading the country to overcome its first critical challenges.</s>
+</p>
+<p>
+     <s>Together with the strengthening of the young regime, under the leadership of our Party, our people unceasingly attacked the famine and illiteracy which were seen dangerous as foes.</s>
+     <s>A number of economic and cultural policies and measures were worked out.</s>
+     <s>Land belonging to the colonialists and traitors was provisionally allocated to peasants.</s>
+     <s>Land rents were reduced and payments of debt were delayed.</s>
+     <s>The call for "not to leave fallow any piece of land" was enthusiastically welcome and implemented everywhere.</s>
+     <s>Famine relief committees were set up which carried out practical activities.</s>
+     <s>Mass education classes and the mobilisation for a new life-style were broadly organised which helped repel illiteracy.</s>
+     <s>Thus, the period of more than one year of peace created favourable conditions for the new government to build up our strength in all domains, stabilise the economic life, build up the armed forces and set up combat plans, prepare the people ideologically, broaden international propagation and break the attack of the imperialists against the just struggle of the Vietnamese people.</s>
+     <s>When the French imperialists deliberately stirred up the war, our Party and people were prepared to carry out an all-people, all-round and protracted war of resistance against them.</s>
+</p>
+</div>
+</body>
+</text>
+</TEI.2>

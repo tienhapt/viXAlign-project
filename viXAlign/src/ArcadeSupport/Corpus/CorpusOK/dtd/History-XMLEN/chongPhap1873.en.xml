@@ -1,0 +1,256 @@
+<?xml version="1.0" standalone="no"?>
+<!-- edited with XML Spy v4.0.1 U (http://www.xmlspy.com) by NGUYEN THI MINH HUYEN (LORIA) -->
+<!DOCTYPE TEI.2 SYSTEM "C:/CORPUS/dtd/xlite/xteilite.dtd" [
+	<!ENTITY % ISO_Latin1 PUBLIC "ISO 8879-1986//ENTITIES Added Latin 1//EN//XML" "C:/CORPUS/dtd/pen/ISOlat1.pen">
+	%ISO_Latin1;
+]>
+<TEI.2 id="chongPhap1873.en.xml">
+	<teiHeader date.created="30/12/2002">
+		<fileDesc>
+			<titleStmt>
+				<title type="source"></title>
+				<author></author>
+				<respStmt>
+					<resp></resp>
+					<name></name>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<distributor>Nhan dan dien tu</distributor>
+				<authority/>
+				<date>1/12/2002</date>
+			</publicationStmt>
+			<sourceDesc>
+				<p/>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<langUsage>
+				<language id="EN">English</language>
+			</langUsage>
+			<textClass>
+				<keywords>
+					<list>
+						<item>prose</item>
+						<item>history</item>
+					</list>
+				</keywords>
+			</textClass>
+		</profileDesc>
+	</teiHeader>
+	<text>
+		<body id="b1">
+<head>
+The Nationwide Resistance against the French colonialists (1873-1884).
+</head>
+<div>
+<p>
+     <s>The capture of Hanoi by the French colonialists and the resistance of the northern people.</s>
+     <s>New plot of the French colonialists.</s>
+</p>
+<p>
+     <s>Having seized the six provinces of Cochinchina, the French came to a stop in order to turn it into a strong springboard to occupy Tonkin and Annam.</s>
+</p>
+<p>
+     <s>On the one hand they tried to strengthen their administrative and military apparatus from the top down to cope with the wide armed struggle movement of the people in the south.</s>
+     <s>On the other hand they resorted to all ways to exploit our people such as imposing heavy taxes and fees, appropriating land, plundering rice to export, etc.</s>
+     <s>In carrying out their political, military and economic policies, they opened up some schools to hasten the training of their henchmen; published newspapers in both Vietnamese and French to propagate their imminent occupation of Tonkin.</s>
+</p>
+<p>
+     <s>However, the feudal court of the Nguyen failed to realise the wicked and blatant plot of the enemy.</s>
+     <s>As before, the court believed in negotiations for the return of the lost provinces.</s>
+</p>
+<p>
+     <s>Meanwhile, the French unceasingly squeezed our people out of their wealth to use for their luxurious lives as well as for "war indemnity".</s>
+</p>
+<p>
+     <s>Agriculture, industry and trade were neglected and held back, finance fell short and the people's lives were exhausted.</s>
+     <s>This situation gave rise to the outbreak of many peasant revolts.</s>
+     <s>In the north, a number of bandit groups from China swept our land for smash and grab, and off the sea pirates were rampant.</s>
+     <s>Such turmoil only benefited the French who were anxious about sending their troops to the north.</s>
+</p>
+<p>
+     <s>The French colonialists capture Hanoi and provinces in the lowlands for the first time.</s>
+</p>
+<p>
+     <s>In Cochinchina the French hastened their preparations to move to the north.</s>
+     <s>In order to pave the way for their aggression, from late 1872 they sent Dupuis, an arms dealer, to the north who did arrogant acts such as sailing spontaneously up and down the Red river for trade with China, arresting people and detaining them onboard, looting boats and rafts, etc.</s>
+     <s>However, the Hue court did not dare to resort to firm measures.</s>
+     <s>King Tu Duc ordered Nguyen Tri Phuong who was just appointed governor of Hanoi not to displease the French for fear of bad impacts on the negotiation for the return of the lost land in Cochinchina.</s>
+     <s>Also, the Hue court requested the French authority in Cochinchina to send their men to the north to settle Dupuis' case.</s>
+     <s>Snatching the opportunity, the French immediately sent their troops led by Garnier to Hanoi.</s>
+</p>
+<p>
+     <s>Soon after setting his foot in Hanoi, Garnier exposed his acts of provocation in early November 1873.</s>
+     <s>After his meeting with Dupuis, he sent his troops ashore to collect taxes and arrest and beat up people; demanded to station his troops in the citadel; and declared to open up the Red river to commerce.</s>
+     <s>At the same time, he contacted the spies in cloak of missionaries and gathered reactionary forces.</s>
+</p>
+<p>
+     <s>In the early morning of November 10, 1873 he ordered gunfire to attack Hanoi citadel.</s>
+     <s>Nguyen Tri Phuong and his troops heroically fought back but failed to defend the citadel before the fierce attack of the French.</s>
+     <s>Hanoi citadel fell, Nguyen Tri Phuong, wounded in battle, was captured who abstained from food until death.</s>
+     <s>Soon afterward, making use of the Hue court's passiveness and alarm, Garnier sent his troops to seize many areas.</s>
+     <s>In less than one month, all provinces in the Red river delta were in turn fallen into the enemy hands.</s>
+</p>
+<p>
+     <s>The enthusiastic resistance of the northern people (1873-1874).</s>
+</p>
+<p>
+     <s>When the French opened fire to attack Hanoi citadel, fierce resistance was immediately waged by the people and army of Hanoi.</s>
+</p>
+<p>
+     <s>Nguyen Tri Phuong and his son Nguyen Lam were killed in action.</s>
+     <s>At the city gate of Thanh Ha, a group of 100 men led by an officer fought back until the last one of them was killed.</s>
+</p>
+<p>
+     <s>The French expanded the battle to provinces and were met with strong resistance wherever they went.</s>
+     <s>Realising the French forces in Hanoi thin and weak, our army tightened their encirclement.</s>
+     <s>In the morning of December 21, 1873, the French troops advanced to Son Tay.</s>
+     <s>When they were at Cau Giay, they fell into an ambush.</s>
+     <s>Garnier, the commander, was killed on spot.</s>
+     <s>In this victory, the Co Den (Black Flag) troops led by Liu Wing-fu fought side by side with the royal army.</s>
+</p>
+<p>
+     <s>The Cau Giay battle frightened the French troops in Hanoi and provinces who only wanted to abandon their posts for fear.</s>
+     <s>The warlike French colonialists in Saigon were also frightened.</s>
+</p>
+<p>
+     <s>Heartened up, our people and army throughout the country were willing to rush up to clean out the enemy.</s>
+     <s>As the court cowardly ordered our troops to move to Son Tay to create a favourable atmosphere for the negotiation with the French, the opportunity was missed.</s>
+     <s>A new treaty with a number of disadvantageous clauses was signed by the court on March 15, 1874.</s>
+</p>
+<p>
+     <s>The Hue court officially admitted the sovereignty of the French in six provinces of Cochinchina, undertook to reopen Thi Nai port (Quy Nhon) and Ninh Hai port (Haiphong), Hanoi port and the Red river.</s>
+     <s>In these places, the French were free to conduct trade, set up industries, build stores and houses, hire employees, etc.</s>
+     <s>The French were also allowed to set up consulates which would be protected by their own troops.</s>
+     <s>The Hue court was not allowed to sign trade agreements with other countries which would run counter to the interests of the French without letting them know in advance.</s>
+</p>
+<p>
+     <s>With the 1874 Treaty, Vietnam lost an important part of its independence in internal affairs, diplomatically tied up to the French and became a market of French capitalism.</s>
+</p>
+<p>
+     <s>The resistance of the people in Tonkin and the situation of the feudal State.</s>
+     <s>The aggression of the French against Tonkin in the second phase (1882-1884).</s>
+</p>
+<p>
+     <s>As soon as it was signed, the 1874 Treaty was strongly rejected by the people throughout the country.</s>
+     <s>Many revolts broke out.</s>
+</p>
+<p>
+     <s>To cope with, the Hue court conducted merciless suppression and even invited the French to send warships and troops to places of strong revolts to put them down.</s>
+     <s>Bandits and pirates were rampant and the court had to ask for China's help.</s>
+</p>
+<p>
+     <s>The situation was extremely disorderly.</s>
+     <s>The national economy and finance were exhausted.</s>
+     <s>Meanwhile, French capitalism that was in its impetus was thirsty for colonies.</s>
+     <s>In its eyes, Tonkin with its large population, abundance of natural resources, particularly coal that was needed for its industries, was a nice dish that could not be missed.</s>
+</p>
+<p>
+     <s>In order to launch an armed intervention, the French accused the Hue court of not strictly carrying out the 1874 Treaty, continuing to deal with China, blocking the trade of the French on the Red river, banning Catholics and killing missionaries to send more troops to the north in 1882.</s>
+</p>
+<p>
+     <s>On April 3, 1882 the French troops led by Riviere landed Hanoi and soon afterward did acts to provoke our people and army.</s>
+     <s>The French troops with arms in hands swaggered about the streets.</s>
+     <s>The French commander demanded Hoang Dieu, governor of Hanoi, to evacuate all the royal troops from the citadel and demolish all defense works.</s>
+</p>
+<p>
+     <s>The situation in Hanoi was very strained.</s>
+     <s>Having received reinforcements from Sai Gon, in the early morning of April 25, 1882, Riviere sent an ultimatum to Hoang Dieu demanding the submission of the citadel.</s>
+     <s>The deadline did not come when the French opened fire.</s>
+     <s>At noon, the citadel was captured.</s>
+     <s>Hoang Dieu, after writing his last letter to the king, hang himself by a silk scarf in Vo Mieu garden (under the Hanoi flag tower).</s>
+     <s>In face of the act of aggression of the French, the Nguyen king and dignitaries were panic-stricken.</s>
+     <s>King Tu Duc entreated the help of the Quing.</s>
+     <s>Making use of this opportunity, the Quing immediately sent more troops to the highlands and midlands in our country and, at the same time, secretly came to a deal to share with the French interests in Tonkin.</s>
+     <s>King Tu Duc, feeding himself with the illusion about negotiation with the French, ordered the regular troops in Tonkin to withdraw to the high region and disband local armies that were born in the high tides of patriotic anti-aggression movement.</s>
+     <s>By then, the French reinforcements were dispatched more and more.</s>
+     <s>With the reinforcements, Riviere sent his troops to occupy the coal-mining areas of Hong Gai and Quang Yen in March 1883 and later, Nam Dinh on March 27, 1883.</s>
+</p>
+<p>
+     <s>For the second time, most of major provinces and towns in the north fell into the hands of the French.</s>
+</p>
+<p>
+     <s>The people in Tonkin and their continued resistance against the French aggressors.</s>
+</p>
+<p>
+     <s>Soon after the French attacked Hanoi, the broad masses of Hanoi organised their line-ups, purchased arms and ardently engaged in the resistance against the enemy.</s>
+     <s>Under the command of Nguyen Dong, tens of thousands of people gathered at the Quang Van communal house (Cua Nam street) to defend the citadel.</s>
+     <s>The people set fire to rows of houses along the Red river forming a firewall to delay the advance of the enemy.</s>
+</p>
+<p>
+     <s>After the citadel was lost, the royal army fell apart, however the patriotic Hanoians persistently waged on the resistance within the French-held areas by putting poison into drinking wells, refusing to sell food to the enemy and setting fire to its arms depots along river banks.</s>
+</p>
+<p>
+     <s>The French expanded their occupation to other provinces, but they were met with strong resistance in whatever locality they went to.</s>
+     <s>The people in the north enthusiastically built up dams and embankments on rivers to block the enemy warships.</s>
+     <s>When Riviere led his troops to Nam Dinh, our people and army tightened the encirclement around Hanoi from Son Tay and Bac Ninh directions.</s>
+     <s>At nights, our troops penetrated the city to harass the enemy.</s>
+     <s>Our guns from the left bank of the Red river fired on the enemy base at Don Thuy.</s>
+</p>
+<p>
+     <s>The thorny situation forced Riviere to return to Hanoi immediately.</s>
+     <s>Upon receiving reinforcements, he decided to launch an operation to loosen the siege.</s>
+     <s>Early in the morning of May 19, 1883, more than 500 French troops, under coverage of guns, made their advance along Son Tay road.</s>
+     <s>At Cau Giay, they fell into an ambush laid by our troops along the road.</s>
+     <s>Many French officers and troops were killed and wounded and the survivors had to flee in fear, leaving behind guns and corpses among whom was Riviere.</s>
+     <s>The second victory at Cau Giay was set with an important contribution of Liu Wing-fu's army.</s>
+</p>
+<p>
+     <s>The second battle in Cau Giay heartened up our people throughout the country and frightened the French.</s>
+     <s>The French survivors in the battle had to withdraw for defense at the Don Thuy base.</s>
+     <s>However, the Hue court continued to entertain the illusion to negotiate the return of Hanoi with the French.</s>
+     <s>The situation in France had stabilised and there was some change in the French government's attitude.</s>
+     <s>French capitalism used the death of Riviere as a pretext to step up their aggression plan.</s>
+     <s>A big budget was approved and a big army with many warships was sent to Vietnam.</s>
+     <s>In late July 1883, the French commanders gathered in Hai Phong to work out new war plan.</s>
+     <s>At this point of time, King Tu Duc passed away, the Hue court fell in deep split and conflict.</s>
+     <s>The French colonialists took advantage of this situation to launch an attack on Thuan An estuary close to Hue royal citadel.</s>
+</p>
+<p>
+     <s>The feudal State of Vietnam in 1884.</s>
+</p>
+<p>
+     <s>In the afternoon of August 18, 1883, the French fleet led by Courbet began to open the gunfire on Hue.</s>
+     <s>Fierce battles took place three days on end.</s>
+     <s>In the afternoon of August 20, 1883, the French troops landed and captured Thuan An.</s>
+     <s>The Hue court was in panic who immediately sent its men to ask for a cease-fire.</s>
+     <s>The French high commissioner Harmand immediately went to Hue and introduced a pre-written treaty for the Hue court to sign on August 25, 1883 (The Harmand Treaty), agreeing to every condition.</s>
+</p>
+<p>
+     <s>The Hue court officially recognised the French protectorate in Tonkin and Annam.</s>
+     <s>The area controlled by the court was limited from Khanh Hoa to the Ngang Pass.</s>
+     <s>(Binh Thuan was integrated into to Cochinchina and the three provinces of Thanh Hoa, Nghe An and Ha Tinh were integrated into Tonkin).</s>
+     <s>Representatives of the French in Annam (the Resident Superior in Hue) had the right to meet with the king at any moment.</s>
+     <s>The French governors of provinces in Tonkin would make regular inspection of the royal mandarins' work and exercised direct control over security and taxes in relevant provinces.</s>
+     <s>All relationships with foreign countries (including with China) were controlled by the French.</s>
+     <s>The Hue court had to withdraw all its troops that had been sent to Tonkin.</s>
+</p>
+<p>
+     <s>Despite the shameful act of capitulation of the Hue court, the people and royal army in the north were resolved to wage on their resistance.</s>
+     <s>The protest against the court's order to disarm widely spread to many provinces.</s>
+     <s>A lot of mandarins in localities determined to side with the people in the resistance such as Ta Hien (Nam Dinh), Nguyen Thien Thuat (Hung Yen).</s>
+     <s>The mandarins split into two camps, a number led by King Hiep Hoa put themselves at the service of the French while many others advocated anti-French resistance (who were led by Regent Ton That Thuyet).</s>
+</p>
+<p>
+     <s>After the 1883 Treaty, fighting was waged on in battlefront in Tonkin.</s>
+     <s>In early December 1883, after having more reinforcements, the French captured the Son Tay fortress, the main centre of the resistance in the north, and later Bac Ninh.</s>
+     <s>They then took many other provinces one after another.</s>
+     <s>In late May 1884, the provinces of Thai Nguyen, Hung Hoa and Tuyen Quang in turn fell into the enemy hands.</s>
+     <s>Wherever the French went the Quing troops retreated without any resistance.</s>
+     <s>The Quing in Manchuria signed with the French the Treaty of Tientsin on May 11, 1884, undertaking to withdraw all its troops from Tonkin.</s>
+</p>
+<p>
+     <s>In the midst of victory, the French government forced the Hue court to sign a new treaty on June 6, 1884 (Patenotre Treaty).</s>
+     <s>Despite its similarity with the content of the previous one, the new Treaty stipulated the return of the provinces of Binh Thuan, Thanh Hoa, Nghe An and Ha Tinh to Annam with a view to calming down our people's indignation and buy over the mandarins of the Hue court.</s>
+</p>
+<p>
+     <s>The Treaty signed on June 6, 1884 served as firm and long-term foundation for the domination of the French in Vietnam.</s>
+     <s>By then, the feudal class of Vietnam completely gave up to French capitalism.</s>
+     <s>In fact, the feudal State of Vietnam had collapsed.</s>
+</p>
+</div>
+</body>
+</text>
+</TEI.2>

@@ -1,0 +1,388 @@
+<?xml version="1.0" standalone="no"?>
+<!-- edited with XML Spy v4.0.1 U (http://www.xmlspy.com) by NGUYEN THI MINH HUYEN (LORIA) -->
+<!DOCTYPE TEI.2 SYSTEM "C:/CORPUS/dtd/xlite/xteilite.dtd" [
+	<!ENTITY % ISO_Latin1 PUBLIC "ISO 8879-1986//ENTITIES Added Latin 1//EN//XML" "C:/CORPUS/dtd/pen/ISOlat1.pen">
+	%ISO_Latin1;
+]>
+<TEI.2 id="nuocVietdoiLy.en.xml">
+	<teiHeader date.created="30/12/2002">
+		<fileDesc>
+			<titleStmt>
+				<title type="source"></title>
+				<author></author>
+				<respStmt>
+					<resp></resp>
+					<name></name>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<distributor>Nhan dan dien tu</distributor>
+				<authority/>
+				<date>1/12/2002</date>
+			</publicationStmt>
+			<sourceDesc>
+				<p/>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<langUsage>
+				<language id="EN">English</language>
+			</langUsage>
+			<textClass>
+				<keywords>
+					<list>
+						<item>prose</item>
+						<item>history</item>
+					</list>
+				</keywords>
+			</textClass>
+		</profileDesc>
+	</teiHeader>
+	<text>
+		<body id="b1">
+<head>
+Vietnam under the Ly dynasty.
+</head>
+<div>
+<p>
+     <s>The army in the Ly dynasty.</s>
+</p>
+<p>
+     <s>The army in the Ly dynasty consisted of royal troops who stationed in the capital and local troops who stationed in chau and quan (district).</s>
+     <s>There were also militiamen of whom some stationed in lowlands as village guards (huong binh) while some others were stationed in highlands as local guards (tho binh).</s>
+     <s>They were armed civilians who would be mobilised in time of war to defend their localities.</s>
+</p>
+<p>
+     <s>The Ly took strict measures to manage households and the registration of population for the recruitment of troops.</s>
+     <s>This served as basis for the classification of reserve troops.</s>
+     <s>Each year, communal officials had to lodge the list of inhabitants in their communes, clearly defining different categories such as the royal families, civil officials, military officials, soldiers, adult males, old people, disabled, etc.</s>
+</p>
+<p>
+     <s>As it was stipulated, all adult males more than 18 years of age had to be registered in an yellow ledger and were called hoang nam (literally meaning 'yellow man').</s>
+     <s>If a hoang nam was 20 years of age or above, he was titled dai hoang nam (big yellow man).</s>
+</p>
+<p>
+     <s>The State exercised a strict management of the young men throughout the country who served as the basis for the recruitment of army troops and labourers.</s>
+     <s>The State also enacted a law forbidding families to hire hoang nam as serfs and those selling or buying hoang nam, or concealing dai hoang nam would be severely punished.</s>
+</p>
+<p>
+     <s>Pursuant to this law, all the adults in each village would be subject to troop recruitment and army service.</s>
+     <s>However, in times of peace only a small number of them was recruited to the army for defence and training.</s>
+     <s>The remainder would be registered as the reserve who normally had training at home and would be mobilised into the army when necessary.</s>
+     <s>It was recorded by historian Phan Huy Chu that: "In general, those chosen would be taken into the army, the inferior were to be registered as the reserve and mobilised only in case of need, the service term was not usually fixed".</s>
+</p>
+<p>
+     <s>Similar records of old history tell us that at the beginning of its dynasty, the Ly had tens of do (a military unit consisting of 100 men each) and quan (a larger military unit consisting of 200 men each).</s>
+     <s>These 'emperor's troops' (thien tu quan) were organised into units to defend the Forbidden City.</s>
+     <s>That excluded the local troops.</s>
+     <s>The 'Complete History of the Great Viet' recorded an event that indirectly reflected the number of troops of the Ly dynasty in the middle of the 12th century: In 1161, when the country was in peace, "King Ly Anh Tong ordered generals To Hien Thanh and Do An to take 20 thousand troops to go on patrol along the southwestern coast to safeguard remote areas".</s>
+     <s>Such number of troops was not small.</s>
+     <s>Presumably this accounted for one quarter of the armed forces, then the total number of regular troops would be approximately 70-80 thousand men.</s>
+</p>
+<p>
+     <s>In the Ly dynasty, the Dai Viet army consisted of ground and marine troops.</s>
+     <s>Among the ground troops, besides the infantry serving as the core, there were also cavalry, elephant, and crossbow forces, etc.</s>
+     <s>Naval force had big boats and good skills for naval battle.</s>
+     <s>In the capital, there were bases for training the art of warfare and martial arts.</s>
+</p>
+<p>
+     <s>The Ly was the first dynasty to apply the 'peasant - soldier' policy.</s>
+     <s>In his book 'History of the Great Viet,' Ngo Thi Si wrote: "In the old time, farming work kept the troops away from the dangerous place.</s>
+     <s>The military regime in the early Ly dynasty rotated the troops to do farming, thus, the fatigue and leisure were equally distributed among them, and the demand of food to the army was thus reduced.</s>
+     <s>Now the old status is applied again.</s>
+     <s>This is a good policy of King Ly Than Tong at the beginning of his rule".</s>
+</p>
+<p>
+     <s>In his book 'Chronology of the Dynasties' Phan Huy Chu wrote: "In the Ly dynasty, the irregular troops (ngoai binh) were not provided with food rations, their services in the army were rendered in turn.</s>
+     <s>At the end of their services, they returned home to do farm work for self-supply.</s>
+     <s>The Tran followed the Ly, troops in the army were sent home in turn to do farming with a view to reducing the volume of food demand.</s>
+     <s>The way to supply the army in the Early Le was in the main identical to the 'peasant - soldier' policy in the Ly and Tran dynasties which helped reduce the demand of food to the army".</s>
+     <s>This policy with the focus laid on the combination of "army and farming" was a military mechanism applied in the realities of society until the 15th century.</s>
+</p>
+<p>
+     <s>Laws.</s>
+</p>
+<p>
+     <s>No official legal system of the State existed during the Ngo, Dinh and earlier Le dynasties.</s>
+     <s>Not until 1042, did King Ly Thai Tong have the "laws and regulations amended so as to adapt them to the present circumstance, classified and compiled into a penal code (hinh thu) which can easily understood by all".</s>
+     <s>(Complete History of the Great Viet) In accordance with Le Quy Don in his book 'Detailed History of the Great Viet' (Dai Viet thong su) the Penal Code in Ly Thai Tong's reign consisted of three volumes, but they all got lost.</s>
+     <s>Although it was not known what was detailed there, a number of its contents that were recorded elsewhere in old books shed some light on the nature of the laws under the Ly.</s>
+</p>
+<p>
+     <s>Following the enactment of the Penal Code, the Ly kings promulgated regulations on crime expiation.</s>
+     <s>The old, above 70 years of age, children under 15 years of age, the disabled, king's relatives and people of great merit were allowed to expiate their crimes by paying money except for ten capital crimes: 1) Treason causing detriment to the kingdom; 2) Damage to the temple of deceased kings or door of the imperial palace; 3) Rebellion; 4) Kill grandparents or parents; 5) Kill innocent people; 6) Use king's personal effects, steal or imitate king's table; 7) Scold parents or refuse to wear mourning for grandparents or parents; 9) Civilian kills soldiers, student kills teacher, soldier kills general; 10) Commit adultery with close relatives or concubine of grandfather or father.</s>
+     <s>In 1071, it was further stipulated that the payment of expiators would be based on the seriousness of their crimes.</s>
+</p>
+<p>
+     <s>To absolutely safeguard the life of the king, in 1150 eunuchs were prohibited by King Ly Anh to enter the Forbidden Hall freely and those who disobeyed would be executed, and guards who failed to fulfil their duties so that others could penetrate the palace would be killed.</s>
+     <s>The court officials were forbidden to be on intimate terms with the royal aristocracy in the forbidden palace (cam dinh), gather more than 3-5 persons for discussions or derogative remarks, or pass through corridor where weapons of the close imperial guards of the king (Phung quoc ve do) were stored and any violation would be subject to 80 lashes and solitary confinement with hard labour.</s>
+     <s>Imperial guards wearing weapons and passing by the corridor without imperial decree would be executed.</s>
+     <s>The Ly king resorted to extremely cruel tortures to kill those opposed him.</s>
+</p>
+<p>
+     <s>The laws of the Ly dynasty also protected the State's income as well as village inhabitants (dan dinh) who served as the main labour force for the State.</s>
+     <s>In 1146, the king ordered recruitment of troops to be implemented only among large households and to skip the small ones, and any violation of the order would be punished.</s>
+</p>
+<p>
+     <s>Regulations on tax collection were clearly stipulated.</s>
+     <s>Besides the bulk of tax payments collected and contributed to the State treasury, tax officials were allowed to collect a small amount of tax for themselves known as 'hoanh dau'.</s>
+     <s>Historian Ngo Thi Si wrote: "Hoanh dau was similar to the tax regulations of the Le dynasty, besides tax payment, there is some stationery charge".</s>
+     <s>Any tax official who made a collection in excess of hoanh dau would be charged with theft.</s>
+     <s>In case violation was exposed by someone, he/she would be exempted from labour for three years if in countryside, or be given an award, if in the town.</s>
+     <s>Any collusion among tax officials to make tax collection in excess, if exposed, would be equally indicted no matter how long the act dated back.</s>
+</p>
+<p>
+     <s>The law in the Ly dynasty reflected the differentiation of social classes.</s>
+     <s>The aristocratic and administrative circles were given more privileges.</s>
+     <s>Even their costumes or houses were different from the commoners.</s>
+     <s>Workers in workshops were not allowed to produce appliances for sale similar to those of the officials.</s>
+     <s>Children of the commoners were forbidden to dress and wear ornamentation like that of the privileged classes.</s>
+</p>
+<p>
+     <s>Serfs were at the lowest position in society.</s>
+     <s>It was provided by the law that serfs could only marry within their own class.</s>
+</p>
+<p>
+     <s>The law of the Ly dynasty reflected and accepted the advent of the private ownership of land.</s>
+     <s>Regulations were stipulated by King Ly Anh Tong on land mortgaging: land mortgaged within 20 years was allowed to be redeemed; land dispute within 5 - 10 years allowed for the lodging of a complaint to the court; and fallow farmland reclaimed by others could be counter-claimed within one year.</s>
+     <s>Those who contravened this law would be given 80 lashes.</s>
+</p>
+<p>
+     <s>Land sale was conducted through signed contract was not allowed to be redeemed.</s>
+     <s>Land dispute that led to conflict and wounding would be subject to 80 lashes and solitary confinement with hard labour.</s>
+</p>
+<p>
+     <s>To ensure agricultural production, the killing of buffaloes and oxen was strictly controlled and those who violated would be severely punished.</s>
+     <s>It was recorded that thieves had all their fingers and toes cut off.</s>
+     <s>In 1043, it was stipulated by the king that those who already stole rice or wealth of the people would be given 100 lashes; those who failed to steal but caused wounds to other people would be deported.</s>
+     <s>Any troop that looted the common people would be given 100 lashed and had 30 words stigmatised on his body.</s>
+</p>
+<p>
+     <s>In the Ly dynasty, there existed specialised bodies to give judgement and supervise law reinforcements.</s>
+     <s>The king sometimes became involved in giving sentences.</s>
+     <s>For example, in July 1065, the Ly king was at Thien Khanh palace to judge a case.</s>
+     <s>On occasions of festivity, sacrifice-offering, throne ascending, etc commutation or amnesty were decreed for sentenced criminals.</s>
+     <s>Good knowledge of the Penal Code was one of the conditions to become mandarin.</s>
+     <s>In 1077, the Ly dynasty organised examination to recruit mandarins with three subjects: letter writing, mathematics and law.</s>
+</p>
+<p>
+     <s>In King Ly Anh Tong's time, the court placed copper boxes to collect injustice complaints.</s>
+     <s>But later this measure was strongly rejected by Do Anh Vu.</s>
+     <s>(Elementary History of the Viet).</s>
+</p>
+<p>
+     <s>Penal code and other laws that came into being with the existence of the justice and law reinforcement bodies constituted an advance in the organisation and management of the State under the Ly.</s>
+     <s>However it can be said that their efficiency was still limited.</s>
+</p>
+<p>
+     <s>Policy toward ethnic minorities in the highlands.</s>
+</p>
+<p>
+     <s>Despite efforts made by the Ly for the building of a central government and an administrative apparatus from the central level to the local level throughout the Red river delta, its influence in remote areas, especially those in the highlands, was not strong where control of the court over the local authorities could not be established.</s>
+     <s>The authority in mountainous districts was mainly held by local chiefs who belonged to a hereditary system.</s>
+     <s>The kings resorted to the 'biding' policy, and even military measures at times, toward the chieftains in the highlands to defend the national unification.</s>
+</p>
+<p>
+     <s>Of the 'biding' policies applied to reduce the rulers in the highlands were marital ties resorted to by the Ly.</s>
+     <s>King Ly Cong Uan gave his daughter in marriage to Thua Quy, chief in Giap area of Lang Chau (part of present Bac Giang and Lang Son).</s>
+     <s>Thua Quy changed his family name to Than who was then promoted as chief of Lang Chau.</s>
+     <s>Than Thieu Thai, Thua Quy's son, later succeeded his father as the chief of Lang Chau and married princess Binh Duong, King Ly Thai Tong's daughter in 1029. Than Dao Nguyen, son of Thieu Thai and Binh Duong got married with a princess of the Champa's king.</s>
+     <s>In 1036, King Thai Tong gave his daughter Kim Thanh (or Khanh Thanh according to 'Elementary History of the Viet') in marriage to Le Thuan Tong, chief of Phong Chau (old-days Phu Tho and Son Tay); and his daughter Truong Ninh to Ha Thien Lam, chief of Thuong Oai.</s>
+</p>
+<p>
+     <s>King Thai Tong married daughter of Dao Dai Di in Dang Chau as royal concubine.</s>
+     <s>The King gave his adopted daughter Ngoc Kieu (Phung Can Vuong's daughter) to a chief of the Le family in Chan Dang.</s>
+     <s>In 1082, he gave his daughter Kham Thanh to Ha Hung Thong, chief of Vi Long (Chiem Hoa, Tuyen Quang).</s>
+</p>
+<p>
+     <s>The relationship based on marriages produced positive influence to link the chiefs in the highlands with the nation and the court.</s>
+     <s>In fact, the governments in the highlands were autonomous and hereditary chiefs succeeded their forefathers as heads of the localities.</s>
+     <s>They only paid tributes (forestry or mining products) to acknowledge allegiance to the court.</s>
+     <s>It was the chief of the Ha family in Vi Long who made a large contribution to the resistance against the Sung invaders.</s>
+     <s>It was still engraved on stele that "in the year of the Cat of Thai Ninh dynastic title (1075), Ha Hung Tong stabilised the internal affairs, launched an attack on Ai Bac (northern region), laid siege to Yung citadel (Guangxi) to satisfy his anger, and captured the enemy's commander.</s>
+     <s>He was awarded by the king for his merit".</s>
+</p>
+<p>
+     <s>Duong Tu Minh, a chief belonging to the Tay minority in Phu Luong, who married princess Thieu Dung, was a loyal mandarin of the Ly dynasty during the 40s of the 12th century.</s>
+     <s>Duong Tu Minh was entrusted by King Ly Anh Tong with the management of the mountainous area of Tu Lang (Quang Yen, Cao Bang).</s>
+     <s>In September 1145, a commander of the Sung army gathered troops in Guangxi and launched an intrusion into our country.</s>
+     <s>however he was defeated by the people along the border under the leadership of Duong Tu Minh.</s>
+     <s>After this battle, the Sung stopped pestering our country "thanks to which the people along the frontier were able to enjoy tranquility" ('History of the Unified Dai Nam').</s>
+</p>
+<p>
+     <s>Hoang Luc was a native of Lung Dinh commune, Thuong Lang district (Cao Bang) and chief of a fairly rich land close to the border.</s>
+     <s>The district used to be disturbed by the Sung troops in Guangxi province.</s>
+     <s>He chose young men in the region and scattered the Sung troops.</s>
+     <s>Hoang Luc was promoted by the Ly king as general.</s>
+</p>
+<p>
+     <s>Dai Viet's economy.</s>
+     <s>Agriculture.</s>
+     <s>Forms of land ownership.</s>
+</p>
+<p>
+     <s>State land and plantation.</s>
+     <s>Almost no mention was made of State land in old history, but in accordance with 'An Nam chi nguyen,' the land used by the State in the Ly and Tran dynasties consisted of 'quoc kho dien' (State land) and 'thac dao dien' (appanage).</s>
+</p>
+<p>
+     <s>Literally, 'quoc kho dien' means land belonging to the State; their harvests derived to be reserved in store of the court for the king and the royal family.</s>
+     <s>Although it was not mentioned if this type of land ownership existed during the Ly and Tran dynasties.</s>
+</p>
+<p>
+     <s>Ceremonial land (tich dien).</s>
+     <s>In accordance with old history, the ceremonial land existed in Le Hoan's time.</s>
+     <s>Ploughing on the ceremonial land was a royal rite learnt from ancient Chinese dynasties which suited our country - an agricultural producer - and reflected the importance attached to agriculture.</s>
+     <s>Ploughing on the ceremonial land constituted an act of encouraging agriculture.</s>
+</p>
+<p>
+     <s>In spring (1038), King Thai Tong was accompanied to Bo Hai Khau to plough the ceremonial land.</s>
+     <s>The king offered gifts and prayers to the agricultural god (Than nong) and then took a plough to do tillage.</s>
+     <s>He was dissuaded by some among his entourage that "it is the job of the peasants, why does Your Majesty demean himself through such action?' The king said: 'If I myself do not do the ploughing as an offering to the god, how can I set an example for the entire people,' (Complete History of the Great Viet).</s>
+</p>
+<p>
+     <s>Communal land.</s>
+     <s>No direct mention was made to the existence of communal land under the Ly.</s>
+     <s>However, materials on census of serfs as well as the then applied 'peasant - soldier' policy, indirectly reflected this type of land ownership.</s>
+</p>
+<p>
+     <s>Fiefdoms and domains.</s>
+     <s>A type of land ownership existing - in the Ly consisted of fiefdoms and domains given to high-ranking dignitaries.</s>
+     <s>This was recorded in 'The Collection of Tales on the Gods of the Viet Kingdom' which was re-written in the 'Complete History of the Great Viet' that "around the dynastic title of Thien Cam Thanh Vu (1014 - 1046), having returned after a victorious conquest in the south, Phung Hieu said to King Ly Thanh Tong: 'I don't like to ask for title, let me stand on the top of Bang Son mountain to throw a fire knife, and wherever it falls on, the land within that range would be given to me as fiefdom.' It was agreed by the king.</s>
+     <s>Phung Hieu climbed up the mountain and threw a knife as far as 10 dam (Chinese mile, equal 590 yards) to Da Mi hamlet.</s>
+     <s>The King granted the land to him and exempted all rent and taxes".</s>
+     <s>The story of course contains some myths; however, it sheds some light on the existence of fiefdoms under the Ly's dynasty.</s>
+</p>
+<p>
+     <s>Appanage with peasant households.</s>
+     <s>What was written on stele of the Ly dynasty mentions the existence of appanages and domains.</s>
+     <s>For example, chieftain Ha Nhan Tong received in appanage 900 peasant households, but his domains comprised 3,900 peasant households, etc.</s>
+</p>
+<p>
+     <s>The grant of appanage was a characteristic in the Ly dynasty, but it no longer existed in the Tran.</s>
+</p>
+<p>
+     <s>So what is its nature? First of all, it symbolised the recognition of the merit and contribution made to the Ly dynasty by the grantees.</s>
+     <s>The higher the rank, position and title, the greater the appanage and domain were.</s>
+     <s>Generals of great merit such Ly Thuong Kiet, and later, Do Anh Vu who were conferred the same title were granted an appanage of 4,000 peasant households and 10,000 peasant households.</s>
+</p>
+<p>
+     <s>Land of Buddhist monasteries.</s>
+     <s>Monasteries in the Ly's dynasties constituted large domains.</s>
+     <s>In 1086, the Ly classified Buddhist monasteries into three types: large famous pagoda, medium famous pagoda and small famous pagoda which reflected their different economic status at that time.</s>
+</p>
+<p>
+     <s>Private land.</s>
+     <s>Private land ownership was common in the Ly dynasty.</s>
+     <s>The sale, purchase, claim and gift of land appeared in many places, and law was promulgated by the state to protect these rights.</s>
+</p>
+<p>
+     <s>Agriculture.</s>
+</p>
+<p>
+     <s>During the early reigns of Kings Thai To, Thai Tong, Thanh Tong and Nhan Tong of the Ly dynasty, a number of natural calamities was registered: drought in 1027; serious famine in 1037; floods in 1050; flooding from July to August in 1053; severe drought in 1070; drought from spring to summer in 1108, again in 1117; flooding up to Dai Hung Gate in 1121; outbreak of grasshoppers in 1121; drought in 1124; severe drought from June to July and heavy rain later in 1126.</s>
+</p>
+<p>
+     <s>In face of such serious calamities, the kings usually offered sacrifices and prayers themselves.</s>
+     <s>However, other active measures were also taken.</s>
+     <s>Attention was paid to protecting production force.</s>
+     <s>As soon as Ly Cong Uan ascended the throne in 1010, he decreed a return of all wanderers to their homeland so as to ensure a sufficient labour force for agriculture.</s>
+</p>
+<p>
+     <s>The 'peasant - soldier' policy also made its contribution to solving the shortage of labour and developing agriculture.</s>
+</p>
+<p>
+     <s>Those who stole or killed buffaloes were severely punished under the law.</s>
+</p>
+<p>
+     <s>Attention was paid by the state to the control of water sources and dykes, especially in the Red river delta.</s>
+     <s>In spring 1077, the court ordered the construction of dykes along the Nhu Nguyet (now the Cau) river.</s>
+</p>
+<p>
+     <s>However, the construction of dykes to control floods and seawater was constrained to regional and local levels, and the efficiency of these works was still limited.</s>
+     <s>Not until the Tran dynasty, did irrigation work develop into a nation-wide scale.</s>
+</p>
+<p>
+     <s>The achievements resulting from the Ly's agricultural policy, regarding flood control and irrigation, protection of human and labour force, and the maintenance of oxen and buffaloes as draught for agricultural production, etc, constituted the active State during the 11th - 12th centuries, thanks to which Dai Viet society stood firm and the living conditions of the people stabilised.</s>
+     <s>This served as a strong physical basis for the victory in the war of resistance against the Sung invaders.</s>
+     <s>Historical annals recorded bump harvests in 1016 under King Ly Thai To's reign; in 1039 and 1044 under King Ly Thai Tong; in 1131 under King Ly Nhan Tong's reign; in 1139 and in 1140 under Ly Anh Tong's reign, etc.</s>
+     <s>In years of exceptional harvests, the kings decreed the reduction taxes for the people.</s>
+</p>
+<p>
+     <s>Handicrafts.</s>
+</p>
+<p>
+     <s>Handicrafts in the Ly's dynasty consisted of the State and private sectors.</s>
+     <s>The main labour force in the State sector were skilled craftsmen (tho bach tac).</s>
+     <s>All products of this sector belonged to the king and royal family.</s>
+     <s>The products consisted of coins, weapons, warships, silk, brocade and court attire, etc.</s>
+     <s>Among craftsmen were prisoners of war, most of whom were captured from Champa, sentenced criminals and convened craftsmen.</s>
+     <s>Their products were highly sophisticated, but were not for sale.</s>
+     <s>It is held that the style and scope of different architectural and sculptural works in the Ly dynasty were so similar because they all were designed and built by the some craftsmen.</s>
+</p>
+<p>
+     <s>Private handicrafts also saw rapid development.</s>
+     <s>Products were either for self-supply or exchange in marketplaces.</s>
+     <s>In general, handicraft production in the Ly as well as in subsequent dynasties were combined with agricultural production in households; for self-supply or exchange to meet demand.</s>
+</p>
+<p>
+     <s>Weaving: In 1013, after 3 years on the throne, King Ly Thai To imposed a tax system throughout the country of which tax on mulberry grove was paid in terms of money or rice.</s>
+     <s>Silk weaving spread widely and mulberry growing and silk-worm raising covered vast land areas.</s>
+     <s>Nghi Tam (Hanoi) was the name of a village that brought about prosperity to this trade.</s>
+     <s>As local legend has it, Princess Tu Hoa (also known as Quynh Hoa) was the founder of the local weaving industry.</s>
+     <s>She was King Ly Thai Tong's daughter who taught the villagers to grow mulberry and weave silk and cloth.</s>
+</p>
+<p>
+     <s>Terra-cotta: House construction required a large amount of bricks and tiles.</s>
+     <s>In the years of construction of Thang Long capital, the demand of these materials for pagodas, towers and palaces was very great.</s>
+</p>
+<p>
+     <s>Pottery: Pottery consisted of jugs, jars, basins, bowls, dishes, etc.</s>
+     <s>Particularly, there was a range of pottery products which were strong and, heavy with a thick, blue-glazed layer.</s>
+     <s>They had beautiful and detailed motifs either sunken or edged inon the surface.</s>
+</p>
+<p>
+     <s>Also, there were pottery products with brown motifs or with white flowers against a brown background.</s>
+     <s>All these products were short and thick.</s>
+     <s>Pottery was widely used in the construction of Dien Huu pagoda and Sung Thien Dien Linh tower.</s>
+</p>
+<p>
+     <s>Typical of pottery production in the Ly was Bat Trang centre (Gia Lam, Hanoi).</s>
+     <s>Bat Trang pottery was set up by settlers coming from Bo Bat village (Yen Mo, Ninh Binh).</s>
+</p>
+<p>
+     <s>Gold mining: Old annals reveal that gold mining was rather common at that time.</s>
+     <s>The method applied was gold-sifting at open-cast mines.</s>
+</p>
+<p>
+     <s>Bronze casting also made big achievements.</s>
+     <s>In 1198, the State organised the exploitation of copper mines in Lang Chau.</s>
+     <s>Copper was widely used for casting statues, bells, coins, weapons and other daily appliances.</s>
+     <s>The amount of copper required for this purpose was quite great.</s>
+</p>
+<p>
+     <s>Trade.</s>
+</p>
+<p>
+     <s>In late 1040, on the inauguration of a number of new works of Buddhism, the Ly 'reduced the tax by half for the entire country' (The Annals).</s>
+     <s>In late 1044, after the war with Champa, the Ly did such act again.</s>
+</p>
+<p>
+     <s>In 1067, the State provided each court mandarin with 50 quan (old currency unit), 100 bunches of rice, salted fish, etc, and each jailer with 20 quan, 100 bunches of rice to foster their integrity.</s>
+</p>
+<p>
+     <s>As the number of coins cast in the Ly dynasty fail to meet the demand for trade and exchange, brass coins of the Sung dynasty penetrated into Dai Viet which accounted for a large proportion.</s>
+     <s>This reflected the development of trade between the two countries.</s>
+</p>
+<p>
+     <s>One of the important marketplaces in the Ly dynasty was Van Don seaport.</s>
+</p>
+<p>
+     <s>The 'Complete History of the Great Viet' recorded that in spring of the year of the Snake (1149) merchant ships from Trao Oa (Java, Indonesia), Lo Lac and Xiem La (Siam) came to Hai Dong for trade.</s>
+     <s>They gathered on an island known as Van Don to offer money and native products and exchanged precious commodities.</s>
+     <s>In the year of the Dragon (1184), dealers from Siam and Sumatra (Indonesia) came to Van Don, offered precious things and asked for permission to engage in commercial operation.</s>
+ </p> 
+</div>
+</body>
+</text>
+</TEI.2>

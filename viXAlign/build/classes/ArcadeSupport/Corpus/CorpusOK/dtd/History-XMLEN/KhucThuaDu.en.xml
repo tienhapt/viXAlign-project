@@ -1,0 +1,79 @@
+<?xml version="1.0" standalone="no"?>
+<!-- edited with XML Spy v4.0.1 U (http://www.xmlspy.com) by NGUYEN THI MINH HUYEN (LORIA) -->
+<!DOCTYPE TEI.2 SYSTEM "C:/CORPUS/dtd/xlite/xteilite.dtd" [
+	<!ENTITY % ISO_Latin1 PUBLIC "ISO 8879-1986//ENTITIES Added Latin 1//EN//XML" "C:/CORPUS/dtd/pen/ISOlat1.pen">
+	%ISO_Latin1;
+]>
+<TEI.2 id="KhucThuaDu.en.xml">
+	<teiHeader date.created="30/12/2002">
+		<fileDesc>
+			<titleStmt>
+				<title type="source"></title>
+				<author></author>
+				<respStmt>
+					<resp></resp>
+					<name></name>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<distributor>Nhan dan dien tu</distributor>
+				<authority/>
+				<date>1/12/2002</date>
+			</publicationStmt>
+			<sourceDesc>
+				<p/>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<langUsage>
+				<language id="EN">English</language>
+			</langUsage>
+			<textClass>
+				<keywords>
+					<list>
+						<item>prose</item>
+						<item>history</item>
+					</list>
+				</keywords>
+			</textClass>
+		</profileDesc>
+	</teiHeader>
+	<text>
+		<body id="b1">
+<head>
+Khuc Thua Du builds the sovereignty.
+</head>
+<div>
+<p>
+     <s>In the late ninth century, China was engulfed in chaos.</s>
+     <s>The Tang was unable to exercise its control over our country as before and changed the post of protector to that of governor.</s>
+     <s>The governor, on behalf of the Tang authority, had the power to determine all matters including the selection of his heir.</s>
+</p>
+<p>
+     <s>Khuc Thua Du was a local chief whose homeland was in Cuc Bo, Hong Chau (Ninh Giang, Hai Duong).</s>
+     <s>The Khuc was a big, age-old and well-known family.</s>
+     <s>Khuc Thua Du was a man of generosity and philanthropy who was greatly admired by the people in the locality.</s>
+</p>
+<p>
+     <s>In mid 905, taking advantage of the internal dispute in the Tang court and the disposal of their governor in our country, Khuc Thua Du launched a revolt, captured Tong Binh citadel and proclaimed himself governor.</s>
+</p>
+<p>
+     <s>The Tang dynasty was put before a fait accompli.</s>
+     <s>Early next year, the Tang emperor officially promoted Khuc Thua Du as governor.</s>
+     <s>From then, Khuc Thua Du nominally got a post of mandarin of the Tang dynasty but, in fact, the domination of the Chinese feudal regime in our country was terminated.</s>
+     <s>Thus our country gained back its sovereignty.</s>
+     <s>This served as an initial important step so as to regain complete national independence at a later stage.</s>
+</p>
+<p>
+     <s>Khuc Thua Du was in the position of governor for two years before he passed away.</s>
+     <s>His son Khuc Hao succeeded his career proclaiming himself governor.</s>
+     <s>He immediately set to build the country along the line that "political affairs mean, in essence, charity, simplicity and happiness to people".</s>
+     <s>Khuc Hao revised the administrative sector and assigned his men to look after the affairs to the commune level.</s>
+     <s>The new authority also revised the land tax system and promulgated a more appropriate one and, at the same time, lifted all hard and duties.</s>
+     <s>Khuc Hao also restored the household registration to serve as a basis for tax collection and recruitment for the army.</s>
+</p>
+</div>
+</body>
+</text>
+</TEI.2>

@@ -1,0 +1,2888 @@
+<?xml version="1.0" standalone="no"?>
+<!-- edited with XML Spy v4.0.1 U (http://www.xmlspy.com) by NGUYEN THI MINH HUYEN (LORIA) -->
+<!DOCTYPE TEI.2 SYSTEM "D:/Arcade2/Affaires/Corpus/dtd/xlite/xteilite.dtd">
+<!--DOCTYPE TEI.2 SYSTEM "dtd/xlite/xteilite.dtd" [
+	<!ENTITY % ISO_Latin1 PUBLIC "ISO 8879-1986//ENTITIES Added Latin 1//EN//XML" "dtd/pen/ISOlat1.pen">
+	%ISO_Latin1;
+	<!ENTITY % VNChars SYSTEM "dtd/pen/vnchars.ent">
+	%VNChars;
+]-->
+<?xml-stylesheet type="text/xsl" href="E:\Affaires\Corpus\Traites\thidu.xsl"?>
+<TEI.2 id="LePetPrin.VN.sgm">
+	<teiHeader date.created="12/6/1999" date.updated="23/11/2001">
+		<fileDesc>
+			<titleStmt>
+				<title>Ho&af;ng T&uwr; B&es;</title>
+				<title type="trad" id="t1">Ho&af;ng t&uwr; b&es;</title>
+				<author>Saint-Exup&es;ry (V&ix;nh L&aj;c d&ij;ch)</author>
+				<respStmt>
+					<resp>LORIA</resp>
+					<name>Lila Chene</name>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<distributor>Silfide Project</distributor>
+				<authority/>
+				<date/>
+			</publicationStmt>
+			<sourceDesc>
+				<p/>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<langUsage>
+				<language id="VN">Vietnam</language>
+			</langUsage>
+			<textClass>
+				<keywords>
+					<list>
+						<item>prose</item>
+					</list>
+				</keywords>
+			</textClass>
+		</profileDesc>
+		<revisionDesc>
+			<change>
+				<date>23/11/2001</date>
+				<respStmt>
+					<resp>LORIA</resp>
+					<name>Nguyen Thi Minh Huyen</name>
+				</respStmt>
+				<item>Characters encoding</item>
+			</change>
+		</revisionDesc>
+	</teiHeader>
+	<text>
+		<front>
+			<div type="dedicace">
+				<p>
+					<seg id="n1">
+&DD;&aa;y l&af; cu&oos;n truy&eej;n m&af; nhi&eef;u ng&uw;&owf;i cho r&awf;ng th&ow; m&ooj;ng nh&aas;t &dd;&ax; t&uwf;ng &dd;&uw;&owj;c vi&ees;t, kh&oo;ng h&awr;n ch&ir; l&af; cu&oos;n truy&eej;n vi&ees;t cho tr&er; em.</seg>
+					<seg id="n2">N&os; l&af; m&ooj;t b&ar;n tuy&ee;n ng&oo;n &dd;&awj;c s&aws;c c&ur;a ch&ur; ngh&ix;a nh&aa;n &dd;&aj;o, m&ooj;t ti&ees;ng chu&oo;ng c&ar;nh t&ir;nh tr&uw;&ows;c hi&eer;m h&oj;a l&ows;n lao c&ur;a h&af;nh tinh tr&uw;&ows;c s&uwj; &dd;i&ee;n r&oof; c&ur;a nh&uwx;ng k&er; cu&oof;ng t&is;n.</seg>
+					<seg id="n3"> Song tr&ee;n h&ees;t, &dd;&aa;y l&af; m&ooj;t cu&oos;n s&as;ch ca ng&owj;i t&if;nh y&ee;u v&af; c&as;i &dd;&ej;p, ni&eef;m hy v&oj;ng l&ows;n c&ur;a con ng&uw;&owf;i.</seg>
+					<seg id="n4">S&uwj; gi&ar;n d&ij;
+trong s&as;ng to&ar; kh&aws;p t&as;c ph&aar;m &dd;&ax; khi&ees;n n&os; tr&owr; n&ee;n m&ooj;t b&af;i th&ow; b&aas;t h&ur; m&af; m&ax;i m&ax;i ng&uw;&owf;i ta mu&oos;n &dd;em l&af;m
+qu&af; t&awj;ng c&ur;a t&if;nh y&ee;u.</seg>
+					<seg id="n5">M&ooj;t b&af;i th&ow; m&af; cho d&uf; ng&uw;&owf;i ta &dd;&ax; &dd;&oj;c h&af;ng tr&aw;m l&aaf;n v&aax;n th&aas;y l&of;ng r&aj;o r&uwj;c m&oox;i
+khi &dd;&oj;c l&aj;i, c&ux;ng nh&uw; m&oj;i t&as;c ph&aar;m kh&as;c m&af; Saint-Exup&es;ry &dd;&ax; &dd;&eer; l&aj;i.</seg>
+					<seg id="n6">&OO;ng l&af; m&ooj;t con ng&uw;&owf;i kh&oo;ng ch&ir;
+n&os;i v&af; vi&ees;t, m&ooj;t con ng&uw;&owf;i tin t&uw;&owr;ng v&af; s&oos;ng nh&uw; nh&uwx;ng g&if; m&if;nh n&os;i v&af; vi&ees;t, ch&ees;t th&ow; m&ooj;ng nh&uw; nh&uwx;ng
+g&if; m&if;nh ca ng&owj;i.</seg>
+				</p>
+			</div>
+		</front>
+		<body>
+			<div type="chapitre">
+				<head>I</head>
+				<p>
+					<seg id="n7">H&oof;i l&ee;n s&as;u, c&os; l&aaf;n t&oo;i &dd;&ax; nh&if;n th&aas;y m&ooj;t b&uws;c tranh tuy&eej;t &dd;&ej;p trong m&ooj;t cu&oos;n s&as;ch n&os;i v&eef; r&uwf;ng hoang nhan &dd;&eef; "Nh&uwx;ng chuy&eej;n c&os; th&aaj;t".</seg>
+					<seg id="n8">N&os; v&ex; m&ooj;t con tr&aw;n &dd;ang nu&oos;t m&ooj;t con th&us;.</seg>
+					<seg id="n9">&DD;&aa;y l&af; b&ar;n sao c&ur;a b&uws;c tranh &dd;&os;.</seg>
+				</p>
+				<p>
+					<seg id="n10">Ng&uw;&owf;i ta n&os;i trong s&as;ch: "Con tr&aw;n nu&oos;t ch&uwr;ng c&ar; con m&oof;i m&af; kh&oo;ng nhai.</seg>
+					<seg id="n11">Sau &dd;&os; n&os; kh&oo;ng th&eer; nh&us;c nh&is;ch &dd;&uw;&owj;c n&uwx;a v&af; n&os; n&awf;m ng&ur; s&as;u th&as;ng li&eef;n trong khi ch&owf; ti&ee;u ho&as;."</seg>
+				</p>
+				<p>
+					<seg id="n12">T&uwf; &dd;&os; t&oo;i hay ngh&ix; &dd;&ees;n c&as;c cu&ooj;c phi&ee;u l&uw;u trong r&uwf;ng r&aaj;m, v&af; &dd;&ees;n l&uw;&owj;t t&oo;i, v&ows;i m&ooj;t c&aa;y b&us;t ch&if; m&af;u, t&oo;i &dd;&ax; v&ex; &dd;&uw;&owj;c b&uws;c ph&as;c th&ar;o &dd;&aaf;u ti&ee;n.</seg>
+					<seg id="n13">B&uws;c ph&as;c th&ar;o &dd;&aaf;u ti&ee;n c&ur;a t&oo;i, n&os; nh&uw; th&ees; n&af;y:</seg>
+				</p>
+				<note>(picture 1)</note>
+				<p>
+					<seg id="n15">T&oo;i &dd;em khoe ki&eej;t t&as;c c&ur;a m&if;nh v&ows;i nh&uwx;ng ng&uw;&owf;i l&ows;n v&af; h&or;i h&oj; r&awf;ng n&os; c&os; l&af;m h&oj; kinh h&ax;i kh&oo;ng.</seg>
+				</p>
+				<p>
+					<seg id="n16">H&oj; tr&ar;l&owf;i: "Sao l&aj;i ph&ar;i s&owj; m&ooj;t c&as;i m&ux; ch&uws;?"</seg>
+				</p>
+				<p>
+					<seg id="n17">B&uws;c v&ex; c&ur;a t&oo;i kh&oo;ng v&ex; m&ooj;t c&as;i m&ux;.</seg>
+					<seg id="n18">N&os; v&ex; m&ooj;t con tr&aw;n &dd;ang n&awf;m ch&owf; ti&ee;u ho&as; m&ooj;t con voi.</seg>
+					<seg id="n19">Th&ees; l&af; t&oo;i ph&ar;i v&ex; ph&is;a trong c&ur;a con tr&aw;n, &dd;&eer; cho ng&uw;&owf;i l&ows;n c&os; th&eer; hi&eer;u.</seg>
+					<seg id="n20">Ng&uw;&owf;i l&ows;n l&us;c n&af;o c&ux;ng c&aaf;n ph&ar;i c&os; gi&ar;i th&is;ch.</seg>
+					<seg id="n21">B&uws;c ph&as;c th&ar;o th&uws; hai c&ur;a t&oo;i n&os; nh&uw; th&ees; n&af;y:</seg>
+				</p>
+				<note>(picture 2)</note>
+				<p>
+					<seg id="n22">Nh&uwx;ng ng&uw;&owf;i l&ows;n b&ef;n khuy&ee;n t&oo;i n&ee;n g&as;c sang m&ooj;t b&ee;n c&as;c b&uws;c v&ex; tr&aw;n k&is;n v&af; tr&aw;n m&owr; kia v&af; n&ee;n ch&us; t&aa;m h&oj;c &dd;&ij;a l&ys;, s&uwr; k&ys;, t&is;nh to&as;n v&af; v&aw;n ph&aj;m.</seg>
+					<seg id="n23">T&oo;i &dd;&ax; b&or; d&owr; nh&uw; v&aaj;y &dd;&os;, v&af;o n&aw;m l&ee;n s&as;u, m&ooj;t s&uwj; nghi&eej;p h&ooj;i ho&aj; tuy&eej;t v&owf;i.</seg>
+					<seg id="n24">T&oo;i b&ij; th&aas;t v&oj;ng v&if; s&uwj; th&aas;t b&aj;i c&ur;a b&ar;n th&ar;o s&oos; m&ooj;t v&af; s&oos; hai.</seg>
+					<seg id="n25">Nh&uwx;ng ng&uw;&owf;i l&ows;n ch&awr;ng bao gi&owf; t&uwj; h&oj; hi&eer;u &dd;&uw;&owj;c c&as;i g&if; c&ar;, v&af; th&aaj;t l&af; m&eej;t cho tr&er; con l&us;c n&af;o c&ux;ng ph&ar;i gi&ar;i th&is;ch cho h&oj;.</seg>
+				</p>
+				<p>
+					<seg id="n26">V&aaj;y l&af; t&oo;i ph&ar;i ch&oj;n ngh&eef; kh&as;c, v&af; t&oo;i h&oj;c l&as;i m&as;y bay.</seg>
+					<seg id="n27">T&oo;i &dd;&ax; bay kh&aws;p th&ees; gi&ows;i m&oox;i n&ow;i m&ooj;t t&is;.</seg>
+					<seg id="n28">V&af; m&oo;n &dd;&ij;a l&ys;, &dd;&us;ng nh&uw; v&aaj;y, &dd;&ax; gi&us;p t&oo;i r&aas;t nhi&eef;u.</seg>
+					<seg id="n29">T&oo;i bi&ees;t l&af;m th&ees; n&af;o &dd;&eer; ch&ir; nh&if;n qua m&ooj;t c&as;i l&af; ph&aa;n bi&eej;t &dd;&uw;&owj;c ngay Trung Qu&oos;c v&ows;i Arizona.</seg>
+					<seg id="n30">C&as;i &dd;&os; th&aaj;t l&af; &is;ch l&owj;i n&ees;u nh&uw; ng&uw;&owf;i ta bay l&aj;c &dd;&uw;&owf;ng trong &dd;&ee;m t&oos;i.</seg>
+				</p>
+				<p>
+					<seg id="n31">T&oo;i c&ux;ng &dd;&ax; g&awj;p trong &dd;&owf;i t&oo;i c&ar; &dd;&oos;ng nh&uwx;ng con ng&uw;&owf;i nghi&ee;m ch&ir;nh.</seg>
+					<seg id="n32">T&oo;i &dd;&ax; s&oos;ng nhi&eef;u v&ows;i nh&uwx;ng ng&uw;&owf;i l&ows;n.</seg>
+					<seg id="n33">T&oo;i &dd;&ax; nh&if;n th&aas;y h&oj; r&aas;t l&af; g&aaf;n.</seg>
+					<seg id="n34">Nh&uw;ng c&as;i &dd;&os; ch&awr;ng l&af;m thay &dd;&oor;i &ys; ki&ees;n c&ur;a t&oo;i bao nhi&ee;u.</seg>
+				</p>
+				<p>
+					<seg id="n35">M&oox;i l&us;c g&awj;p m&ooj;t ng&uw;&owf;i l&ows;n c&os; v&er; s&as;ng s&ur;a m&ooj;t t&is;, t&oo;i l&aj;i th&uwr; &oo;ng ta b&awf;ng b&uws;c ph&as;c th&ar;o s&oos; m&ooj;t m&af; t&oo;i lu&oo;n mang theo.</seg>
+					<seg id="n36">Nh&uw;ng lu&oo;n lu&oo;n &oo;ng ta tr&ar; l&owf;i: "&DD;&aas;y l&af; m&ooj;t c&as;i m&ux;".</seg>
+					<seg id="n37">Th&ees; l&af; t&oo;i ch&awr;ng th&ef;m n&os;i v&ows;i &oo;ng ta v&eef; tr&aw;n r&aws;n, r&uwf;ng hoang hay c&as;c v&if; sao n&uwx;a.</seg>
+					<seg id="n38">T&oo;i t&uwj; h&aj; m&if;nh xu&oos;ng ngang t&aaf;m &oo;ng ta.</seg>
+					<seg id="n39">T&oo;i n&os;i v&eef; ch&ow;i b&af;i, ch&ow;i g&oo;n, ch&is;nh tr&ij; v&af; cravat.</seg>
+					<seg id="n40">V&af; con ng&uw;&owf;i l&ows;n kia c&ar;m th&aas;y h&af;i l&of;ng v&oo; c&uf;ng khi &dd;&uw;&owj;c quen m&ooj;t con ng&uw;&owf;i bi&ees;t &dd;i&eef;u nh&uw; v&aaj;y.</seg>
+				</p>
+			</div>
+			<div>
+				<head>II</head>
+				<p>
+					<seg id="n41">T&oo;i &dd;&ax; s&oos;ng c&oo; &dd;&ow;n nh&uw; v&aaj;y &dd;&os;, ch&awr;ng c&os; ai &dd;&eer; chuy&eej;n tr&of; th&uwj;c s&uwj;, cho &dd;&ees;n khi m&as;y bay c&ur;a t&oo;i b&ij; h&or;ng gi&uwx;a sa m&aj;c Sahara, c&as;ch &dd;&aa;y s&as;u n&aw;m.</seg>
+					<seg id="n42">C&os; c&as;i g&if; &dd;&os; trong &dd;&ooj;ng c&ow; c&ur;a t&oo;i b&ij; g&ax;y.</seg>
+					<seg id="n43">V&af; t&oo;i ch&ir; &dd;i m&ooj;t m&if;nh kh&oo;ng c&os; h&af;nh kh&as;ch c&ux;ng ch&awr;ng c&os; th&owj; m&as;y, t&oo;i ph&ar;i m&ooj;t m&if;nh b&aws;t &dd;&aaf;u cu&ooj;c s&uwr;a ch&uwx;a kh&os; kh&aw;n.</seg>
+					<seg id="n44">&DD;&aas;y l&af; v&aas;n &dd;&eef; s&oos;ng ch&ees;t v&ows;i t&oo;i.</seg>
+					<seg id="n45">T&oo;i ch&ir; c&os; &dd;&ur; n&uw;&ows;c &dd;&eer; u&oos;ng trong nhi&eef;u nh&aas;t l&af; t&as;m ng&af;y.</seg>
+				</p>
+				<p>
+					<seg id="n46"> &DD;&ee;m &dd;&aaf;u ti&ee;n v&aaj;y l&af; t&oo;i ph&ar;i ng&ur; tr&ee;n c&as;t &owr; c&as;ch xa n&ow;i ng&uw;&owf;i &owr; h&af;ng ng&af;n d&awj;m.</seg>
+					<seg id="n47">L&us;c &dd;&os; t&oo;i c&of;n c&oo; &dd;&ooj;c h&ow;n c&ar; m&ooj;t k&er; &dd;&aws;m t&af;u tr&ee;n chi&ees;c b&ef; l&ee;nh &dd;&ee;nh gi&uwx;a bi&eer;n.</seg>
+					<seg id="n48">B&aj;n ch&aws;c s&ex; t&uw;&owr;ng t&uw;&owj;ng ra n&oox;i kinh ng&aj;c c&ur;a t&oo;i, v&af;o l&us;c m&owf; s&as;ng, khi m&ooj;t gi&oj;ng n&os;i nh&or; nh&ej; ng&ooj; ngh&ix;nh &dd;&as;nh th&uws;c t&oo;i d&aaj;y.</seg>
+					<seg id="n49">C&as;i gi&oj;ng &aas;y n&os;i:</seg>
+					<seg id="n50">- N&ees;u &oo;ng vui l&of;ng ...xin v&ex; h&ooj; t&oo;i m&ooj;t con c&uwf;u!</seg>
+					<seg id="n51">- C&as;i g&if;?</seg>
+					<seg id="n52">- Xin v&ex; h&ooj; t&oo;i m&ooj;t con c&uwf;u ...</seg>
+				</p>
+				<p>
+					<seg id="n53">T&oo;i nh&ar;y d&uwj;ng l&ee;n nh&uw; l&af; b&ij; s&es;t &dd;&as;nh.</seg>
+					<seg id="n54">T&oo;i d&uj;i m&aws;t th&aaj;t k&yx;.</seg>
+					<seg id="n55">T&oo;i &dd;&ax; nh&if;n th&aaj;t k&yx;.</seg>
+					<seg id="n56">V&af; t&oo;i th&aas;y m&ooj;t c&aaj;u b&es; th&aaj;t kh&as;c th&uw;&owf;ng &dd;ang nh&if;n t&oo;i v&ows;i v&er; nghi&ee;m tr&oj;ng.</seg>
+					<seg id="n57">&DD;&aa;y l&af; b&uws;c ch&aa;n dung &dd;&ej;p nh&aas;t m&af; v&eef; sau t&oo;i v&ex; &dd;&uw;&owj;c v&eef; c&aaj;u b&es; &aas;y.</seg>
+					<seg id="n58">Nh&uw;ng b&uws;c v&ex; c&ur;a t&oo;i ch&aws;c l&af; k&es;m &dd;&ej;p h&ow;n ng&uw;&owf;i m&aax;u nhi&eef;u.</seg>
+					<seg id="n59">Kh&oo;ng ph&ar;i l&oox;i t&aj;i t&oo;i.</seg>
+					<seg id="n60">T&oo;i &dd;&ax; b&ij; ng&uw;&owf;i l&ows;n l&af;m cho n&ar;n l&of;ng trong s&uwj; nghi&eej;p h&ooj;i ho&aj; t&uwf; h&oof;i s&as;u tu&oor;i, v&af; t&oo;i c&os; bao gi&owf; h&oj;c v&ex; c&as;i g&if; ngo&af;i nh&uwx;ng con tr&aw;n kh&es;p k&is;n v&af; nh&uwx;ng con tr&aw;n m&owr; b&uj;ng &dd;&aa;u.</seg>
+				</p>
+				<p>
+					<seg id="n61"> V&aaj;y l&af; t&oo;i nh&if;n c&as;i s&uwj; hi&eer;n hi&eej;n &dd;&os; v&ows;i hai con m&aws;t tr&of;n xoe v&if; kinh ng&aj;c.</seg>
+					<seg id="n62">Xin nh&ows; l&af; l&us;c &aas;y t&oo;i &dd;ang &owr; c&as;ch m&oj;i ch&oox; c&os; ng&uw;&owf;i h&af;ng ng&af;n d&awj;m.</seg>
+					<seg id="n63">Th&ees; m&af; c&aaj;u b&es; c&ur;a t&oo;i tr&oo;ng ch&awr;ng gi&oos;ng nh&uw; b&ij; l&aj;c &dd;&uw;&owf;ng, ch&awr;ng h&eef; m&eej;t l&ar;, ch&awr;ng h&eef; &dd;&os;i, ch&awr;ng h&eef; kh&as;t n&uw;&ows;c hay s&owj; h&ax;i g&if; c&ar;.</seg>
+					<seg id="n64">C&aaj;u ta ch&awr;ng c&os; v&er; g&if; c&ur;a m&ooj;t c&aaj;u b&es; l&aj;c gi&uwx;a sa m&aj;c, c&as;ch n&ow;i c&os; ng&uw;&owf;i c&ar; ng&af;n d&awj;m.</seg>
+					<seg id="n65">T&ows;i khi m&owr; &dd;&uw;&owj;c mi&eej;ng, t&oo;i h&or;i em:</seg>
+					<seg id="n66">- Nh&uw;ng ...em l&af;m c&as;i g&if; &owr; &dd;&aa;y?</seg>
+				</p>
+				<p>
+					<seg id="n67">Th&ees; l&af; em l&awj;p l&aj;i c&aa;u n&os;i l&us;c n&ax;y, th&aaj;t nh&ej; nh&af;ng, nh&uw; l&af; m&ooj;t &dd;i&eef;u r&aas;t quan tr&oj;ng:</seg>
+					<seg id="n68">- N&ees;u &oo;ng vui l&of;ng ...xin v&ex; h&ooj; t&oo;i m&ooj;t con c&uwf;u ...</seg>
+				</p>
+				<p>
+					<seg id="n69">Khi m&af; s&uwj; b&is; &aar;n qu&as; l&ows;n, ng&uw;&owf;i ta kh&oo;ng d&as;m kh&oo;ng v&aa;ng l&owf;i.</seg>
+					<seg id="n70">D&uf; &dd;i&eef;u n&af;y th&aaj;t l&af; v&oo; l&ys; khi t&oo;i &dd;ang &owr; c&as;ch xa n&ow;i ng&uw;&owf;i &owr; c&ar; ng&af;n d&awj;m v&af; &dd;ang b&ij; nguy &dd;&ees;n t&is;nh m&aj;ng, t&oo;i r&us;t trong t&us;i ra m&ooj;t c&aa;y b&us;t v&af; m&ooj;t m&ar;nh gi&aas;y.</seg>
+					<seg id="n71">Nh&uw;ng t&oo;i s&uwj;c nh&ows; r&awf;ng m&if;nh &dd;&ax; ch&ir; h&oj;c &dd;&ij;a l&ys;, s&uwr; k&ys;, t&is;nh to&as;n v&af; v&aw;n ph&aj;m, v&af; t&oo;i n&os;i v&ows;i c&aaj;u b&es; (c&os; v&er; h&ow;i kh&os; ch&ij;u) r&awf;ng t&oo;i kh&oo;ng bi&ees;t v&ex;.</seg>
+					<seg id="n72">Em tr&ar; l&owf;i t&oo;i:</seg>
+					<seg id="n73">- Kh&oo;ng sao &dd;&aa;u.</seg>
+					<seg id="n74">Xin v&ex; h&ooj; t&oo;i m&ooj;t con c&uwf;u.</seg>
+				</p>
+				<p>
+					<seg id="n75">B&owr;i v&if; t&oo;i ch&uw;a bao gi&owf; v&ex; m&ooj;t con c&uwf;u c&ar; n&ee;n t&oo;i v&ex; l&aj;i cho em m&ooj;t trong hai b&uws;c tranh m&af; t&oo;i c&os; th&eer; v&ex;.</seg>
+					<seg id="n76">&DD;&os; l&af; h&if;nh con tr&aw;n k&is;n.</seg>
+					<seg id="n77">V&af; t&oo;i s&uwx;ng s&owf; khi nghe c&aaj;u b&es; tr&ar; l&owf;i:</seg>
+					<seg id="n78">- Kh&oo;ng! Kh&oo;ng!</seg>
+					<seg id="n79"> T&oo;i kh&oo;ng mu&oos;n m&ooj;t con voi trong b&uj;ng m&ooj;t con tr&aw;n &dd;&aa;u.</seg>
+					<seg id="n80">Con tr&aw;n nguy hi&eer;m l&aws;m, c&of;n con voi th&if; qu&as; k&eef;nh c&af;ng.</seg>
+					<seg id="n81">Ch&oox; t&oo;i b&es; l&aws;m.</seg>
+					<seg id="n82">T&oo;i c&aaf;n m&ooj;t con c&uwf;u.</seg>
+					<seg id="n83">H&ax;y v&ex; cho t&oo;i m&ooj;t con c&uwf;u!</seg>
+				</p>
+				<p>
+					<seg id="n84">Th&ees; l&af; t&oo;i v&ex;.</seg>
+				</p>
+				<p>
+					<seg id="n85">Em nh&if;n ch&aw;m ch&us;, r&oof;i n&os;i:</seg>
+					<seg id="n86">- Kh&oo;ng! Con n&af;y &oos;m qu&as;.</seg>
+					<seg id="n87">H&ax;y v&ex; con kh&as;c &dd;i.</seg>
+				</p>
+				<p>
+					<seg id="n88">T&oo;i v&ex;.</seg>
+				</p>
+				<p>
+					<seg id="n89">C&aaj;u b&es; c&ur;a t&oo;i c&uw;&owf;i nh&ej;, gi&oj;ng khoan dung:</seg>
+					<seg id="n90">- &OO;ng th&aas;y &dd;&aas;y ...&dd;&aa;y kh&oo;ng ph&ar;i con c&uwf;u, &dd;&aa;y l&af; d&ee;.</seg>
+					<seg id="n91">N&os; c&os; s&uwf;ng ...</seg>
+				</p>
+				<p>
+					<seg id="n92">T&oo;i l&aj;i v&ex; l&aj;i l&aaf;n n&uwx;a.</seg>
+				</p>
+				<p>
+					<seg id="n93">Nh&uw;ng b&uws;c n&af;y c&ux;ng b&ij; t&uwf; ch&oos;i nh&uw; c&as;c b&uws;c tr&uw;&ows;c.</seg>
+					<seg id="n94">- Con n&af;y gi&af; qu&as;.</seg>
+					<seg id="n95">T&oo;i mu&oos;n m&ooj;t con c&uwf;u s&oos;ng th&aaj;t l&aa;u.</seg>
+				</p>
+				<p>
+					<seg id="n96">B&aas;y gi&owf; t&oo;i h&ees;t ki&ee;n nh&aax;n, b&owr;i s&oos;t ru&ooj;t mu&oos;n b&aws;t &dd;&aaf;u th&as;o m&as;y, t&oo;i v&ex; ngu&eej;ch ngo&aj;c b&uws;c v&ex; n&af;y &dd;&aa;y.</seg>
+				</p>
+				<note>(Picture 3)</note>
+				<p>
+					<seg id="n97">V&af; t&oo;i n&os;i b&uwf;a:</seg>
+					<seg id="n98">- &DD;&aa;y l&af; c&as;i th&uf;ng.</seg>
+					<seg id="n99">Con c&uwf;u ch&us; mu&oos;n n&os; &owr; trong &aas;y &dd;&aas;y.</seg>
+				</p>
+				<p>
+					<seg id="n100">Nh&uw;ng t&oo;i h&ees;t s&uws;c ng&aj;c nhi&ee;n khi th&aas;y m&awj;t v&ij; quan to&af; nh&or; c&ur;a t&oo;i s&as;ng r&ox; l&ee;n:</seg>
+					<seg id="n101">- &DD;&us;ng l&af; c&as;i m&af; t&oo;i mu&oos;n &dd;&aas;y!</seg>
+					<seg id="n102">&OO;ng ngh&ix; c&os; c&aaf;n nhi&eef;u c&or; cho con c&uwf;u n&af;y kh&oo;ng &aj;?</seg>
+					<seg id="n103">- Sao v&aaj;y?</seg>
+					<seg id="n104">- V&if; ch&oox; t&oo;i b&es; l&aws;m ...</seg>
+					<seg id="n105">- Ch&aws;c l&af; &dd;&ur;.</seg>
+					<seg id="n106">T&oo;i v&ex; cho em m&ooj;t con c&uwf;u b&es; x&is;u &aas;y m&af;.</seg>
+				</p>
+				<p>
+					<seg id="n107">Em c&us;i &dd;&aaf;u xu&oos;ng b&uws;c v&ex;:</seg>
+					<seg id="n108">- Kh&oo;ng nh&or; l&aws;m &dd;&aa;u ...K&if;a!</seg>
+					<seg id="n109"> N&os; &dd;&ax; ng&ur; r&oof;i ... </seg>
+				</p>
+				<p>
+					<seg id="n110">V&af; nh&uw; th&ees; &dd;&aas;y, t&oo;i &dd;&ax; l&af;m quen v&ows;i &oo;ng ho&af;ng b&es; nh&or;.</seg>
+				</p>
+			</div>
+			<div>
+				<head>III</head>
+				<p>
+					<seg id="n111">Ph&ar;i r&aas;t l&aa;u t&oo;i m&ows;i bi&ees;t em t&uwf; &dd;&aa;u &dd;&ees;n.</seg>
+					<seg id="n112">&OO;ng ho&af;ng b&es; nh&or;, v&oos;n r&aas;t hay &dd;&awj;t c&aa;u h&or;i cho t&oo;i, l&aj;i d&uw;&owf;ng nh&uw; kh&oo;ng bao gi&owf; ch&us; &ys; nghe t&oo;i h&or;i.</seg>
+					<seg id="n113">Ch&ir; v&if; nh&uwx;ng ti&ees;ng ng&aax;u nhi&ee;n bu&ooj;t ra d&aaf;n d&aaf;n n&os;i cho t&oo;i hi&eer;u m&oj;i s&uwj;.</seg>
+					<seg id="n114">V&is; d&uj; nh&uw;, khi l&aaf;n &dd;&aaf;u em th&aas;y chi&ees;c m&as;y bay c&ur;a t&oo;i (t&oo;i s&ex; kh&oo;ng v&ex; chi&ees;c m&as;y bay &dd;&aa;u, b&uws;c v&ex; &dd;&os; qu&as; ph&uws;c t&aj;p &dd;&oos;i v&ows;i t&oo;i) em h&or;i t&oo;i:</seg>
+					<seg id="n115">- C&as;i th&uws; n&af;y l&af; c&as;i g&if;?</seg>
+					<seg id="n116">- Kh&oo;ng ph&ar;i c&as;i th&uws;.</seg>
+					<seg id="n117">N&os; bay &dd;&uw;&owj;c &dd;&aas;y.</seg>
+					<seg id="n118">N&os; l&af; m&ooj;t chi&ees;c m&as;y bay.</seg>
+					<seg id="n119">&DD;&os; l&af; chi&ees;c m&as;y bay c&ur;a t&oo;i.</seg>
+				</p>
+				<p>
+					<seg id="n120">T&oo;i t&uwj; h&af;o n&os;i cho em bi&ees;t l&af; t&oo;i bay.</seg>
+					<seg id="n121">Em li&eef;n k&ee;u l&ee;n:</seg>
+					<seg id="n122">- Sao?</seg>
+					<seg id="n123"> &OO;ng t&uwf; tr&ee;n tr&owf;i r&ow;i xu&oos;ng &uw;?</seg>
+					<seg id="n124">- Ph&ar;i, t&oo;i n&os;i ki&ee;m t&oos;n.</seg>
+					<seg id="n125">- &AS;i ch&af;!</seg>
+					<seg id="n126"> C&as;i n&af;y ng&ooj; &dd;&aas;y ...</seg>
+				</p>
+				<p>
+					<seg id="n127">V&af; &oo;ng ho&af;ng b&es; nh&or; b&aaj;t l&ee;n m&ooj;t tr&af;ng c&uw;&owf;i khanh kh&as;ch r&aas;t kh&as;u nh&uw;ng l&af;m t&oo;i c&as;u l&aws;m.</seg>
+					<seg id="n128">T&oo;i mu&oos;n ai c&ux;ng ph&ar;i &dd;&as;nh gi&as; m&ooj;t c&as;ch nghi&ee;m t&us;c m&oj;i tai n&aj;n c&ur;a t&oo;i.</seg>
+					<seg id="n129">Sau &dd;&os; em n&os;i th&ee;m:</seg>
+					<seg id="n130">- Th&ees; l&af; &oo;ng c&ux;ng t&uwf; tr&ee;n tr&owf;i r&ow;i xu&oos;ng!</seg>
+					<seg id="n131"> &OO;ng &owr; h&af;nh tinh n&af;o?</seg>
+				</p>
+				<p>
+					<seg id="n132">T&uws;c th&if; t&oo;i lo&es; l&ee;n m&ooj;t tia s&as;ng n&af;o &dd;&os;, v&eef; s&uwj; c&os; m&awj;t b&is; &aar;n c&ur;a em, v&af; &dd;&ooj;t nhi&ee;n t&oo;i h&or;i:</seg>
+					<seg id="n133">- Th&ees; ra em &owr; m&ooj;t h&af;nh tinh kh&as;c t&ows;i?</seg>
+				</p>
+				<p>
+					<seg id="n134">Nh&uw;ng em kh&oo;ng tr&ar; l&owf;i t&oo;i.</seg>
+					<seg id="n135">Em kh&ex; l&aws;c &dd;&aaf;u nh&if;n chi&ees;c m&as;y bay c&ur;a t&oo;i:</seg>
+					<seg id="n136">- Nh&uw;ng m&af; ng&oof;i tr&ee;n c&as;i &dd;&os; th&if; &oo;ng c&ux;ng ch&awr;ng th&eer; t&ows;i t&uwf; xa l&aws;m &dd;&aa;u ...</seg>
+				</p>
+				<p>
+					<seg id="n137">R&oof;i em &dd;&aws;m m&if;nh trong gi&aas;c m&ow; m&af;ng th&aaj;t d&af;i.</seg>
+					<seg id="n138">Sau &dd;&os;, m&os;c t&us;i l&aas;y con c&uwf;u t&oo;i v&uwf;a v&ex;, em l&aj;i m&ee; m&ar;i ng&aws;m c&as;i c&ur;a b&as;u &dd;&os;.</seg>
+				</p>
+				<p>
+					<seg id="n139">C&as;c b&aj;n h&ax;y t&uw;&owr;ng t&uw;&owj;ng t&oo;i b&ij; k&is;ch &dd;&ooj;ng nh&uw; th&ees; n&af;o b&owr;i l&owf;i th&oor; l&ooj; n&uwr;a v&owf;i v&eef; "c&as;c h&af;nh tinh kh&as;c" &aas;y.</seg>
+					<seg id="n140">V&if; v&aaj;y, t&oo;i c&oos; t&if;m hi&eer;u r&ox; h&ow;n:</seg>
+					<seg id="n141">- C&aaj;u b&es; &ow;i, em t&uwf; &dd;&aa;u &dd;&ees;n?</seg>
+					<seg id="n142"> "Ch&oox; em" l&af; &dd;&aa;u th&ees;?</seg>
+					<seg id="n143"> Em mu&oos;n mang con c&uwf;u c&ur;a ta v&eef; &dd;&aa;u?</seg>
+					<seg id="n144">Sau m&ooj;t l&as;t im l&awj;ng tr&aaf;m ng&aa;m, em tr&ar; l&owf;i t&oo;i:</seg>
+					<seg id="n145">- C&os; c&as;i t&oos;t l&af; v&ows;i c&as;i th&uf;ng &oo;ng cho t&oo;i, ban &dd;&ee;m con c&uwf;u c&os; th&eer; d&uf;ng n&os; l&af;m nh&af; &owr;.</seg>
+					<seg id="n146">- Ph&ar;i &dd;&aas;y.</seg>
+					<seg id="n147">V&af; n&ees;u em ngoan, ta s&ex; c&of;n cho em m&ooj;t s&owj;i d&aa;y &dd;&eer; bu&ooj;c n&os; l&aj;i ban ng&af;y.</seg>
+					<seg id="n148">V&af; m&ooj;t c&as;i c&oj;c n&uwx;a.</seg>
+				</p>
+				<p>
+					<seg id="n149">L&owf;i &dd;&eef; ngh&ij; &dd;&os; c&os; l&ex; l&af;m cho &oo;ng ho&af;ng b&es; nh&or; kh&oo;ng v&uwf;a l&of;ng:</seg>
+				</p>
+				<p>
+					<seg id="n150">- Bu&ooj;c n&os; l&aj;i? </seg>
+					<seg id="n151">Ngh&ix; g&if; m&af; l&aj; th&ees;!</seg>
+					<seg id="n152">- Nh&uw;ng kh&oo;ng bu&ooj;c n&os; l&aj;i, n&os; s&ex; &dd;i lung tung, n&os; s&ex; &dd;i l&aj;c ...</seg>
+				</p>
+				<p>
+					<seg id="n153">C&aaj;u b&aj;n c&ur;a t&oo;i l&aj;i b&aaj;t c&uw;&owf;i khanh kh&as;ch:</seg>
+					<seg id="n154">- N&os; &dd;i &dd;&awf;ng n&af;o &dd;&uw;&owj;c ch&uws;?</seg>
+					<seg id="n155">- B&aas;t c&uws; &dd;&aa;u.</seg>
+					<seg id="n156">C&uws; &dd;i th&awr;ng t&ows;i tr&uw;&ows;c m&awj;t ...</seg>
+				</p>
+				<p>
+					<seg id="n157">B&aas;y gi&owf; &oo;ng ho&af;ng nh&or; nh&aaj;n x&es;t m&ooj;t c&as;ch n&awj;ng n&eef;:</seg>
+					<seg id="n158">- Kh&oo;ng h&eef; g&if;.</seg>
+					<seg id="n159">Ch&oox; t&oo;i b&es; l&aws;m!</seg>
+				</p>
+				<p>
+					<seg id="n160">R&oof;i, c&os; l&ex; v&ows;i m&ooj;t ch&us;t ng&aaj;m ng&uf;i, em n&os;i th&ee;m:</seg>
+					<seg id="n161">- Th&awr;ng t&ows;i tr&uw;&ows;c m&awj;t ng&uw;&owf;i ta ch&awr;ng &dd;i &dd;&uw;&owj;c bao xa &dd;&aa;u ...</seg>
+				</p>
+			</div>
+			<div>
+				<head>IV</head>
+				<p>
+					<seg id="n162">V&aaj;y &dd;&aas;y, t&oo;i bi&ees;t &dd;&uw;&owj;c m&ooj;t &dd;i&eef;u n&uwx;a th&aaj;t quan tr&oj;ng: R&awf;ng c&as;i h&af;nh tinh qu&ee; h&uw;&ow;ng c&ur;a c&aaj;u em ch&ir; l&ows;n h&ow;n c&as;i nh&af; m&ooj;t ch&us;t!!</seg>
+				</p>
+				<p>
+					<seg id="n163">&DD;i&eef;u &aas;y ch&awr;ng l&af;m t&oo;i ng&aj;c nhi&ee;n nhi&eef;u l&aws;m.</seg>
+					<seg id="n164">T&oo;i v&aax;n bi&ees;t ngo&af;i nh&uwx;ng h&af;nh tinh l&ows;n nh&uw; Tr&as;i &DD;&aas;t, Sao Kim, Sao Ho&ar;, Sao Thu&yr;, m&af; ng&uw;&owf;i ta &dd;&awj;t t&ee;n cho, c&os; h&af;ng tr&aw;m ng&oo;i sao kh&as;c m&af; &dd;&oo;i khi b&es; &dd;&ees;n n&oox;i ng&uw;&owf;i ta ch&ir; th&aas;y trong k&is;nh vi&eex;n v&oj;ng m&ooj;t c&as;ch kh&os; kh&aw;n.</seg>
+					<seg id="n165">Khi m&ooj;t nh&af; thi&ee;n v&aw;n kh&as;m ph&as; ra m&ooj;t trong b&oj;n ch&us;ng, nh&af; thi&ee;n v&aw;n &aas;y cho n&os; m&ooj;t con s&oos;.</seg>
+					<seg id="n166">V&is; d&uj; &oo;ng g&oj;i n&os; l&af; "ti&eer;u h&af;nh tinh 3251".</seg>
+				</p>
+				<p>
+					<seg id="n167">T&oo;i c&os; nh&uwx;ng l&ys; do ch&is;nh &dd;&as;ng &dd;&eer; coi r&awf;ng c&as;i h&af;nh tinh t&uwf; &dd;&os; &oo;ng ho&af;ng nh&or; &dd;&ees;n &dd;&aa;y l&af; ti&eer;u h&af;nh tinh B612.</seg>
+					<seg id="n168">Ti&eer;u h&af;nh tinh &dd;&os; ch&ir; &dd;&uw;&owj;c tr&oo;ng th&aas;y c&os; m&ooj;t l&aaf;n trong k&is;nh vi&eex;n v&oj;ng n&aw;m 1909, b&owr;i m&ooj;t nh&af; thi&ee;n v&aw;n Th&oor; Nh&ix; K&yf;.</seg>
+				</p>
+				<p>
+					<seg id="n169">L&us;c &dd;&os; &oo;ng n&af;y m&owr; m&ooj;t bu&oor;i thuy&ees;t tr&if;nh l&ows;n v&eef; ph&as;t hi&eej;n c&ur;a m&if;nh t&aj;i m&ooj;t H&ooj;i ngh&ij; Qu&oos;c t&ees; v&eef; Thi&ee;n v&aw;n.</seg>
+					<seg id="n170">Nh&uw;ng do b&ooj; qu&aaf;n &as;o c&ur;a &oo;ng ta, ch&awr;ng ai tin &dd;i&eef;u &oo;ng ta n&os;i.</seg>
+					<seg id="n171">Ng&uw;&owf;i l&ows;n l&af; th&ees; &dd;&aas;y.</seg>
+				</p>
+				<p>
+					<seg id="n172">May m&aws;n cho ti&eer;u tinh c&aaf;u B612, m&ooj;t nh&af; &dd;&ooj;c t&af;i Th&oor; Nh&ix; K&yf; bu&ooj;c d&aa;n Th&oor; ph&ar;i m&awj;c &aa;u ph&uj;c, ai kh&oo;ng tu&aa;n theo s&ex; b&ij; t&ooj;i ch&ees;t.</seg>
+					<seg id="n173">Nh&af; thi&ee;n v&aw;n tr&if;nh b&af;y l&aj;i v&aas;n &dd;&eef; n&aw;m 1920, trong b&ooj; qu&aaf;n &as;o r&aas;t l&ij;ch s&uwj;.</seg>
+					<seg id="n174">V&af; l&aaf;n n&af;y, t&aas;t c&ar; m&oj;i ng&uw;&owf;i &dd;&oof;ng &ys; v&ows;i &oo;ng ta.</seg>
+				</p>
+				<p>
+					<seg id="n175">N&ees;u t&oo;i k&eer; v&ows;i c&as;c b&aj;n t&ir; m&ir; v&eef; ti&eer;u tinh c&aaf;u B612, v&af; n&ees;u t&oo;i ti&ees;t l&ooj; v&ows;i c&as;c b&aj;n s&oos; hi&eej;u c&ur;a n&os;, &aas;y l&af; t&aj;i c&as;c ng&uw;&owf;i l&ows;n.</seg>
+					<seg id="n176">Nh&uwx;ng ng&uw;&owf;i l&ows;n r&aas;t th&is;ch ch&uwx; s&oos;.</seg>
+					<seg id="n177">Khi b&aj;n n&os;i chuy&eej;n v&ows;i h&oj; v&eef; m&ooj;t ng&uw;&owf;i b&aj;n m&ows;i, kh&oo;ng bao gi&owf; h&oj; h&or;i b&aj;n v&eef; c&as;i c&oos;t y&ees;u &dd;&aa;u.</seg>
+					<seg id="n178">H&oj; kh&oo;ng bao gi&owf; h&or;i: "Gi&oj;ng n&os;i h&aws;n ta th&ees; n&af;o?</seg>
+					<seg id="n179">H&aws;n th&is;ch ch&ow;i tr&of; g&if;? </seg>
+					<seg id="n180">H&aws;n c&os; s&uw;u t&aaf;m b&uw;&ow;m b&uw;&ows;m kh&oo;ng?" </seg>
+					<seg id="n181">H&oj; ch&ir; h&or;i b&aj;n: "H&aws;n ta bao nhi&ee;u tu&oor;i?</seg>
+					<seg id="n182"> H&aws;n ta c&os; m&aas;y anh em?</seg>
+					<seg id="n183">H&aws;n ta c&aa;n n&awj;ng bao nhi&ee;u?"</seg>
+					<seg id="n184">Th&ees; &dd;&aas;y.</seg>
+					<seg id="n185">Sau &dd;&os;, h&oj; cho v&aaj;y l&af; h&oj; hi&eer;u h&aws;n ta r&oof;i.</seg>
+					<seg id="n186">N&ees;u b&aj;n n&os;i v&ows;i nh&uwx;ng ng&uw;&owf;i l&ows;n: "T&oo;i c&os; th&aas;y m&ooj;t c&as;i nh&af; g&aj;ch m&aaf;u h&oof;ng v&ows;i hoa phong l&uwx; tr&ee;n c&uwr;a s&oor;, v&af; chim b&oof; c&aa;u tr&ee;n m&as;i ..." h&oj; ch&awr;ng l&af;m th&ees; n&af;o m&af; h&if;nh dung n&oor;i c&as;i nh&af; &aas;y nh&uw; th&ees; n&af;o &dd;&aa;u.</seg>
+					<seg id="n187">Ph&ar;i n&os;i v&ows;i h&oj;: "T&oo;i &dd;&ax; th&aas;y m&ooj;t c&as;i nh&af; 10 v&aj;n franc".</seg>
+					<seg id="n188">H&oj; s&ex; k&ee;u ngay: "&OO;i th&aaj;t xinh &dd;&ej;p l&af;m sao."</seg>
+				</p>
+				<p>
+					<seg id="n189">Nh&uw; v&aaj;y &dd;&os;, n&ees;u c&as;c b&aj;n b&ar;o h&oj;: "&OO;ng ho&af;ng b&es; nh&or; l&af; c&os; th&aaj;t ch&uws;, ch&uws;ng c&uws; l&af; c&aaj;u ta r&aas;t &dd;&ej;p, c&aaj;u ta c&uw;&owf;i v&af; c&aaj;u ta th&is;ch c&os; m&ooj;t con c&uwf;u.</seg>
+					<seg id="n190">Khi ng&uw;&owf;i ta th&is;ch c&os; m&ooj;t con c&uwf;u, th&ees; l&af; c&os; ng&uw;&owf;i &aas;y ch&uws;!", h&oj; s&ex; nh&us;n vai v&af; cho b&aj;n l&af; tr&er; con!</seg>
+					<seg id="n191"> Nh&uw;ng n&ees;u b&aj;n h&or;i h&oj;: "C&as;i h&af;nh tinh t&uwf; &dd;&os; c&aaj;u &aas;y &dd;i &dd;&ees;n &dd;&aa;y l&af; ti&eer;u tinh c&aaf;u B612", th&ees; l&af; h&oj; nghe ra ngay, v&af; th&oo;i kh&oo;ng ph&as; qu&aas;y b&aj;n v&ows;i c&as;c c&aa;u h&or;i c&ur;a h&oj; n&uwx;a.</seg>
+					<seg id="n192">H&oj; l&af; th&ees;.</seg>
+					<seg id="n193">Kh&oo;ng n&ee;n gi&aaj;n h&oj;.</seg>
+					<seg id="n194">Tr&er; con ph&ar;i h&ees;t s&uws;c r&ooj;ng l&uw;&owj;ng &dd;&oos;i v&ows;i ng&uw;&owf;i l&ows;n.</seg>
+				</p>
+				<p>
+					<seg id="n195">Nh&uw;ng ch&aws;c ch&aws;n r&awf;ng &dd;&oos;i v&ows;i b&oj;n ta l&af; nh&uwx;ng ng&uw;&owf;i hi&eer;u &dd;&owf;i, ch&us;ng ta c&os;c c&aaf;n nh&uwx;ng con s&oos;!</seg>
+					<seg id="n196"> T&oo;i &dd;&ax; r&aas;t th&is;ch b&aws;t &dd;&aaf;u k&eer; c&aa;u chuy&eej;n n&af;y nh&uw; ki&eer;u m&ooj;t c&aa;u chuy&eej;n th&aaf;n ti&ee;n.</seg>
+					<seg id="n197">T&oo;i &dd;&ax; r&aas;t th&is;ch n&os;i th&ees; n&af;y:</seg>
+				</p>
+				<p>
+					<seg id="n198">"X&uw;a c&os; m&ooj;t l&aaf;n, m&ooj;t &oo;ng ho&af;ng b&es; nh&or; &owr; tr&ee;n m&ooj;t tinh c&aaf;u ch&ir; l&ows;n h&ow;n c&aaj;u &aas;y c&os; m&ooj;t t&is;, c&aaj;u &aas;y th&aas;y c&aaf;n c&os; m&ooj;t ng&uw;&owf;i b&aj;n th&aa;n ..."</seg>
+				</p>
+				<p>
+					<seg id="n199">&DD;&oos;i v&ows;i nh&uwx;ng ai hi&eer;u &dd;&owf;i, k&eer; nh&uw; v&aaj;y c&os; v&er; th&aaj;t h&ow;n nhi&eef;u.</seg>
+				</p>
+				<p>
+					<seg id="n200">B&owr;i v&if; t&oo;i kh&oo;ng mu&oos;n ng&uw;&owf;i ta &dd;&oj;c cu&oos;n s&as;ch c&ur;a t&oo;i m&ooj;t c&as;ch h&owf;i h&owj;t.</seg>
+					<seg id="n201">Khi k&eer; l&aj;i c&as;c k&yr; ni&eej;m n&af;y, t&oo;i bu&oof;n t&ur;i bi&ees;t bao.</seg>
+					<seg id="n202">S&as;u n&aw;m &dd;&ax; qua, t&uwf; khi c&aaj;u b&aj;n t&oo;i &dd;i m&aas;t v&ows;i con c&uwf;u c&ur;a em.</seg>
+					<seg id="n203">N&ees;u t&oo;i c&oos; g&aws;ng t&ar; l&aj;i em &owr; &dd;&aa;y, ch&is;nh l&af; &dd;&eer; t&oo;i kh&oo;ng qu&ee;n em.</seg>
+					<seg id="n204">Th&aaj;t l&af; bu&oof;n n&ees;u ta qu&ee;n m&ooj;t ng&uw;&owf;i b&aj;n.</seg>
+					<seg id="n205">C&os; ph&ar;i ai c&ux;ng c&os; &dd;&uw;&owj;c m&ooj;t ng&uw;&owf;i b&aj;n th&aa;n &dd;&aa;u.</seg>
+					<seg id="n206">V&af; c&os; l&ex; t&oo;i s&aws;p tr&owr; n&ee;n nh&uwx;ng ng&uw;&owf;i l&ows;n, ch&ir; c&of;n th&is;ch c&as;c ch&uwx; s&oos;.</seg>
+					<seg id="n207">L&aj;i ch&is;nh c&ux;ng v&if; th&ees; n&uwx;a m&af; t&oo;i &dd;&ax; mua m&ooj;t h&ooj;p m&af;u n&uw;&ows;c v&af; b&us;t ch&if; m&af;u.</seg>
+					<seg id="n208">Tr&owr; l&aj;i v&ex; v&owf;i th&aaj;t l&af; kh&os;, v&af;o tu&oor;i t&oo;i b&aa;y gi&owf;, khi m&af; ng&uw;&owf;i ta ch&uw;a h&eef; v&ex; g&if; ngo&af;i con tr&aw;n kh&es;p k&is;n v&ows;i con tr&aw;n m&owr; t&uwf; h&oof;i l&ee;n s&as;u.</seg>
+					<seg id="n209">T&oo;i s&ex; c&oos; th&uwr;, h&awr;n th&ees;, l&af;m nh&uwx;ng b&uws;c ch&aa;n dung c&af;ng gi&oos;ng c&af;ng hay.</seg>
+					<seg id="n210">Nh&uw;ng t&oo;i kh&oo;ng th&af;nh c&oo;ng ch&us;t n&af;o.</seg>
+					<seg id="n211">M&ooj;t b&uws;c tr&uw;&ows;c v&uws;t &dd;i, b&uws;c sau c&of;n t&eej; h&ow;n n&uwx;a.</seg>
+					<seg id="n212">T&oo;i l&aj;i c&ux;ng c&os; sai l&aaf;m v&eef; t&aaf;m v&os;c.</seg>
+					<seg id="n213">Ch&oox; n&af;y th&if; &oo;ng ho&af;ng nh&or; l&ows;n qu&as;.</seg>
+					<seg id="n214">Ch&oox; kia em b&es; qu&as;.</seg>
+					<seg id="n215">T&oo;i c&uws; l&aaf;n m&of; nh&uw; th&ees; n&af;y r&oof;i nh&uw; th&ees; kh&as;c, khi &dd;&uw;&owj;c khi kh&oo;ng.</seg>
+					<seg id="n216">Cu&oos;i c&uf;ng t&oo;i c&of;n nh&aaf;m &owr; nh&uwx;ng n&es;t quan tr&oj;ng h&ow;n n&uwx;a.</seg>
+					<seg id="n217">Nh&uw;ng n&af;y, c&as;c b&aj;n ph&ar;i tha l&oox;i cho t&oo;i.</seg>
+					<seg id="n218">B&aj;n t&oo;i kh&oo;ng h&eef; gi&ar;ng gi&ar;i g&if; cho t&oo;i.</seg>
+					<seg id="n219">C&os; l&ex; em cho l&af; t&oo;i c&ux;ng nh&uw; em.</seg>
+					<seg id="n220">Nh&uw;ng t&oo;i, bu&oof;n thay, t&oo;i kh&oo;ng bi&ees;t c&as;ch nh&if;n th&aas;y con c&uwf;u xuy&ee;n qua c&as;i th&uf;ng.</seg>
+					<seg id="n221">C&os; l&ex; t&oo;i h&ow;i gi&oos;ng nh&uwx;ng ng&uw;&owf;i l&ows;n r&oof;i.</seg>
+					<seg id="n222">T&oo;i &dd;&ax; gi&af; r&oof;i.</seg>
+				</p>
+			</div>
+			<div>
+				<head>V</head>
+				<p>
+					<seg id="n223">M&oox;i ng&af;y t&oo;i l&aj;i bi&ees;t th&ee;m m&ooj;t &dd;i&eef;u g&if; &dd;&os; v&eef; h&af;nh tinh, v&eef; l&us;c ra &dd;i, v&eef; cu&ooj;c du h&af;nh c&ur;a c&aaj;u.</seg>
+					<seg id="n224">C&as;i &aas;y &dd;&ees;n nh&ej; nh&af;ng b&awf;ng nh&uwx;ng suy &dd;o&as;n ng&aax;u nhi&ee;n.</seg>
+					<seg id="n225">C&ux;ng nh&uw; v&aaj;y &dd;&os; m&af; v&af;o ng&af;y th&uws; ba, t&oo;i &dd;&uw;&owj;c bi&ees;t v&eef; t&aas;m bi k&ij;ch c&ur;a nh&uwx;ng c&aa;y baobab.</seg>
+				</p>
+				<p>
+					<seg id="n226">L&aaf;n n&af;y c&ux;ng l&af; nh&owf; con c&uwf;u, &oo;ng ho&af;ng nh&or; h&or;i t&oo;i, nh&uw; v&uwf;a m&ows;i ngh&ix; ra &dd;i&eef;u g&if; nghi&ee;m tr&oj;ng l&aws;m:</seg>
+					<seg id="n227">- C&os; th&aaj;t &dd;&us;ng l&af; con c&uwf;u &aw;n nh&uwx;ng b&uj;i c&aa;y con kh&oo;ng?</seg>
+					<seg id="n228">- Ph&ar;i, &dd;&us;ng &dd;&aas;y.</seg>
+					<seg id="n229">- &OOF;, t&oos;t qu&as;!</seg>
+				</p>
+				<p>
+					<seg id="n230">T&oo;i kh&oo;ng hi&eer;u sao chuy&eej;n nh&uwx;ng con c&uwf;u &aw;n nh&uwx;ng b&uj;i c&aa;y con l&aj;i quan tr&oj;ng nh&uw; th&ees;.</seg>
+					<seg id="n231">Nh&uw;ng &oo;ng ho&af;ng nh&or; n&os;i th&ee;m:</seg>
+					<seg id="n232">- Cho n&ee;n ch&us;ng &aw;n c&ar; nh&uwx;ng c&aa;y baobab ch&uws;?</seg>
+				</p>
+				<p>
+					<seg id="n233">T&oo;i b&ar;o r&awf;ng c&aa;y baobab kh&oo;ng ph&ar;i l&af; th&uws; b&uj;i c&aa;y nh&or;, m&af; l&af; nh&uwx;ng c&aa;y to nh&uw; c&ar; c&as;i nh&af; th&owf;, v&af; c&aaj;u em c&os; mang theo c&ar; m&ooj;t &dd;&af;n voi, th&if; c&ar; &dd;&af;n voi &aas;y c&ux;ng ch&awr;ng l&af;m lung lay n&oor;i m&ooj;t c&aa;y baobab.</seg>
+				</p>
+				<p>
+					<seg id="n234">&YS; ngh&ix; v&eef; &dd;&af;n voi l&af;m cho &oo;ng ho&af;ng nh&or; b&aaj;t c&uw;&owf;i:</seg>
+					<seg id="n235">- Ph&ar;i ch&oof;ng con n&af;y l&ee;n con kia ...</seg>
+				</p>
+				<p>
+					<seg id="n236">Nh&uw;ng c&aaj;u em nh&aaj;n x&es;t v&ows;i v&er; tri&ees;t l&ys;:</seg>
+					<seg id="n237">- B&oj;n baobab, tr&uw;&ows;c khi l&ows;n, c&ux;ng b&aws;t &dd;&aaf;u b&es; t&ej;o ch&uws;!</seg>
+					<seg id="n238">- &DD;&us;ng l&af; nh&uw; th&ees;.</seg>
+					<seg id="n239">Nh&uw;ng sao em l&aj;i c&uws; mu&oos;n cho con c&uwf;u c&ur;a em &aw;n nh&uwx;ng c&aa;y baobab nh&or; th&ees;?</seg>
+				</p>
+				<p>
+					<seg id="n240">Em tr&ar; l&owf;i: "&OO;i ch&af;!" nh&uw; &dd;&os; l&af; m&ooj;t chuy&eej;n t&aas;t nhi&ee;n.</seg>
+					<seg id="n241">V&af; t&oo;i ph&ar;i b&aws;t tr&is; th&oo;ng minh c&ur;a t&oo;i l&af;m vi&eej;c d&uwx; d&ooj;i m&ows;i t&uwj; hi&eer;u &dd;&uw;&owj;c v&aas;n &dd;&eef; &aas;y.</seg>
+				</p>
+				<p>
+					<seg id="n242">Nguy&ee;n l&af;, tr&ee;n h&af;nh tinh c&ur;a &oo;ng ho&af;ng nh&or;, c&ux;ng nh&uw; tr&ee;n m&oj;i h&af;nh tinh kh&as;c, &dd;&eef;u c&os; nh&uwx;ng lo&aj;i c&or; t&oos;t v&af; nh&uwx;ng lo&aj;i c&or; x&aas;u.</seg>
+					<seg id="n243">Do &dd;&os;, c&os; h&aj;t t&oos;t c&ur;a c&or; t&oos;t v&af; h&aj;t x&aas;u c&ur;a c&or; x&aas;u.</seg>
+					<seg id="n244">Nh&uw;ng kh&oo;ng th&eer; nh&if;n th&aas;y h&aj;t.</seg>
+					<seg id="n245">Ch&us;ng ng&ur; trong b&is; m&aaj;t cho &dd;&ees;n khi m&ooj;t c&as;i h&aj;t n&af;o trong b&oj;n ch&us;ng n&oor;i h&uws;ng mu&oos;n th&uws;c d&aaj;y ...N&os; v&uw;&ow;n vai, r&uj;t r&ef; nh&us; l&ee;n m&awj;t tr&owf;i m&ooj;t c&as;i nh&as;nh con hi&eef;n l&af;nh tuy&eej;t xinh.</seg>
+					<seg id="n246">N&ees;u l&af; nh&as;nh d&uw;a hay m&ooj;t nh&as;nh h&oof;ng, ta c&os; th&eer; mu&oos;n &dd;&eer; cho n&os; m&oj;c th&ees; n&af;o tu&yf; &ys;.</seg>
+					<seg id="n247">Nh&uw;ng n&ees;u l&af; m&ooj;t c&aa;y x&aas;u, ngay khi nh&aaj;n ra l&af; ph&ar;i nh&oor; ngay.</seg>
+					<seg id="n248">M&af; tr&ee;n h&af;nh tinh c&ur;a &oo;ng ho&af;ng nh&or; th&if; c&os; nh&uwx;ng h&aj;t gi&oos;ng kinh kh&ur;ng ...&aas;y l&af; nh&uwx;ng h&aj;t baobab.</seg>
+					<seg id="n249">Ch&us;ng nhi&eex;m &dd;&aaf;y c&ar; tinh c&aaf;u.</seg>
+					<seg id="n250">M&af; m&ooj;t c&aa;y baobab, n&ees;u nh&uw; ta ch&us; &ys; mu&ooj;n m&af;ng qu&as;, ta c&os; th&eer; ch&awr;ng bao gi&owf; d&aax;y n&os; ra &dd;&uw;&owj;c n&uwx;a, baobab s&ex; m&oj;c cao v&af; r&eex; n&os; ch&awf;ng ch&ij;t kh&aws;p tinh c&aaf;u.</seg>
+					<seg id="n251">N&os; cho r&eex; c&ur;a n&os; x&os;i &dd;&uj;c h&af;nh tinh.</seg>
+					<seg id="n252">V&af; n&ees;u h&af;nh tinh m&af; qu&as; b&es;, m&af; n&ees;u c&aa;y baobab m&af; nhi&eef;u qu&as;, c&os; th&eer; l&af;m v&owx; tung c&ar; h&af;nh tinh.</seg>
+				</p>
+				<p>
+					<seg id="n253">"&DD;&aa;y l&af; m&ooj;t v&aas;n &dd;&eef; k&yr; lu&aaj;t, &oo;ng ho&af;ng nh&or; v&eef; sau n&os;i v&ows;i t&oo;i.</seg>
+					<seg id="n254">Khi ta l&af;m v&eej; sinh cho ta bu&oor;i s&as;ng r&oof;i, ta ph&ar;i l&af;m k&yx; v&eej; sinh cho h&af;nh tinh.</seg>
+					<seg id="n255">Ph&ar;i &dd;&eef;u &dd;&awj;n lo nh&oor; b&oj;n baobab ngay l&us;c ta v&uwf;a ph&aa;n bi&eej;t &dd;&uw;&owj;c ch&us;ng v&ows;i c&aa;y hoa h&oof;ng.</seg>
+					<seg id="n256">&DD;&os; l&af; m&ooj;t vi&eej;c l&af;m ch&as;n l&aws;m, nh&uw;ng m&af; th&aaj;t d&eex;."</seg>
+				</p>
+				<p>
+					<seg id="n257">&DD;&ees;n m&ooj;t ng&af;y, c&aaj;u em khuy&ee;n t&oo;i c&oos; s&uws;c v&ex; &dd;&uw;&owj;c m&ooj;t b&uws;c v&ex; &dd;&ej;p, &dd;&eer; cho c&as;c c&aaj;u b&es; &owr; qu&ee; h&uw;&ow;ng t&oo;i ghi nh&ows; chuy&eej;n &aas;y.</seg>
+					<seg id="n258">"M&ooj;t ng&af;y kia, n&ees;u c&as;c b&aj;n &aas;y l&ee;n &dd;&uw;&owf;ng, c&aaj;u em n&os;i v&ows;i t&oo;i, chuy&eej;n &aas;y s&ex; c&os; &is;ch cho h&oj;.</seg>
+					<seg id="n259">&DD;&oo;i khi ho&ax;n l&aj;i m&ooj;t vi&eej;c c&ux;ng ch&awr;ng h&aj;i g&if;.</seg>
+					<seg id="n260">Nh&uw;ng n&ees;u l&af; nh&uwx;ng c&aa;y baobab, th&if; bao gi&owf; c&ux;ng tai ho&aj; &dd;&aas;y.</seg>
+					<seg id="n261">T&oo;i c&os; bi&ees;t m&ooj;t tinh c&aaf;u, tr&ee;n &aas;y c&os; m&ooj;t g&ax; l&uw;&owf;i.</seg>
+					<seg id="n262">H&aws;n b&or; m&awj;c ba c&as;i c&aa;y con ..."</seg>
+				</p>
+				<p>
+					<seg id="n263">Th&ees; l&af;, theo s&uwj; ch&ir; d&aax;n c&ur;a &oo;ng ho&af;ng nh&or;, t&oo;i &dd;&ax; v&ex; tinh c&aaf;u &dd;&os;.</seg>
+					<seg id="n264">T&oo;i tuy&eej;t kh&oo;ng th&is;ch l&ee;n m&awj;t d&aj;y &dd;&owf;i.</seg>
+					<seg id="n265">Nh&uw;ng c&as;i ho&aj; baobab c&of;n &is;t ng&uw;&owf;i bi&ees;t qu&as;, m&af; nh&uwx;ng nguy hi&eer;m m&af; m&ooj;t c&aaj;u b&es; m&ooj;t mai l&aj;c v&af;o m&ooj;t ti&eer;u tinh c&aaf;u s&ex; g&awj;p ph&ar;i th&if; r&aas;t l&af; &dd;&as;ng k&eer;, cho n&ee;n, ch&ir; m&ooj;t l&aaf;n th&oo;i, t&oo;i l&af;m kh&as;c v&ows;i nguy&ee;n t&aws;c c&ur;a t&oo;i.</seg>
+					<seg id="n267">T&oo;i xin n&os;i: "H&owx;i c&as;c em! H&ax;y coi ch&uwf;ng b&oj;n baobab!" &aas;y ch&is;nh l&af; &dd;&eer; b&as;o tr&uw;&ows;c cho c&as;c b&aj;n t&oo;i v&eef; m&ooj;t nguy c&ow; m&af; c&as;c b&aj;n c&ux;ng nh&uw; t&oo;i v&aax;n g&aaf;n k&eef; b&ee;n n&os; m&af; kh&oo;ng hay bi&ees;t, n&ee;n t&oo;i ra s&uws;c th&aaj;t nhi&eef;u &dd;&eer; v&ex; b&uws;c v&ex; &dd;&os;!</seg>
+					<seg id="n268"> B&af;i h&oj;c m&af; t&oo;i &dd;&uw;a ra r&aas;t x&uws;ng c&oo;ng.</seg>
+					<seg id="n269">C&os; l&ex; b&aj;n s&ex; t&uwj; h&or;i: T&aj;i sao trong cu&oos;n s&as;ch n&af;y kh&oo;ng c&os; b&uws;c v&ex; n&af;o to l&ows;n b&awf;ng b&uws;c v&ex; nh&uwx;ng c&aa;y baobab?</seg>
+					<seg id="n270"> C&aa;u tr&ar; l&owf;i &dd;&ow;n gi&ar;n th&oo;i: t&oo;i c&os; th&uwr; v&ex; nh&uw;ng kh&oo;ng th&af;nh.</seg>
+					<seg id="n271">Khi v&ex; c&aa;y baobab, t&oo;i b&ij; th&oo;i th&us;c b&owr;i m&ooj;t t&if;nh c&ar;m c&aas;p b&as;ch.</seg>
+				</p>
+			</div>
+			<div>
+				<head>VI</head>
+				<p>
+					<seg id="n272">&OO;i!</seg>
+					<seg id="n273">&OO;ng ho&af;ng b&es; nh&or; &ow;i, d&aaf;n d&af;, nh&uw; v&aaj;y &dd;&os;, t&oo;i hi&eer;u ra cu&ooj;c &dd;&owf;i nh&or; nhoi bu&oof;n b&ax; c&ur;a em.</seg>
+					<seg id="n274">Bao l&aa;u nay em ch&ir; nh&owf; s&uwj; &ee;m &dd;&eef;m c&ur;a ho&af;ng h&oo;n &dd;&eer; m&af; khu&aa;y kho&ar;.</seg>
+					<seg id="n275">T&oo;i bi&ees;t &dd;&uw;&owj;c n&es;t m&ows;i &dd;&os; v&af;o bu&oor;i s&as;ng ng&af;y th&uws; t&uw;, khi em b&ar;o t&oo;i:</seg>
+					<seg id="n276">- T&oo;i r&aas;t th&is;ch c&ar;nh m&awj;t tr&owf;i l&awj;n.</seg>
+					<seg id="n277">Ta &dd;i xem m&awj;t tr&owf;i l&awj;n &dd;i.</seg>
+					<seg id="n278">- Nh&uw;ng ph&ar;i &dd;&owj;i ch&uws; ...</seg>
+					<seg id="n279">- &DD;&owj;i c&as;i g&if;?</seg>
+					<seg id="n280">- &DD;&owj;i l&us;c m&awj;t tr&owf;i &dd;&os; l&awj;n.</seg>
+				</p>
+				<p>
+					<seg id="n281">Tho&aj;t nhi&ee;n em c&os; v&er; kinh ng&aj;c, v&af; r&oof;i em t&uwj; c&uw;&owf;i m&if;nh.</seg>
+					<seg id="n282">V&af; em b&ar;o t&oo;i:</seg>
+					<seg id="n283">- T&oo;i c&uws; t&uw;&owr;ng c&of;n &owr; nh&af;!!</seg>
+				</p>
+				<p>
+					<seg id="n284">Th&ees; &dd;&aas;y.</seg>
+					<seg id="n285">Khi &owr; n&uw;&ows;c M&yx; l&af; bu&oor;i tr&uw;a th&if; ai c&ux;ng bi&ees;t l&af; m&awj;t tr&owf;i &dd;ang l&awj;n &owr; n&uw;&ows;c Ph&as;p.</seg>
+					<seg id="n286">N&ees;u ch&ir; c&aaf;n &dd;i m&ooj;t ph&us;t l&af; &dd;&ees;n &dd;&uw;&owj;c n&uw;&ows;c Ph&as;p l&af; xem &dd;&uw;&owj;c c&ar;nh m&awj;t tr&owf;i l&awj;n.</seg>
+					<seg id="n287">Kh&oo;ng may n&uw;&ows;c Ph&as;p &owr; qu&as; xa.</seg>
+					<seg id="n288">Nh&uw;ng, tr&ee;n c&as;i h&af;nh tinh b&es; &dd;&ees;n th&ees; c&ur;a em, em ch&ir; c&aaf;n d&ij;ch gh&ees; v&af;i b&uw;&ows;c.</seg>
+					<seg id="n289">Khi n&af;o em th&is;ch l&af; em nh&if;n th&aas;y m&awj;t tr&owf;i l&awj;n ...</seg>
+					<seg id="n290">- C&os; m&ooj;t ng&af;y, t&oo;i nh&if;n m&awj;t tr&owf;i l&awj;n b&oos;n m&uw;&ow;i ba l&aaf;n!</seg>
+				</p>
+				<p>
+					<seg id="n291">M&ooj;t ch&oos;c sau &dd;&os; em n&os;i th&ee;m:</seg>
+					<seg id="n292">- &OO;ng bi&ees;t &dd;&aas;y...khi ng&uw;&owf;i ta bu&oof;n qu&as;, ng&uw;&owf;i ta th&is;ch c&ar;nh m&awj;t tr&owf;i l&awj;n...</seg>
+					<seg id="n293">- Th&ees; c&as;i ng&af;y b&oos;n m&uw;&ow;i ba l&aaf;n m&awj;t tr&owf;i l&awj;n &aas;y, c&os; ph&ar;i em bu&oof;n qu&as; kh&oo;ng??</seg>
+				</p>
+				<p>
+					<seg id="n294">Nh&uw;ng &oo;ng ho&af;ng b&es; nh&or; kh&oo;ng tr&ar; l&owf;i.</seg>
+				</p>
+			</div>
+			<div>
+				<head>VII</head>
+				<p>
+					<seg id="n295">Ng&af;y th&uws; n&aw;m, v&aax;n l&af; nh&owf; &owr; con c&uwf;u, t&oo;i bi&ees;t &dd;&uw;&owj;c c&as;i b&is; m&aaj;t &aas;y trong cu&ooj;c &dd;&owf;i &oo;ng ho&af;ng b&es; nh&or;.</seg>
+					<seg id="n296">B&aas;t ng&owf; em h&or;i t&oo;i, kh&oo;ng c&aaf;n m&af;o &dd;&aaf;u, y nh&uw; &dd;&os; l&af; k&ees;t qu&ar; c&ur;a m&ooj;t v&aas;n &dd;&eef; &dd;&uw;&owj;c &aa;m th&aaf;m suy ngh&ix; t&uwf; l&aa;u r&oof;i:</seg>
+					<seg id="n297">- M&ooj;t con c&uwf;u, n&ees;u n&os; &aw;n c&aa;y non, t&aas;t n&os; c&ux;ng &aw;n hoa ch&uws;?</seg>
+					<seg id="n298">- C&uwf;u th&if; g&awj;p c&as;i g&if; n&os; &aw;n c&as;i &aas;y.</seg>
+					<seg id="n299">- c&ar; nh&uwx;ng b&oo;ng hoa c&os; gai &uw;?</seg>
+					<seg id="n300">- Ph&ar;i. C&ar; nh&uwx;ng b&oo;ng hoa c&os; gai.</seg>
+					<seg id="n301">- Th&ees; th&if; gai d&uf;ng &dd;&eer; l&af;m g&if; n&af;o?</seg>
+				</p>
+				<p>
+					<seg id="n302">T&oo;i kh&oo;ng bi&ees;t.</seg>
+					<seg id="n303">T&oo;i b&aas;y gi&owf; &dd;ang b&aaj;n th&as;o m&ooj;t &dd;inh &oos;c v&awj;n qu&as; ch&awj;t trong &dd;&ooj;ng c&ow; c&ur;a t&oo;i.</seg>
+					<seg id="n304">T&oo;i &dd;&ax; r&aas;t lo l&aws;ng v&if; th&aas;y c&as;i m&as;y c&os; v&er; h&or;ng n&awj;ng l&aws;m, m&af; n&uw;&ows;c u&oos;ng th&if; c&aj;n d&aaf;n l&af;m cho t&oo;i s&owj; x&ar;y ra &dd;i&eef;u t&eej; h&aj;i nh&aas;t.</seg>
+					<seg id="n305">- Nh&uwx;ng c&as;i gai, ch&us;ng d&uf;ng &dd;&eer; l&af;m g&if;?</seg>
+				</p>
+				<p>
+					<seg id="n306">&OO;ng ho&af;ng nh&or; kh&oo;ng bao gi&owf; ch&ij;u b&or; m&ooj;t c&aa;u h&or;i, m&ooj;t khi &dd;&ax; n&os;i ra.</seg>
+					<seg id="n307">T&oo;i th&if; &dd;ang b&uwj;c qu&as; v&ows;i c&as;i &dd;inh &oos;c, v&af; t&oo;i tr&ar; l&owf;i b&uwf;a:</seg>
+					<seg id="n308">- Gai, n&os; ch&awr;ng d&uf;ng &dd;&uw;&owj;c v&af;o vi&eej;c g&if; s&aas;t.N&os; ch&ir; l&af; c&as;i t&is;nh &dd;&ooj;c &as;c c&ur;a hoa th&oo;i!</seg>
+					<seg id="n309">- &OOF;!</seg>
+				</p>
+				<p>
+					<seg id="n310">Nh&uw;ng sau m&ooj;t l&as;t im l&awj;ng em k&ee;u l&ee;n m&ooj;t c&as;ch gi&aaj;n d&oox;i:</seg>
+					<seg id="n311">- T&oo;i kh&oo;ng tin!</seg>
+					<seg id="n312">Lo&af;i hoa y&ees;u &dd;u&oos;i l&aws;m.</seg>
+					<seg id="n313">Ch&us;ng ng&aa;y th&ow; l&aws;m.</seg>
+					<seg id="n314">Ch&us;ng c&oos; t&uwj; l&af;m cho ch&us;ng &dd;&uw;&owj;c v&uwx;ng t&aa;m.</seg>
+					<seg id="n315">Ch&us;ng cho l&af; v&ows;i nh&uwx;ng c&as;i gai, ch&us;ng &dd;&ax; gh&ee; g&ows;m l&aws;m...</seg>
+				</p>
+				<p>
+					<seg id="n316">T&oo;i kh&oo;ng tr&ar; l&owf;i g&if; c&ar;.</seg>
+					<seg id="n317">L&us;c &aas;y, t&oo;i t&uwj; nh&ur;: "C&as;i &dd;inh &oos;c n&af;y m&af; c&of;n ngoan c&oos;, &oo;ng s&ex; cho m&af;y m&ooj;t b&us;a v&aw;ng x&uw;&ow;ng."</seg>
+				</p>
+				<p>
+					<seg id="n318">&OO;ng ho&af;ng nh&or; l&aj;i l&af;m sao l&ax;ng nh&uwx;ng suy ngh&ix; c&ur;a t&oo;i:</seg>
+					<seg id="n319">- C&of;n &oo;ng, &oo;ng t&uw;&owr;ng r&awf;ng hoa...</seg>
+					<seg id="n320">- Kh&oo;ng!!</seg>
+					<seg id="n321">Kh&oo;ng!</seg>
+					<seg id="n322">T&oo;i c&os; t&uw;&owr;ng g&if; &dd;&aa;u!</seg>
+					<seg id="n323">T&oo;i tr&ar; l&owf;i &dd;&aj;i th&ees; th&oo;i.</seg>
+					<seg id="n324">T&oo;i &dd;ang b&aaj;n nh&uwx;ng vi&eej;c h&eej; tr&oj;ng!</seg>
+				</p>
+				<p>
+					<seg id="n325">C&aaj;u nh&if;n t&oo;i ng&aj;c nhi&ee;n:</seg>
+					<seg id="n326">- Nh&uwx;ng vi&eej;c h&eej; tr&oj;ng!</seg>
+				</p>
+				<p>
+					<seg id="n327">C&aaj;u em nh&if;n th&aas;y t&oo;i tay c&aaf;m b&us;a, c&as;c ng&os;n &dd;en thui v&if; d&aaf;u m&as;y, c&us;i xu&oos;ng m&ooj;t v&aaj;t m&af; em xem ra th&aaj;t l&af; x&aas;u x&is;.</seg>
+					<seg id="n328">- &OO;ng n&os;i nh&uw; c&as;c ng&uw;&owf;i l&ows;n &aas;y!</seg>
+				</p>
+				<p>
+					<seg id="n329">C&aa;u &aas;y l&af;m t&oo;i h&ow;i x&aas;u h&oor;.</seg>
+					<seg id="n330">Nh&uw;ng kh&oo;ng th&uw;&ow;ng x&os;t, em n&os;i th&ee;m:</seg>
+					<seg id="n331">- &OO;ng l&aax;n l&ooj;n h&ees;t...&oo;ng x&as;o tr&ooj;n h&ees;t!</seg>
+				</p>
+				<p>
+					<seg id="n332">C&aaj;u em th&uwj;c s&uwj; b&uwj;c t&uws;c.</seg>
+					<seg id="n333">M&as;i t&os;c c&ur;a em v&af;ng xo&ax; tung ra tr&uw;&ows;c gi&os;:</seg>
+					<seg id="n334">- T&oo;i bi&ees;t c&os; m&ooj;t tinh c&aaf;u, tr&ee;n &dd;&os; c&os; m&ooj;t &oo;ng m&awj;t m&ux;i &dd;&or; gay.</seg>
+					<seg id="n335">&OO;ng ta kh&oo;ng h&eef; ng&uwr;i m&ooj;t b&oo;ng hoa.</seg>
+					<seg id="n336">Kh&oo;ng h&eef; ng&aws;m m&ooj;t v&if; sao.</seg>
+					<seg id="n337">Kh&oo;ng h&eef; y&ee;u m&ooj;t ng&uw;&owf;i n&af;o.</seg>
+					<seg id="n338">&OO;ng ta ch&awr;ng bao gi&owf; l&af;m c&as;i  g&if; kh&as;c nh&uwx;ng b&af;i t&is;nh c&ooj;ng.</seg>
+					<seg id="n339">V&af; su&oos;t ng&af;y &oo;ng ta c&uws; l&awj;p &dd;i l&awj;p l&aj;i nh&uw; &oo;ng: "T&oo;i l&af; m&ooj;t ng&uw;&owf;i &dd;&us;ng &dd;&aws;n! T&oo;i 
+l&af; m&ooj;t ng&uw;&owf;i &dd;&us;ng &dd;&aws;n!", v&af; c&as;i &dd;&os; l&af;m &oo;ng ta v&ee;nh vang h&owj;m h&ix;nh.</seg>
+					<seg id="n340">Nh&uw;ng &oo;ng ta &dd;&aa;u c&os; ph&ar;i l&af; ng&uw;&owf;i, &oo;ng ta l&af; m&ooj;t c&as;i n&aas;m!</seg>
+					<seg id="n341">- M&ooj;t c&as;i g&if;?</seg>
+					<seg id="n342">- M&ooj;t c&as;i n&aas;m!</seg>
+				</p>
+				<p>
+					<seg id="n343">&OO;ng ho&af;ng b&es; nh&or; l&us;c n&af;y t&as;i xanh v&if; gi&aaj;n.</seg>
+					<seg id="n344">- &DD;&ax; h&af;ng tri&eej;u n&aw;m nay, hoa l&af;m ra gai.</seg>
+					<seg id="n345">H&af;ng tri&eej;u n&aw;m nay, c&uwf;u v&aax;n c&uws; &aw;n hoa.</seg>
+					<seg id="n346">V&aaj;y m&af; t&if;m hi&eer;u xem v&if; sao hoa l&aj;i c&uws; kh&oor; s&owr; l&af;m ra nh&uwx;ng c&as;i gai v&oo; t&is;ch s&uwj; &aas;y, l&aj;i l&af; chuy&eej;n kh&oo;ng &dd;&us;ng &dd;&aws;n hay sao?</seg>
+					<seg id="n347">Chi&ees;n tranh gi&uwx;a c&uwf;u v&af; hoa l&af; chuy&eej;n kh&oo;ng quan tr&oj;ng  hay sao?</seg>
+					<seg id="n348">Kh&oo;ng &dd;&us;ng &dd;&aws;n h&ow;n, kh&oo;ng quan tr&oj;ng h&ow;n nh&uwx;ng b&af;i t&is;nh c&ooj;ng c&ur;a m&ooj;t c&as;i &oo;ng to t&uw;&ows;ng m&awj;t m&ux;i &dd;&or; gay hay sao?</seg>
+					<seg id="n349">V&af; n&ees;u nh&uw; t&oo;i, t&oo;i bi&ees;t m&ooj;t c&as;i hoa duy nh&aas;t tr&ee;n &dd;&owf;i kh&oo;ng c&os; &owr; &dd;&aa;u ngo&af;i tinh c&aaf;u c&ur;a t&oo;i, th&ees; m&af; m&ooj;t con c&uwf;u nh&or; c&os; th&eer; hu&yr; ho&aj;i n&os; b&awf;ng c&as;ch t&as;p m&ooj;t c&as;i m&af; th&oo;i, v&af;o m&ooj;t bu&oor;i s&as;ng n&af;o &dd;&os;, m&af; kh&oo;ng h&eef; bi&ees;t l&af; m&if;nh v&uwf;a l&af;m c&as;i g&if;, chuy&eej;n &dd;&os; kh&oo;ng quan tr&oj;ng hay sao!</seg>
+				</p>
+				<p>
+					<seg id="n350">Em &dd;&or; m&awj;t r&oof;i n&os;i ti&ees;p:</seg>
+					<seg id="n351">- Khi m&ooj;t ng&uw;&owf;i y&ee;u m&ooj;t &dd;o&as; hoa duy nh&aas;t trong h&af;ng tri&eej;u tri&eej;u ng&oo;i sao, th&if; ch&ir; nh&if;n nh&uwx;ng ng&oo;i sao l&af; &dd;&ur; l&af;m cho anh ta h&aj;nh ph&us;c.</seg>
+					<seg id="n352">Anh ta ngh&ix;: "&DD;o&as; hoa c&ur;a m&if;nh &owr; &dd;&aa;u &dd;&os; tr&ee;n kia..."</seg>
+					<seg id="n353"> Nh&uw;ng n&ees;u con c&uwf;u m&af; &aw;n &dd;o&as; hoa &dd;i, th&if; anh ta s&ex; th&aas;y nh&uw; l&af; t&aas;t c&ar; c&as;c ng&oo;i sao t&uwj; nhi&ee;n t&aws;t l&ij;m!</seg>
+					<seg id="n354">V&af; chuy&eej;n &dd;&os; kh&oo;ng quan tr&oj;ng hay sao!</seg>
+				</p>
+				<p>
+					<seg id="n355">Em ngh&ej;n ng&af;o kh&oo;ng n&os;i &dd;&uw;&owj;c n&uwx;a.</seg>
+					<seg id="n356">Th&oos;t nhi&ee;n em b&aaj;t l&ee;n n&uws;c n&owr;.</seg>
+					<seg id="n357">&DD;&ee;m &dd;&ax; bu&oo;ng xu&oos;ng.</seg>
+					<seg id="n358">T&oo;i &dd;&ax; b&or; c&as;c &dd;&oof; ngh&eef; xu&oos;ng.</seg>
+					<seg id="n359">T&oo;i c&os;c c&aaf;n c&as;i b&us;a c&ur;a t&oo;i, c&as;i &dd;inh &oos;c c&ur;a t&oo;i, c&os;c c&aaf;n c&as;i kh&as;t, c&os;c c&aaf;n c&as;i ch&ees;t.</seg>
+					<seg id="n360">Tr&ee;n m&ooj;t ng&oo;i sao, tr&ee;n m&ooj;t h&af;nh tinh, h&af;nh tinh c&ur;a t&oo;i, tr&as;i &dd;&aas;t, c&os; m&ooj;t &oo;ng ho&af;ng b&es; nh&or; c&aaf;n &dd;&uw;&owj;c an &ur;i!</seg>
+					<seg id="n361"> T&oo;i &oo;m em trong v&of;ng tay.</seg>
+					<seg id="n362">T&oo;i ru em.</seg>
+					<seg id="n363">T&oo;i n&os;i v&ows;i em: "&DD;o&as; hoa m&af; em y&ee;u kh&oo;ng b&ij; nguy &dd;&aa;u...</seg>
+					<seg id="n364">T&oo;i s&ex; v&ex; m&ooj;t c&as;i r&oj; m&ox;m, cho con c&uwf;u c&ur;a em...</seg>
+					<seg id="n365">T&oo;i..."</seg>
+				</p>
+				<p>
+					<seg id="n366">T&oo;i kh&oo;ng bi&ees;t n&os;i v&ows;i em th&ees; n&af;o n&uwx;a.</seg>
+					<seg id="n367">T&oo;i c&ar;m th&aas;y m&if;nh r&aas;t v&uj;ng v&eef;.</seg>
+					<seg id="n368">T&oo;i kh&oo;ng bi&ees;t l&af;m sao v&ows;i t&ows;i &dd;&uw;&owj;c em, &dd;i &dd;&aa;u &dd;&eer; g&awj;p &dd;&uw;&owj;c em...</seg>
+					<seg id="n369">Th&aaj;t huy&eef;n b&is; l&af;m sao, c&as;i x&uws; s&owr; c&ur;a n&uw;&ows;c m&aws;t.</seg>
+				</p>
+			</div>
+			<div>
+				<head>VIII</head>
+				<p>
+					<seg id="n370">T&oo;i &dd;&ax; t&if;m hi&eer;u r&aas;t nhanh &dd;&eer; hi&eer;u h&ow;n v&eef; &dd;o&as; hoa n&af;y.</seg>
+					<seg id="n371">Tr&ee;n tinh c&aaf;u c&ur;a &oo;ng ho&af;ng nh&or;, v&aax;n th&uw;&owf;ng c&os; nh&uwx;ng b&oo;ng hoa r&aas;t &dd;&ow;n gi&ar;n, &dd;i&eer;m trang ch&ir; b&awf;ng m&ooj;t v&of;ng c&as;nh hoa, v&af; ch&awr;ng chi&ees;m bao nhi&ee;u ch&oox;, v&af; ch&awr;ng l&af;m phi&eef;n ai.</seg>
+					<seg id="n372">M&ooj;t bu&oor;i s&as;ng, ch&us;ng hi&eej;n ra trong c&or; r&oof;i l&aj;i h&es;o t&af;n v&af;o chi&eef;u t&oos;i.</seg>
+					<seg id="n373">Nh&uw;ng c&as;i c&aa;y hoa &aas;y, m&ooj;t ng&af;y kia, &dd;&ax; n&ar;y m&aaf;m t&uwf; m&ooj;t c&as;i h&aj;t kh&oo;ng bi&ees;t t&uwf; &dd;&aa;u t&ows;i v&af; &oo;ng ho&af;ng nh&or; &dd;&ax; theo d&ox;i c&as;i m&aaf;m con kh&oo;ng gi&oos;ng v&ows;i c&as;c m&aaf;m con n&af;o kh&as;c.</seg>
+					<seg id="n374">N&os; c&os; th&eer; l&af; m&ooj;t lo&aj;i baobab m&ows;i.</seg>
+					<seg id="n375">Nh&uw;ng c&as;i c&aa;y nh&or; li&eef;n th&oo;i kh&oo;ng l&ows;n l&ee;n n&uwx;a, v&af; b&aws;t &dd;&aaf;u s&uwr;a so&aj;n &dd;&eer; ra hoa.</seg>
+					<seg id="n376">&OO;ng ho&af;ng nh&or; ch&uws;ng ki&ees;n s&uwj; xu&aas;t hi&eej;n m&ooj;t c&as;i n&uj; l&ows;n, c&ar;m th&aas;y r&ox; r&af;ng t&uwf; c&as;i n&uj; n&af;y s&ex; l&ooj; ra m&ooj;t &dd;i&eef;u k&yf; di&eej;u, nh&uw;ng &dd;o&as; hoa v&aax;n c&uws; &dd;i&eer;m trang ho&af;i, n&aas;p k&is;n trong c&aw;n bu&oof;ng xanh c&ur;a n&os;.</seg>
+					<seg id="n377">Hoa ch&uw;a ch&oj;n k&yx; m&aaf;u s&aws;c c&ur;a m&if;nh.</seg>
+					<seg id="n378">Hoa ch&aaj;m r&ax;i trang ph&uj;c, s&uwr;a l&aj;i ngay ng&aws;n t&uwf;ng c&as;nh hoa.</seg>
+					<seg id="n379">Hoa kh&oo;ng mu&oos;n hi&eej;n ra nh&af;u n&as;t nh&uw; c&as;i  m&oof;ng g&af;.</seg>
+					<seg id="n380">Hoa ch&ir; mu&oos;n l&ooj; ra trong s&aws;c h&uw;&ow;ng r&uwj;c r&owx;.</seg>
+					<seg id="n381">&OO;i chao!</seg>
+					<seg id="n382"> Hoa th&aaj;t l&af; &dd;i&eej;u!</seg>
+					<seg id="n383"> Cu&ooj;c trang &dd;i&eer;m huy&eef;n b&is; c&ur;a n&af;ng k&es;o d&af;i t&uwf; ng&af;y n&af;y sang ng&af;y n&oj;.</seg>
+					<seg id="n384">V&af; r&oof;i t&ows;i m&ooj;t s&ows;m mai, &dd;&us;ng gi&owf; m&awj;t tr&owf;i m&oj;c, n&af;ng hi&eej;n ra.</seg>
+				</p>
+				<p>
+					<seg id="n385">V&af; n&af;ng, v&oos;n &dd;&ax; c&oo;ng phu &dd;&ees;n nh&uw; th&ees;, b&aa;y gi&owf; v&uwf;a ng&as;p v&uwf;a n&os;i:</seg>
+					<seg id="n386">- &OO;i! Em ch&ir; v&uwf;a th&uws;c d&aaj;y...Em xin l&oox;i anh...</seg>
+					<seg id="n387">T&os;c tai em c&of;n r&ux; r&uw;&owj;i th&ees; n&af;y...</seg>
+				</p>
+				<p>
+					<seg id="n388">Th&ees; l&af; &oo;ng ho&af;ng nh&or; kh&oo;ng n&es;n n&oor;i s&uwj; ng&uw;&owx;ng m&ooj;:</seg>
+					<seg id="n389">- N&af;ng th&aaj;t l&af; &dd;&ej;p!</seg>
+					<seg id="n390">- Th&aaj;t v&aaj;y sao, - hoa tr&ar; l&owf;i m&ooj;t c&as;ch nh&ej; nh&af;ng - V&af; em l&aj;i c&uf;ng sinh ra v&ows;i v&aaf;ng d&uw;&ow;ng....</seg>
+				</p>
+				<p>
+					<seg id="n391">&OO;ng ho&af;ng nh&or; bi&ees;t ngay c&oo; n&af;ng kh&oo;ng l&aas;y g&if; l&af;m ki&ee;m t&oos;n l&aws;m, nh&uw;ng n&af;ng th&aaj;t l&af; d&eex; th&uw;&ow;ng!</seg>
+					<seg id="n392">- &DD;&ax; &dd;&ees;n gi&owf; &dd;i&eer;m t&aa;m, c&os; ph&ar;i anh kh&oo;ng, - n&af;ng n&os;i th&ee;m ngay sau &dd;&os;, - xin anh h&ax;y nh&ows; &dd;&ees;n em....</seg>
+				</p>
+				<p>
+					<seg id="n393">Th&ees; l&af; &oo;ng ho&af;ng nh&or;, &dd;&aaf;y x&aas;u h&oor;, &dd;i t&if;m m&ooj;t chi&ees;c th&uf;ng t&uw;&ows;i &dd;&aaf;y n&uw;&ows;c m&as;t v&af; t&uw;&ows;i cho b&oo;ng hoa.</seg>
+				</p>
+				<p>
+					<seg id="n394">Nh&uw; v&aaj;y &dd;&aas;y, c&oo; n&af;ng &dd;&ax; nhanh ch&os;ng l&af;m cho c&aaj;u em lo ngh&ix; v&ows;i t&is;nh ki&ee;u k&yf; h&ow;i u &as;m c&ur;a c&oo;.</seg>
+					<seg id="n395">Ch&awr;ng h&aj;n m&ooj;t h&oo;m, c&oo; &dd;&ax; n&os;i v&ows;i &oo;ng ho&af;ng nh&or; v&eef; b&oos;n c&as;i gai c&ur;a m&if;nh:</seg>
+					<seg id="n396">- Ch&us;ng c&os; th&eer; t&ows;i &dd;&aa;y, b&oj;n h&oor; &aas;y, v&ows;i m&os;ng vu&oos;t c&ur;a ch&us;ng.</seg>
+					<seg id="n397">- Tr&ee;n tinh c&aaf;u c&ur;a anh kh&oo;ng c&os; h&oor;, &oo;ng ho&af;ng nh&or; nh&aaj;n x&es;t.</seg>
+					<seg id="n398">V&ar; l&aj;i, h&oor; &dd;&aa;u c&os; &aw;n c&or;.</seg>
+					<seg id="n399">- Em &dd;&aa;u ph&ar;i l&af; c&or;, b&oo;ng hoa n&os;i nh&ej; nh&af;ng.</seg>
+					<seg id="n400">- Xin l&oox;i...</seg>
+					<seg id="n401">- Em ch&awr;ng s&owj; g&if; h&oor;, nh&uw;ng em khi&ees;p gi&os; lu&oof;n.</seg>
+					<seg id="n402">Anh c&os; m&ooj;t t&aas;m ch&aws;n gi&os; n&af;o kh&oo;ng?</seg>
+				</p>
+				<p>
+					<seg id="n403">"Khi&ees;p gi&os; lu&oof;n...</seg>
+					<seg id="n404">&dd;&oos;i v&ows;i m&ooj;t c&aa;y nh&or; th&ees; l&af; kh&oo;ng hay, &oo;ng ho&af;ng nh&or; nh&aaj;n x&es;t.</seg>
+					<seg id="n405">C&oo; n&af;ng n&af;y th&aaj;t ph&uws;c t&aj;p..."</seg>
+					<seg id="n406">- Chi&eef;u t&oos;i anh h&ax;y &dd;&awj;t em trong b&aaf;u k&is;nh nh&es;.</seg>
+					<seg id="n407">Ch&oox; anh r&es;t l&aws;m.</seg>
+					<seg id="n408">Thi&ees;u ti&eej;n nghi qu&as;.</seg>
+					<seg id="n409">&OWR; ch&oox; em...</seg>
+				</p>
+				<p>
+					<seg id="n410">Nh&uw;ng c&oo; n&af;ng im b&awj;t.</seg>
+					<seg id="n411">C&oo; &dd;&ees;n &dd;&aa;y l&us;c h&ax;y c&of;n l&af; h&aj;t.</seg>
+					<seg id="n412">C&oo; ch&awr;ng th&eer; hi&eer;u &dd;&uw;&owj;c g&if; v&eef; c&as;c th&ees; gi&ows;i kh&as;c.</seg>
+					<seg id="n413">Ng&uw;&owj;ng v&if; tr&os;t &dd;&eer; l&ooj; l&af; m&if;nh b&oos;c ph&es;t m&ooj;t c&as;ch ng&aa;y ng&oo; qu&as; nh&uw; th&ees;, c&oo; h&us;ng h&aws;ng ho hai ba l&uw;&owj;t &dd;&eer; d&oof;n &oo;ng ho&af;ng nh&or; v&af;o l&us;ng t&us;ng:</seg>
+					<seg id="n414">- C&as;i ch&aws;n gi&os;, anh c&os; kh&oo;ng?...</seg>
+					<seg id="n415">- Anh &dd;&ax; &dd;&ij;nh &dd;i l&aas;y th&if; em b&aws;t &dd;&aaf;u n&os;i!</seg>
+				</p>
+				<p>
+					<seg id="n416">Th&ees; l&af; c&oo; n&af;ng c&oos; ho m&aj;nh h&ow;n n&uwx;a &dd;&eer; b&aws;t bu&ooj;c c&aaj;u ph&ar;i nh&aaj;n l&oox;i.</seg>
+				</p>
+				<p>
+					<seg id="n417">V&aaj;y m&af; &oo;ng ho&af;ng nh&or;, b&owr;i v&if; &ys; t&oos;t c&ur;a t&if;nh y&ee;u, v&aax;n &dd;&oos;i x&uwr; v&ows;i c&oo; r&aas;t t&oos;t.</seg>
+					<seg id="n418">Ch&af;ng &dd;&ax; ngh&ix; ng&owj;i nghi&ee;m trang v&eef; nh&uwx;ng l&owf;i n&os;i v&ows; v&aar;n c&ur;a n&af;ng, v&af; tr&owr; n&ee;n kh&oor; s&owr; l&aws;m.</seg>
+				</p>
+				<p>
+					<seg id="n419">"&DD;&as;ng l&ex; t&oo;i kh&oo;ng n&ee;n nghe, m&ooj;t h&oo;m c&aaj;u em th&us; nh&aaj;n v&ows;i t&oo;i, kh&oo;ng bao gi&owf; n&ee;n nghe lo&af;i hoa c&ar;.</seg>
+					<seg id="n420">Ch&ir; n&ee;n nh&if;n ch&us;ng v&af; th&owr; h&uw;&ow;ng th&ow;m c&ur;a ch&us;ng th&oo;i.</seg>
+					<seg id="n421">C&as;i hoa c&ur;a t&oo;i l&af;m th&ow;m ng&as;t tinh c&aaf;u c&ur;a t&oo;i, nh&uw;ng t&oo;i l&aj;i kh&oo;ng bi&ees;t vui l&of;ng.</seg>
+					<seg id="n422">C&aa;u chuy&eej;n m&os;ng vu&oos;t &aas;y &dd;&as;ng l&ex; l&af;m cho t&oo;i c&ar;m &dd;&ooj;ng th&if; t&oo;i l&aj;i b&uwj;c..."</seg>
+				</p>
+				<p>
+					<seg id="n423">C&aaj;u c&of;n th&us; nh&aaj;n v&ows;i t&oo;i:</seg>
+				</p>
+				<p>
+					<seg id="n424">"Ng&af;y &aas;y, t&oo;i ch&awr;ng bi&ees;t c&as;ch hi&eer;u.</seg>
+					<seg id="n425">&DD;&as;ng l&ex; t&oo;i ph&ar;i x&es;t &dd;o&as;n n&af;ng tr&ee;n vi&eej;c l&af;m ch&uws; kh&oo;ng ph&ar;i b&awf;ng l&owf;i n&os;i.</seg>
+					<seg id="n426">N&af;ng to&ar; th&ow;m t&oo;i, l&af;m cho t&oo;i s&as;ng r&uwj;c l&ee;n.</seg>
+					<seg id="n427">&DD;&as;ng l&ex; t&oo;i kh&oo;ng bao gi&owf; n&ee;n b&or; &dd;i c&ar;.</seg>
+					<seg id="n428">&DD;&as;ng l&ex; t&oo;i ph&ar;i th&aas;y &dd;&uw;&owj;c c&as;i d&ij;u hi&eef;n c&ur;a n&af;ng &dd;&awf;ng sau m&oj;i &dd;&of;i h&or;i &dd;&as;ng th&uw;&ow;ng &aas;y.</seg>
+					<seg id="n429">Lo&af;i hoa th&uw;&owf;ng hay m&aa;u thu&aax;n!</seg>
+					<seg id="n430"> Nh&uw;ng b&aas;y gi&owf; t&oo;i c&of;n qu&as; tr&er; &dd;&eer; m&af; bi&ees;t y&ee;u n&af;ng."</seg>
+				</p>
+			</div>
+			<div>
+				<head>IX</head>
+				<p>
+					<seg id="n431">T&oo;i &dd;o&as;n r&awf;ng em nh&owf; v&af;o m&ooj;t chuy&ees;n thi&ee;n di c&ur;a lo&af;i chim hoang &dd;&eer; m&af; tho&as;t &dd;i.</seg>
+					<seg id="n432">Bu&oor;i s&as;ng h&oo;m ra &dd;i, em &dd;&ax; d&oj;n d&ej;p tinh c&aaf;u th&aaj;t ng&aw;n n&aws;p.</seg>
+					<seg id="n433">Em n&aj;o v&es;t k&yx; c&af;ng c&as;c qu&ar; n&us;i l&uwr;a &dd;ang ho&aj;t &dd;&ooj;ng c&ur;a em.</seg>
+					<seg id="n434">Em c&os; hai qu&ar; n&us;i l&uwr;a &dd;ang ho&aj;t &dd;&ooj;ng.</seg>
+					<seg id="n435">V&af; ch&us;ng r&aas;t thu&aaj;n ti&eej;n cho vi&eej;c n&aas;u &aw;n bu&oor;i s&as;ng.</seg>
+					<seg id="n436">Em c&ux;ng c&os; m&ooj;t qu&ar; n&us;i l&uwr;a &dd;&ax; t&aws;t...</seg>
+					<seg id="n437">Nh&uw;ng, nh&uw; l&owf;i em n&os;i: "Bi&ees;t &dd;&aa;u &dd;&aas;y!"</seg>
+					<seg id="n438"> n&ee;n em c&ux;ng n&aj;o v&es;t c&ar; qu&ar; n&us;i l&uwr;a &dd;&ax; t&aws;t n&uwx;a.</seg>
+					<seg id="n439">&DD;&uw;&owj;c n&aj;o v&es;t k&yx;, c&as;c qu&ar; n&us;i l&uwr;a s&ex; ch&as;y &dd;&or; v&af; &dd;&eef;u, kh&oo;ng c&os; phun tr&af;o.</seg>
+					<seg id="n440">C&as;c tr&aaj;n phun tr&af;o c&ur;a n&us;i l&uwr;a c&ux;ng gi&oos;ng nh&uw; l&uwr;a trong l&of; s&uw;&owr;i.</seg>
+					<seg id="n441">T&aas;t nhi&ee;n l&af; tr&ee;n tr&as;i &dd;&aas;t c&ur;a ch&us;ng ta, ch&us;ng ta th&aaj;t nh&or; b&es; qu&as;, kh&oo;ng n&aj;o v&es;t &dd;&uw;&owj;c c&as;c qu&ar; n&us;i l&uwr;a c&ur;a m&if;nh.</seg>
+					<seg id="n442">Cho n&ee;n ch&us;ng g&aa;y cho ta nhi&eef;u &dd;i&eef;u phi&eef;n ph&uws;c.</seg>
+				</p>
+				<p>
+					<seg id="n443">&OO;ng ho&af;ng nh&or; c&ux;ng nh&oor;, v&ows;i m&ooj;t ch&us;t ng&aaj;m ng&uf;i, nh&uwx;ng c&as;i m&aaf;m v&uwf;a nh&us; c&ur;a b&oj;n baobab.</seg>
+					<seg id="n444">Em &dd;&ax; ngh&ix; r&awf;ng m&if;nh s&ex; kh&oo;ng bao gi&owf; v&eef; n&uwx;a.</seg>
+					<seg id="n445">Nh&uw;ng m&oj;i vi&eej;c quen thu&ooj;c n&af;y bu&oor;i s&as;ng h&oo;m nay sao &dd;&oos;i v&ows;i em th&aaj;t v&oo; c&uf;ng &ee;m &dd;&eef;m.</seg>
+					<seg id="n446">V&af;, khi em t&uw;&ows;i hoa l&aaf;n cu&oos;i, v&af; s&uwr;a so&aj;n &dd;&aaj;y n&af;ng trong l&oof;ng k&is;nh, em c&ar;m th&aas;y mu&oos;n kh&os;c.</seg>
+					<seg id="n447">- V&ix;nh bi&eej;t, em n&os;i v&ows;i hoa.</seg>
+				</p>
+				<p>
+					<seg id="n448">Nh&uw;ng n&af;ng kh&oo;ng &dd;&as;p.</seg>
+				</p>
+				<p>
+					<seg id="n449">- V&ix;nh bi&eej;t, em nh&aws;c l&aj;i.</seg>
+				</p>
+				<p>
+					<seg id="n450">	Hoa ho l&ee;n.</seg>
+					<seg id="n451">Nh&uw;ng kh&oo;ng ph&ar;i v&if; vi&ee;m h&oj;ng.</seg>
+					<seg id="n452">- Em &dd;&ax; kh&owf; d&aj;i l&aws;m, sau c&uf;ng c&oo; n&os;i.</seg>
+					<seg id="n453">Anh tha l&oox;i cho em.</seg>
+					<seg id="n454">H&ax;y c&oos; g&aws;ng m&af; s&oos;ng h&aj;nh ph&us;c.</seg>
+				</p>
+				<p>
+					<seg id="n455">&OO;ng ho&af;ng nh&or; ng&aj;c nhi&ee;n v&if; kh&oo;ng th&aas;y n&af;ng tr&as;ch m&os;c.</seg>
+					<seg id="n456">Em &dd;&uws;ng s&uwx;ng, tay c&aaf;m nguy&ee;n c&as;i b&aaf;u k&is;nh.</seg>
+					<seg id="n457">Em kh&oo;ng hi&eer;u &dd;&uw;&owj;c v&er; d&ij;u d&af;ng b&if;nh t&ix;nh &aas;y c&ur;a n&af;ng.</seg>
+					<seg id="n458">- V&aa;ng, em y&ee;u anh, hoa n&os;i v&ows;i em.</seg>
+					<seg id="n459">Anh kh&oo;ng bi&ees;t g&if; c&ar;, &aas;y l&af; l&oox;i t&aj;i em.</seg>
+					<seg id="n460">&DD;i&eef;u &aas;y kh&oo;ng quan tr&oj;ng.</seg>
+					<seg id="n461">Nh&uw;ng anh, anh c&ux;ng kh&owf; d&aj;i nh&uw; em.</seg>
+					<seg id="n462">H&ax;y c&oos; g&aws;ng m&af; s&oos;ng h&aj;nh ph&us;c...</seg>
+					<seg id="n463">Anh b&or; c&as;i b&aaf;u k&is;nh &dd;&os; xu&oos;ng &dd;i.</seg>
+					<seg id="n464">Em kh&oo;ng c&aaf;n &dd;&aa;u...</seg>
+					<seg id="n465">- Th&ees; gi&os;...</seg>
+					<seg id="n466">- Em kh&oo;ng hay b&ij; c&ar;m nhi&eef;u th&ees; &dd;&aa;u...</seg>
+					<seg id="n467">Gi&os; m&as;t ban &dd;&ee;m t&oos;t cho em l&aws;m.</seg>
+					<seg id="n468">Em l&af; m&ooj;t c&as;i hoa m&af;.</seg>
+					<seg id="n469">- Nh&uw;ng b&oj;n th&us;...</seg>
+					<seg id="n470">- Ch&aws;c em ph&ar;i ch&ij;u &dd;&uwj;ng v&af;i ba con s&aa;u n&ees;u em mu&oos;n bi&ees;t b&uw;&ow;m b&uw;&ows;m l&af; th&ees; n&af;o.</seg>
+					<seg id="n471">H&if;nh nh&uw; l&ux; b&uw;&ows;m &aas;y th&aaj;t l&af; &dd;&ej;p.</seg>
+					<seg id="n472">N&ees;u kh&oo;ng ai s&ex; vi&ees;ng th&aw;m em?</seg>
+					<seg id="n473"> Anh s&ex; &dd;i xa.</seg>
+					<seg id="n474">C&of;n b&oj;n th&us; d&uwx;, em kh&oo;ng s&owj;.</seg>
+					<seg id="n475">Em c&os; m&os;ng vu&oos;t c&ur;a em.</seg>
+				</p>
+				<p>
+					<seg id="n476">N&af;ng ng&aa;y th&ow; ch&if;a ra b&oos;n c&as;i gai c&ur;a m&if;nh.</seg>
+					<seg id="n477">R&oof;i n&af;ng n&os;i th&ee;m:</seg>
+					<seg id="n478">- &DD;&uwf;ng ch&aaf;n ch&owf; nh&uw; v&aaj;y n&uwx;a, kh&os; ch&ij;u l&aws;m.</seg>
+					<seg id="n479">Anh &dd;&ax; quy&ees;t ra &dd;i m&af;.</seg>
+					<seg id="n480">H&ax;y &dd;i &dd;i anh.</seg>
+				</p>
+				<p>
+					<seg id="n481">B&owr;i v&if; n&af;ng kh&oo;ng mu&oos;n em nh&if;n th&aas;y n&af;ng kh&os;c.</seg>
+					<seg id="n482">&DD;&os; l&af; m&ooj;t &dd;o&as; hoa v&oo; c&uf;ng ki&ee;u h&ax;nh...</seg>
+				</p>
+			</div>
+			<div>
+				<head>X</head>
+				<p>
+					<seg id="n483">C&aaj;u em &dd;&ax; &dd;i qua v&uf;ng c&os; c&as;c ti&eer;u tinh c&aaf;u 325, 326, 327, 328, 329 v&af; 330.</seg>
+					<seg id="n484">Em b&aws;t &dd;&aaf;u &dd;i th&aw;m c&as;c ti&eer;u tinh c&aaf;u &aas;y &dd;&eer; ki&ees;m vi&eej;c v&af; &dd;&eer; h&oj;c h&or;i.</seg>
+				</p>
+				<p>
+					<seg id="n485">Ti&eer;u tinh c&aaf;u th&uws; nh&aas;t c&os; m&ooj;t &oo;ng vua &owr;.</seg>
+					<seg id="n486">Nh&af; vua m&awj;c &as;o &dd;&or; t&is;a &dd;&is;nh l&oo;ng th&us;, ng&uwj; tr&ee;n m&ooj;t c&as;i ngai v&af;ng th&aaj;t gi&ar;n d&ij; nh&uw;ng &dd;&oof;ng th&owf;i c&ux;ng th&aaj;t uy nghi.</seg>
+					<seg id="n487">- &AF;!</seg>
+					<seg id="n488"> &DD;&aa;y l&af; m&ooj;t th&aaf;n d&aa;n! Nh&af; vua k&ee;u l&ee;n khi th&aas;y &oo;ng ho&af;ng nh&or;.</seg>
+				</p>
+				<p>
+					<seg id="n489">V&af; &oo;ng ho&af;ng b&es; t&uwj; h&or;i:</seg>
+					<seg id="n490">- L&af;m sao &oo;ng ta nh&aaj;n &dd;&uw;&owj;c ra m&if;nh khi m&af; ch&uw;a g&awj;p m&if;nh bao gi&owf; nh&ir;!</seg>
+				</p>
+				<p>
+					<seg id="n491">Em kh&oo;ng bi&ees;t r&awf;ng, &dd;&oos;i v&ows;i c&as;c b&aaj;c &dd;&ees; v&uw;&ow;ng, th&ees; gi&ows;i &dd;&ow;n gi&ar;n l&aws;m.</seg>
+					<seg id="n492">T&aas;t c&ar; m&oj;i ng&uw;&owf;i &dd;&eef;u l&af; th&aaf;n d&aa;n.</seg>
+					<seg id="n493">- ng&uw;&ow;i h&ax;y &dd;&ees;n g&aaf;n cho ta nh&if;n ng&uw;&ow;i &dd;&uw;&owj;c k&yx;, nh&af; vua n&os;i v&ows;i em, ng&af;i r&aas;t kho&as;i &dd;&uw;&owj;c l&af;m vua v&ows;i m&ooj;t ng&uw;&owf;i n&af;o &dd;&os;.</seg>
+				</p>
+				<p>
+					<seg id="n494">&OO;ng ho&af;ng nh&or; &dd;&uw;a m&aws;t t&if;m ch&oox; ng&oof;i, nh&uw;ng c&ar; tinh c&aaf;u &dd;&ax; b&ij; c&as;i &as;o cho&af;ng l&oo;ng th&us; tuy&eej;t &dd;&ej;p cho&as;n h&ees;t ch&oox;.</seg>
+					<seg id="n495">Em &dd;&af;nh ph&ar;i &dd;&uws;ng, v&af;, v&if; nh&oj;c qu&as;, em ng&as;p m&ooj;t c&as;i.</seg>
+					<seg id="n496">- &DD;&uws;ng tr&uw;&ows;c m&ooj;t b&aaj;c &dd;&ees; v&uw;&ow;ng m&af; ng&as;p l&af; v&oo; l&eex;, vua ph&as;n.</seg>
+					<seg id="n497">Ta c&aas;m ng&uw;&ow;i ng&as;p.</seg>
+					<seg id="n498">- Ch&ir; v&if; t&oo;i kh&oo;ng gi&uwx; &dd;&uw;&owj;c &aj;! </seg>
+					<seg id="n499">&OO;ng ho&af;ng nh&or; r&aas;t ng&uw;&owj;ng &dd;&as;p l&aj;i.</seg>
+					<seg id="n500">T&oo;i t&uwf; xa &dd;&ees;n &dd;&aa;y m&af; ch&uw;a &dd;&uw;&owj;c ng&ur;...</seg>
+					<seg id="n501">- Th&ees; th&if;, vua ph&as;n, ta ra l&eej;nh cho ng&uw;&ow;i ng&as;p.</seg>
+					<seg id="n502">Bao nhi&ee;u n&aw;m nay, ta ch&uw;a &dd;&uw;&owj;c th&aas;y ai ng&as;p.</seg>
+					<seg id="n503">Nh&uwx;ng c&as;i ng&as;p &dd;&oos;i v&ows;i ta l&af; c&as;i l&aj; &dd;&aas;y.</seg>
+					<seg id="n504">Ng&uw;&ow;i ng&as;p n&uwx;a &dd;i.</seg>
+					<seg id="n505">&DD;&os; l&af; l&eej;nh ta.</seg>
+					<seg id="n506">- C&as;i n&af;y kh&os; qu&as;...t&oo;i kh&oo;ng ng&as;p &dd;&uw;&owj;c n&uwx;a...</seg>
+					<seg id="n507">&OO;ng ho&af;ng nh&or; n&os;i, m&awj;t &dd;&or; b&uwf;ng.</seg>
+					<seg id="n508">- H&uwf;m! H&uwf;m! Vua &dd;&as;p.</seg>
+					<seg id="n509">Th&ees; th&if; ta ra l&eej;nh cho ng&uw;&ow;i khi th&if; ng&as;p khi th&if;...</seg>
+				</p>
+				<p>
+					<seg id="n510">Nh&af; vua h&ow;i l&us;ng t&us;ng v&af; c&os; v&er; ph&aaj;t &ys;.</seg>
+				</p>
+				<p>
+					<seg id="n511">V&if; vua ch&us; tr&oj;ng nh&aas;t l&af; uy quy&eef;n c&ur;a m&if;nh ph&ar;i &dd;&uw;&owj;c tu&aa;n theo.</seg>
+					<seg id="n512">Ng&af;i kh&oo;ng tha th&uws; &dd;&uw;&owj;c s&uwj; tr&as;i l&eej;nh.</seg>
+					<seg id="n513">&DD;&os; l&af; m&ooj;t nh&af; vua chuy&ee;n ch&ees;.</seg>
+					<seg id="n514">Nh&uw;ng, v&if; ng&af;i r&aas;t t&oos;t b&uj;ng, n&ee;n ch&ir; ra nh&uwx;ng c&as;i l&eej;nh h&owj;p l&ys; th&oo;i.</seg>
+				</p>
+				<p>
+					<seg id="n515">Ng&af;i th&uw;&owf;ng ph&as;n: "N&ees;u ta m&af; ra l&eej;nh cho m&ooj;t v&ox; t&uw;&ows;ng ph&ar;i bi&ees;n th&af;nh chim bi&eer;n, v&af; v&ox; t&uw;&ows;ng &aas;y ch&awr;ng tu&aa;n l&eej;nh ta, th&if; &aas;y kh&oo;ng ph&ar;i l&af; l&oox;i c&ur;a v&ox; t&uw;&ows;ng &dd;&os;.</seg>
+					<seg id="n516">&AAS;y l&af; l&oox;i c&ur;a ta."</seg>
+					<seg id="n517">- T&oo;i ng&oof;i &dd;&uw;&owj;c kh&oo;ng &aj;? &OO;ng ho&af;ng nh&or; r&uj;t r&ef; h&or;i.</seg>
+					<seg id="n518">- Ta l&eej;nh cho ng&uw;&ow;i ng&oof;i, vua &dd;&as;p l&aj;i, v&uwf;a uy nghi k&es;o m&ooj;t v&aj;t &as;o cho&af;ng l&oo;ng th&us; l&ee;n.</seg>
+				</p>
+				<p>
+					<seg id="n519">Nh&uw;ng &oo;ng ho&af;ng b&es; nh&or; l&aas;y l&af;m kinh ng&aj;c.</seg>
+					<seg id="n520">C&as;i h&af;nh tinh th&aaj;t l&af; b&es;.</seg>
+					<seg id="n521">&DD;&uws;c vua c&os; th&eer; tr&ij; v&if; tr&ee;n c&as;i g&if; &owr; &dd;&aa;y?</seg>
+					<seg id="n522">- T&aa;u b&eej; h&aj;, em n&os;i, c&us;i xin b&eej; h&aj; cho t&oo;i &dd;&uw;&owj;c h&or;i...</seg>
+					<seg id="n523">- Ta ra l&eej;nh cho ng&uw;&ow;i h&or;i, vua v&ooj;i v&af;ng n&os;i.</seg>
+					<seg id="n524">- T&aa;u b&eej; h&aj;, ng&af;i tr&ij; v&if; tr&ee;n c&as;i g&if;?</seg>
+					<seg id="n525">- Tr&ee;n t&aas;t c&ar;.</seg>
+					<seg id="n526">Nh&af; vua &dd;&as;p, h&ees;t s&uws;c gi&ar;n d&ij;.</seg>
+					<seg id="n527">- Tr&ee;n t&aas;t c&ar;?</seg>
+				</p>
+				<p>
+					<seg id="n528">&DD;&uws;c vua ph&as;c m&ooj;t c&uwr; ch&ir; d&uws;t kho&as;t ch&ir; c&as;i h&af;nh tinh c&ur;a m&if;nh, c&as;c h&af;nh tinh kh&as;c v&af; c&as;c ng&oo;i sao.</seg>
+					<seg id="n529">- Tr&ee;n t&aas;t c&ar; nh&uwx;ng c&as;i &dd;&os;? &OO;ng ho&af;ng nh&or; h&or;i.</seg>
+					<seg id="n530">- Tr&ee;n t&aas;t c&ar; nh&uwx;ng c&as;i &dd;&os;...</seg>
+					<seg id="n531">&dd;&uws;c vua tr&ar; l&owf;i.</seg>
+					<seg id="n532">B&owr;i v&if; &dd;&os; kh&oo;ng ph&ar;i l&af; m&ooj;t v&ij; vua chuy&ee;n ch&ees; m&af; c&of;n l&af; m&ooj;t v&ij; vua to&af;n n&aw;ng.</seg>
+					<seg id="n533">- C&as;c ng&oo;i sao c&os; tu&aa;n l&eej;nh b&eej; h&aj; kh&oo;ng?</seg>
+					<seg id="n534">- Ch&aws;c ch&aws;n r&oof;i, vua tr&ar; l&owf;i em.</seg>
+					<seg id="n535">Ch&us;ng l&aaj;p t&uws;c tu&aa;n l&eej;nh.</seg>
+					<seg id="n536">Tr&aax;m kh&oo;ng dung th&uws; s&uwj; tr&as;i l&owf;i.</seg>
+				</p>
+				<p>
+					<seg id="n537">M&ooj;t quy&eef;n l&uwj;c nh&uw; th&ees; l&af;m cho &oo;ng ho&af;ng nh&or; th&is;ch m&ee;.</seg>
+					<seg id="n538">N&ees;u em m&af; c&os; quy&eef;n l&uwj;c &aas;y, em c&os; th&eer; m&awj;c s&uws;c m&af; ng&aws;m, kh&oo;ng ph&ar;i l&af; b&oos;n m&uw;&ow;i b&oos;n, m&af; &dd;&ees;n b&ar;y m&uw;&ow;i hai, &dd;&ees;n m&ooj;t tr&aw;m, &dd;&ees;n c&ar; hai tr&aw;m c&ar;nh m&awj;t tr&owf;i l&awj;n trong m&ooj;t ng&af;y, m&af; ch&awr;ng ph&ar;i x&ee; d&ij;ch gh&ees; ng&oof;i.</seg>
+					<seg id="n539">R&oof;i em c&ar;m th&aas;y h&ow;i bu&oof;n v&if; ch&owj;t ngh&ix; &dd;&eex;n c&as;i tinh c&aaf;u nh&or; b&ij; b&or; r&ow;i c&ur;a m&if;nh, em &dd;&as;nh b&aj;o xin nh&af; vua m&ooj;t &aa;n hu&eej;:</seg>
+					<seg id="n540">- T&oo;i mu&oos;n &dd;&uw;&owj;c xem c&ar;nh m&awj;t tr&owf;i l&awj;n...</seg>
+					<seg id="n541">xin b&eej; h&aj; h&ax;y l&af;m t&oo;i vui l&of;ng, h&ax;y ra l&eej;nh cho m&awj;t tr&owf;i l&awj;n...</seg>
+					<seg id="n542">- N&ees;u ta ra l&eej;nh cho m&ooj;t v&ox; t&uw;&ows;ng bay t&uwf; &dd;o&as; hoa n&af;y sang &dd;o&as; hoa kia nh&uw; m&ooj;t con b&uw;&ows;m, hay l&eej;nh cho &oo;ng ta vi&ees;t m&ooj;t v&owr; bi k&ij;ch, hay bi&ees;n th&af;nh chim bi&eer;n, v&af; n&ees;u v&ij; v&ox; t&uw;&ows;ng &aas;y kh&oo;ng tu&aa;n l&eej;nh, th&if; l&oox;i &aas;y &owr; &oo;ng ta hay &owr; ta?</seg>
+					<seg id="n543">- &OWR; b&eej; h&aj;, &oo;ng ho&af;ng nh&or; qu&ar; quy&ees;t.</seg>
+					<seg id="n544">- &DD;&us;ng.</seg>
+					<seg id="n545">Ph&ar;i cho m&oox;i ng&uw;&owf;i l&af;m vi&eej;c ng&uw;&owf;i &dd;&os; c&os; th&eer; l&af;m, &dd;&uws;c vua nh&aws;c l&aj;i.</seg>
+					<seg id="n546">Quy&eef;n l&uwj;c tr&uw;&ows;c h&ees;t ph&ar;i d&uwj;a tr&ee;n l&ex; ph&ar;i.</seg>
+					<seg id="n547">N&ees;u nh&af; ng&uw;&ow;i ra l&eej;nh cho th&aaf;n d&aa;n c&ur;a m&if;nh nh&ar;y xu&oos;ng b&eer;, h&oj; s&ex; l&af;m c&as;ch m&aj;ng.</seg>
+					<seg id="n548">Ta c&os; quy&eef;n bu&ooj;c tu&aa;n l&eej;nh ta v&if; m&oj;i l&eej;nh ta &dd;&eef;u h&owj;p l&ys;.</seg>
+					<seg id="n549">- Th&ees; c&ar;nh m&awj;t tr&owf;i l&awj;n c&ur;a t&oo;i th&if; sao?</seg>
+					<seg id="n550"> &OO;ng ho&af;ng nh&or; v&oos;n &dd;&ax; &dd;&awj;t ra c&aa;u h&or;i th&if; kh&oo;ng bao gi&owf; qu&ee;n, h&or;i l&aj;i.</seg>
+					<seg id="n551">- C&ar;nh m&awj;t tr&owf;i l&awj;n c&ur;a ng&uw;&ow;i, ng&uw;&ow;i s&ex; c&os;.</seg>
+					<seg id="n552">Ta mu&oos;n th&ees;.</seg>
+					<seg id="n553">Nh&uw;ng trong khoa h&oj;c cai tr&ij; c&ur;a ta, ta ph&ar;i ch&owf; &dd;&ees;n l&us;c &dd;&ur; m&oj;i &dd;i&eef;u ki&eej;n.</seg>
+					<seg id="n554">- &DD;&ees;n bao gi&owf; th&if; &dd;&ur;? &OO;ng ho&af;ng nh&or; h&or;i.</seg>
+					<seg id="n555">- &uwf;m! &uwf;m! Nh&af; vua n&os;i, tho&aj;t ti&ee;n tra m&ooj;t cu&oos;n l&ij;ch to t&uw;&ows;ng, &uwf;m! &uwf;m! </seg>
+					<seg id="n556">V&af;o l&us;c...</seg>
+					<seg id="n557">kho&ar;ng...kho&ar;ng...</seg>
+					<seg id="n558">V&af;o l&us;c chi&eef;u nay, kho&ar;ng b&ar;y gi&owf; b&oos;n m&uw;&ow;i ph&us;t! Nh&af; ng&uw;&ow;i s&ex; th&aas;y &dd;&uw;&owj;c l&eej;nh ta &dd;&uw;&owj;c tu&aa;n th&ur;.</seg>
+				</p>
+				<p>
+					<seg id="n559">&OO;ng ho&af;ng nh&or; ng&as;p.</seg>
+					<seg id="n560">Em ti&ees;c cho c&ar;nh m&awj;t tr&owf;i l&awj;n h&uj;t c&ur;a em.</seg>
+					<seg id="n561">V&af; r&oof;i em c&ux;ng h&ow;i th&aas;y ch&as;n:</seg>
+					<seg id="n562">- T&oo;i ch&awr;ng c&os; g&if; l&af;m &owr; &dd;&aa;y n&uwx;a, em n&os;i v&ows;i nh&af; vua, t&oo;i s&ex; &dd;i.</seg>
+					<seg id="n563">- Ng&uw;&ow;i ch&ows; &dd;i, nh&af; vua v&uwf;a m&ows;i ki&ee;u h&ax;nh xi&ees;t bao v&if; c&os; &dd;&uw;&owj;c m&ooj;t th&aaf;n d&aa;n, &dd;&as;p l&owf;i &oo;ng ho&af;ng nh&or;.</seg>
+					<seg id="n564">Ch&ows; &dd;i, ta phong ng&uw;&ow;i l&af;m th&uw;&owj;ng th&uw;!</seg>
+					<seg id="n565">- Th&uw;&owj;ng th&uw; b&ooj; g&if;?</seg>
+					<seg id="n566">- B&ooj;...b&ooj; t&uw; ph&as;p!</seg>
+					<seg id="n567">- Nh&uw;ng c&os; ai &dd;&eer; x&es;t x&uwr; &dd;&aa;u &aj;!</seg>
+					<seg id="n568">- Ch&uw;a th&eer; bi&ees;t, vua n&os;i v&ows;i &oo;ng ho&af;ng nh&or;.</seg>
+					<seg id="n569">Ta ch&uw;a &dd;i tu&aaf;n tra kh&aws;p v&uw;&ow;ng qu&oos;c c&ur;a ta.</seg>
+					<seg id="n570">Ta gi&af; qu&as; r&oof;i, kh&oo;ng c&os; &dd;&ur; ch&oox; &dd;&eer; m&ooj;t c&oox; xa gi&as; cho ta, m&af; &dd;i b&ooj; th&if; ta nh&oj;c l&aws;m.</seg>
+					<seg id="n571">- &OOF;! Nh&uw;ng t&oo;i &dd;&ax; nh&if;n th&aas;y, &oo;ng ho&af;ng nh&or; nghi&ee;ng m&if;nh nh&if;n sang ph&is;a b&ee;n kia c&ur;a h&af;nh tinh.</seg>
+					<seg id="n572">B&ee;n kia c&ux;ng ch&awr;ng c&os; ai &dd;&aa;u &aj;...</seg>
+					<seg id="n573">- Th&ees; th&if; ng&uw;&ow;i h&ax;y t&uwj; x&es;t x&uwr; l&aas;y m&if;nh &dd;i, &dd;&uws;c vua &dd;&as;p l&aj;i em.</seg>
+					<seg id="n574">&DD;&os; l&af; &dd;i&eef;u kh&os; nh&aas;t.</seg>
+					<seg id="n575">X&es;t m&if;nh kh&os; h&ow;n x&es;t ng&uw;&owf;i nhi&eef;u.</seg>
+					<seg id="n576">N&ees;u ng&uw;&ow;i x&es;t &dd;&uw;&owj;c m&if;nh &dd;&us;ng &dd;&aws;n, th&if; ng&uw;&ow;i l&af; m&ooj;t b&aaj;c hi&eef;n l&uw;&ow;ng ch&aa;n ch&is;nh.</seg>
+					<seg id="n577">- T&oo;i, &oo;ng ho&af;ng nh&or; &dd;&as;p, t&oo;i c&os; th&eer; t&uwj; x&es;t m&if;nh b&aas;t c&uws; &owr; &dd;&aa;u.</seg>
+					<seg id="n578">T&oo;i kh&oo;ng nh&aas;t thi&ees;t ph&ar;i &owr; &dd;&aa;y.</seg>
+					<seg id="n579">- H&uwf;m! H&uwf;m! Vua n&os;i, h&if;nh nh&uw; tr&ee;n h&af;nh tinh c&ur;a ta, &dd;&aa;u &dd;&os; c&os; m&ooj;t con chu&ooj;t.</seg>
+					<seg id="n580">&DD;&ee;m ta nghe n&os; k&ee;u.</seg>
+					<seg id="n581">Nh&af; ng&uw;&ow;i c&os; th&eer; x&es;t x&uwr; con chu&ooj;t gi&af; &aas;y.</seg>
+					<seg id="n582">Th&ir;nh tho&ar;ng ng&uw;&ow;i gh&es;p n&os; v&af;o t&ooj;i t&uwr; h&if;nh.</seg>
+					<seg id="n583">Nh&uw; th&ees;, cu&ooj;c &dd;&owf;i c&ur;a n&os; s&ex; tu&yf; &owr; lu&aaj;t ph&as;p c&ur;a nh&af; ng&uw;&ow;i.</seg>
+					<seg id="n584">Nh&uw;ng m&oox;i l&aaf;n bu&ooj;c t&ooj;i xong, th&if; ng&uw;&ow;i l&aj;i n&ee;n &aa;n x&as; &dd;&eer; d&af;nh d&uj;m chu&ooj;t.</seg>
+					<seg id="n585">Ch&ir; c&os; m&oox;i m&ooj;t con &aas;y th&oo;i.</seg>
+					<seg id="n586">- T&oo;i, &oo;ng ho&af;ng nh&or; &dd;&as;p, t&oo;i kh&oo;ng th&is;ch bu&ooj;c t&ooj;i t&uwr; h&if;nh, v&af; t&oo;i ch&aws;c r&awf;ng t&oo;i s&aws;p s&uwr;a ra &dd;i.</seg>
+					<seg id="n587">- Kh&oo;ng, vua n&os;i.</seg>
+				</p>
+				<p>
+					<seg id="n588">Nh&uw;ng &oo;ng ho&af;ng nh&or;, &dd;&ax; chu&aar;n b&ij; xong, kh&oo;ng mu&oos;n l&af;m phi&eef;n l&of;ng v&ij; vua gi&af;:</seg>
+					<seg id="n589">- N&ees;u b&eej; h&aj; mu&oos;n &dd;&uw;&owj;c tu&aa;n theo m&ooj;t c&as;ch &dd;&us;ng &dd;&aws;n, th&if; ph&ar;i cho t&oo;i m&ooj;t c&as;i l&eej;nh h&owj;p l&ys;.</seg>
+					<seg id="n590">V&is; d&uj; nh&uw; ph&ar;i ra l&eej;nh cho t&oo;i ra &dd;i t&uws;c kh&aws;c.</seg>
+					<seg id="n591">H&if;nh nh&uw; m&oj;i &dd;i&eef;u ki&eej;n &dd;&eef;u thu&aaj;n l&owj;i...</seg>
+				</p>
+				<p>
+					<seg id="n592">Nh&af; vua ch&awr;ng bi&ees;t tr&ar; l&owf;i sao.</seg>
+					<seg id="n593">Tho&aj;t &dd;&aaf;u &oo;ng ho&af;ng nh&or; h&ow;i do d&uwj;, r&oof;i th&owr; d&af;i, em b&uw;&ows;c &dd;i.</seg>
+					<seg id="n594">- Ta phong cho ng&uw;&ow;i l&af;m &dd;&aj;i s&uws;, nh&af; vua v&ooj;i v&af;ng k&ee;u l&ee;n.</seg>
+				</p>
+				<p>
+					<seg id="n595">Tr&oo;ng ng&af;i c&os; v&er; uy nghi l&aax;m li&eej;t.</seg>
+				</p>
+				<p>
+					<seg id="n596">Nh&uwx;ng ng&uw;&owf;i l&ows;n th&aaj;t r&aas;t k&yf; qu&awj;c, c&aaj;u ho&af;ng t&uwr; th&aaf;m nh&ur; v&ows;i ch&is;nh m&if;nh trong su&oos;t cu&ooj;c h&af;nh tr&if;nh.</seg>
+				</p>
+			</div>
+			<div>
+				<head>XI</head>
+				<p>
+					<seg id="n597">Tr&ee;n tinh c&aaf;u th&uws; hai c&uw; tr&us; m&ooj;t g&ax; kho&as;c l&as;c.</seg>
+					<seg id="n598">- &AS;! &AF;! K&if;a m&ooj;t g&ax; ng&uw;&owx;ng m&ooj; &dd;&ees;n th&aw;m ta! G&ax; kho&as;c l&as;c k&ee;u l&ee;n khi nh&if;n th&aas;y &oo;ng ho&af;ng nh&or; t&uwf; xa.</seg>
+					<seg id="n599">B&owr;i v&if;, &dd;&oos;i v&ows;i k&er; kho&as;c l&as;c, nh&uwx;ng ng&uw;&owf;i c&of;n l&aj;i &dd;&eef;u l&af; k&er; ng&uw;&owx;ng m&ooj; m&if;nh.</seg>
+					<seg id="n600">- Ch&af;o anh, &oo;ng ho&af;ng nh&or; n&os;i.</seg>
+					<seg id="n601">Anh c&os; c&as;i m&ux; ng&ooj; qu&as;.</seg>
+					<seg id="n602">- C&as;i &dd;&os; l&af; &dd;&eer; m&af; ch&af;o &dd;&aas;y, g&ax; kho&as;c l&as;c tr&ar; l&owf;i.</seg>
+					<seg id="n603">&DD;&eer; ch&af;o khi ng&uw;&owf;i ta hoan h&oo; t&oo;i.</seg>
+					<seg id="n604">Kh&oo;ng may l&af; ch&awr;ng ai qua &dd;&aa;y bao gi&owf; c&ar;.</seg>
+					<seg id="n605">- Th&ees; &af;? &OO;ng ho&af;ng nh&or; n&os;i, kh&oo;ng hi&eer;u g&if; c&ar;.</seg>
+					<seg id="n606">- H&ax;y v&oox; tay n&af;y v&af;o tay kia &dd;i, g&ax; kho&as;c l&as;c li&eef;n khuy&ee;n.</seg>
+				</p>
+				<p>
+					<seg id="n607">&OO;ng ho&af;ng nh&or; v&oox; tay n&af;y v&af;o tay kia.</seg>
+					<seg id="n608">G&ax; kho&as;c l&as;c ng&ar; m&ux; ch&af;o m&ooj;t c&as;ch khi&ee;m t&oos;n.</seg>
+					<seg id="n609">- Coi b&ooj; vui h&ow;n &dd;i th&aw;m nh&af; vua, &oo;ng ho&af;ng nh&or; n&os;i th&aaf;m.</seg>
+					<seg id="n610">V&af; em ti&ees;p t&uj;c v&oox; tay n&af;y v&af;o tay kia.</seg>
+					<seg id="n611">G&ax; kho&as;c l&as;c l&aj;i ng&ar; m&ux; ch&af;o.</seg>
+				</p>
+				<p>
+					<seg id="n612">Sau n&aw;m ph&us;t t&aaj;p d&uw;&owj;t, &oo;ng ho&af;ng nh&or; th&aas;y ch&as;n v&if; s&uwj; &dd;&ow;n &dd;i&eej;u c&ur;a c&as;i tr&of; ch&ow;i &aas;y:</seg>
+					<seg id="n613">- Th&ees;, mu&oos;n cho chi&ees;c m&ux; n&os; r&ow;i tu&ooj;t xu&oos;ng, em h&or;i, th&if; ph&ar;i l&af;m sao?</seg>
+				</p>
+				<p>
+					<seg id="n614">Nh&uw;ng g&ax; kho&as;c l&as;c kh&oo;ng nghe th&aas;y.</seg>
+					<seg id="n615">Nh&uwx;ng ng&uw;&owf;i kho&as;c l&as;c ch&awr;ng nghe th&aas;y g&if; ngo&af;i nh&uwx;ng c&aa;u ca ng&owj;i.</seg>
+					<seg id="n616">- Ch&us; em kh&aa;m ph&uj;c ta nhi&eef;u th&aaj;t ch&uws;?</seg>
+					<seg id="n617"> G&ax; h&or;i &oo;ng ho&af;ng nh&or;.</seg>
+					<seg id="n618">- Kh&aa;m ph&uj;c ngh&ix;a l&af; th&ees; n&af;o?</seg>
+					<seg id="n619">- Kh&aa;m ph&uj;c ngh&ix;a l&af; th&uwf;a nh&aaj;n ta l&af; ng&uw;&owf;i &dd;&ej;p nh&aas;t, &aw;n m&awj;c sang nh&aas;t, gi&af;u c&os; nh&aas;t v&af; th&oo;ng minh nh&aas;t tr&ee;n h&af;nh tinh.</seg>
+					<seg id="n620">- Nh&uw;ng anh ch&ir; c&os; m&ooj;t m&if;nh tr&ee;n h&af;nh tinh c&ur;a anh ch&uws; m&aas;y?</seg>
+					<seg id="n621">- H&ax;y chi&eef;u ta &dd;i m&af;.</seg>
+					<seg id="n622">D&aax;u sao c&uws; h&ax;y c&uws; kh&aa;m ph&uj;c ta!</seg>
+					<seg id="n623">- T&oo;i kh&aa;m ph&uj;c anh, &oo;ng ho&af;ng nh&or; n&os;i, h&ow;i nh&us;n vai, nh&uw;ng sao &dd;i&eef;u &dd;&os; l&aj;i l&af;m anh quan t&aa;m &dd;&ees;n th&ees; nh&ir;?</seg>
+				</p>
+				<p>
+					<seg id="n624">V&af; &oo;ng ho&af;ng nh&or; ra &dd;i.</seg>
+				</p>
+				<p>
+					<seg id="n625">Nh&uwx;ng ng&uw;&owf;i l&ows;n ch&aws;c ch&aws;n l&af; k&yf; qu&awj;c r&oof;i, em ch&ir; n&os;i &dd;&ow;n gi&ar;n c&os; th&ees; trong su&oos;t cu&ooj;c h&af;nh tr&if;nh.</seg>
+				</p>
+			</div>
+			<div>
+				<head>XII</head>
+				<p>
+					<seg id="n626">Tinh c&aaf;u ti&ees;p theo c&os; m&ooj;t b&owj;m nh&aaj;u c&uw; tr&us;.</seg>
+					<seg id="n627">Cu&ooj;c vi&ees;ng th&aw;m l&aaf;n n&af;y h&ees;t s&uws;c ng&aws;n nh&uw;ng l&aj;i l&af;m cho &oo;ng ho&af;ng nh&or; mi&ee;n man bu&oof;n:</seg>
+					<seg id="n628">- Anh l&af;m g&if; &dd;&aas;y? &OO;ng ho&af;ng nh&or; n&os;i v&ows;i tay b&owj;m nh&aaj;u &dd;ang ng&oof;i im l&awj;ng tr&uw;&ows;c m&ooj;t b&ooj; s&uw;u t&aaj;p chai kh&oo;ng v&af; m&ooj;t b&ooj; s&uw;u t&aaj;p chai &dd;&aaf;y.</seg>
+					<seg id="n629">- Ta nh&aaj;u, b&owj;m nh&aaj;u tr&ar; l&owf;i, v&er; thi&eer;u n&ax;o.</seg>
+					<seg id="n630">- T&aj;i sao anh nh&aaj;u? &OO;ng ho&af;ng nh&or; h&or;i anh ta.</seg>
+					<seg id="n631">- &DD;&eer; qu&ee;n, b&owj;m nh&aaj;u tr&ar; l&owf;i.</seg>
+					<seg id="n632">- &DD;&eer; qu&ee;n c&as;i g&if;? &OO;ng ho&af;ng nh&or; h&or;i trong l&us;c b&aws;t &dd;&aaf;u c&ar;m th&aas;y &as;i ng&aj;i cho h&aws;n.</seg>
+					<seg id="n633">- &DD;&eer; qu&ee;n n&oox;i x&aas;u h&oor; c&ur;a ta, b&owj;m nh&aaj;u c&us;i &dd;&aaf;u th&us; nh&aaj;n.</seg>
+					<seg id="n634">- X&aas;u h&oor; v&if; c&as;i g&if;? &OO;ng ho&af;ng nh&or; h&or;i, &dd;&ax; mu&oos;n gi&us;p &dd;&owx; h&aws;n.</seg>
+					<seg id="n635">- X&aas;u h&oor; v&if; c&as;i nh&aaj;u! B&owj;m nh&aaj;u k&ees;t th&us;c v&af; nh&aas;t quy&ees;t l&awj;ng im</seg>
+				</p>
+				<p>
+					<seg id="n636"> V&af; &oo;ng ho&af;ng th&if;  ra &dd;i, s&uwr;ng s&oos;t.</seg>
+				</p>
+				<p>
+					<seg id="n637">Nh&uwx;ng ng&uw;&owf;i l&ows;n nh&aas;t &dd;&ij;nh l&af; r&aas;t k&yf; qu&awj;c, c&aaj;u t&uwj; n&os;i th&aaf;m trong su&oos;t cu&ooj;c h&af;nh tr&if;nh.</seg>
+				</p>
+			</div>
+			<div>
+				<head>XIII</head>
+				<p>
+					<seg id="n638">Tinh c&aaf;u th&uws; t&uw; l&af; c&ur;a m&ooj;t nh&af; doanh nghi&eej;p.</seg>
+					<seg id="n639">&OO;ng n&af;y b&aaj;n r&ooj;n &dd;&ees;n n&oox;i kh&oo;ng ng&aar;ng &dd;&uw;&owj;c &dd;&aaf;u l&ee;n khi &oo;ng ho&af;ng nh&or; t&ows;i.</seg>
+				</p>
+				<p>
+					<seg id="n640">- Ch&af;o &oo;ng, em n&os;i v&ows;i h&aws;n.</seg>
+					<seg id="n641">&DD;i&ees;u thu&oos;c l&as; c&ur;a &oo;ng t&aws;t r&oof;i.</seg>
+				</p>
+				<p>
+					<seg id="n642">- Ba v&ows;i hai l&af; n&aw;m.</seg>
+					<seg id="n643">N&aw;m v&ows;i b&ar;y l&af; m&uw;&owf;i hai.</seg>
+					<seg id="n644">M&uw;&owf;i hai v&ows;i ba l&af; m&uw;&owf;i l&aw;m.</seg>
+					<seg id="n645">Ch&af;o ch&us;.</seg>
+					<seg id="n646">M&uw;&owf;i l&aw;m v&ows;i b&ar;y l&af; h&aw;m hai.</seg>
+					<seg id="n647">H&aw;m hai v&ows;i s&as;u l&af; h&aw;m t&as;m.</seg>
+					<seg id="n648">Ch&awr;ng c&os; th&owf;i gi&owf; m&af; ch&aa;m l&aj;i.</seg>
+					<seg id="n649">H&aw;m s&as;u v&ows;i n&aw;m ba m&uw;&ow;i m&oos;t.</seg>
+					<seg id="n650">Xong! T&aas;t c&ar; l&af; n&aw;m tr&aw;m linh m&ooj;t tri&eej;u s&as;u tr&aw;m n&aw;m m&uw;&ow;i hai ngh&if;n b&ar;y tr&aw;m ba 
+m&uw;&ow;i m&oos;t..</seg>
+				</p>
+				<p>
+					<seg id="n651">- N&aw;m tr&aw;m tri&eej;u c&as;i g&if; v&aaj;y?</seg>
+				</p>
+				<p>
+					<seg id="n652">- H&uwr;? Th&ees; ch&us; v&aax;n c&of;n &dd;&aas;y &af;?.</seg>
+					<seg id="n653">N&aw;m tr&aw;m linh m&ooj;t tri&eej;u...</seg>
+					<seg id="n654">ta c&ux;ng ch&awr;ng bi&ees;t l&af; c&as;i g&if; n&uwx;a.</seg>
+					<seg id="n655">Ta c&os; qu&as; nhi&eef;u c&oo;ng vi&eej;c! Ta r&aas;t &dd;&uws;ng &dd;&aws;n, ta, ta kh&oo;ng th&is;ch nh&uwx;ng tr&of; nh&ar;m nh&is;! Hai v&ows;i n&aw;m l&af; b&ar;y...</seg>
+				</p>
+				<p>
+					<seg id="n656">- N&aw;m tr&aw;m linh m&ooj;t tri&eej;u c&as;i g&if;? &OO;ng ho&af;ng nh&or; l&awj;p l&aj;i, su&oos;t &dd;&owf;i em, kh&oo;ng bao gi&owf; b&or; ra m&ooj;t c&aa;u h&or;i m&ooj;t khi &dd;&ax; n&ee;u n&os; ra.</seg>
+				</p>
+				<p>
+					<seg id="n657"> Nh&af; doanh nghi&eej;p ng&aar;ng &dd;&aaf;u l&ee;n:</seg>
+				</p>
+				<p>
+					<seg id="n658">- N&aw;m m&uw;&ow;i b&oos;n n&aw;m ta &owr; tr&ee;n c&as;i h&af;nh tinh n&af;y, ta ch&ir; b&ij; qu&aas;y r&aaf;y c&os; ba l&aaf;n.</seg>
+					<seg id="n659">L&aaf;n &dd;&aaf;u c&as;ch &dd;&aa;y hai m&uw;&ow;i hai n&aw;m do m&ooj;t con b&oj; hung ch&ir; c&os; tr&owf;i bi&ees;t t&uwf; &dd;&aa;u r&ow;i xu&oos;ng.</seg>
+					<seg id="n660">N&os; g&aa;y n&ee;n m&ooj;t ti&ees;ng &dd;&ooj;ng kh&ur;ng khi&ees;p v&af; l&af;m cho ta c&ooj;ng sai b&oos;n ch&oox; trong m&ooj;t b&af;i t&is;nh c&ooj;ng.</seg>
+					<seg id="n661">L&aaf;n th&uws; hai, l&af; c&as;ch &dd;&aa;y m&uw;&owf;i m&ooj;t n&aw;m, do m&ooj;t c&ow;n c&ar;m c&us;m.</seg>
+					<seg id="n662">Ta kh&oo;ng c&os; t&aaj;p th&eer; d&uj;c.</seg>
+					<seg id="n663">Ta kh&oo;ng c&os; th&if; gi&owf; ch&ow;i b&owf;i.</seg>
+					<seg id="n664">Ta, ta l&af; m&ooj;t ng&uw;&owf;i &dd;&uws;ng &dd;&aws;n! </seg>
+					<seg id="n665">L&aaf;n th&uws; ba...l&af; l&aaf;n n&af;y! </seg>
+					<seg id="n666"> Khi ta &dd;ang t&is;nh t&ows;i n&aw;m tr&aw;m linh m&ooj;t tri&eej;u...</seg>
+				</p>
+				<p>
+					<seg id="n667"> Nh&af; doanh nghi&eej;p ng&aar;ng &dd;&aaf;u l&ee;n:</seg>
+				</p>
+				<p>
+					<seg id="n668">- Tri&eej;u c&as;i g&if;?</seg>
+				</p>
+				<p>
+					<seg id="n669">Nh&af; doanh nghi&eej;p bi&ees;t kh&oo;ng hy v&oj;ng g&if; &dd;&uw;&owj;c y&ee;n th&aa;n:</seg>
+				</p>
+				<p>
+					<seg id="n670">- Tri&eej;u nh&uwx;ng v&aaj;t nho nh&or; &dd;&oo;i khi nh&if;n th&aas;y tr&ee;n tr&owf;i &aas;y.</seg>
+				</p>
+				<p>
+					<seg id="n671">- Nh&uwx;ng con ru&oof;i?</seg>
+				</p>
+				<p>
+					<seg id="n672">- Kh&oo;ng ph&ar;i, nh&uwx;ng v&aaj;t nh&or; l&aas;p l&as;nh &aas;y.</seg>
+				</p>
+				<p>
+					<seg id="n673">- Nh&uwx;ng con ong?</seg>
+				</p>
+				<p>
+					<seg id="n674">- Kh&oo;ng m&af;...</seg>
+					<seg id="n675">Nh&uwx;ng v&aaj;t nho nh&or; v&af;ng &os;ng v&aax;n l&af;m cho b&oj;n ng&uw;&owf;i v&oo; t&is;ch s&uwj; ch&us;ng n&os; m&ow; m&af;ng &aas;y.</seg>
+					<seg id="n676">Ta, ta l&af; m&ooj;t ng&uw;&owf;i &dd;&us;ng &dd;&aws;n! Ta kh&oo;ng c&os; th&if; gi&owf; &dd;&aa;u m&af; m&ow; m&af;ng.</seg>
+				</p>
+				<p>
+					<seg id="n677">- &AF;! Nh&uwx;ng ng&oo;i sao.</seg>
+				</p>
+				<p>
+					<seg id="n678">- &DD;&us;ng r&oof;i &dd;&aas;y.</seg>
+					<seg id="n679">Nh&uwx;ng ng&oo;i sao.</seg>
+				</p>
+				<p>
+					<seg id="n680">- Th&ees; &oo;ng l&af;m g&if; v&ows;i n&aw;m tr&aw;m tri&eej;u ng&oo;i sao?</seg>
+				</p>
+				<p>
+					<seg id="n681">- N&aw;m tr&aw;m linh m&ooj;t tri&eej;u s&as;u tr&aw;m n&aw;m m&uw;&ow;i hai ngh&if;n b&ar;y tr&aw;m ba m&uw;&ow;i m&oos;t.</seg>
+					<seg id="n682">Ta, ta l&af; m&ooj;t ng&uw;&owf;i &dd;&uws;ng &dd;&aws;n, ta r&aas;t ch&is;nh x&as;c!</seg>
+				</p>
+				<p>
+					<seg id="n683">- Th&ees; &oo;ng l&af;m g&if; v&ows;i nh&uwx;ng ng&oo;i sao?</seg>
+				</p>
+				<p>
+					<seg id="n684">- Ta l&af;m g&if; &af;?</seg>
+				</p>
+				<p>
+					<seg id="n685">- V&aa;ng.</seg>
+				</p>
+				<p>
+					<seg id="n686">- Ch&awr;ng l&af;m g&if; s&aas;t.</seg>
+					<seg id="n687">Ta chi&ees;m h&uwx;u ch&us;ng.</seg>
+				</p>
+				<p>
+					<seg id="n688">- &OO;ng chi&ees;m h&uwx;u nh&uwx;ng ng&oo;i sao?</seg>
+				</p>
+				<p>
+					<seg id="n689">- Ph&ar;i.</seg>
+				</p>
+				<p>
+					<seg id="n690">- Nh&uw;ng t&oo;i bi&ees;t m&ooj;t &oo;ng vua c&ux;ng...</seg>
+				</p>
+				<p>
+					<seg id="n691">- C&as;c &oo;ng vua kh&oo;ng chi&ees;m h&uwx;u g&if; c&ar;.</seg>
+					<seg id="n692">H&oj; ch&ir; "tr&ij; v&if;" &owr; tr&ee;n, th&ees; th&oo;i.</seg>
+					<seg id="n693">R&aas;t kh&as;c nhau.</seg>
+				</p>
+				<p>
+					<seg id="n694">- Th&ees; vi&eej;c s&owr; h&uwx;u nh&uwx;ng ng&oo;i sao gi&us;p g&if; cho &oo;ng?</seg>
+					<seg id="n695">- N&os; gi&us;p ta gi&af;u.</seg>
+				</p>
+				<p>
+					<seg id="n696">- Gi&af;u gi&us;p &oo;ng &dd;&uw;&owj;c g&if;?</seg>
+				</p>
+				<p>
+					<seg id="n697">- Mua nh&uwx;ng ng&oo;i sao kh&as;c, n&ees;u c&os; ng&uw;&owf;i t&if;m th&aas;y n&uwx;a.</seg>
+				</p>
+				<p>
+					<seg id="n698">C&as;i &oo;ng n&af;y, &oo;ng ho&af;ng nh&or; ngh&ix; th&aaf;m, &oo;ng ta l&ys; s&uwj; h&ow;i gi&oos;ng tay b&owj;m nh&aaj;u c&ur;a m&if;nh.</seg>
+				</p>
+				<p>
+					<seg id="n699">Tuy th&ees; em v&aax;n h&or;i th&ee;m:</seg>
+				</p>
+				<p>
+					<seg id="n700">- L&af;m th&ees; n&af;o ng&uw;&owf;i ta s&owr; h&uwx;u nh&uwx;ng ng&oo;i sao?</seg>
+				</p>
+				<p>
+					<seg id="n701">- Ch&us;ng c&ur;a ai n&af;o?</seg>
+					<seg id="n702">Nh&af; doanh nghi&eej;p v&awj;n l&aj;i, s&uwr;ng c&oof;.</seg>
+				</p>
+				<p>
+					<seg id="n703">- T&oo;i kh&oo;ng bi&ees;t.</seg>
+					<seg id="n704">Kh&oo;ng c&ur;a ai c&ar;.</seg>
+					<seg id="n705">- Th&ees; th&if; ch&us;ng l&af; c&ur;a ta, b&owr;i ta ngh&ix; t&ows;i tr&uw;&ows;c nh&aas;t.</seg>
+				</p>
+				<p>
+					<seg id="n707">- Ch&ir; th&ees; l&af; &dd;&ur; &uw;?</seg>
+				</p>
+				<p>
+					<seg id="n708">- Ch&aws;c r&oof;i.</seg>
+					<seg id="n709">Khi ch&us; t&if;m th&aas;y m&ooj;t vi&ee;n kim c&uw;&ow;ng kh&oo;ng l&af; c&ur;a ai c&ar;, th&if; n&os; l&af; c&ur;a ch&us;.</seg>
+					<seg id="n710">Khi ch&us; t&if;m th&aas;y m&ooj;t h&of;n &dd;&ar;o kh&oo;ng ph&ar;i l&af; c&ur;a ai c&ar;, th&if; h&of;n &dd;&ar;o &aas;y l&af; c&ur;a ch&us;.</seg>
+					<seg id="n711">Khi ch&us; l&af; ng&uw;&owf;i &dd;&aaf;u ti&ee;n c&os; m&ooj;t s&as;ng ki&ees;n, ch&us; &dd;&aw;ng k&ys; t&as;c quy&eef;n cho s&as;ng ki&ees;n &dd;&os;, n&os; l&af; c&ur;a ch&us;.</seg>
+					<seg id="n712">V&af; ta c&os; &dd;&uw;&owj;c nh&uwx;ng ng&oo;i sao kia, v&if; ch&uw;a h&eef; c&os; ai tr&uw;&ows;c ta ngh&ix; &dd;&ees;n vi&eej;c chi&ees;m h&uwx;u ch&us;ng.</seg>
+				</p>
+				<p>
+					<seg id="n713">- &DD;i&eef;u n&af;y th&if; &dd;&us;ng, &oo;ng ho&af;ng nh&or; n&os;i.</seg>
+					<seg id="n714">&OO;ng d&uf;ng ch&us;ng &dd;&eer; l&af;m g&if;?</seg>
+				</p>
+				<p>
+					<seg id="n715">- Ta qu&ar;n l&ys; ch&us;ng.</seg>
+					<seg id="n716">Ta &dd;&ees;m &dd;i r&oof;i ta &dd;&ees;m l&aj;i ch&us;ng, nh&af; doanh nghi&eej;p n&os;i.</seg>
+					<seg id="n717">Kh&os; &dd;&aas;y.</seg>
+					<seg id="n718">Nh&uw;ng ta l&af; m&ooj;t ng&uw;&owf;i &dd;&uws;ng &dd;&aws;n!</seg>
+				</p>
+				<p>
+					<seg id="n719">&OO;ng ho&af;ng nh&or; v&aax;n ch&uw;a b&awf;ng l&of;ng:</seg>
+				</p>
+				<p>
+					<seg id="n720">- T&oo;i &dd;&aas;y &uw;, n&ees;u t&oo;i c&os; m&ooj;t chi&ees;c kh&aw;n qu&af;ng, t&oo;i qu&af;ng n&os; v&af;o c&oor; v&af; mang n&os; &dd;i.</seg>
+					<seg id="n721">T&oo;i, n&ees;u t&oo;i c&os; m&ooj;t b&oo;ng hoa, t&oo;i c&os; th&eer; h&as;i b&oo;ng hoa &dd;&os; v&af; mang n&os; &dd;i.</seg>
+					<seg id="n722">C&of;n &oo;ng &dd;&aa;u c&os; th&eer; h&as;i c&as;c ng&oo;i sao!</seg>
+				</p>
+				<p>
+					<seg id="n723">- Kh&oo;ng, nh&uw;ng ta c&os; th&eer; b&or; ch&us;ng v&af;o ng&aa;n h&af;ng.</seg>
+				</p>
+				<p>
+					<seg id="n724">- Ngh&ix;a l&af; th&ees; n&af;o?</seg>
+				</p>
+				<p>
+					<seg id="n725">- Ngh&ix;a l&af; ta vi&ees;t tr&ee;n m&ooj;t t&owf; gi&aas;y con s&oos; ng&oo;i sao c&ur;a ta.</seg>
+					<seg id="n726">Sau &dd;&os; ta kho&as; ch&awj;t m&aar;u gi&aas;y &aas;y trong m&ooj;t c&as;i t&ur;.</seg>
+				</p>
+				<p>
+					<seg id="n727">- Ch&ir; th&ees; th&oo;i &af;?</seg>
+				</p>
+				<p>
+					<seg id="n728">- Th&ees; &dd;&ur; r&oof;i.</seg>
+				</p>
+				<p>
+					<seg id="n729">Bu&oof;n c&uw;&owf;i th&aaj;t, &oo;ng ho&af;ng nh&or; ngh&ix; th&aaf;m.</seg>
+					<seg id="n730">C&os; v&er; n&ee;n th&ow; &dd;&aas;y.</seg>
+					<seg id="n731">Nh&uw;ng m&af; kh&oo;ng &dd;&uws;ng &dd;&aws;n l&aws;m &dd;&aa;u.</seg>
+				</p>
+				<p>
+					<seg id="n732">&OO;ng ho&af;ng nh&or; ngh&ix; v&eef; vi&eej;c &dd;&uws;ng &dd;&aws;n r&aas;t kh&as;c v&ows;i nh&uwx;ng ng&uw;&owf;i l&ows;n.</seg>
+				</p>
+				<p>
+					<seg id="n733">- T&oo;i, em l&aj;i n&os;i, t&oo;i c&os; m&ooj;t b&oo;ng hoa m&af; h&oo;m n&af;o c&ux;ng t&uw;&ows;i.</seg>
+					<seg id="n734">T&oo;i c&os; ba qu&ar; n&us;i l&uwr;a m&af; tu&aaf;n n&af;o t&oo;i c&ux;ng n&aj;o v&es;t.</seg>
+					<seg id="n735">T&oo;i c&ux;ng n&aj;o v&es;t c&ar; qu&ar; n&us;i l&uwr;a &dd;&ax; t&aws;t.</seg>
+					<seg id="n736">Bi&ees;t &dd;&aa;u &dd;&aas;y! </seg>
+					<seg id="n737">C&as;i &dd;&os; gi&us;p &is;ch cho c&as;c qu&ar; n&us;i l&uwr;a, v&af; gi&us;p &is;ch cho b&oo;ng hoa c&ur;a t&oo;i, n&ee;n t&oo;i c&os; ch&us;ng.</seg>
+					<seg id="n738">Nh&uw;ng &oo;ng ch&awr;ng gi&us;p &is;ch g&if; cho nh&uwx;ng ng&oo;i sao c&ar;...</seg>
+				</p>
+				<p>
+					<seg id="n739">Nh&af; doanh nghi&eej;p m&owr; mi&eej;ng nh&uw;ng ch&awr;ng bi&ees;t tr&ar; l&owf;i ra sao c&ar;, v&af; &oo;ng ho&af;ng nh&or; ra &dd;i.</seg>
+				</p>
+				<p>
+					<seg id="n740">Nh&uwx;ng ng&uw;&owf;i l&ows;n nh&aas;t &dd;&ij;nh l&af; nh&uwx;ng ng&uw;&owf;i ho&af;n to&af;n k&yf; qu&as;i.</seg>
+					<seg id="n741">Em ngh&ix; th&aaf;m m&ooj;t c&as;ch &dd;&ow;n gi&ar;n nh&uw; v&aaj;y trong su&oos;t cu&ooj;c h&af;nh tr&if;nh.</seg>
+				</p>
+			</div>
+			<div>
+				<head>XIV</head>
+				<p>
+					<seg id="n742">H&af;nh tinh th&uws; n&aw;m r&aas;t l&aj;.</seg>
+					<seg id="n743">N&os; l&af; c&as;i b&es; nh&aas;t trong s&oos; c&as;c h&af;nh tinh.</seg>
+					<seg id="n744">&OWR; &dd;&aas;y ch&ir; &dd;&ur; ch&oox; cho m&ooj;t c&aa;y c&ooj;t &dd;&ef;n v&af; m&ooj;t ng&uw;&owf;i th&aws;p &dd;&ef;n.</seg>
+					<seg id="n745">&OO;ng ho&af;ng nh&or; ngh&ix; m&ax;i nh&uw;ng kh&oo;ng th&eer; n&af;o hi&eer;u &dd;&uw;&owj;c t&aj;i sao, &dd;&aa;u &dd;&os; trong b&aaf;u tr&owf;i, tr&ee;n m&ooj;t h&af;nh tinh kh&oo;ng nh&af; c&uwr;a, kh&oo;ng d&aa;n c&uw;, l&aj;i c&os; m&ooj;t c&aa;y c&ooj;t &dd;&ef;n v&af; m&ooj;t ng&uw;&owf;i th&aws;p &dd;&ef;n &dd;&eer; l&af;m chi.</seg>
+					<seg id="n746">Tuy v&aaj;y em t&uwj; b&ar;o:</seg>
+				</p>
+				<p>
+					<seg id="n747">- R&aas;t c&os; th&eer; ng&uw;&owf;i n&af;y l&af; v&oo; l&ys;.</seg>
+					<seg id="n748">Tuy th&ees; &oo;ng ta c&of;n &is;t v&oo; l&ys; h&ow;n &oo;ng vua, &is;t v&oo; l&ys; h&ow;n k&er; kho&as;c l&as;c, &is;t v&oo; l&ys; h&ow;n nh&af; doanh nghi&eej;p, &is;t v&oo; l&ys; h&ow;n tay b&owj;m nh&aaj;u.</seg>
+					<seg id="n749">&IS;t ra c&oo;ng vi&eej;c &oo;ng ta l&af;m c&of;n c&os; m&ooj;t &ys; ngh&ix;a.</seg>
+					<seg id="n750">Khi &oo;ng ta th&aws;p c&aa;y &dd;&ef;n c&ur;a m&if;nh, nh&uw; l&af; &oo;ng ta sinh th&ee;m m&ooj;t ng&oo;i sao hay m&ooj;t b&oo;ng hoa.</seg>
+					<seg id="n751">Khi &oo;ng ta t&aws;t c&aa;y &dd;&ef;n, &oo;ng ta ru b&oo;ng hoa hay ng&oo;i sao &aas;y ng&ur;.</seg>
+					<seg id="n752">&AAS;y l&af; m&ooj;t c&oo;ng vi&eej;c r&aas;t &dd;&ej;p ch&uws;.</seg>
+					<seg id="n753">Vi&eej;c &aas;y m&ows;i th&aaj;t s&uwj; l&af; c&os; &is;ch l&af; v&if; n&os; &dd;&ej;p.</seg>
+				</p>
+				<p>
+					<seg id="n754">Khi &dd;&ees;n g&aaf;n tinh c&aaf;u, em k&is;nh tr&oj;ng ch&af;o ng&uw;&owf;i th&aws;p &dd;&ef;n:</seg>
+				</p>
+				<p>
+					<seg id="n755">- Ch&us;c m&ooj;t ng&af;y t&oos;t l&af;nh.</seg>
+					<seg id="n756">T&aj;i sao &oo;ng t&aws;t &dd;&ef;n &dd;i?</seg>
+				</p>
+				<p>
+					<seg id="n757">- &DD;&os; l&af; &dd;i&eef;u l&eej;nh, ng&uw;&owf;i th&aws;p &dd;&ef;n tr&ar; l&owf;i.</seg>
+					<seg id="n758">Ch&us;c m&ooj;t ng&af;y t&oos;t l&af;nh.</seg>
+				</p>
+				<p>
+					<seg id="n759">- &DD;i&eef;u l&eej;nh g&if; v&aaj;y?</seg>
+				</p>
+				<p>
+					<seg id="n760">- L&af; t&aws;t &dd;&ef;n &dd;i.</seg>
+					<seg id="n761">Ch&us;c m&ooj;t bu&oor;i t&oos;i t&oos;t l&af;nh.</seg>
+				</p>
+				<p>
+					<seg id="n762">V&af; &oo;ng ta l&aj;i th&aws;p &dd;&ef;n l&ee;n.</seg>
+				</p>
+				<p>
+					<seg id="n763">- Nh&uw;ng t&aj;i sao &oo;ng l&aj;i v&uwf;a th&aws;p &dd;&ef;n l&ee;n?</seg>
+				</p>
+				<p>
+					<seg id="n764">- &DD;i&eef;u l&eej;nh m&af;, ng&uw;&owf;i th&aws;p &dd;&ef;n tr&ar; l&owf;i.</seg>
+				</p>
+				<p>
+					<seg id="n765">- T&oo;i kh&oo;ng hi&eer;u, &oo;ng ho&af;ng nh&or; n&os;i.</seg>
+				</p>
+				<p>
+					<seg id="n766">- Ch&awr;ng c&os; g&if; m&af; hi&eer;u c&ar;, ng&uw;&owf;i th&aws;p &dd;&ef;n n&os;i.</seg>
+					<seg id="n767">&DD;i&eef;u l&eej;nh l&af; &dd;i&eef;u l&eej;nh.</seg>
+					<seg id="n768">Ch&us;c m&ooj;t ng&af;y t&oos;t l&af;nh.</seg>
+				</p>
+				<p>
+					<seg id="n769">R&oof;i &oo;ng ta t&aws;t c&aa;y &dd;&ef;n.</seg>
+				</p>
+				<p>
+					<seg id="n770">V&af; &oo;ng ta th&aas;m m&oof; h&oo;i tr&ee;n tr&as;n b&awf;ng m&ooj;t chi&ees;c m&uf;i soa ca r&oo; &dd;&or;.</seg>
+				</p>
+				<p>
+					<seg id="n771">- Ngh&eef; c&ur;a ta l&af;m &dd;&aa;y th&aaj;t kinh kh&ur;ng.</seg>
+					<seg id="n772">X&uw;a kia th&if; n&os; c&of;n c&os; l&ys;.</seg>
+					<seg id="n773">S&as;ng ta t&aws;t, t&oos;i ta th&aws;p.</seg>
+					<seg id="n774">Ph&aaf;n c&of;n l&aj;i ta ngh&ir;, ph&aaf;n &dd;&ee;m c&of;n l&aj;i ta ng&ur;...</seg>
+				</p>
+				<p>
+					<seg id="n775">- Nh&uw;ng sau &dd;&os; &dd;i&eef;u l&eej;nh thay &dd;&oor;i sao?</seg>
+				</p>
+				<p>
+					<seg id="n776">- &DD;i&eef;u l&eej;nh kh&oo;ng thay &dd;&oor;i, ng&uw;&owf;i th&aws;p &dd;&ef;n n&os;i.</seg>
+					<seg id="n777">Bi k&ij;ch l&af; &owr; ch&oox; &dd;&os;! </seg>
+					<seg id="n778">C&uws; m&oox;i n&aw;m h&af;nh tinh n&af;y l&aj;i quay nhanh h&ow;n, th&ees; m&af; &dd;i&eef;u l&eej;nh kh&oo;ng thay &dd;&oor;i!</seg>
+				</p>
+				<p>
+					<seg id="n779">- Th&ees; th&if; sao? &OO;ng ho&af;ng nh&or; h&or;i.</seg>
+				</p>
+				<p>
+					<seg id="n780">- V&if; hi&eej;n nay n&os; quay m&oox;i ph&us;t m&ooj;t v&of;ng, ta kh&oo;ng c&of;n l&aas;y m&ooj;t gi&aa;y &dd;&eer; ngh&ir; ng&ow;i.</seg>
+				</p>
+				<p>
+					<seg id="n781">M&oox;i ph&us;t ta ph&ar;i th&aws;p &dd;&ef;n v&af; ph&ar;i t&aws;t &dd;&ef;n m&ooj;t l&aaf;n!</seg>
+				</p>
+				<p>
+					<seg id="n782">- L&aj; th&uwj;c &dd;&aas;y!</seg>
+					<seg id="n783">&OWR; &dd;&aa;y ng&af;y d&af;i ch&ir; c&os; m&ooj;t ph&us;t th&oo;i!</seg>
+				</p>
+				<p>
+					<seg id="n784">- Ch&awr;ng c&os; g&if; l&aj; c&ar;, ng&uw;&owf;i th&aws;p &dd;&ef;n n&os;i.</seg>
+					<seg id="n785">Ta chuy&eej;n tr&of; v&ows;i nhau th&ees; m&af; &dd;&ax; m&ooj;t th&as;ng r&oof;i &dd;&aas;y.</seg>
+				</p>
+				<p>
+					<seg id="n786">- M&ooj;t th&as;ng kia &uw;?</seg>
+				</p>
+				<p>
+					<seg id="n787">- Ph&ar;i, ba m&uw;&ow;i ph&us;t.</seg>
+					<seg id="n788">Ba m&uw;&ow;i ng&af;y.</seg>
+					<seg id="n789">Ch&us;c m&ooj;t &dd;&ee;m t&oos;t l&af;nh.</seg>
+				</p>
+				<p>
+					<seg id="n790">R&oof;i &oo;ng l&aj;i th&aws;p ng&oj;n &dd;&ef;n.</seg>
+				</p>
+				<p>
+					<seg id="n791">&OO;ng ho&af;ng nh&or; nh&if;n &oo;ng ta v&af; th&aas;y y&ee;u m&ees;n ng&uw;&owf;i th&aws;p &dd;&ef;n trung th&af;nh &dd;&ees;n th&ees; v&ows;i &dd;i&eef;u l&eej;nh.</seg>
+					<seg id="n792">C&aaj;u em nh&ows; t&ows;i nh&uwx;ng c&ar;nh m&awj;t tr&owf;i l&awj;n m&af; x&uw;a kia ch&is;nh em ph&ar;i &dd;i ki&ees;m &dd;&eer; xem, b&awf;ng c&as;ch d&ij;ch gh&ees; ng&oof;i.</seg>
+					<seg id="n793">Em mu&oos;n gi&us;p &oo;ng b&aj;n th&aa;n:</seg>
+				</p>
+				<p>
+					<seg id="n794">- N&af;y &oo;ng...</seg>
+					<seg id="n795">t&oo;i bi&ees;t c&as;ch cho &oo;ng ngh&ir; ng&ow;i khi n&af;o &oo;ng mu&oos;n &dd;&aas;y...</seg>
+				</p>
+				<p>
+					<seg id="n796">- Ta lu&oo;n lu&oo;n mu&oos;n, ng&uw;&owf;i th&aws;p &dd;&ef;n n&os;i.</seg>
+				</p>
+				<p>
+					<seg id="n797">B&owr;i v&if; ng&uw;&owf;i ta c&os; th&eer;, c&uf;ng m&ooj;t l&us;c, v&uwf;a trung th&af;nh l&aj;i v&uwf;a l&uw;&owf;i bi&ees;ng.</seg>
+				</p>
+				<p>
+					<seg id="n798">&OO;ng ho&af;ng nh&or; h&or;i ti&ees;p:</seg>
+				</p>
+				<p>
+					<seg id="n799">- C&as;i h&af;nh tinh c&ur;a &oo;ng nh&or; &dd;&ees;n n&oox;i &oo;ng c&os; th&eer; b&uw;&ows;c s&ar;i ba b&uw;&ows;c l&af; &dd;i gi&as;p m&ooj;t v&of;ng.</seg>
+					<seg id="n800">&OO;ng ch&ir; c&os; vi&eej;c &dd;i ch&aaf;m ch&aaj;m &dd;&eer; l&us;c n&af;o c&ux;ng &owr; d&uw;&ows;i &as;nh m&awj;t tr&owf;i c&ar;.</seg>
+					<seg id="n801">Khi n&af;o &oo;ng mu&oos;n ngh&ir;, &oo;ng c&uws; b&uw;&ows;c &dd;i...</seg>
+					<seg id="n802">th&ees; l&af; &oo;ng mu&oos;n ng&af;y d&af;i bao nhi&ee;u th&if; n&os; d&af;i b&aas;y nhi&ee;u.</seg>
+				</p>
+				<p>
+					<seg id="n803">- C&as;i &aas;y ch&awr;ng &dd;&uw;&owj;c vi&eej;c g&if; cho ta, ng&uw;&owf;i th&aws;p &dd;&ef;n n&os;i.</seg>
+					<seg id="n804">C&as;i m&af; ta th&is;ch nh&aas;t tr&ee;n &dd;&owf;i, l&af; ng&ur;.</seg>
+				</p>
+				<p>
+					<seg id="n805">- Th&ees; th&if; th&aaj;t l&af; kh&oo;ng may, &oo;ng ho&af;ng nh&or; n&os;i.</seg>
+				</p>
+				<p>
+					<seg id="n806">- Th&aaj;t l&af; kh&oo;ng may, ng&uw;&owf;i th&aws;p &dd;&ef;n n&os;i.</seg>
+					<seg id="n807">Ch&us;c m&ooj;t ng&af;y t&oos;t l&af;nh.</seg>
+				</p>
+				<p>
+					<seg id="n808">R&oof;i &oo;ng ta t&aws;t &dd;&ef;n.</seg>
+				</p>
+				<p>
+					<seg id="n809">C&as;i &oo;ng n&af;y, &oo;ng ho&af;ng nh&or; ngh&ix; th&aaf;m trong l&us;c ti&ees;p t&uj;c cu&ooj;c h&af;nh tr&if;nh.</seg>
+					<seg id="n810">&OO;ng ta s&ex; b&ij; t&aas;t c&ar; nh&uwx;ng ng&uw;&owf;i kia khinh th&uw;&owf;ng, &oo;ng vua, l&ax;o kho&as;c l&as;c, tay b&owj;m nh&aaj;u, nh&af; doanh nghi&eej;p.</seg>
+					<seg id="n811">Trong khi &dd;&os; ch&ir; c&os; &oo;ng ta l&af; kh&oo;ng th&aas;y bu&oof;n c&uw;&owf;i.</seg>
+					<seg id="n812">C&os; l&ex; b&owr;i v&if; &oo;ng lo toan cho m&ooj;t c&as;i g&if; kh&as;c ch&uws; kh&oo;ng ph&ar;i l&af; b&ar;n th&aa;n &oo;ng ta.</seg>
+				</p>
+				<p>
+					<seg id="n813">Em th&owr; d&af;i ti&ees;c r&er; v&af; ngh&ix; ti&ees;p:</seg>
+				</p>
+				<p>
+					<seg id="n814">- &OO;ng ta l&af; ng&uw;&owf;i duy nh&aas;t &dd;&as;ng cho m&if;nh k&ees;t b&aj;n.</seg>
+					<seg id="n815">Nh&uw;ng tinh c&aaf;u c&ur;a &oo;ng &aas;y b&es; qu&as;.</seg>
+					<seg id="n816">Kh&oo;ng c&os; ch&oox; cho hai ng&uw;&owf;i...</seg>
+				</p>
+				<p>
+					<seg id="n817">&DD;i&eef;u m&af; &oo;ng ho&af;ng nh&or; kh&oo;ng th&eer; th&us; nh&aaj;n v&ows;i m&if;nh, &aas;y l&af; em ti&ees;c c&as;i h&af;nh tinh thi&ee;n ph&us;c n&af;y l&af; v&if;, tr&uw;&ows;c h&ees;t, l&af; n&os; c&os; m&ooj;t ngh&if;n b&oos;n tr&aw;m b&oos;n m&uw;&ow;i l&aaf;n m&awj;t tr&owf;i l&awj;n trong hai m&uw;&ow;i b&oos;n ti&ees;ng &dd;&oof;ng h&oof;!.</seg>
+				</p>
+			</div>
+			<div>
+				<head>XV</head>
+				<p>
+					<seg id="n818">Tinh c&aaf;u th&uws; s&as;u l&af; tinh c&aaf;u m&uw;&owf;i l&aaf;n r&ooj;ng h&ow;n.</seg>
+					<seg id="n819">&OWR; tr&ee;n &dd;&os; c&os; m&ooj;t t&oo;n &oo;ng gi&af; &dd;ang vi&ees;t nh&uwx;ng cu&oos;n s&as;ch d&af;y c&ooj;p.</seg>
+				</p>
+				<p>
+					<seg id="n820">- K&if;a! Kia l&af; m&ooj;t nh&af; th&as;m hi&eer;m! &OO;ng ta k&ee;u l&ee;n th&ees; khi nh&if;n th&aas;y &oo;ng ho&af;ng nh&or;.</seg>
+				</p>
+				<p>
+					<seg id="n821">&OO;ng ho&af;ng nh&or; ng&oof;i l&ee;n b&af;n v&af; th&owr; m&ooj;t l&us;c.</seg>
+					<seg id="n822">Em &dd;&ax; &dd;i m&ooj;t qu&ax;ng &dd;&uw;&owf;ng kh&as; xa.</seg>
+				</p>
+				<p>
+					<seg id="n823">- Ch&us; t&uwf; &dd;&aa;u &dd;&ees;n? T&oo;n &oo;ng gi&af; h&or;i.</seg>
+				</p>
+				<p>
+					<seg id="n824">- Cu&oos;n s&as;ch b&uwj; n&af;y l&af; cu&oos;n s&as;ch g&if; v&aaj;y? &OO;ng ho&af;ng nh&or; h&or;i.</seg>
+					<seg id="n825">&OO;ng l&af;m g&if; &owr; &dd;&aa;y?</seg>
+				</p>
+				<p>
+					<seg id="n826">- Ta l&af; nh&af; &dd;&ij;a l&ys;, t&oo;n &oo;ng gi&af; n&os;i.</seg>
+				</p>
+				<p>
+					<seg id="n827">- Nh&af; &dd;&ij;a l&ys; l&af; ng&uw;&owf;i nh&uw; th&ees; n&af;o?</seg>
+				</p>
+				<p>
+					<seg id="n828">- &DD;&os; l&af; m&ooj;t nh&af; b&as;c h&oj;c bi&ees;t r&ox; &dd;&aa;u l&af; s&oo;ng bi&eer;n, n&us;i non, th&af;nh ph&oos; v&af; sa m&aj;c.</seg>
+				</p>
+				<p>
+					<seg id="n829">- Th&ees; th&if; th&is;ch th&aaj;t, &oo;ng ho&af;ng nh&or; n&os;i.</seg>
+					<seg id="n830">B&aa;y gi&owf; ta m&ows;i g&awj;p &dd;&uw;&owj;c m&ooj;t ngh&eef; ra ngh&eef;.</seg>
+				</p>
+				<p>
+					<seg id="n831">R&oof;i em &dd;&uw;a m&aws;t nh&if;n c&as;i h&af;nh tinh c&ur;a nh&af; &dd;&ij;a l&ys;, xung quanh em.</seg>
+					<seg id="n832">Em ch&uw;a h&eef; nh&if;n th&aas;y m&ooj;t h&af;nh tinh uy nghi nh&uw; v&aaj;y.</seg>
+				</p>
+				<p>
+					<seg id="n833">- Tinh c&aaf;u c&ur;a &oo;ng &dd;&ej;p qu&as;.</seg>
+					<seg id="n834">C&os; &dd;&aj;i d&uw;&ow;ng kh&oo;ng &oo;ng?</seg>
+				</p>
+				<p>
+					<seg id="n835">- Ta kh&oo;ng bi&ees;t, nh&af; &dd;&ij;a l&ys; n&os;i.</seg>
+				</p>
+				<p>
+					<seg id="n836">- A! (&oo;ng ho&af;ng nh&or; th&aas;t v&oj;ng).</seg>
+					<seg id="n837">C&of;n n&us;i non?</seg>
+				</p>
+				<p>
+					<seg id="n838">- Ta kh&oo;ng bi&ees;t, nh&af; &dd;&ij;a l&ys; n&os;i.</seg>
+				</p>
+				<p>
+					<seg id="n839">- V&af; c&as;c th&af;nh ph&oos;, v&af; c&as;c con s&oo;ng, v&af; c&as;c sa m&aj;c?</seg>
+				</p>
+				<p>
+					<seg id="n840">- Ta c&ux;ng kh&oo;ng bi&ees;t n&oos;t, nh&af; &dd;&ij;a l&ys; n&os;i.</seg>
+				</p>
+				<p>
+					<seg id="n841">- &OO;ng l&af; nh&af; &dd;&ij;a l&ys; c&ow; m&af;!</seg>
+				</p>
+				<p>
+					<seg id="n842">- &DD;&us;ng, nh&af; &dd;&ij;a l&ys; n&os;i.</seg>
+					<seg id="n843">Nh&uw;ng ta c&os; l&af; nh&af; th&as;m hi&eer;m &dd;&aa;u.</seg>
+					<seg id="n844">Ta ho&af;n to&af;n thi&ees;u c&as;c nh&af; th&as;m hi&eer;m.</seg>
+					<seg id="n845">Nh&af; &dd;&ij;a l&ys; kh&oo;ng ph&ar;i l&af; ng&uw;&owf;i &dd;i &dd;&ees;n c&as;c th&af;nh ph&oos;, s&oo;ng bi&eer;n, n&us;i non, &dd;&aj;i d&uw;&ow;ng v&af; sa m&aj;c.</seg>
+					<seg id="n846">Nh&af; &dd;&ij;a l&ys; r&aas;t quan tr&oj;ng kh&oo;ng th&eer; &dd;i lung tung.</seg>
+					<seg id="n847">&OO;ng ta kh&oo;ng r&owf;i b&af;n gi&aas;y c&ur;a m&if;nh.</seg>
+					<seg id="n848">Nh&uw;ng &oo;ng ta ti&ees;p c&as;c nh&af; th&as;m hi&eer;m.</seg>
+					<seg id="n849">&OO;ng ta ph&or;ng v&aas;n h&oj;, v&af; &oo;ng ta ghi ch&es;p l&aj;i nh&uwx;ng h&oof;i &uws;c c&ur;a h&oj;.</seg>
+					<seg id="n850">V&af; n&ees;u h&oof;i &uws;c c&ur;a m&ooj;t trong c&as;c nh&af; th&as;m hi&eer;m &aas;y m&af; &dd;&as;ng ch&us; &ys; th&if; nh&af; &dd;&ij;a l&ys; s&ex; cho &dd;i&eef;u tra v&eef; t&uw; c&as;ch c&ur;a nh&af; th&as;m hi&eer;m &aas;y.</seg>
+				</p>
+				<p>
+					<seg id="n851">- T&aj;i sao v&aaj;y?</seg>
+				</p>
+				<p>
+					<seg id="n852">- B&owr;i v&if; nh&af; th&as;m hi&eer;m &aas;y m&af; n&os;i d&oos;i s&ex; g&aa;y n&ee;n nh&uwx;ng sai l&aaf;m tai h&aj;i trong c&as;c s&as;ch &dd;&ij;a l&ys;.</seg>
+					<seg id="n853">V&af; c&ar; nh&af; th&as;m hi&eer;m n&af;o u&oos;ng r&uw;&owj;u nhi&eef;u qu&as; n&uwx;a.</seg>
+				</p>
+				<p>
+					<seg id="n854">- T&aj;i sao v&aaj;y? &OO;ng ho&af;ng nh&or; h&or;i.</seg>
+				</p>
+				<p>
+					<seg id="n855">- V&if; c&as;c b&owj;m nh&aaj;u th&aas;y m&ooj;t th&af;nh hai.</seg>
+					<seg id="n856">Th&ees; l&af; nh&af; &dd;&ij;a l&ys; s&ex; ghi hai d&ax;y n&us;i &owr; m&ooj;t n&ow;i ch&ir; c&os; m&ooj;t d&ax;y.</seg>
+				</p>
+				<p>
+					<seg id="n857">- T&oo;i c&os; bi&ees;t m&ooj;t ng&uw;&owf;i n&ees;u m&af; l&af;m nh&af; th&as;m hi&eer;m th&if; s&ex; t&eej; h&aj;i &dd;&aas;y, &oo;ng ho&af;ng nh&or; n&os;i.</seg>
+				</p>
+				<p>
+					<seg id="n858">- C&os; th&eer; nh&uw; th&ees;.</seg>
+					<seg id="n859">V&aaj;y n&ee;n khi t&uw; c&as;ch c&ur;a nh&af; th&as;m hi&eer;m &dd;&uw;&owj;c ch&uws;ng minh l&af; t&oos;t r&oof;i, th&if; ng&uw;&owf;i ta m&ows;i &dd;i&eef;u tra v&eef; ph&as;t hi&eej;n c&ur;a anh ta.</seg>
+				</p>
+				<p>
+					<seg id="n860">- Ng&uw;&owf;i ta &dd;i xem hay sao?</seg>
+				</p>
+				<p>
+					<seg id="n861">- Kh&oo;ng, nh&uw; th&ees; th&if; ph&uws;c t&aj;p qu&as;.</seg>
+					<seg id="n862">Nh&uw;ng ng&uw;&owf;i ta &dd;&of;i h&or;i nh&af; th&as;m hi&eer;m cung c&aas;p b&awf;ng ch&uws;ng.</seg>
+					<seg id="n863">V&is; d&uj; nh&uw; t&if;m th&aas;y m&ooj;t h&of;n n&us;i l&ows;n, ng&uw;&owf;i ta bu&ooj;c anh ta ph&ar;i mang v&eef; nh&uwx;ng t&ar;ng &dd;&as; b&uwj;.</seg>
+					<seg id="n864">Nh&af; &dd;&ij;a l&ys; b&oox;ng nhi&ee;n x&us;c &dd;&ooj;ng:</seg>
+				</p>
+				<p>
+					<seg id="n865">- Nh&uw;ng m&af; ch&us;, ch&us; &dd;&ees;n t&uwf; xa.</seg>
+					<seg id="n866">Ch&us; l&af; m&ooj;t nh&af; th&as;m hi&eer;m! </seg>
+					<seg id="n867">Ch&us; h&ax;y t&ar; cho ta c&as;i h&af;nh tinh c&ur;a ch&us; &dd;i!</seg>
+				</p>
+				<p>
+					<seg id="n868">R&oof;i nh&af; &dd;&ij;a l&ys;, sau khi &dd;&ax; m&owr; cu&oos;n s&oor; to, li&eef;n g&oj;t b&us;t ch&if;.</seg>
+					<seg id="n869">Tho&aj;t ti&ee;n ng&uw;&owf;i ta ghi b&awf;ng b&us;t ch&if; c&as;c chuy&eej;n k&eer; c&ur;a nh&af; th&as;m hi&eer;m.</seg>
+					<seg id="n870">&DD;&owj;i cho nh&af; th&as;m hi&eer;m cung c&aas;p b&awf;ng ch&uws;ng r&oof;i, ng&uw;&owf;i ta m&ows;i ghi l&aj;i b&awf;ng b&us;t m&uwj;c.</seg>
+				</p>
+				<p>
+					<seg id="n871">- Th&ees; n&af;o? Nh&af; &dd;&ij;a l&ys; h&or;i.</seg>
+				</p>
+				<p>
+					<seg id="n872">- &OOF;! </seg>
+					<seg id="n873"> Ch&oox; t&oo;i &aas;y &uw;, &oo;ng ho&af;ng n&os;i, ch&awr;ng c&os; g&if; &dd;&as;ng ch&us; &ys; l&aws;m, n&os; b&es; t&is; t&ej;o m&af;.</seg>
+					<seg id="n874">T&oo;i c&os; ba qu&ar; n&us;i l&uwr;a.</seg>
+					<seg id="n875">Hai qu&ar; ho&aj;t &dd;&ooj;ng, m&ooj;t qu&ar; t&aws;t.</seg>
+					<seg id="n876">Nh&uw;ng bi&ees;t &dd;&aa;u &dd;&aas;y.</seg>
+				</p>
+				<p>
+					<seg id="n877">- Bi&ees;t &dd;&aa;u, nh&af; &dd;&ij;a l&ys; n&os;i.</seg>
+				</p>
+				<p>
+					<seg id="n878">- T&oo;i c&ux;ng c&os; m&ooj;t b&oo;ng hoa.</seg>
+				</p>
+				<p>
+					<seg id="n879">- Ch&us;ng t&oo;i kh&oo;ng ghi nh&aaj;n b&oo;ng hoa, nh&af; &dd;&ij;a l&ys; n&os;i.</seg>
+				</p>
+				<p>
+					<seg id="n880">- Sao th&ees;? </seg>
+					<seg id="n881"> N&os; l&af; th&uws; &dd;&ej;p nh&aas;t kia m&af;!</seg>
+				</p>
+				<p>
+					<seg id="n882">- B&owr;i hoa v&oos;n ph&uf; du.</seg>
+				</p>
+				<p>
+					<seg id="n883">- Th&ees; n&af;o g&oj;i l&af; "ph&uf; du"?</seg>
+				</p>
+				<p>
+					<seg id="n884">- C&as;c s&as;ch &dd;&ij;a l&ys;, nh&af; &dd;&ij;a l&ys; n&os;i, l&af; nh&uwx;ng cu&oos;n s&as;ch ch&is;nh x&as;c nh&aas;t.</seg>
+					<seg id="n885">Ch&awr;ng bao gi&owf; l&oox;i th&owf;i c&ar;.</seg>
+					<seg id="n886">Ch&awr;ng m&aas;y khi m&ooj;t qu&ar; n&us;i l&aj;i chuy&eer;n ch&oox;.</seg>
+					<seg id="n887">Ch&awr;ng m&aas;y khi m&ooj;t &dd;&aj;i d&uw;&ow;ng l&aj;i c&aj;n n&uw;&ows;c.</seg>
+					<seg id="n888">Ch&us;ng ta vi&ees;t n&ee;n nh&uwx;ng &dd;i&eef;u v&ix;nh c&uwr;u.</seg>
+				</p>
+				<p>
+					<seg id="n889">- Song nh&uwx;ng n&us;i l&uwr;a &dd;&ax; t&aws;t c&os; th&eer; th&uws;c d&aaj;y &dd;&uw;&owj;c, &oo;ng ho&af;ng nh&or; ng&aws;t l&owf;i.</seg>
+					<seg id="n890">Th&ees; n&af;o g&oj;i l&af; "ph&uf; du"?</seg>
+				</p>
+				<p>
+					<seg id="n891">- N&us;i l&uwr;a t&aws;t hay ho&aj;t &dd;&ooj;ng v&ows;i b&oj;n ta c&ux;ng th&ees; th&oo;i, nh&af; &dd;&ij;a l&ys; n&os;i.</seg>
+					<seg id="n892">C&as;i ta k&eer; t&ows;i, &dd;&os; l&af; qu&ar; n&us;i.</seg>
+					<seg id="n893">N&os; kh&oo;ng thay &dd;&oor;i.</seg>
+				</p>
+				<p>
+					<seg id="n894">- Nh&uw;ng th&ees; n&af;o g&oj;i l&af; "ph&uf; du"? &OO;ng ho&af;ng nh&or; l&awj;p l&aj;i, su&oos;t &dd;&owf;i, em &dd;&ax; kh&oo;ng ch&ij;u b&or; qua m&ooj;t c&aa;u h&or;i, m&ooj;t khi &dd;&ax; n&ee;u n&os; ra.</seg>
+				</p>
+				<p>
+					<seg id="n895">- G&oj;i nh&uw; th&ees; c&os; ngh&ix;a l&af; "&dd;&uws;ng tr&uw;&ows;c hi&eer;m ho&aj; b&ij; ti&ee;u di&eej;t".</seg>
+				</p>
+				<p>
+					<seg id="n896">- C&as;i hoa c&ur;a t&oo;i &dd;ang &dd;&uws;ng tr&uw;&ows;c hi&eer;m ho&aj; b&ij; ti&ee;u di&eej;t &uw;?</seg>
+				</p>
+				<p>
+					<seg id="n897">- Ch&aws;c r&oof;i.</seg>
+				</p>
+				<p>
+					<seg id="n898">&DD;o&as; hoa c&ur;a t&oo;i v&oos;n ph&uf; du, &oo;ng ho&af;ng nh&or; t&uwj; nh&ur;, v&af; n&af;ng ch&ir; c&os; b&oos;n c&as;i gai &dd;&eer; ch&oos;ng ch&oj;i &owr; &dd;&owf;i! </seg>
+					<seg id="n899">Th&ees; m&af; ta &dd;&eer; n&af;ng m&ooj;t m&if;nh &owr; qu&ee; nh&af;!</seg>
+				</p>
+				<p>
+					<seg id="n900">&AAS;y l&af; c&ow;n nu&oos;i ti&ees;c &dd;&aaf;u ti&ee;n c&ur;a em.</seg>
+					<seg id="n901">Nh&uw;ng em l&aas;y l&aj;i can &dd;&ar;m:</seg>
+				</p>
+				<p>
+					<seg id="n902">- B&aa;y gi&owf; &oo;ng khuy&ee;n t&oo;i n&ee;n &dd;i th&aw;m &dd;&aa;u? Em h&or;i.</seg>
+				</p>
+				<p>
+					<seg id="n903">- H&af;nh tinh tr&as;i &dd;&aas;t, nh&af; &dd;&ij;a l&ys; tr&ar; l&owf;i.</seg>
+					<seg id="n904">H&af;nh tinh &aas;y n&oor;i ti&ees;ng l&aws;m...</seg>
+					<seg id="n905">Th&ees; l&af; &oo;ng ho&af;ng nh&or; ra &dd;i, l&of;ng m&ow; &dd;&ees;n &dd;o&as; hoa c&ur;a m&if;nh.</seg>
+				</p>
+			</div>
+			<div>
+				<head>XVI</head>
+				<p>
+					<seg id="n906">H&af;nh tinh th&uws; b&ar;y v&aaj;y l&af; tr&as;i &dd;&aas;t.</seg>
+				</p>
+				<p>
+					<seg id="n907">Tr&as;i &dd;&aas;t kh&oo;ng ph&ar;i l&af; m&ooj;t h&af;nh tinh xo&af;ng!</seg>
+					<seg id="n908">Ng&uw;&owf;i ta &dd;&ax; t&is;nh c&os; t&ows;i m&ooj;t tr&aw;m m&uw;&owf;i m&ooj;t &oo;ng vua (trong &dd;&os;, hi&eer;n nhi&ee;n l&af; kh&oo;ng qu&ee;n t&is;nh c&ar; c&as;c &oo;ng vua &dd;en), b&ar;y ngh&if;n nh&af; &dd;&ij;a l&ys;, ch&is;n tr&aw;m ngh&if;n nh&af; doanh nghi&eej;p, b&ar;y tri&eej;u r&uw;&owx;i b&owj;m nh&aaj;u, ba tr&aw;m m&uw;&owf;i m&ooj;t tri&eej;u k&er; kho&as;c l&as;c, ngh&ix;a l&af; v&af;o qu&ax;ng 
+hai t&ir; ng&uw;&owf;i l&ows;n.</seg>
+				</p>
+				<p>
+					<seg id="n909">&DD;&eer; c&as;c b&aj;n c&os; ch&us;t &ys; ni&eej;m v&eef; k&is;ch th&uw;&ows;c tr&as;i &dd;&aas;t, t&oo;i ph&ar;i n&os;i v&ows;i c&as;c b&aj;n r&awf;ng tr&uw;&ows;c khi t&if;m ra &dd;&uw;&owj;c &dd;i&eej;n, tr&ee;n c&ar; s&as;u ch&aa;u l&uj;c ng&uw;&owf;i ta d&uf;ng c&ar; m&ooj;t &dd;&aj;o qu&aa;n th&uwj;c s&uwj; s&as;u tr&aw;m b&oos;n m&uw;&ow;i hai ngh&if;n n&aw;m tr&aw;m m&uw;&owf;i m&ooj;t ng&uw;&owf;i &dd;&oos;t &dd;&ef;n.</seg>
+				</p>
+				<p>
+					<seg id="n910">Nh&if;n xa xa m&ooj;t ch&us;t c&ar;nh &dd;&oos;t &dd;&ef;n &dd;&os; th&aaj;t tuy&eej;t di&eej;u.</seg>
+					<seg id="n911">C&as;c chuy&eer;n &dd;&ooj;ng c&ur;a &dd;&aj;o qu&aa;n n&af;y qui &dd;&ij;nh nh&uw; trong m&ooj;t v&owr; k&ij;ch ba-l&ee;.</seg>
+					<seg id="n912">Tr&uw;&ows;c ti&ee;n l&af; phi&ee;n nh&uwx;ng ng&uw;&owf;i &dd;&oos;t &dd;&ef;n n&uw;&ows;c T&aa;n T&aa;y Lan v&af; n&uw;&ows;c &US;c.</seg>
+				</p>
+				<p>
+					<seg id="n913">Sau khi &dd;&oos;t &dd;&ef;n xong, h&oj; &dd;i ng&ur;.</seg>
+					<seg id="n914">B&aas;y gi&owf; &dd;&ees;n l&uw;&owj;t nh&uwx;ng ng&uw;&owf;i &dd;&oos;t &dd;&ef;n Trung Qu&oos;c v&af; T&aa;y B&as; L&owj;i &AS;.</seg>
+					<seg id="n915">Xong c&ar; h&oj; n&uwx;a, c&ux;ng bi&ees;n m&aas;t trong c&as;c h&af;nh lang.</seg>
+					<seg id="n916">L&aj;i &dd;&ees;n l&uw;&owj;t nh&uwx;ng ng&uw;&owf;i &dd;&oos;t &dd;&ef;n n&uw;&ows;c Nga v&af; n&uw;&ows;c &AAS;n &DD;&ooj;.</seg>
+					<seg id="n917">R&oof;i &dd;&ees;n nh&uwx;ng ng&uw;&owf;i c&ur;a ch&aa;u Phi v&af; ch&aa;u &AA;u.</seg>
+					<seg id="n918">R&oof;i &dd;&ees;n nh&uwx;ng ng&uw;&owf;i Nam M&yx;.</seg>
+					<seg id="n919">R&oof;i &dd;&ees;n nh&uwx;ng ng&uw;&owf;i B&aws;c M&yx;.</seg>
+					<seg id="n920">V&af; ch&awr;ng bao gi&owf; h&oj; v&af;o ra s&aa;n kh&aas;u nh&aaf;m l&aax;n c&ar;.</seg>
+					<seg id="n921">Th&aaj;t l&af; v&ix; &dd;&aj;i.</seg>
+				</p>
+				<p>
+					<seg id="n922">Ch&ir; c&os; &oo;ng &dd;&oos;t &dd;&ef;n c&ur;a c&aa;y &dd;&ef;n &dd;&ooj;c nh&aas;t &owr; B&aws;c C&uwj;c v&af; &oo;ng &dd;&oos;t &dd;&ef;n c&ur;a c&aa;y &dd;&ef;n &dd;&ooj;c nh&aas;t &owr; Nam C&uwj;c l&af; s&oos;ng cu&ooj;c &dd;&owf;i l&eef; m&eef; &aw;n kh&oo;ng ng&oof;i r&oox;i: hai &oo;ng &aas;y ch&ir; l&af;m vi&eej;c m&ooj;t n&aw;m c&os; hai l&aaf;n.</seg>
+				</p>
+			</div>
+			<div>
+				<head>XVII</head>
+				<p>
+					<seg id="n923">Khi ng&uw;&owf;i ta mu&oos;n ra v&er; th&oo;ng minh, th&uw;&owf;ng th&if; &dd;i&eef;u n&af;y s&ex; d&aax;n &dd;&ees;n vi&eej;c ng&uw;&owf;i ta n&os;i d&os;c &dd;&oo;i ch&us;t.</seg>
+					<seg id="n924">T&oo;i kh&oo;ng th&aaj;t th&af; l&aws;m &dd;&aa;u khi k&eer; v&ows;i c&as;c b&aj;n v&eef; nh&uwx;ng ng&uw;&owf;i &dd;&oos;t &dd;&ef;n.</seg>
+					<seg id="n925">D&as;m c&os; th&eer; t&oo;i &dd;&ax; g&aa;y m&ooj;t &ys; ni&eej;m sai l&aaf;m v&eef; h&af;nh tinh c&ur;a ch&us;ng ta &dd;&oos;i v&ows;i nh&uwx;ng ai ch&uw;a bi&ees;t n&os;.</seg>
+					<seg id="n926">Lo&af;i ng&uw;&owf;i chi&ees;m r&aas;t &is;t ch&oox; tr&ee;n m&awj;t &dd;&aas;t.</seg>
+					<seg id="n927">N&ees;u hai t&yr; con ng&uw;&owf;i &dd;ang s&oos;ng tr&ee;n m&awj;t &dd;&aas;t n&af;y m&af; &dd;&uws;ng kh&as; s&as;t v&af;o nhau, nh&uw; trong m&ooj;t cu&ooj;c meeting, th&if; h&oj; s&ex; &dd;&uws;ng g&oj;n trong m&ooj;t qu&ar;ng tr&uw;&owf;ng ch&ir; r&ooj;ng h&ow;n hai d&awj;m, d&af;i hai m&uw;&ow;i d&awj;m.</seg>
+					<seg id="n928">C&os; th&eer; d&oof;n h&ees;t nh&aa;n lo&aj;i l&ee;n m&ooj;t h&of;n &dd;&ar;o b&es; nh&aas;t trong Th&as;i B&if;nh D&uw;&ow;ng.</seg>
+				</p>
+				<p>
+					<seg id="n929">Nh&uwx;ng ng&uw;&owf;i l&ows;n, ch&aws;c ch&aws;n r&oof;i, s&ex; ch&awr;ng tin b&aj;n &dd;&aa;u.</seg>
+					<seg id="n930">H&oj; ngh&ix; l&af; h&oj; chi&ees;m nhi&eef;u ch&oox; l&aws;m.</seg>
+					<seg id="n931">H&oj; th&aas;y h&oj; quan tr&oj;ng nh&uw; c&as;c c&aa;y baobab.</seg>
+					<seg id="n932">Th&ees; n&ee;n c&as;c b&aj;n ph&ar;i khuy&ee;n h&oj; l&af;m c&as;c con t&is;nh &dd;i.</seg>
+					<seg id="n933">H&oj; t&oo;n th&owf; nh&uwx;ng con s&oos;: vi&eej;c &aas;y l&af;m h&oj; th&is;ch th&us;.</seg>
+					<seg id="n934">Nh&uw;ng &dd;&uwf;ng c&os; ph&is; nhi&eef;u th&if; gi&owf; c&ur;a b&aj;n v&af;o h&if;nh ph&aj;t &dd;&os;.</seg>
+					<seg id="n935">Ch&awr;ng &is;ch g&if;.</seg>
+					<seg id="n936">B&aj;n tin v&af;o t&oo;i m&af;.</seg>
+				</p>
+				<p>
+					<seg id="n937">&OO;ng ho&af;ng nh&or;, m&ooj;t khi &dd;&as;p xu&oos;ng m&awj;t &dd;&aas;t, r&aas;t kinh ng&aj;c v&if; ch&awr;ng tr&oo;ng th&aas;y ng&uw;&owf;i n&af;o.</seg>
+					<seg id="n938">Em &dd;&ax; b&aws;t &dd;&aaf;u s&owj; m&if;nh nh&aaf;m h&af;nh tinh, th&if; m&ooj;t c&as;i v&of;ng m&aaf;u &as;nh tr&aw;ng &dd;&ooj;ng &dd;&aaj;y trong c&as;t.</seg>
+				</p>
+				<p>
+					<seg id="n939">- Xin ch&af;o, &oo;ng ho&af;ng nh&or; n&os;i b&aa;ng qu&ow;.</seg>
+				</p>
+				<p>
+					<seg id="n940">- Xin ch&af;o, con r&aws;n n&os;i.</seg>
+				</p>
+				<p>
+					<seg id="n941">- T&oo;i r&ow;i xu&oos;ng h&af;nh tinh n&af;o v&aaj;y? &OO;ng ho&af;ng nh&or; h&or;i.</seg>
+				</p>
+				<p>
+					<seg id="n942">- Tr&ee;n tr&as;i &dd;&aas;t, &owr; ch&aa;u Phi, con r&aws;n tr&ar; l&owf;i.</seg>
+				</p>
+				<p>
+					<seg id="n943">- A! Th&ees; tr&ee;n tr&as;i &dd;&aas;t kh&oo;ng c&os; ng&uw;&owf;i n&af;o &uw;?</seg>
+				</p>
+				<p>
+					<seg id="n944">- &DD;&aa;y l&af; sa m&aj;c.</seg>
+					<seg id="n945">Ch&awr;ng c&os; ai tr&ee;n sa m&aj;c &dd;&aa;u.</seg>
+					<seg id="n946">Tr&as;i &dd;&aas;t r&ooj;ng l&aws;m, r&aws;n n&os;i.</seg>
+				</p>
+				<p>
+					<seg id="n947">&OO;ng ho&af;ng nh&or; ng&oof;i tr&ee;n m&ooj;t t&ar;ng &dd;&as; v&af; ng&uw;&ows;c m&aws;t l&ee;n tr&owf;i:</seg>
+				</p>
+				<p>
+					<seg id="n948">- C&os; nh&uwx;ng ng&oo;i sao &dd;&uw;&owj;c th&aws;p s&as;ng l&af; &dd;&eer; m&oox;i ng&uw;&owf;i m&ooj;t ng&af;y kia tr&owr; v&eef; ng&oo;i sao c&ur;a m&if;nh? </seg>
+					<seg id="n949">H&ax;y nh&if;n xem tinh c&aaf;u c&ur;a t&oo;i.</seg>
+					<seg id="n950">N&os; &owr; ngay b&ee;n tr&ee;n ch&us;ng ta...</seg>
+					<seg id="n951">Nh&uw;ng sao m&af; xa th&ees;!</seg>
+				</p>
+				<p>
+					<seg id="n952">- N&os; &dd;&ej;p &dd;&aas;y, r&aws;n n&os;i.</seg>
+					<seg id="n953">C&aaj;u l&af;m g&if; t&ows;i &dd;&aa;y?</seg>
+				</p>
+				<p>
+					<seg id="n954">- T&oo;i c&os; chuy&eej;n r&aws;c r&oos;i v&ows;i m&ooj;t b&oo;ng hoa, &oo;ng ho&af;ng nh&or; n&os;i.</seg>
+				</p>
+				<p>
+					<seg id="n955">- &AF;! r&aws;n n&os;i.</seg>
+				</p>
+				<p>
+					<seg id="n956">V&af; c&ar; hai l&awj;ng thinh.</seg>
+				</p>
+				<p>
+					<seg id="n957">- Lo&af;i ng&uw;&owf;i &owr; &dd;&aa;u? Sau c&uf;ng &oo;ng ho&af;ng nh&or; ti&ees;p t&uj;c.</seg>
+					<seg id="n958">Trong sa m&aj;c th&aas;y h&ow;i b&ow; v&ow;...</seg>
+				</p>
+				<p>
+					<seg id="n959">- Ngay gi&uwx;a lo&af;i ng&uw;&owf;i, c&ux;ng b&ow; v&ow;, r&aws;n n&os;i.</seg>
+				</p>
+				<p>
+					<seg id="n960">&OO;ng ho&af;ng nh&or; nh&if;n r&aws;n r&aas;t l&aa;u:</seg>
+				</p>
+				<p>
+					<seg id="n961">- Anh l&af; m&ooj;t con v&aaj;t bu&oof;n c&uw;&owf;i th&aaj;t, em n&os;i, m&ar;nh kh&ar;nh c&uws; nh&uw; m&ooj;t ng&os;n tay...</seg>
+				</p>
+				<p>
+					<seg id="n962">- Nh&uw;ng ta m&aj;nh h&ow;n ng&os;n tay c&ur;a m&ooj;t &oo;ng vua, r&aws;n n&os;i.</seg>
+				</p>
+				<p>
+					<seg id="n963">&OO;ng ho&af;ng nh&or; m&ir;m c&uw;&owf;i:</seg>
+				</p>
+				<p>
+					<seg id="n964">- Anh kh&oo;ng m&aj;nh l&aws;m &dd;&aa;u...</seg>
+					<seg id="n965">&dd;&ees;n ch&aa;n anh c&ux;ng ch&awr;ng c&os;...</seg>
+					<seg id="n966">anh mu&oos;n &dd;i xa c&ux;ng kh&oo;ng &dd;&uw;&owj;c...</seg>
+				</p>
+				<p>
+					<seg id="n967">- Ta c&os; th&eer; ch&owr; c&aaj;u &dd;i xa h&ow;n c&ar; m&ooj;t chi&ees;c t&af;u, r&aws;n n&os;i.</seg>
+				</p>
+				<p>
+					<seg id="n968">R&aws;n cu&oos;n quanh m&aws;t c&as; c&ur;a &oo;ng ho&af;ng nh&or;, tr&oo;ng gi&oos;ng m&ooj;t chi&ees;c v&of;ng v&af;ng:</seg>
+				</p>
+				<p>
+					<seg id="n969">- K&er; n&af;o b&ij; ta ch&aj;m t&ows;i, ta s&ex; tr&ar; h&aws;n v&eef; v&ows;i &dd;&aas;t l&af; n&ow;i h&aws;n sinh ra.</seg>
+					<seg id="n970">Nh&uw;ng c&aaj;u th&if; trong s&aj;ch v&af; c&aaj;u t&uwf; m&ooj;t ng&oo;i sao t&ows;i...</seg>
+				</p>
+				<p>
+					<seg id="n971">&OO;ng ho&af;ng nh&or; kh&oo;ng n&os;i g&if;.</seg>
+				</p>
+				<p>
+					<seg id="n972">- Anh l&af; m&ooj;t con v&aaj;t bu&oof;n c&uw;&owf;i th&aaj;t, em n&os;i.</seg>
+				</p>
+				<p>
+					<seg id="n973">- C&aaj;u l&af;m cho ta th&uw;&ow;ng h&aj;i, c&aaj;u th&aaj;t y&ees;u &dd;u&oos;i, tr&ee;n c&as;i tr&as;i &dd;&aas;t b&awf;ng &dd;&as; hoa c&uw;&ow;ng n&af;y.</seg>
+					<seg id="n974">Ta c&os; th&eer; gi&us;p &dd;&owx; c&aaj;u m&ooj;t ng&af;y n&af;o &dd;&os; n&ees;u c&aaj;u nh&ows; tinh c&aaf;u c&ur;a c&aaj;u.</seg>
+					<seg id="n975">Ta c&os; th&eer;...</seg>
+				</p>
+				<p>
+					<seg id="n976">- &OOF;! T&oo;i hi&eer;u r&oof;i, &oo;ng ho&af;ng nh&or; n&os;i.</seg>
+					<seg id="n977">Nh&uw;ng t&aj;i sao anh l&us;c n&af;o c&ux;ng n&os;i b&is; hi&eer;m th&ees;?</seg>
+				</p>
+				<p>
+					<seg id="n978">- M&oj;i &dd;i&eef;u b&is; hi&eer;m, ta &dd;&eef;u gi&ar;i h&ees;t, r&aws;n n&os;i.</seg>
+				</p>
+				<p>
+					<seg id="n979">V&af; h&oj; l&awj;ng thinh.</seg>
+				</p>
+			</div>
+			<div>
+				<head>XVIII</head>
+				<p>
+					<seg id="n980">&OO;ng ho&af;ng nh&or; &dd;i qua sa m&aj;c v&af; ch&ir; g&awj;p c&os; m&ooj;t b&oo;ng hoa.</seg>
+					<seg id="n981">M&ooj;t b&oo;ng hoa ch&ir; ba c&as;nh, m&ooj;t b&oo;ng hoa ch&awr;ng l&af; g&if; c&ar;...</seg>
+				</p>
+				<p>
+					<seg id="n982">- Ch&us;c m&ooj;t ng&af;y t&oos;t l&af;nh, &oo;ng ho&af;ng nh&or; n&os;i.</seg>
+				</p>
+				<p>
+					<seg id="n983">- Ch&us;c m&ooj;t ng&af;y t&oos;t l&af;nh, b&oo;ng hoa n&os;i.</seg>
+				</p>
+				<p>
+					<seg id="n984">- Lo&af;i ng&uw;&owf;i &owr; &dd;&aa;u? &OO;ng ho&af;ng nh&or; l&eex; ph&es;p h&or;i.</seg>
+				</p>
+				<p>
+					<seg id="n985">- Ng&uw;&owf;i h&ar;? C&os; lo&af;i &aas;y &dd;&aas;y.</seg>
+					<seg id="n986">Kho&ar;ng s&as;u hay b&ar;y m&oos;ng.</seg>
+					<seg id="n987">Em c&os; nh&if;n th&aas;y h&oj; m&aas;y n&aw;m tr&uw;&ows;c kia.</seg>
+					<seg id="n988">Nh&uw;ng kh&oo;ng ai bi&ees;t t&if;m h&oj; &owr; &dd;&aa;u.</seg>
+					<seg id="n989">Gi&os; th&oor;i h&oj; &dd;i.</seg>
+					<seg id="n990">H&oj; ch&awr;ng c&os; r&eex;, c&as;i &dd;&os; phi&eef;n cho h&oj; l&aws;m.</seg>
+				</p>
+				<p>
+					<seg id="n991">- T&uwf; bi&eej;t, &oo;ng ho&af;ng nh&or; n&os;i.</seg>
+				</p>
+				<p>
+					<seg id="n992">- T&uwf; bi&eej;t, &dd;o&as; hoa n&os;i.</seg>
+				</p>
+			</div>
+			<div>
+				<head>XIX</head>
+				<p>
+					<seg id="n993">&OO;ng ho&af;ng nh&or; tr&ef;o l&ee;n m&ooj;t qu&ar; n&us;i cao.</seg>
+					<seg id="n994">Tr&uw;&ows;c &dd;&aa;y nh&uwx;ng n&us;i non duy nh&aas;t m&af; em bi&ees;t ch&ir; l&af; ba qu&ar; n&us;i l&uwr;a cao ngang &dd;&aaf;u g&oos;i em.</seg>
+					<seg id="n995">V&af; em &dd;&ax; d&uf;ng qu&ar; n&us;i l&uwr;a &dd;&ax; t&aws;t l&af;m gh&ees; ng&oof;i.</seg>
+					<seg id="n996">" T&uwf; tr&ee;n m&ooj;t qu&ar; n&us;i cao nh&uw; qu&ar; n&us;i n&af;y, em n&os;i th&aaf;m, m&if;nh s&ex; &dd;&uw;a m&aws;t l&af; th&aas;y ngay h&af;nh tinh v&af; t&aas;t c&ar; m&oj;i ng&uw;&owf;i ..."</seg>
+					<seg id="n997">Nh&uw;ng em &dd;&ax; ch&ir; th&aas;y c&os; nh&uwx;ng m&ux;i nh&oj;n c&ur;a c&as;c t&ar;ng &dd;&as; nh&oj;n ho&aws;t.</seg>
+				</p>
+				<p>
+					<seg id="n998">- Ch&us;c m&ooj;t ng&af;y t&oos;t l&af;nh, em n&os;i b&aa;ng qu&ow;.</seg>
+				</p>
+				<p>
+					<seg id="n999">- Ch&us;c m&ooj;t ng&af;y t&oos;t l&af;nh! </seg>
+					<seg id="n1000">Ch&us;c m&ooj;t ng&af;y t&oos;t l&af;nh! </seg>
+					<seg id="n1001">Ch&us;c m&ooj;t ng&af;y t&oos;t l&af;nh!</seg>
+					<seg id="n1002"> Ti&ees;ng vang &dd;&as;p l&aj;i.</seg>
+				</p>
+				<p>
+					<seg id="n1003">- C&as;c anh l&af; ai ?</seg>
+					<seg id="n1004"> &OO;ng ho&af;ng nh&or; h&or;i.</seg>
+				</p>
+				<p>
+					<seg id="n1005">- C&as;c anh l&af; ai! </seg>
+					<seg id="n1006"> C&as;c anh l&af; ai!</seg>
+					<seg id="n1007"> C&as;c anh l&af; ai! </seg>
+					<seg id="n1008">ti&ees;ng vang &dd;&as;p l&aj;i.</seg>
+				</p>
+				<p>
+					<seg id="n1009">- H&ax;y l&af;m b&aj;n v&ows;i t&oo;i, t&oo;i c&oo; &dd;&ow;n l&aws;m, em n&os;i.</seg>
+				</p>
+				<p>
+					<seg id="n1010">- T&oo;i c&oo; &dd;&ow;n l&aws;m!</seg>
+					<seg id="n1011"> T&oo;i c&oo; &dd;&ow;n l&aws;m!</seg>
+					<seg id="n1012"> Ti&ees;ng vang &dd;&as;p l&aj;i.</seg>
+				</p>
+				<p>
+					<seg id="n1013">"C&as;i h&af;nh tinh n&af;y bu&oof;n c&uw;&owf;i th&aaj;t!</seg>
+					<seg id="n1014"> L&us;c &dd;&os; em ngh&ix; th&aaf;m.</seg>
+					<seg id="n1015">N&os; kh&oo; kh&oos;c, v&af; nh&oj;n ho&aws;t v&af; m&awj;n ch&as;t.</seg>
+					<seg id="n1016">V&af; nh&uwx;ng con ng&uw;&owf;i th&if; thi&ees;u h&awr;n &os;c t&uw;&owr;ng t&uw;&owj;ng.</seg>
+					<seg id="n1017">H&oj; ch&ir; l&awj;p l&aj;i nh&uwx;ng g&if; h&oj; &dd;&ax; nghe...</seg>
+					<seg id="n1018">&OWR; ch&oox; t&oo;i c&os; m&ooj;t b&oo;ng hoa : N&af;ng bao gi&owf; c&ux;ng n&os;i tr&uw;&ows;c!"</seg>
+				</p>
+			</div>
+			<div>
+				<head>XX</head>
+				<p>
+					<seg id="n1019">Nh&uw;ng &oo;ng ho&af;ng nh&or;, sau khi &dd;i r&aas;t l&aa;u qua c&as;t, &dd;&as; v&af; tuy&ees;t, cu&oos;i c&uf;ng c&ux;ng t&if;m th&aas;y m&ooj;t con &dd;&uw;&owf;ng.</seg>
+					<seg id="n1020">V&af; m&oj;i con &dd;&uw;&owf;ng &dd;&eef;u &dd;&uw;a &dd;&ees;n ch&oox; c&os; ng&uw;&owf;i &owr;.</seg>
+				</p>
+				<p>
+					<seg id="n1021">- Ch&us;c m&ooj;t ng&af;y t&oos;t l&af;nh, em n&os;i.</seg>
+				</p>
+				<p>
+					<seg id="n1022">&AAS;y l&af; m&ooj;t khu v&uw;&owf;n &dd;&aaf;y hoa h&oof;ng</seg>
+				</p>
+				<p>
+					<seg id="n1023">- Ch&us;c m&ooj;t ng&af;y t&oos;t l&af;nh, c&as;c hoa h&oof;ng tr&ar; l&owf;i.</seg>
+				</p>
+				<p>
+					<seg id="n1024">&OO;ng ho&af;ng nh&or; nh&if;n c&as;c hoa h&oof;ng.</seg>
+					<seg id="n1025">T&aas;t c&ar; b&oj;n h&oj; &dd;&eef;u gi&oos;ng b&oo;ng hoa c&ur;a em.</seg>
+				</p>
+				<p>
+					<seg id="n1026">- C&as;c n&af;ng l&af; ai ?</seg>
+					<seg id="n1027"> Em h&or;i h&oj;, s&uwx;ng s&owf; kinh ng&aj;c.</seg>
+				</p>
+				<p>
+					<seg id="n1028">- Ch&us;ng em l&af; nh&uwx;ng &dd;o&as; hoa h&oof;ng, c&as;c hoa h&oof;ng n&os;i.</seg>
+				</p>
+				<p>
+					<seg id="n1029">- A ! &OO;ng ho&af;ng nh&or; k&ee;u l&ee;n.</seg>
+				</p>
+				<p>
+					<seg id="n1030">V&af; em c&ar;m th&aas;y r&aas;t &dd;au kh&oor;.</seg>
+					<seg id="n1031">&DD;o&as; hoa c&ur;a em &dd;&ax; &dd;&ax; k&eer; v&ows;i em r&awf;ng n&af;ng l&af; duy nh&aas;t trong gi&oos;ng n&of;i c&ur;a n&af;ng kh&aws;p trong v&ux; tr&uj;.</seg>
+					<seg id="n1032">V&af; &owr; &dd;&aa;y c&os; &dd;&ees;n n&aw;m ngh&if;n &dd;o&as; gi&oos;ng nh&uw; nhau, ch&ir; m&ows;i trong m&oox;i m&ooj;t khu v&uw;&owf;n.</seg>
+				</p>
+				<p>
+					<seg id="n1033">" N&af;ng s&ex; ng&uw;&owj;ng l&aws;m &dd;&aa;y, em ngh&ix; th&aaf;m, n&ees;u th&aas;y c&ar;nh n&af;y.</seg>
+					<seg id="n1034">N&af;ng s&ex; ho r&ux; r&uw;&owj;i v&af; gi&ar; ch&ees;t cho &dd;&owx; ng&uw;&owj;ng.</seg>
+					<seg id="n1035">C&of;n ta s&ex; ph&ar;i l&af;m ra v&er; an &ur;i v&oox; v&eef; n&af;ng, n&ees;u kh&oo;ng, &dd;&eer; l&af;m ch&is;nh ta c&ux;ng ph&ar;i x&aas;u h&oor;, n&af;ng d&as;m ch&ees;t th&aaj;t m&aas;t".</seg>
+				</p>
+				<p>
+					<seg id="n1036">R&oof;i em l&aj;i t&uwj; b&ar;o : " Ta t&uw;&owr;ng ta &dd;&ax; gi&af;u l&aws;m v&ows;i m&ooj;t &dd;o&as; hoa duy nh&aas;t.</seg>
+					<seg id="n1037">C&as;i &dd;&os; c&ooj;ng v&ows;i ba qu&ar; n&us;i l&uwr;a cao ngang &dd;&aaf;u g&oos;i cu&ar; ta, m&af; m&ooj;t qu&ar;, c&os; l&ex;, &dd;&ax; t&aws;t m&ax;i m&ax;i, c&as;i &dd;&os; ch&awr;ng l&af;m cho ta th&af;nh m&ooj;t &oo;ng ho&af;ng l&ows;n l&aws;m &dd;&aa;u".</seg>
+					<seg id="n1038">V&af;, n&awf;m d&af;i trong c&or;, em kh&os;c.</seg>
+				</p>
+			</div>
+			<div>
+				<head>XXI</head>
+				<p>
+					<seg id="n1039">Ch&is;nh v&af;o l&us;c &dd;&os; con c&as;o xu&aas;t hi&eej;n.</seg>
+				</p>
+				<p>
+					<seg id="n1040">- Ch&us;c m&ooj;t ng&af;y t&oos;t l&af;nh, con c&as;o n&os;i.</seg>
+				</p>
+				<p>
+					<seg id="n1041">- Ch&us;c m&ooj;t ng&af;y t&oos;t l&af;nh, &oo;ng ho&af;ng nh&or; &dd;&as;p l&aj;i l&ij;ch s&uwj;, em quay l&aj;i nh&uw;ng ch&awr;ng th&aas;y g&if; c&ar;.</seg>
+				</p>
+				<p>
+					<seg id="n1042">- T&ows; &dd;&aa;y n&af;y, gi&oj;ng n&os;i c&aas;t l&ee;n, &owr; d&uw;&ows;i c&aa;y t&as;o.</seg>
+				</p>
+				<p>
+					<seg id="n1043">- C&aaj;u l&af; ai th&ees; ?</seg>
+					<seg id="n1044">&OO;ng ho&af;ng nh&or; n&os;i, c&aaj;u th&aaj;t l&af; xinh.</seg>
+				</p>
+				<p>
+					<seg id="n1045">- T&ows; l&af; m&ooj;t con c&as;o, con c&as;o n&os;i.</seg>
+				</p>
+				<p>
+					<seg id="n1046">- &DD;&ees;n ch&ow;i v&ows;i m&if;nh &dd;i, &oo;ng ho&af;ng nh&or; r&ur; c&as;o.</seg>
+					<seg id="n1047">M&if;nh bu&oof;n qu&as;..</seg>
+				</p>
+				<p>
+					<seg id="n1048">- T&ows; kh&oo;ng ch&ow;i v&ows;i c&aaj;u &dd;&uw;&owj;c.</seg>
+					<seg id="n1049">T&ows; ch&uw;a &dd;&uw;&owj;c c&ar;m ho&as;.</seg>
+				</p>
+				<p>
+					<seg id="n1050">- &AF; ! Xin l&oox;i, &oo;ng ho&af;ng nh&or; n&os;i.</seg>
+				</p>
+				<p>
+					<seg id="n1051">Nh&uw;ng sau khi suy ngh&ix;, em h&or;i th&ee;m</seg>
+					<seg id="n1052">- Th&ees; n&af;o g&oj;i l&af; "c&ar;m ho&as;" ?</seg>
+				</p>
+				<p>
+					<seg id="n1053">- C&aaj;u kh&oo;ng ph&ar;i d&aa;n &owr; &dd;&aa;y.</seg>
+					<seg id="n1054">C&aaj;u &dd;i t&if;m c&as;i g&if;?</seg>
+				</p>
+				<p>
+					<seg id="n1055">- T&ows; &dd;i t&if;m nh&uwx;ng con ng&uw;&owf;i, &oo;ng ho&af;ng nh&or; n&os;i.</seg>
+					<seg id="n1056">Th&ees; n&af;o g&oj;i l&af; "c&ar;m ho&as;" ?</seg>
+				</p>
+				<p>
+					<seg id="n1057">- Lo&af;i ng&uw;&owf;i, c&as;o n&os;i, h&oj; c&os; s&us;ng v&af; h&oj; s&aw;n b&aws;n.</seg>
+					<seg id="n1058">Phi&eef;n l&aws;m.</seg>
+					<seg id="n1059">H&oj; c&ux;ng nu&oo;i g&af; n&uwx;a.</seg>
+					<seg id="n1060">&DD;&os; l&af; c&as;i duy nh&aas;t h&aas;p d&aax;n &owr; h&oj;.</seg>
+					<seg id="n1061">C&aaj;u &dd;i ki&ees;m g&af; ph&ar;i kh&oo;ng ?</seg>
+				</p>
+				<p>
+					<seg id="n1062">- Kh&oo;ng ! &OO;ng ho&af;ng nh&or; n&os;i, m&if;nh ki&ees;m b&aj;n.</seg>
+					<seg id="n1063">Th&ees; n&af;o g&oj;i l&af; "c&ar;m ho&as;" ?</seg>
+				</p>
+				<p>
+					<seg id="n1064">- &AAS;y l&af; m&ooj;t &dd;i&eef;u b&ij; l&ax;ng qu&ee;n qu&as; r&oof;i, c&as;o n&os;i.</seg>
+					<seg id="n1065">N&os; c&os; ngh&ix;a l&af; " t&aj;o l&ee;n nh&uwx;ng li&ee;n h&eej;..." </seg>
+				</p>
+				<p>
+					<seg id="n1066">- T&aj;o l&ee;n nh&uwx;ng li&ee;n h&eej; ? </seg>
+				</p>
+				<p>
+					<seg id="n1067">- &DD;&us;ng nh&uw; v&aaj;y, con c&as;o n&os;i.</seg>
+					<seg id="n1068">&DD;&oos;i v&ows;i t&ows; hi&eej;n gi&owf; c&aaj;u ch&ir; l&af; m&ooj;t c&aaj;u b&es; ho&af;n to&af;n gi&oos;ng tr&aw;m ngh&if;n c&aaj;u b&es; kh&as;c.</seg>
+					<seg id="n1069">V&af; t&ows; ch&awr;ng  c&aaf;n g&if; &owr; c&aaj;u.</seg>
+					<seg id="n1070">V&af; c&aaj;u c&ux;ng ch&awr;ng c&aaf;n g&if; &owr; t&ows;.</seg>
+					<seg id="n1071">T&ows; &dd;&oos;i &dd;&oos;i v&ows;i c&aaj;u ch&ir; l&af; m&ooj;t con c&as;o gi&oos;ng nh&uw; tr&aw;m ngh&if;n con c&as;o.</seg>
+					<seg id="n1072">Nh&uw;ng, n&ees;u c&aaj;u c&ar;m ho&as; t&ows;, c&aaj;u s&ex; l&af; duy nh&aas;t tr&ee;n &dd;&owf;i... </seg>
+				</p>
+				<p>
+					<seg id="n1073">- T&ows; b&aws;t &dd;&aaf;u hi&eer;u, &oo;ng ho&af;ng nh&or; n&os;i.</seg>
+					<seg id="n1074">C&os; m&ooj;t b&oo;ng hoa ...t&ows; ngh&ix; l&af; n&af;ng c&ar;m ho&as; t&ows;... </seg>
+				</p>
+				<p>
+					<seg id="n1075">- C&os; th&eer; l&aws;m, c&as;o n&os;i.</seg>
+					<seg id="n1076">C&os; th&eer; g&awj;p m&oj;i s&uwj; tr&ee;n tr&as;i &dd;&aas;t n&af;y... </seg>
+				</p>
+				<p>
+					<seg id="n1077">- &OOF;! Kh&oo;ng ph&ar;i tr&ee;n tr&as;i tr&as;i &dd;&aas;t n&af;y &dd;&aa;u, &oo;ng ho&af;ng nh&or; n&os;i. </seg>
+				</p>
+				<p>
+					<seg id="n1078">Con c&as;o c&os; v&er; ch&us; &ys;: </seg>
+				</p>
+				<p>
+					<seg id="n1079">- Tr&ee;n m&ooj;t h&af;nh tinh kh&as;c &af;? </seg>
+				</p>
+				<p>
+					<seg id="n1080">- Ph&ar;i. </seg>
+				</p>
+				<p>
+					<seg id="n1081">- Tr&ee;n h&af;nh tinh &aas;y, c&os; th&owj; s&aw;n kh&oo;ng? </seg>
+				</p>
+				<p>
+					<seg id="n1082">- Kh&oo;ng. </seg>
+				</p>
+				<p>
+					<seg id="n1083">- Th&ees; th&if; hay &dd;&aas;y.</seg>
+					<seg id="n1084">Th&ees; c&of;n g&af;? </seg>
+				</p>
+				<p>
+					<seg id="n1085">- Kh&oo;ng. </seg>
+				</p>
+				<p>
+					<seg id="n1086">- Ch&ar; c&os; &dd;i&eef;u g&if; l&af; ho&af;n ho c&ar;! C&as;o th&owr; d&af;i. </seg>
+				</p>
+				<p>
+					<seg id="n1087">Nh&uw;ng r&oof;i c&as;o tr&owr; l&aj;i v&ows;i &ys; ngh&ix; c&ur;a n&os;: </seg>
+				</p>
+				<p>
+					<seg id="n1088">- &DD;&owf;i t&ows; t&er; nh&aj;t.</seg>
+					<seg id="n1089">T&ows; s&aw;n g&af;, ng&uw;&owf;i s&aw;n t&ows;.</seg>
+					<seg id="n1090">T&aas;t c&ar; lo&af;i g&af; &dd;&eef;u gi&oos;ng nhau, v&af; t&aas;t c&ar; lo&af;i ng&uw;&owf;i &dd;&eef;u gi&oos;ng nhau.</seg>
+					<seg id="n1091">V&if; th&ees;, t&ows; h&ow;i ch&as;n.</seg>
+					<seg id="n1092">Nh&uw;ng n&ees;u c&aaj;u c&ar;m ho&as; t&ows;, &dd;&owf;i t&ows; s&ex; r&uwj;c n&aws;ng.</seg>
+					<seg id="n1093">T&ows; s&ex; nh&aaj;n ra m&ooj;t b&uw;&ows;c ch&aa;n kh&as;c h&awr;n m&oj;i b&uw;&ows;c ch&aa;n kh&as;c.</seg>
+					<seg id="n1094">C&as;c b&uw;&ows;c ch&aa;n kh&as;c s&ex; l&af;m cho t&ows; chui ngay xu&oos;ng &dd;&aas;t.</seg>
+					<seg id="n1095">Nh&uw;ng b&uw;&ows;c ch&aa;n c&ur;a c&aaj;u l&aj;i s&ex; g&oj;i t&ows; t&uwf; hang ch&aj;y ra, nh&uw; l&af; m&ooj;t &dd;i&eej;u nh&aj;c.</seg>
+					<seg id="n1096">V&af; c&aaj;u h&ax;y nh&if;n kia! </seg>
+					<seg id="n1097">C&aaj;u th&aas;y kh&oo;ng, &owr; kia, nh&uwx;ng &dd;&oof;ng l&us;a m&if; &aas;y? </seg>
+					<seg id="n1098">T&ows; kh&oo;ng &aw;n b&as;nh m&if;.</seg>
+					<seg id="n1099">L&us;a m&if; &dd;&oos;i v&ows;i t&ows; l&af; v&oo; d&uj;ng.</seg>
+					<seg id="n1100">C&as;c c&as;nh &dd;&oof;ng l&us;a m&if; &dd;&oos;i v&ows;i t&ows; ch&awr;ng c&os; g&if; kh&ee;u g&owj;i.</seg>
+					<seg id="n1101">C&as;i &dd;&os; bu&oof;n l&aws;m.</seg>
+					<seg id="n1102">Nh&uw;ng c&aaj;u c&os; m&as;i t&os;c m&aaf;u v&af;ng kim.</seg>
+					<seg id="n1103">Th&ees; th&if; s&ex; r&aas;t tuy&eej;t m&ooj;t khi c&aaj;u c&ar;m ho&as; t&ows;! L&us;a m&if;, v&oos;n m&af;u v&af;ng kim, s&ex; g&owj;i cho t&ows; k&yr; ni&eej;m v&eef; c&aaj;u.</seg>
+					<seg id="n1104">V&af; t&ows; s&ex; y&ee;u ti&ees;ng gi&os; reo trong l&us;a m&if;...</seg>
+				</p>
+				<p>
+					<seg id="n1105">C&as;o im l&awj;ng v&af; nh&if;n &oo;ng ho&af;ng nh&or; m&ooj;t l&us;c l&aa;u :</seg>
+				</p>
+				<p>
+					<seg id="n1106">- N&ees;u c&aaj;u vui l&of;ng, h&ax;y c&ar;m ho&as; t&ows; &dd;i, c&as;o n&os;i!</seg>
+				</p>
+				<p>
+					<seg id="n1107">- T&ows; c&ux;ng mu&oos;n th&ees; l&aws;m, &oo;ng ho&af;ng nh&or; tr&ar; l&owf;i, nh&uw;ng t&ows; kh&oo;ng c&os; nhi&eef;u th&if; gi&owf;.</seg>
+					<seg id="n1108">T&ows; c&aaf;n t&if;m ki&ees;m nhi&eef;u b&aj;n v&af; t&if;m hi&eer;u bao nhi&ee;u s&uwj; v&aaj;t.</seg>
+				</p>
+				<p>
+					<seg id="n1109">- Ng&uw;&owf;i ta ch&ir; hi&eer;u &dd;&uw;&owj;c nh&uwx;ng v&aaj;t ng&uw;&owf;i ta &dd;&ax; c&ar;m ho&as;, c&as;o n&os;i.</seg>
+					<seg id="n1110">Lo&af;i ng&uw;&owf;i b&aa;y gi&owf; kh&oo;ng c&of;n &dd;&ur; th&if; gi&owf; hi&eer;u c&as;i g&if; h&ees;t.</seg>
+					<seg id="n1111">H&oj; mua nh&uwx;ng v&aaj;t l&af;m s&awx;n &owr; c&as;c nh&af; bu&oo;n.</seg>
+					<seg id="n1112">Nh&uw;ng kh&oo;ng &owr; &dd;&aa;u c&os; nh&af; bu&oo;n b&aj;n, con ng&uw;&owf;i kh&oo;ng c&os; b&aj;n n&uwx;a.</seg>
+					<seg id="n1113">N&ees;u c&aaj;u mu&oos;n c&os; m&ooj;t ng&uw;&owf;i b&aj;n, h&ax;y c&ar;m ho&as; t&ows;!</seg>
+				</p>
+				<p>
+					<seg id="n1114">- Ph&ar;i l&af;m sao? &oo;ng ho&af;ng nh&or; h&or;i.</seg>
+				</p>
+				<p>
+					<seg id="n1115">- Ph&ar;i th&aaj;t ki&ee;n nh&aax;n, c&as;o tr&ar; l&owf;i.</seg>
+					<seg id="n1116">Ban &dd;&aaf;u c&aaj;u h&ax;y ng&oof;i h&ow;i xa t&ows; m&ooj;t t&is;, nh&uw; th&ees;, &owr; trong c&or;.</seg>
+					<seg id="n1117">T&ows; &dd;&uw;a m&aws;t li&ees;c nh&if;n c&aaj;u, v&af; c&aaj;u ch&awr;ng n&os;i g&if; c&ar;.</seg>
+					<seg id="n1118">Ng&oo;n ng&uwx; l&af; ngu&oof;n g&oos;c c&ur;a ng&ooj; nh&aaj;n.</seg>
+					<seg id="n1119">Nh&uw;ng m&oox;i ng&af;y, c&aaj;u c&os; th&eer; ng&oof;i g&aaf;n m&ooj;t t&is;...</seg>
+				</p>
+				<p>
+					<seg id="n1120">Ng&af;y h&oo;m sau, &oo;ng ho&af;ng nh&or; tr&owr; l&aj;i.</seg>
+				</p>
+				<p>
+					<seg id="n1121">- T&oos;t h&ow;n l&af; n&ee;n &dd;&ees;n &dd;&us;ng gi&owf; nh&uw; h&oo;m tr&uw;&ows;c, c&as;o n&os;i.</seg>
+					<seg id="n1122">N&ees;u c&aaj;u &dd;&ees;n, ch&awr;ng h&aj;n nh&uw; l&us;c b&oos;n gi&owf; chi&eef;u, th&if; t&uwf; ba gi&owf;, m&if;nh &dd;&ax; c&ar;m th&aas;y h&aj;nh ph&us;c.</seg>
+					<seg id="n1123">Th&owf;i kh&aws;c c&af;ng tr&oo;i, m&if;nh l&aj;i c&af;ng h&aj;nh ph&us;c.</seg>
+					<seg id="n1124">&DD;&ees;n b&oos;n gi&owf; th&if; m&if;nh ph&as;t cu&oof;ng l&ee;n v&af; lo l&aws;ng; v&af; m&if;nh s&ex; hi&eer;u c&as;i gi&as; c&ur;a h&aj;nh ph&us;c!</seg>
+					<seg id="n1125"> Nh&uw;ng n&ees;u c&aaj;u &dd;&ees;n b&aas;t c&uws; l&us;c n&af;o, m&if;nh kh&oo;ng bi&ees;t l&us;c n&af;o th&if; n&ee;n trang ph&uj;c cho c&ox;i l&of;ng m&if;nh...</seg>
+					<seg id="n1126">Ph&ar;i c&os; nghi th&uws;c ch&uws;..</seg>
+				</p>
+				<p>
+					<seg id="n1127">- Nghi th&uws;c l&af; c&as;i g&if;? &oo;ng ho&af;ng nh&or; h&or;i..</seg>
+				</p>
+				<p>
+					<seg id="n1128">- &DD;&os; c&ux;ng l&af; c&as;i b&ij; qu&ee;n l&aa;u qu&as; r&oof;i, c&as;o n&os;i.</seg>
+					<seg id="n1129">&DD;&os; c&ux;ng l&af; c&as;i g&if; l&af;m cho m&ooj;t ng&af;y tr&owr; n&ee;n kh&as;c nh&uwx;ng ng&af;y kh&as;c, m&ooj;t gi&owf; tr&owr; n&ee;n kh&as;c nh&uwx;ng gi&owf; kh&as;c.</seg>
+					<seg id="n1130">C&os; m&ooj;t nghi th&uws;c, ch&awr;ng h&aj;n c&ur;a b&oj;n th&owj; s&aw;n c&ur;a t&ows;.</seg>
+					<seg id="n1131">M&oox;i th&uws; n&aw;m, h&oj; khi&ee;u v&ux; v&ows;i c&as;c c&oo; g&as;i trong l&af;ng.</seg>
+					<seg id="n1132">Th&ees; th&if; th&uws; n&aw;m l&af; m&ooj;t ng&af;y k&yf; di&eej;u! H&oo;m &aas;y t&ows; c&os; th&eer; rong ch&ow;i &dd;&ees;n t&aaj;n v&uw;&owf;n nho.</seg>
+					<seg id="n1133">N&ees;u b&oj;n th&owj; s&aw;n m&af; khi&ee;u v&ux; b&aas;t c&uws; ng&af;y n&af;o, th&if; ng&af;y n&af;o c&ux;ng nh&uw; ng&af;y n&af;o, t&ows; s&ex; ch&awr;ng c&os; ng&af;y n&af;o &dd;&uw;&owj;c ngh&ir; n&uwx;a.</seg>
+				</p>
+				<p>
+					<seg id="n1134">Th&ees; l&af; &oo;ng ho&af;ng nh&or; c&ar;m ho&as; con c&as;o.</seg>
+					<seg id="n1135">V&af; gi&owf; ra &dd;i &dd;&ax; &dd;&ees;n :</seg>
+				</p>
+				<p>
+					<seg id="n1136">- A! C&as;o n&os;i, t&ows; s&aws;p kh&os;c l&ee;n &dd;&aa;y.</seg>
+				</p>
+				<p>
+					<seg id="n1137">- &DD;&os; l&af; l&oox;i t&aj;i c&aaj;u, &oo;ng ho&af;ng nh&or; n&os;i.</seg>
+					<seg id="n1138">M&if;nh tuy&eej;t nhi&ee;n ch&awr;ng mu&oos;n c&aaj;u kh&oor;, c&aaj;u l&aj;i c&uws; mu&oos;n m&if;nh c&ar;m ho&as; c&aaj;u.</seg>
+				</p>
+				<p>
+					<seg id="n1139">- &DD;&us;ng th&ees;, c&as;o n&os;i.</seg>
+				</p>
+				<p>
+					<seg id="n1140">- Nh&uw;ng c&aaj;u s&ex; kh&os;c! &oo;ng ho&af;ng nh&or; n&os;i.</seg>
+				</p>
+				<p>
+					<seg id="n1141">- &DD;&us;ng th&ees;, c&as;o n&os;i.</seg>
+				</p>
+				<p>
+					<seg id="n1142">- Th&ees; th&if; c&aaj;u ch&awr;ng &dd;&uw;&owj;c g&if; c&ar;!</seg>
+				</p>
+				<p>
+					<seg id="n1143">- &DD;&uw;&owj;c ch&uws;, c&as;o n&os;i, l&af; do c&as;i m&af;u v&af;ng c&ur;a l&us;a m&if; &aas;y.</seg>
+				</p>
+				<p>
+					<seg id="n1144">R&oof;i n&os; n&os;i th&ee;m :</seg>
+				</p>
+				<p>
+					<seg id="n1145">- H&ax;y tr&owr; l&aj;i th&aw;m nh&uwx;ng &dd;o&as; h&oof;ng &dd;i.</seg>
+					<seg id="n1146">C&aaj;u s&ex; th&aas;y &dd;o&as; hoa c&ur;a c&aaj;u l&af; duy nh&aas;t tr&ee;n &dd;&owf;i.</seg>
+					<seg id="n1147">R&oof;i c&aaj;u h&ax;y l&aj;i &dd;&aa;y t&uwf; bi&eej;t t&ows;, t&ows; s&ex; l&af;m qu&af; cho c&aaj;u m&ooj;t &dd;i&eef;u b&is; m&aaj;t.</seg>
+				</p>
+				<p>
+					<seg id="n1148">&OO;ng ho&af;ng nh&or; &dd;i th&aw;m l&aj;i nh&uwx;ng &dd;o&as; hoa h&oof;ng.</seg>
+				</p>
+				<p>
+					<seg id="n1149">- C&as;c c&oo; ch&awr;ng gi&oos;ng ch&us;t n&af;o v&ows;i &dd;o&as; h&oof;ng c&ur;a t&oo;i, c&as;c c&oo; ch&uw;a l&af; g&if; c&ar;, em b&ar;o c&as;c b&oo;ng 
+h&oof;ng.</seg>
+					<seg id="n1150">Ch&uw;a ai c&ar;m ho&as; c&as;c c&oo;, c&as;c c&oo; c&ux;ng ch&uw;a c&ar;m ho&as; ai.</seg>
+					<seg id="n1151">C&as;c c&oo; gi&oos;ng nh&uw; con c&as;o c&ur;a t&oo;i tr&uw;&ows;c kia.</seg>
+					<seg id="n1152">N&os; ch&ir; l&af; m&ooj;t con c&as;o gi&oos;ng nh&uw; tr&aw;m ngh&if;n con c&as;o.</seg>
+					<seg id="n1153">Song t&oo;i &dd;&ax; l&af;m cho n&os; tr&owr; th&af;nh b&aj;n t&oo;i, v&af; b&aa;y gi&owf; n&os; tr&owr; n&ee;n duy nh&aas;t tr&ee;n &dd;&owf;i.</seg>
+				</p>
+				<p>
+					<seg id="n1154">V&af; c&as;c b&oo;ng h&oof;ng h&ees;t s&uws;c l&us;ng t&us;ng.</seg>
+				</p>
+				<p>
+					<seg id="n1155">- C&as;c c&oo; &dd;&ej;p, nh&uw;ng c&as;c c&oo; tr&oos;ng r&oox;ng, em n&os;i v&ows;i h&oj;.</seg>
+					<seg id="n1156">Ng&uw;&owf;i ta kh&oo;ng th&eer; ch&ees;t v&if; c&as;c c&oo; &dd;&uw;&owj;c.</seg>
+					<seg id="n1157">Ph&ar;i, &dd;o&as; h&oof;ng c&ur;a t&oo;i, m&ooj;t ng&uw;&owf;i qua &dd;&uw;&owf;ng t&aaf;m th&uw;&owf;ng t&uw;&owr;ng l&af; n&af;ng gi&oos;ng c&as;c c&oo;.</seg>
+					<seg id="n1158">Nh&uw;ng &dd;&oos;i v&ows;i t&oo;i th&if; n&af;ng quan tr&oj;ng h&ow;n t&aas;t c&ar; c&as;c c&oo;, b&owr;i v&if; ch&is;nh l&af; n&af;ng m&af; tay t&oo;i &dd;&ax; t&uw;&ows;i.</seg>
+					<seg id="n1159">B&owr;i v&if; ch&is;nh l&af; n&af;ng m&af; t&oo;i &dd;&ax; &dd;&awj;t ch&is;nh d&uw;&ows;i b&aaf;u k&is;nh.</seg>
+					<seg id="n1160">B&owr;i v&if; ch&is;nh l&af; n&af;ng m&af; t&oo;i &dd;&ax; che b&awf;ng t&aas;m b&if;nh phong.</seg>
+					<seg id="n1161">B&owr;i v&if; l&af; n&af;ng m&af; t&oo;i &dd;&ax; b&aws;t nh&uwx;ng con s&aa;u (tr&uwf; hai ba con d&af;nh &dd;&eer; th&af;nh b&uw;&ows;m).</seg>
+					<seg id="n1162">B&owr;i v&if; ch&is;nh l&af; n&af;ng m&af; t&oo;i &dd;&ax; ng&oof;i nghe than th&owr;, hay t&as;n h&uw;&ow;u t&as;n v&uw;&owj;n, hay &dd;&oo;i khi c&ar; l&awj;ng im n&uwx;a.</seg>
+					<seg id="n1163">B&owr;i v&if; &dd;&os; l&af; &dd;o&as; h&oof;ng c&ur;a t&oo;i.</seg>
+				</p>
+				<p>
+					<seg id="n1164">R&oof;i em tr&owr; l&aj;i ch&oox; con c&as;o :</seg>
+				</p>
+				<p>
+					<seg id="n1165">- T&uwf; bi&eej;t, em n&os;i.</seg>
+				</p>
+				<p>
+					<seg id="n1166">- T&uwf; bi&eej;t, c&as;o n&os;i.</seg>
+					<seg id="n1167">&DD;&aa;y l&af; c&as;i b&is; m&aaj;t c&ur;a t&ows;.</seg>
+					<seg id="n1168">N&os; &dd;&ow;n gi&ar;n th&oo;i : ng&uw;&owf;i ta ch&ir; nh&if;n th&aas;y th&aaj;t r&ox; r&af;ng b&awf;ng tr&as;i tim.</seg>
+					<seg id="n1169">C&as;i c&oos;t y&ees;u th&if; con m&aws;t kh&oo;ng nh&if;n th&aas;y.</seg>
+				</p>
+				<p>
+					<seg id="n1170">- C&as;i c&oos;t y&ees;u th&if; con m&aws;t kh&oo;ng nh&if;n th&aas;y, &oo;ng ho&af;ng nh&or; l&awj;p l&aj;i, &dd;&eer; m&af; ghi nh&ows;.</seg>
+				</p>
+				<p>
+					<seg id="n1171">- Ch&is;nh th&owf;i gi&owf; c&aaj;u &dd;&ax; m&aas;t cho &dd;o&as; h&oof;ng c&ur;a c&aaj;u l&af;m cho &dd;o&as; h&oof;ng c&ur;a c&aaj;u tr&owr; n&ee;n quan tr&oj;ng &dd;&ees;n th&ees;.</seg>
+				</p>
+				<p>
+					<seg id="n1172">- Ch&is;nh th&owf;i gi&owf; t&oo;i &dd;&ax; m&aas;t cho b&oo;ng h&oof;ng c&ur;a t&oo;i...</seg>
+					<seg id="n1173">&oo;ng ho&af;ng nh&or; n&os;i, &dd;&eer; m&af; ghi nh&ows;.</seg>
+				</p>
+				<p>
+					<seg id="n1174">- Lo&af;i ng&uw;&owf;i &dd;&ax; qu&ee;n m&aas;t ch&aa;n l&ys; n&af;y, c&as;o n&os;i.</seg>
+					<seg id="n1175">Nh&uw;ng c&aaj;u kh&oo;ng &dd;&uw;&owj;c qu&ee;n.</seg>
+					<seg id="n1176">C&aaj;u tr&owr; n&ee;n m&ax;i m&ax;i c&os; tr&as;ch nhi&eej;m v&eef; nh&uwx;ng g&if; c&aaj;u &dd;&ax; c&ar;m ho&as;.</seg>
+					<seg id="n1177">C&aaj;u c&os; tr&as;ch nhi&eej;m &dd;&oos;i v&ows;i hoa h&oof;ng c&ur;a c&aaj;u.</seg>
+				</p>
+				<p>
+					<seg id="n1178">- T&oo;i c&os; tr&as;ch nhi&eej;m v&ows;i hoa h&oof;ng c&ur;a t&oo;i ...</seg>
+					<seg id="n1179">&oo;ng ho&af;ng nh&or; l&awj;p l&aj;i &dd;&eer; m&af; ghi nh&ows;.</seg>
+				</p>
+			</div>
+			<div>
+				<head>XXII</head>
+				<p>
+					<seg id="n1180">- Xin ch&af;o, &oo;ng ho&af;ng nh&or; n&os;i.</seg>
+				</p>
+				<p>
+					<seg id="n1181">- Xin ch&af;o, ng&uw;&owf;i b&er; ghi n&os;i.</seg>
+				</p>
+				<p>
+					<seg id="n1182">- &OO;ng l&af;m g&if; &owr; &dd;&aa;y? &oo;ng ho&af;ng nh&or; h&or;i.</seg>
+				</p>
+				<p>
+					<seg id="n1183">- Ta x&ees;p h&af;nh kh&as;ch, th&af;nh t&uwf;ng g&os;i ngh&if;n ng&uw;&owf;i m&ooj;t, ng&uw;&owf;i b&er; ghi n&os;i.</seg>
+					<seg id="n1184">Ta h&uw;&ows;ng d&aax;n nh&uwx;ng chuy&ees;n t&af;u tr&owr; ch&us;ng &dd;i, l&us;c v&eef; b&ee;n ph&ar;i, l&us;c v&eef; b&ee;n tr&as;i.</seg>
+				</p>
+				<p>
+					<seg id="n1185">R&oof;i m&ooj;t con t&af;u nhanh s&as;ng choang, g&aaf;m nh&uw; s&aas;m, l&af;m c&aw;n ph&of;ng g&as;c ghi rung l&ee;n.</seg>
+				</p>
+				<p>
+					<seg id="n1186">- H&oj; v&ooj;i qu&as;, &oo;ng ho&af;ng nh&or; n&os;i.</seg>
+					<seg id="n1187">H&oj; t&if;m c&as;i g&if; v&aaj;y?</seg>
+				</p>
+				<p>
+					<seg id="n1188">- Ch&is;nh ng&uw;&owf;i l&as;i t&af;u c&ux;ng kh&oo;ng bi&ees;t, ng&uw;&owf;i g&as;c ghi n&os;i..</seg>
+				</p>
+				<p>
+					<seg id="n1189">V&af; l&aj;i g&aaf;m l&ee;n, t&uwf; h&uw;&ows;ng ng&uw;&owj;c l&aj;i, m&ooj;t chuy&ees;n t&af;u nhanh th&uws; hai s&as;ng choang.</seg>
+				</p>
+				<p>
+					<seg id="n1190">- H&oj; &dd;&ax; tr&owr; v&eef; r&oof;i &uw;? &oo;ng ho&af;ng nh&or; h&or;i...</seg>
+				</p>
+				<p>
+					<seg id="n1191">- Kh&oo;ng ph&ar;i nh&uwx;ng ng&uw;&owf;i khi n&ax;y.</seg>
+					<seg id="n1192">H&oj; &dd;&oor;i ch&oox; &dd;&aas;y.</seg>
+				</p>
+				<p>
+					<seg id="n1193">- H&oj; kh&oo;ng b&awf;ng l&of;ng ch&oox; c&ur;a h&oj;?</seg>
+				</p>
+				<p>
+					<seg id="n1194">- Ng&uw;&owf;i ta kh&oo;ng bao gi&owf; b&awf;ng l&of;ng ch&oox; c&ur;a m&if;nh c&ar;! Ng&uw;&owf;i b&er; ghi n&os;i.</seg>
+				</p>
+				<p>
+					<seg id="n1195">V&af; l&aj;i ti&ees;ng &aaf;m &aaf;m c&ur;a chi&ees;c t&af;u nhanh th&uws; ba s&as;ng choang.</seg>
+				</p>
+				<p>
+					<seg id="n1196">- H&oj; &dd;u&oor;i theo nh&uwx;ng h&af;nh kh&as;ch l&us;c n&ax;y ph&ar;i kh&oo;ng? &oo;ng ho&af;ng nh&or; h&or;i.</seg>
+				</p>
+				<p>
+					<seg id="n1197">- H&oj; ch&awr;ng &dd;u&oor;i theo c&as;i g&if; h&ees;t, ng&uw;&owf;i b&er; ghi n&os;i.</seg>
+					<seg id="n1198">H&oj; ng&ur; g&aaj;t ho&awj;c ng&oof;i ng&as;p v&awj;t trong &dd;&os;.</seg>
+					<seg id="n1199">Ch&ir; c&os; nh&uwx;ng &dd;&uws;a tr&er; l&af; d&as;n m&ux;i v&af;o c&uwr;a k&is;nh th&oo;i.</seg>
+				</p>
+				<p>
+					<seg id="n1200">- Ch&ir; c&os; nh&uwx;ng &dd;&uws;a tr&er; l&af; bi&ees;t m&if;nh t&if;m c&as;i g&if;, &oo;ng ho&af;ng nh&or; n&os;i, ch&us;ng m&aas;t th&if; gi&owf; v&if; m&ooj;t con b&us;p b&ee; b&awf;ng gi&er; r&as;ch, v&af; con b&us;p b&ee; &aas;y tr&owr; n&ee;n quan tr&oj;ng l&aws;m, ai l&aas;y &dd;i c&ur;a ch&us;ng, ch&us;ng s&ex; kh&os;c...</seg>
+				</p>
+				<p>
+					<seg id="n1201">-Ch&us;ng th&aaj;t may m&aws;n, ng&uw;&owf;i b&er; ghi n&os;i.</seg>
+				</p>
+			</div>
+			<div>
+				<head>XXIII</head>
+				<p>
+					<seg id="n1202">- Xin ch&af;o, &oo;ng ho&af;ng nh&or; n&os;i.</seg>
+				</p>
+				<p>
+					<seg id="n1203">- Xin ch&af;o, ng&uw;&owf;i l&as;i bu&oo;n n&os;i.</seg>
+				</p>
+				<p>
+					<seg id="n1204">&AAS;y l&af; m&ooj;t ng&uw;&owf;i b&as;n lo&aj;i thu&oos;c c&os; th&eer; l&af;m cho &dd;&owx; kh&as;t.</seg>
+					<seg id="n1205">M&oox;i l&aaf;n u&oos;ng m&ooj;t vi&ee;n, v&af; ng&uw;&owf;i ta s&ex; th&aas;y kh&oo;ng c&aaf;n ph&ar;i u&oos;ng n&uw;&ows;c n&uwx;a.</seg>
+				</p>
+				<p>
+					<seg id="n1206">- T&aj;i sao &oo;ng b&as;n th&uws; &dd;&os;? &oo;ng ho&af;ng nh&or; h&or;i.</seg>
+				</p>
+				<p>
+					<seg id="n1207">- &DD;&aa;y l&af; m&ooj;t s&uwj; ti&ees;t ki&eej;m l&ows;n v&eef; th&owf;i gi&owf;, ng&uw;&owf;i l&as;i bu&oo;n n&os;i.</seg>
+					<seg id="n1208">C&as;c nh&af; chuy&ee;n m&oo;n &dd;&ax; c&os; t&is;nh to&as;n.</seg>
+					<seg id="n1209">M&oox;i tu&aaf;n l&eex; ta s&ex; ti&ees;t ki&eej;m &dd;&uw;&owj;c n&aw;m m&uw;&ow;i ba ph&us;t.</seg>
+				</p>
+				<p>
+					<seg id="n1210">- Th&ees; ng&uw;&owf;i ta d&uf;ng n&aw;m m&uw;&ow;i ba ph&us;t &aas;y &dd;&eer; l&af;m g&if;?</seg>
+				</p>
+				<p>
+					<seg id="n1211">- Mu&oos;n l&af;m g&if; th&if; l&af;m ...</seg>
+				</p>
+				<p>
+					<seg id="n1212">"Ta, &oo;ng ho&af;ng nh&or; ngh&ix; th&aaf;m, n&ees;u ta c&os; n&aw;m m&uw;&ow;i ba ph&us;t &dd;&eer; l&af;m g&if; th&if; l&af;m, ta s&ex; b&uw;&ows;c th&aaj;t nh&ej; 
+nh&af;ng &dd;&ees;n m&ooj;t c&as;i ngu&oof;n n&uw;&ows;c..."</seg>
+				</p>
+			</div>
+			<div>
+				<head>XXIV</head>
+				<p>
+					<seg id="n1213">L&us;c &dd;&os; l&af; ng&af;y th&uws; t&as;m t&uwf; khi t&oo;i b&ij; h&or;ng m&as;y trong sa m&aj;c, v&af; t&oo;i v&uwf;a nghe c&aa;u chuy&eej;n ng&uw;&owf;i l&as;i bu&oo;n v&uwf;a u&oos;ng gi&oj;t n&uw;&ows;c cu&oos;i c&uf;ng trong s&oos; n&uw;&ows;c d&uwj; tr&uwx;.</seg>
+				</p>
+				<p>
+					<seg id="n1214">- A! T&oo;i n&os;i v&ows;i &oo;ng ho&af;ng nh&or;, c&as;c k&yr; ni&eej;m c&ur;a em th&aaj;t l&af; &dd;&ej;p, nh&uw;ng anh v&aax;n ch&uw;a ch&uwx;a &dd;&uw;&owj;c m&as;y bay c&ur;a anh, anh ch&awr;ng c&of;n g&if; &dd;&eer; u&oos;ng n&uwx;a, v&af; anh c&ux;ng s&ex; h&aj;nh ph&us;c l&aws;m &dd;&aas;y, n&ees;u b&aa;y gi&owf; anh c&ux;ng c&os; th&eer; b&uw;&ows;c th&aaj;t nh&ej; nh&af;ng &dd;&ees;n m&ooj;t c&as;i ngu&oof;n n&uw;&ows;c!</seg>
+				</p>
+				<p>
+					<seg id="n1215">- B&aj;n c&as;o c&ur;a t&oo;i &ow;i, em n&os;i ...</seg>
+				</p>
+				<p>
+					<seg id="n1216">- Ch&us; em b&es; b&or;ng &ow;i, b&aa;y gi&owf; c&of;n ch&oof;n c&as;o g&if; n&uwx;a!</seg>
+				</p>
+				<p>
+					<seg id="n1217">- Sao th&ees;?</seg>
+				</p>
+				<p>
+					<seg id="n1218">- B&owr;i v&if; ta s&aws;p ch&ees;t kh&as;t...
+</seg>
+				</p>
+				<p>
+					<seg id="n1219">Em kh&oo;ng hi&eer;u l&ys; l&ex; c&ur;a t&oo;i, em tr&ar; l&owf;i t&oo;i:</seg>
+				</p>
+				<p>
+					<seg id="n1220">- C&os; &dd;&uw;&owj;c m&ooj;t ng&uw;&owf;i b&aj;n l&af; tuy&eej;t ch&uws;, d&uf; cho ta s&aws;p ch&ees;t &dd;i n&uwx;a.</seg>
+					<seg id="n1221">T&oo;i, t&oo;i r&aas;t h&af;i l&of;ng &dd;&uw;&owj;c c&os; b&aj;n c&as;o c&ur;a t&oo;i ...</seg>
+				</p>
+				<p>
+					<seg id="n1222">Em kh&oo;ng l&uw;&owf;ng &dd;&uw;&owj;c hi&eer;m nguy, t&oo;i ngh&ix; th&aaf;m.</seg>
+					<seg id="n1223">Em kh&oo;ng h&eef; &dd;&os;i hay kh&as;t.</seg>
+					<seg id="n1224">M&ooj;t ch&us;t m&awj;t tr&owf;i c&ux;ng &dd;&ur; cho em r&oof;i.</seg>
+				</p>
+				<p>
+					<seg id="n1225">Nh&uw;ng em nh&if;n t&oo;i v&af; tr&ar; l&owf;i &dd;i&eef;u t&oo;i v&uwf;a ngh&ix; :</seg>
+				</p>
+				<p>
+					<seg id="n1226">- T&oo;i c&ux;ng &dd;ang kh&as;t...</seg>
+					<seg id="n1227">ta &dd;i t&if;m m&ooj;t c&as;i gi&ees;ng &dd;i ...</seg>
+				</p>
+				<p>
+					<seg id="n1228">T&oo;i ph&as;c  m&ooj;t c&uwr; ch&ir; m&eej;t m&or;i : th&aaj;t l&af; phi l&ys; khi &dd;i t&if;m m&ooj;t c&as;i gi&ees;ng, m&ooj;t c&as;ch h&us; ho&aj;, &owr; trong sa m&aj;c m&ee;nh m&oo;ng.</seg>
+					<seg id="n1229">Tuy th&ees;, ch&us;ng t&oo;i v&aax;n b&uw;&ows;c &dd;i.</seg>
+				</p>
+				<p>
+					<seg id="n1230">Khi ch&us;ng t&oo;i b&uw;&ows;c &dd;i, im l&awj;ng, gi&owf; n&af;y qua gi&owf; kh&as;c, m&af;n &dd;&ee;m bu&oo;ng xu&oos;ng v&af; c&as;c v&if; sao b&aws;t &dd;&aaf;u to&ar; s&as;ng.</seg>
+					<seg id="n1231">T&oo;i nh&if;n m&oj;i v&aaj;t nh&uw; trong c&ow;n m&ee;, &dd;&aaf;u n&os;ng b&uwf;ng v&if; kh&as;t.</seg>
+					<seg id="n1232">Nh&uwx;ng l&owf;i &oo;ng ho&af;ng b&es; nh&or; n&os;i nh&ar;y m&us;a trong tr&is; nh&ows; t&oo;i.</seg>
+				</p>
+				<p>
+					<seg id="n1233">- Em, em c&ux;ng kh&as;t hay sao? T&oo;i h&or;i em</seg>
+				</p>
+				<p>
+					<seg id="n1234">Nh&uw;ng em kh&oo;ng tr&ar; l&owf;i c&aa;u t&oo;i h&or;i.</seg>
+					<seg id="n1235">Em ch&ir; n&os;i gi&ar;n d&ij; :</seg>
+				</p>
+				<p>
+					<seg id="n1236">- N&uw;&ows;c c&ux;ng c&os; th&eer; t&oos;t l&af;nh cho tr&as;i tim...</seg>
+				</p>
+				<p>
+					<seg id="n1237">T&oo;i kh&oo;ng hi&eer;u c&aa;u em &dd;&as;p nh&uw;ng t&oo;i im l&awj;ng ...</seg>
+					<seg id="n1238">t&oo;i bi&ees;t l&af; kh&oo;ng n&ee;n h&or;i em.</seg>
+				</p>
+				<p>
+					<seg id="n1239">Em th&aas;y m&eej;t.</seg>
+					<seg id="n1240">Em ng&oof;i xu&oos;ng.</seg>
+					<seg id="n1241">T&oo;i ng&oof;i xu&oos;ng c&aj;nh em.</seg>
+					<seg id="n1242">V&af; sau m&ooj;t l&as;t im l&awj;ng, em l&aj;i n&os;i :</seg>
+				</p>
+				<p>
+					<seg id="n1243">- C&as;c ng&oo;i sao &dd;&ej;p, l&af; do &owr; &dd;&os; c&os; m&ooj;t b&oo;ng hoa m&af; ng&uw;&owf;i ta kh&oo;ng nh&if;n th&aas;y...</seg>
+				</p>
+				<p>
+					<seg id="n1244">T&oo;i &dd;&as;p l&aj;i "&DD;&us;ng th&ees;" v&af; t&oo;i nh&if;n, kh&oo;ng n&os;i, nh&uwx;ng g&owj;n s&os;ng c&ur;a c&as;t d&uw;&ows;i &as;nh tr&aw;ng.</seg>
+				</p>
+				<p>
+					<seg id="n1245">- Sa m&aj;c th&aaj;t &dd;&ej;p, em n&os;i th&ee;m...</seg>
+				</p>
+				<p>
+					<seg id="n1246">&DD;i&eef;u n&af;y &dd;&us;ng.</seg>
+					<seg id="n1247">Bao gi&owf; t&oo;i c&ux;ng y&ee;u sa m&aj;c.</seg>
+					<seg id="n1248">Ta ng&oof;i tr&ee;n m&ooj;t &dd;&uj;n c&as;t.</seg>
+					<seg id="n1249">Ta kh&oo;ng tr&oo;ng th&aas;y g&if; h&ees;t.</seg>
+				</p>
+				<p>
+					<seg id="n1250">Ta kh&oo;ng nghe th&aas;y g&if; h&ees;t.</seg>
+					<seg id="n1251">Nh&uw;ng c&os; m&ooj;t c&as;i g&if; &dd;&os; to&ar; s&as;ng trong l&awj;ng l&ex;...</seg>
+				</p>
+				<p>
+					<seg id="n1252">- C&as;i &dd;&ax; t&oo; &dd;i&eer;m cho sa m&aj;c, &oo;ng ho&af;ng nh&or; n&os;i, l&af; n&os; &aar;n gi&aas;u m&ooj;t c&as;i gi&ees;ng &owr; n&ow;i n&af;o &dd;&os;...</seg>
+				</p>
+				<p>
+					<seg id="n1253">T&oo;i kinh ng&aj;c v&if; b&oox;ng nhi&ee;n hi&eer;u ra c&as;i &as;nh s&as;ng huy&eef;n b&is; &aas;y c&ur;a c&as;t.</seg>
+					<seg id="n1254">Khi c&of;n l&af; m&ooj;t c&aaj;u b&es; t&oo;i &owr; trong m&ooj;t ng&oo;i nh&af; c&oor;, v&af; c&os; m&ooj;t truy&eef;n thuy&ees;t l&af; &owr; ng&oo;i nh&af; c&oor; n&af;y c&os; ch&oo;n m&ooj;t kho b&as;u.</seg>
+					<seg id="n1255">T&aas;t nhi&ee;n, ch&uw;a ai t&if;m ra kho b&as;u &dd;&os;, c&os; l&ex; c&ux;ng ch&uw;a ai th&uwr; &dd;i t&if;m.</seg>
+					<seg id="n1256">Nh&uw;ng n&os; &dd;&ax; l&af;m cho ng&oo;i nh&af; tr&owr; n&ee;n th&aaf;n ti&ee;n.</seg>
+					<seg id="n1257">C&as;i nh&af; c&ur;a t&oo;i c&os; gi&aas;u trong &dd;&as;y tr&as;i tim c&ur;a n&os; m&ooj;t &dd;i&eef;u b&is; m&aaj;t..</seg>
+				</p>
+				<p>
+					<seg id="n1258">.- Ph&ar;i, t&oo;i n&os;i v&ows;i &oo;ng ho&af;ng nh&or;.</seg>
+					<seg id="n1259">D&uf; l&af; ng&oo;i nh&af;, ng&oo;i sao hay sa m&aj;c, c&as;i l&af;m ch&us;ng ta tr&owr; n&ee;n &dd;&ej;p th&if; kh&oo;ng th&eer; nh&if;n th&aas;y!</seg>
+				</p>
+				<p>
+					<seg id="n1260">- T&oo;i r&aas;t h&af;i l&of;ng, em n&os;i, v&if; &oo;ng c&ux;ng &dd;&oof;ng &ys; v&ows;i b&aj;n c&as;o c&ur;a t&oo;i.</seg>
+				</p>
+				<p>
+					<seg id="n1261">Khi &oo;ng ho&af;ng nh&or; b&es; thiu thiu ng&ur;, t&oo;i b&ees; em l&ee;n v&of;ng tay v&af; l&aj;i l&ee;n &dd;&uw;&owf;ng.</seg>
+					<seg id="n1262">L&of;ng t&oo;i x&us;c &dd;&ooj;ng.</seg>
+					<seg id="n1263">T&oo;i c&os; c&ar;m gi&as;c nh&uw; &dd;ang gi&uwx; m&ooj;t kho b&as;u mong manh.</seg>
+					<seg id="n1264">T&oo;i c&os; c&ar;m gi&as;c nh&uw; tr&ee;n Tr&as;i &DD;&aas;t n&af;y kh&oo;ng c&os; g&if; mong manh h&ow;n.</seg>
+					<seg id="n1265">T&oo;i nh&if;n, d&uw;&ows;i &as;nh s&as;ng tr&aw;ng, v&aaf;ng tr&as;n xanh xao &aas;y, &dd;&oo;i m&aws;t nh&aws;m nghi&eef;n, 
+nh&uwx;ng l&oj;n t&os;c run r&aar;y tr&uw;&ows;c gi&os;, v&af; t&oo;i ngh&ix; th&aaf;m : c&as;i m&af; ta th&aas;y &dd;&aa;y ch&ir; l&af; m&ooj;t c&as;i v&or;.</seg>
+					<seg id="n1266">C&as;i quan tr&oj;ng nh&aas;t th&if; kh&oo;ng nh&if;n th&aas;y &dd;&uw;&owj;c ...</seg>
+				</p>
+				<p>
+					<seg id="n1267">Khi &dd;&oo;i m&oo;i h&es; m&owr; c&ur;a em tho&as;ng m&ooj;t n&uj; c&uw;&owf;i, t&oo;i l&aj;i t&uwj; nh&ur; : c&as;i l&af;m cho ta x&us;c &dd;&ooj;ng m&aj;nh &dd;&ees;n th&ees; v&eef; &oo;ng ho&af;ng b&es; nh&or; &dd;ang ng&ur; n&af;y, &dd;&os; l&af; l&of;ng chung thu&yr; c&ur;a em &dd;&oos;i v&ows;i m&ooj;t &dd;o&as; hoa h&oof;ng, &aas;y l&af; h&if;nh &ar;nh m&ooj;t &dd;o&as; h&oof;ng r&uwj;c s&as;ng n&ow;i em nh&uw; m&ooj;t ng&oj;n &dd;&ef;n, c&ar; trong khi em ng&ur;...</seg>
+					<seg id="n1268">V&af; t&oo;i c&af;ng th&aas;y em c&of;n mong manh h&ow;n.</seg>
+					<seg id="n1269">Ta ph&ar;i h&ees;t s&uws;c che ch&owr; cho nh&uwx;ng ng&oj;n &dd;&ef;n : m&ooj;t ng&oj;n gi&os; c&os; th&eer; th&oor;i t&aws;t &dd;&uw;&owj;c ...</seg>
+				</p>
+				<p>
+					<seg id="n1270">V&af;, c&uws; b&uw;&ows;c &dd;i nh&uw; v&aaj;y, t&oo;i t&if;m ra c&as;i gi&ees;ng v&af;o l&us;c r&aj;ng &dd;&oo;ng.</seg>
+				</p>
+			</div>
+			<div>
+				<head>XXV</head>
+				<p>
+					<seg id="n1271">- Con ng&uw;&owf;i, &oo;ng ho&af;ng nh&or; n&os;i, h&oj; chui v&af;o c&as;c chuy&ees;n t&af;u nhanh, nh&uw;ng h&oj; ch&awr;ng bi&ees;t m&if;nh t&if;m ki&ees;m th&uws; g&if;.</seg>
+					<seg id="n1272">Th&ees; m&af; h&oj; c&uws; cu&oos;ng qu&is;t l&ee;n v&af; quay cu&oof;ng ...</seg>
+				</p>
+				<p>
+					<seg id="n1273">V&af; em n&os;i th&ee;m :</seg>
+				</p>
+				<p>
+					<seg id="n1274">- N&af;o c&os; &is;ch g&if;...</seg>
+				</p>
+				<p>
+					<seg id="n1275">C&as;i gi&ees;ng m&af; ch&us;ng t&oo;i &dd;&ees;n, n&os; kh&oo;ng gi&oos;ng c&as;c gi&ees;ng &owr; sa m&aj;c Sahara.</seg>
+					<seg id="n1276">C&as;c gi&ees;ng Sahara ch&ir; &dd;&ow;n gi&ar;n l&af; nh&uwx;ng c&as;i l&oox; &dd;&af;o trong c&as;t.</seg>
+					<seg id="n1277">C&of;n c&as;i n&af;y gi&oos;ng nh&uw; gi&ees;ng l&af;ng.</seg>
+					<seg id="n1278">Nh&uw;ng &owr; &dd;&aas;y ch&awr;ng c&os; ng&oo;i l&af;ng n&af;o, v&af; t&oo;i t&uw;&owr;ng m&if;nh &dd;ang m&ow;.</seg>
+				</p>
+				<p>
+					<seg id="n1279">- L&aj; th&aaj;t, t&oo;i n&os;i v&ows;i &oo;ng ho&af;ng nh&or;, m&oj;i c&as;i &dd;&eef;u c&os; s&awx;n : c&as;i r&of;ng r&oj;c, c&as;i g&aaf;u v&af; s&owj;i d&aa;y...</seg>
+				</p>
+				<p>
+					<seg id="n1280">Em c&uw;&owf;i, s&owf; s&owj;i d&aa;y, l&aw;n c&as;i r&of;ng r&oj;c.</seg>
+					<seg id="n1281">V&af; c&as;i r&of;ng r&oj;c li&eef;n r&ee;n m&ooj;t ti&ees;ng, gi&oos;ng nh&uw; ti&ees;ng r&ee;n c&ur;a c&as;i 
+chong ch&os;ng ch&ir; h&uw;&ows;ng gi&os; sau m&ooj;t h&oof;i gi&os; ng&ur; y&ee;n l&aa;u qu&as;.</seg>
+				</p>
+				<p>
+					<seg id="n1282">- &OO;ng nghe th&aas;y kh&oo;ng, &oo;ng ho&af;ng nh&or; n&os;i, ta &dd;&as;nh th&uws;c c&as;i gi&ees;ng n&af;y v&af; n&os; h&as;t ...</seg>
+				</p>
+				<p>
+					<seg id="n1283">T&oo;i kh&oo;ng mu&oos;n em g&aws;ng s&uws;c :</seg>
+				</p>
+				<p>
+					<seg id="n1284">- &DD;&eer; anh, t&oo;i n&os;i, n&os; n&awj;ng qu&as; &dd;&oos;i v&ows;i em.</seg>
+				</p>
+				<p>
+					<seg id="n1285">Ch&aaj;m r&ax;i, t&oo;i k&es;o g&af;u l&ee;n th&af;nh gi&ees;ng.</seg>
+					<seg id="n1286">T&oo;i &dd;&awj;t n&os; ch&aws;c ch&aws;n tr&ee;n &dd;&os;.</seg>
+					<seg id="n1287">Trong tai t&oo;i v&aax;n c&of;n v&aw;ng v&awr;ng ti&ees;ng h&as;t c&ur;a c&as;i r&of;ng r&oj;c, v&af; trong n&uw;&ows;c v&aax;n c&of;n run r&aar;y, t&oo;i th&aas;y m&awj;t tr&owf;i run l&ee;n.</seg>
+				</p>
+				<p>
+					<seg id="n1288">- T&oo;i kh&as;t th&uws; n&uw;&ows;c n&af;y &dd;&aa;y, &oo;ng ho&af;ng nh&or; n&os;i.</seg>
+					<seg id="n1289">Cho t&oo;i u&oos;ng &dd;i...</seg>
+				</p>
+				<p>
+					<seg id="n1290">V&af; t&oo;i hi&eer;u ra em t&if;m ki&ees;m c&as;i g&if;.</seg>
+				</p>
+				<p>
+					<seg id="n1291">T&oo;i nh&aws;c chi&ees;c g&aaf;u l&ee;n k&eef; m&oo;i em.</seg>
+					<seg id="n1292">Em u&oos;ng, hai m&aws;t nh&aws;m nghi&eef;n.</seg>
+					<seg id="n1293">&EE;m &dd;&eef;m nh&uw; m&ooj;t ng&af;y h&ooj;i.</seg>
+					<seg id="n1294">Th&uws; n&uw;&ows;c n&af;y c&of;n l&af; m&ooj;t c&as;i g&if; kh&as;c h&ow;n m&oj;t th&uws; n&uw;&ows;c u&oos;ng.</seg>
+					<seg id="n1295">N&os; sinh ra t&uwf; cu&ooj;c &dd;i b&ooj; d&uw;&ows;i tr&owf;i sao, t&uwf; ti&ees;ng h&as;t c&ur;a c&as;i r&of;ng r&oj;c, t&uwf; s&uwj; g&aws;ng s&uws;c c&ur;a c&as;nh tay t&oo;i.</seg>
+					<seg id="n1296">N&os; t&oos;t l&af;nh cho tim ta, nh&uw; m&ooj;t m&os;n qu&af; t&awj;ng.</seg>
+					<seg id="n1297">Ng&af;y t&oo;i c&of;n l&af; m&ooj;t c&aaj;u b&es;, &as;nh s&as;ng c&ur;a c&aa;y Noel, ti&ees;ng nh&aj;c c&ur;a bu&oor;i l&eex; n&uwr;a &dd;&ee;m, nh&uwx;ng n&uj; c&uw;&owf;i d&ij;u d&af;ng c&ux;ng &dd;&ax; l&af;m n&ee;n s&uwj; r&uwj;c r&owx; c&ur;a m&os;n qu&af; Noel m&af; t&oo;i &dd;&uw;&owj;c nh&aaj;n.</seg>
+				</p>
+				<p>
+					<seg id="n1298">- Lo&af;i ng&uw;&owf;i n&ow;i &oo;ng, &oo;ng ho&af;ng nh&or; n&os;i, tr&oof;ng n&aw;m ngh&if;n hoa h&oof;ng c&ux;ng trong m&ooj;t khu v&uw;&owf;n...th&ees; m&af; h&oj; ch&awr;ng t&if;m th&aas;y c&as;i h&oj; t&if;m ...</seg>
+				</p>
+				<p>
+					<seg id="n1299">- H&oj; ch&awr;ng t&if;m th&aas;y &dd;&aa;u, t&oo;i n&os;i ...</seg>
+				</p>
+				<p>
+					<seg id="n1300">- Trong khi c&as;i h&oj; mu&oos;n t&if;m l&aj;i c&os; th&eer; g&awj;p trong ch&ir; m&ooj;t &dd;o&as; h&oof;ng ho&awj;c ch&ir; m&ooj;t &is;t n&uw;&ows;c...</seg>
+				</p>
+				<p>
+					<seg id="n1301">- &DD;&us;ng th&ees;, t&oo;i n&os;i.</seg>
+				</p>
+				<p>
+					<seg id="n1302">V&af; &oo;ng ho&af;ng nh&or; n&os;i th&ee;m :</seg>
+				</p>
+				<p>
+					<seg id="n1303">- Con m&aws;t v&oos;n m&uf; lo&af;.</seg>
+					<seg id="n1304">Ph&ar;i t&if;m ki&ees;m v&ows;i tr&as;i tim.</seg>
+				</p>
+				<p>
+					<seg id="n1305">T&oo;i &dd;&ax; u&oos;ng.</seg>
+					<seg id="n1306">T&oo;i &dd;&ax; ngh&ir; ng&ow;i tho&ar; thu&ee;.</seg>
+					<seg id="n1307">V&af;o l&us;c tinh m&ow;, c&as;t m&ooj;t m&af;u m&aaj;t ong.</seg>
+					<seg id="n1308">T&oo;i th&aas;y sung s&uw;&ows;ng c&ar; v&if; c&as;i m&af;u m&aaj;t ong &aas;y n&uwx;a.</seg>
+					<seg id="n1309">T&aj;i sao t&oo;i c&uws; ph&ar;i kh&oor; s&owr;...</seg>
+				</p>
+				<p>
+					<seg id="n1310">- &OO;ng ph&ar;i gi&uwx; l&owf;i h&uws;a, &oo;ng ho&af;ng nh&or; b&aa;y gi&owf; l&aj;i ng&oof;i xu&oos;ng b&ee;n t&oo;i, nh&ej; nh&af;ng n&os;i.</seg>
+				</p>
+				<p>
+					<seg id="n1311">- L&owf;i h&uws;a n&af;o?</seg>
+				</p>
+				<p>
+					<seg id="n1312">- &OO;ng bi&ees;t &dd;&aas;y ...</seg>
+					<seg id="n1313">M&ooj;t c&as;i r&oj; m&ox;m cho con c&uwf;u c&ur;a t&oo;i...</seg>
+					<seg id="n1314">T&oo;i ch&ij;u tr&as;ch nhi&eej;m v&eef; c&as;i hoa &aas;y!</seg>
+				</p>
+				<p>
+					<seg id="n1315">T&oo;i r&us;t t&uwf; trong t&us;i &as;o ra c&as;c b&ar;n v&ex; ph&as;c c&ur;a t&oo;i.</seg>
+					<seg id="n1316">&OO;ng ho&af;ng nh&or; tr&oo;ng th&aas;y c&as;c b&uws;c v&ex; b&ef;n c&uw;&owf;i b&ar;o :</seg>
+				</p>
+				<p>
+					<seg id="n1317">- C&as;c c&aa;y baobap c&ur;a &oo;ng, tr&oo;ng gi&oos;ng nh&uw; c&as;c c&aa;y c&ar;i hoa &aas;y...</seg>
+				</p>
+				<p>
+					<seg id="n1318">- &OOF;!</seg>
+				</p>
+				<p>
+					<seg id="n1319">T&oo;i v&oos;n t&uwj; h&af;o bi&ees;t bao v&ows;i b&uws;c v&ex; c&as;c c&aa;y baobap!</seg>
+				</p>
+				<p>
+					<seg id="n1320">- Con c&as;o c&ur;a &oo;ng...</seg>
+					<seg id="n1321">hai tai n&os;...tr&oo;ng gi&oos;ng nh&uw; hai c&as;i s&uwf;ng...v&af; l&aj;i d&af;i qu&as;!
+</seg>
+				</p>
+				<p>
+					<seg id="n1322">V&af; em l&aj;i c&uw;&owf;i n&uwx;a.</seg>
+				</p>
+				<p>
+					<seg id="n1323">- C&aaj;u kh&oo;ng c&oo;ng b&awf;ng, c&aaj;u nh&or; &ow;i, t&oo;i v&oos;n ch&ir; bi&ees;t v&ex; tr&aw;n k&is;n v&ows;i tr&aw;n m&owr; th&oo;i m&af;!</seg>
+				</p>
+				<p>
+					<seg id="n1324">- &OOF;! &DD;&uw;&owj;c c&ar; th&oo;i, em n&os;i, tr&er; con ch&us;ng hi&eer;u h&ees;t.</seg>
+				</p>
+				<p>
+					<seg id="n1325">Th&ees; l&af; t&oo;i d&uf;ng b&us;t ch&if; ph&as;c m&ooj;t c&as;i r&oj; m&ox;m.</seg>
+					<seg id="n1326">V&af; l&of;ng t&oo;i se l&aj;i khi &dd;&uw;a c&as;i r&oj; m&ox;m &dd;&os; cho em:</seg>
+				</p>
+				<p>
+					<seg id="n1327">- Em c&os; nh&uwx;ng d&uwj; &dd;&ij;nh m&af; t&oo;i kh&oo;ng &dd;&uw;&owj;c r&ox;...</seg>
+				</p>
+				<p>
+					<seg id="n1328">Nh&uw;ng em ch&awr;ng tr&ar; l&owf;i t&oo;i.</seg>
+					<seg id="n1329">Em b&ar;o t&oo;i:</seg>
+				</p>
+				<p>
+					<seg id="n1330">- &OO;ng bi&ees;t kh&oo;ng, ng&af;y t&oo;i r&ow;i xu&oos;ng Tr&as;i &DD;&aas;t...mai &dd;&ax; l&af; tr&of;n m&ooj;t n&aw;m...</seg>
+				</p>
+				<p>
+					<seg id="n1331">R&oof;i, sau m&ooj;t l&as;t im l&awj;ng, em l&aj;i n&os;i:</seg>
+				</p>
+				<p>
+					<seg id="n1332">- T&oo;i r&ow;i xu&oos;ng ngay g&aaf;n &dd;&aa;y...</seg>
+					<seg id="n1333">V&af; em &dd;&or; m&awj;t.</seg>
+				</p>
+				<p>
+					<seg id="n1334">V&af; m&ooj;t l&aaf;n n&uwx;a, ch&awr;ng hi&eer;u t&aj;i sao, t&oo;i c&ar;m th&aas;y bu&oof;n b&ax; m&ooj;t c&as;ch k&yf; l&aj;.</seg>
+					<seg id="n1335">Khi &aas;y t&oo;i b&oox;ng bu&ooj;t mi&eej;ng h&or;i:</seg>
+				</p>
+				<p>
+					<seg id="n1336">- Th&ees; ra kh&oo;ng ph&ar;i l&af; ng&aax;u nhi&ee;n m&af;, bu&oor;i s&as;ng &aas;y, t&oo;i g&awj;p em, c&as;ch &dd;&aa;y t&as;m ng&af;y, em lang thang m&ooj;t m&if;nh m&ooj;t ngh&if;n d&awj;m c&as;ch m&oj;i v&uf;ng c&os; ng&uw;&owf;i &owr;! Em tr&owr; l&aj;i n&ow;i em r&ow;i xu&oos;ng hay sao?</seg>
+				</p>
+				<p>
+					<seg id="n1337">&OO;ng ho&af;ng nh&or; l&aj;i &dd;&or; m&awj;t.</seg>
+				</p>
+				<p>
+					<seg id="n1338">V&af; t&oo;i n&os;i th&ee;m, ng&aaj;p ng&uwf;ng:</seg>
+				</p>
+				<p>
+					<seg id="n1339">- L&af; v&if;, c&os; l&ex;, v&if; ng&af;y k&yr; ni&eej;m ch&aw;ng?</seg>
+				</p>
+				<p>
+					<seg id="n1340">&OO;ng ho&af;ng l&aj;i &dd;&or; m&awj;t l&aaf;n n&uwx;a.</seg>
+					<seg id="n1341">Em kh&oo;ng bao gi&owf; tr&ar; l&owf;i c&as;c c&aa;u h&or;i, nh&uw;ng khi ng&uw;&owf;i ta &dd;&or; m&awj;t, nh&uw; th&ees; c&os; ngh&ix;a l&af; "ph&ar;i", ph&ar;i kh&oo;ng?</seg>
+				</p>
+				<p>
+					<seg id="n1342">- A, t&oo;i n&os;i, t&oo;i s&owj;...</seg>
+				</p>
+				<p>
+					<seg id="n1343">Nh&uw;ng em tr&ar; l&owf;i t&oo;i:</seg>
+				</p>
+				<p>
+					<seg id="n1344">- B&aa;y gi&owf; &oo;ng ph&ar;i l&af;m vi&eej;c th&oo;i.</seg>
+					<seg id="n1345">&OO;ng ph&ar;i tr&owr; v&eef; ch&oox; c&as;i m&as;y c&ur;a &oo;ng.</seg>
+					<seg id="n1346">T&oo;i &dd;&owj;i &oo;ng &owr; &dd;&aa;y.</seg>
+					<seg id="n1347">Chi&eef;u mai &oo;ng h&ax;y &dd;&ees;n...</seg>
+				</p>
+				<p>
+					<seg id="n1348">Song t&oo;i kh&oo;ng y&ee;n t&aa;m.</seg>
+					<seg id="n1349">T&oo;i nh&ows; chuy&eej;n con c&as;o.</seg>
+					<seg id="n1350">C&os; nguy c&ow; l&af; ta c&os; th&eer; kh&os;c m&ooj;t t&is; n&ees;u ta l&owx; &dd;&eer;  cho ai c&ar;m ho&as; m&if;nh...</seg>
+				</p>
+			</div>
+			<div>
+				<head>XXVI</head>
+				<p>
+					<seg id="n1351">C&aj;nh c&as;i gi&ees;ng, c&os; m&ooj;t b&uws;c t&uw;&owf;ng &dd;&oor; n&as;t.</seg>
+					<seg id="n1352">Khi &owr; ch&oox; l&af;m vi&eej;c tr&owr; l&aj;i v&af;o chi&eef;u h&oo;m sau, t&uwf; xa t&oo;i &dd;&ax; th&aas;y &oo;ng ho&af;ng nh&or; c&ur;a t&oo;i ng&oof;i tr&ee;n &dd;&os;, hai ch&aa;n l&ow; l&uwr;ng.</seg>
+					<seg id="n1353">V&af; t&oo;i nghe em n&os;i:</seg>
+				</p>
+				<p>
+					<seg id="n1354">- Th&ees; anh kh&oo;ng nh&ows; sao?</seg>
+					<seg id="n1355"> Kh&oo;ng ph&ar;i l&af; ch&oox; n&af;y &dd;&aa;u!</seg>
+				</p>
+				<p>
+					<seg id="n1356">M&ooj;t gi&oj;ng n&os;i kh&as;c c&os; l&ex; tr&ar; l&owf;i em, v&if; em l&aj;i &dd;&as;p:</seg>
+				</p>
+				<p>
+					<seg id="n1357">- Ph&ar;i!</seg>
+					<seg id="n1358"> Ph&ar;i!</seg>
+					<seg id="n1359"> Ng&af;y th&if; &dd;&us;ng, nh&uw;ng kh&oo;ng ph&ar;i ch&oox; n&af;y...</seg>
+				</p>
+				<p>
+					<seg id="n1360">T&oo;i b&uw;&ows;c ti&ees;p &dd;&ees;n ch&oox; b&uws;c th&af;nh.</seg>
+					<seg id="n1361">T&oo;i v&aax;n kh&oo;ng nh&if;n th&aas;y, c&ux;ng ch&awr;ng nghe th&aas;y ai.</seg>
+					<seg id="n1362">Th&ees; nh&uw;ng, &oo;ng ho&af;ng nh&or; l&aj;i &dd;&as;p n&uwx;a:</seg>
+				</p>
+				<p>
+					<seg id="n1363">- ...&DD;&us;ng th&ees;.</seg>
+					<seg id="n1364">Anh c&uws; xem n&ow;i n&af;o b&aws;t &dd;&aaf;u c&os; d&aas;u ch&aa;n c&ur;a t&oo;i &owr; tr&ee;n c&as;t.</seg>
+					<seg id="n1365">Anh ch&ir; vi&eej;c &dd;&owj;i t&oo;i &owr; &dd;&aas;y.</seg>
+					<seg id="n1366">T&oo;i s&ex; &dd;&ees;n &dd;&ee;m nay.</seg>
+				</p>
+				<p>
+					<seg id="n1367">T&oo;i ch&ir; c&as;ch b&uws;c t&uw;&owf;ng c&os; hai m&uw;&ow;i m&es;t v&af; t&oo;i v&aax;n ch&awr;ng nh&if;n th&aas;y g&if;.</seg>
+				</p>
+				<p>
+					<seg id="n1368">&OO;ng ho&af;ng nh&or; l&aj;i n&os;i, sau m&ooj;t l&as;t im l&awj;ng:</seg>
+				</p>
+				<p>
+					<seg id="n1369">- Anh c&os; n&oj;c t&oos;t &dd;&aas;y ch&uws;? Anh ch&aws;c l&af; kh&oo;ng l&af;m t&oo;i &dd;au l&aa;u ch&uws;?</seg>
+				</p>
+				<p>
+					<seg id="n1370">T&oo;i d&uwf;ng l&aj;i, tr&as;i tim se th&aws;t, nh&uw;ng t&oo;i v&aax;n kh&oo;ng hi&eer;u.</seg>
+				</p>
+				<p>
+					<seg id="n1371">- Th&oo;i b&aa;y gi&owf; h&ax;y &dd;i &dd;i, em n&os;i.</seg>
+					<seg id="n1372">T&oo;i mu&oos;n xu&oos;ng.</seg>
+				</p>
+				<p>
+					<seg id="n1373">Th&ees; l&af; ch&is;nh t&oo;i nh&if;n xu&oos;ng ch&aa;n t&uw;&owf;ng, v&af; t&oo;i nh&ar;y d&uwj;ng l&ee;n.</seg>
+					<seg id="n1374">N&os; &owr; &dd;&os;, n&os; ng&aar;ng &dd;&aaf;u l&ee;n ph&is;a &oo;ng ho&af;ng nh&or;, m&ooj;t gi&oos;ng r&aws;n v&af;ng c&os; th&eer; di&eej;t ta trong ba m&uw;&ow;i gi&aa;y.</seg>
+					<seg id="n1375">V&uwf;a l&uj;c t&us;i t&if;m kh&aar;u s&us;ng ng&aws;n, t&oo;i v&uwf;a ch&aj;y t&ows;i, nh&uw;ng, nghe ti&ees;ng t&oo;i, con r&aws;n li&eef;n chu&oof;n trong c&as;t, nh&uw; th&eer; m&ooj;t d&of;ng n&uw;&ows;c ch&ar;y &dd;i, v&af; ch&awr;ng c&aaf;n ph&ar;i v&ooj;i v&af;ng, n&os; lu&oof;n l&as;ch gi&uwx;a c&as;c t&ar;ng &dd;&as; v&ows;i m&ooj;t ti&ees;ng &dd;&ooj;ng nh&ef; nh&ej; nh&uw; ti&ees;ng va ch&aj;m c&ur;a kim kh&is;.</seg>
+				</p>
+				<p>
+					<seg id="n1376">T&oo;i &dd;&ees;n b&ee;n b&uws;c t&uw;&owf;ng v&uwf;a &dd;&us;ng l&us;c &dd;&eer; &dd;&os;n trong v&of;ng tay t&oo;i &oo;ng ho&af;ng b&es; nh&or;, tr&aws;ng b&eej;ch nh&uw; tuy&ees;t.</seg>
+				</p>
+				<p>
+					<seg id="n1377">- Chuy&eej;n qu&as;i qu&ir; g&if; th&ees;!</seg>
+					<seg id="n1378"> B&aa;y gi&owf; em l&aj;i &dd;i tr&of; chuy&eej;n v&ows;i r&aws;n!</seg>
+				</p>
+				<p>
+					<seg id="n1379">T&oo;i th&as;o chi&ees;c kh&aw;n v&af;ng kim bao gi&owf; c&ux;ng kho&as;c &owr; c&oor; em.</seg>
+					<seg id="n1380">T&oo;i d&aas;p n&uw;&ows;c v&af;o tr&as;n em v&af; cho em u&oos;ng.</seg>
+					<seg id="n1381">V&af; b&aa;y gi&owf;, t&oo;i kh&oo;ng d&as;m h&or;i em &dd;i&eef;u g&if; n&uwx;a.</seg>
+					<seg id="n1382">Em nh&if;n t&oo;i nghi&ee;m ngh&ij; v&af; &dd;&uw;a hai tay &oo;m c&oor; t&oo;i.</seg>
+					<seg id="n1383">T&oo;i nghe ti&ees;ng tim em &dd;&aaj;p nh&uw; ti&ees;ng &dd;&aaj;p c&ur;a m&ooj;t con chim s&aws;p ch&ees;t, khi b&ij; tr&us;ng &dd;&aj;n s&us;ng s&aw;n.</seg>
+					<seg id="n1384">Em b&ar;o t&oo;i:</seg>
+				</p>
+				<p>
+					<seg id="n1385">- T&oo;i r&aas;t m&uwf;ng, v&if; bi&ees;t &oo;ng &dd;&ax; t&if;m ra m&as;y bay c&ur;a &oo;ng thi&ees;u c&as;i g&if;.</seg>
+					<seg id="n1386">&OO;ng s&aws;p tr&owr; v&eef; nh&af; &oo;ng...</seg>
+				</p>
+				<p>
+					<seg id="n1387">- Sao em bi&ees;t?</seg>
+				</p>
+				<p>
+					<seg id="n1388">&DD;&us;ng l&af; l&us;c &aas;y t&oo;i v&uwf;a &dd;&ij;nh b&as;o cho em bi&ees;t, t&uw;&owr;ng &dd;&ax; tuy&eej;t v&oj;ng r&oof;i, b&oox;ng d&uw;ng t&oo;i l&aj;i s&uwr;a &dd;&uw;&owj;c m&as;y.</seg>
+				</p>
+				<p>
+					<seg id="n1389">Em ch&awr;ng tr&ar; l&owf;i c&aa;u h&or;i c&ur;a t&oo;i, nh&uw;ng l&aj;i n&os;i th&ee;m:</seg>
+				</p>
+				<p>
+					<seg id="n1390">- T&oo;i c&ux;ng nh&uw; &oo;ng, h&oo;m nay t&oo;i v&eef; nh&af; t&oo;i...</seg>
+				</p>
+				<p>
+					<seg id="n1391">R&oof;i, gi&oj;ng ng&aaf;m ng&uf;i:</seg>
+				</p>
+				<p>
+					<seg id="n1392">- Xa h&ow;n nhi&eef;u l&aws;m...kh&os; h&ow;n nhi&eef;u l&aws;m...</seg>
+				</p>
+				<p>
+					<seg id="n1393">T&oo;i c&os; c&ar;m gi&as;c v&uwf;a x&ar;y ra m&ooj;t vi&eej;c g&if; d&ij; th&uw;&owf;ng.</seg>
+					<seg id="n1394">T&oo;i si&ees;t ch&awj;t em trong v&of;ng tay t&oo;i nh&uw; m&ooj;t em b&es;, nh&uw;ng khi &aas;y t&oo;i v&aax;n c&os; c&ar;m gi&as;c em &dd;ang tu&ooj;t th&awr;ng xu&oos;ng m&ooj;t v&uwj;c th&awr;m n&af;o &dd;&os; d&uf; t&oo;i c&oos; n&is;u gi&uwx; l&aj;i...</seg>
+				</p>
+				<p>
+					<seg id="n1395">&AS;nh m&aws;t em nghi&ee;m ngh&ij;, m&aas;t h&us;t v&af;o m&ooj;t n&ow;i r&aas;t xa:</seg>
+				</p>
+				<p>
+					<seg id="n1396">- T&oo;i c&os; con c&uwf;u c&ur;a &oo;ng.</seg>
+					<seg id="n1397">V&af; t&oo;i c&os; c&as;i th&uf;ng cho con c&uwf;u.</seg>
+					<seg id="n1398">V&af; t&oo;i c&os; c&as;i r&oj; m&ox;m...</seg>
+				</p>
+				<p>
+					<seg id="n1399">V&af; em m&ir;m c&uw;&owf;i bu&oof;n bu&oof;n.
+</seg>
+				</p>
+				<p>
+					<seg id="n1400">T&oo;i &dd;&owj;i r&aas;t l&aa;u.</seg>
+					<seg id="n1401">T&oo;i th&aas;y em d&aaf;n d&af; &aas;m l&aj;i:</seg>
+				</p>
+				<p>
+					<seg id="n1402">- C&aaj;u em &aj;, em &dd;&ax; s&owj; h&ax;i...</seg>
+				</p>
+				<p>
+					<seg id="n1403">Em c&os; s&owj; h&ax;i, &dd;&us;ng r&oof;i!</seg>
+					<seg id="n1404"> Nh&uw;ng em c&uw;&owf;i d&ij;u d&af;ng:</seg>
+				</p>
+				<p>
+					<seg id="n1405">- Chi&eef;u nay t&oo;i s&ex; c&of;n s&owj; nhi&eef;u h&ow;n...</seg>
+				</p>
+				<p>
+					<seg id="n1406">M&ooj;t l&aaf;n n&uwx;a, t&oo;i l&aj;i c&ar;m th&aas;y l&aj;nh bu&oos;t ng&uw;&owf;i v&if; m&ooj;t c&as;i g&if; &dd;&os; kh&oo;ng th&eer; c&uws;u v&ax;n &dd;&uw;&owj;c n&uwx;a.</seg>
+					<seg id="n1407">V&af; t&oo;i hi&eer;u r&awf;ng t&oo;i kh&oo;ng th&eer; ch&ij;u n&oor;i &ys; ngh&ix; r&oof;i &dd;&aa;y kh&oo;ng bao gi&owf; c&of;n nghe th&aas;y ti&ees;ng c&uw;&owf;i n&af;y n&uwx;a.</seg>
+					<seg id="n1408">Ti&ees;ng c&uw;&owf;i &aas;y &dd;&oos;i v&ows;i t&oo;i nh&uw; m&ooj;t ngu&oof;n n&uw;&ows;c trong sa m&aj;c.</seg>
+				</p>
+				<p>
+					<seg id="n1409">- C&aaj;u em &aj;, t&oo;i c&of;n mu&oos;n &dd;&uw;&owj;c nghe em c&uw;&owf;i...</seg>
+				</p>
+				<p>
+					<seg id="n1410">Nh&uw;ng em b&ar;o t&oo;i:</seg>
+				</p>
+				<p>
+					<seg id="n1411">- &DD;&ee;m nay, v&uwf;a &dd;&us;ng m&ooj;t n&aw;m.</seg>
+					<seg id="n1412">Ng&oo;i sao c&ur;a t&oo;i s&ex; l&aj;i &owr; &dd;&us;ng b&ee;n tr&ee;n ch&oox; t&oo;i r&ow;i xu&oos;ng n&aw;m ngo&as;i...</seg>
+				</p>
+				<p>
+					<seg id="n1413">- C&aaj;u em &aj;, c&os; ph&ar;i l&af; m&ooj;t c&ow;n &as;c m&ooj;ng kh&oo;ng, chuy&eej;n r&aws;n, cu&ooj;c h&ej;n g&awj;p v&ows;i ng&oo;i sao n&af;y...</seg>
+				</p>
+				<p>
+					<seg id="n1414">Nh&uw;ng em kh&oo;ng tr&ar; l&owf;i c&aa;u t&oo;i h&or;i.</seg>
+					<seg id="n1415">Em b&ar;o t&oo;i:</seg>
+				</p>
+				<p>
+					<seg id="n1416">- C&as;i g&if; m&af; quan tr&oj;ng, c&as;i &dd;&os; kh&oo;ng nh&if;n th&aas;y &dd;&uw;&owj;c...</seg>
+				</p>
+				<p>
+					<seg id="n1417">- &DD;&us;ng th&ees;...</seg>
+				</p>
+				<p>
+					<seg id="n1418">- Gi&oos;ng nh&uw; b&oo;ng hoa c&ur;a t&oo;i.</seg>
+					<seg id="n1419">Khi &oo;ng y&ee;u m&ooj;t b&oo;ng hoa &owr; tr&ee;n m&ooj;t ng&oo;i sao, th&aaj;t l&af; &ee;m &dd;&eef;m, ban &dd;&ee;m, khi &oo;ng nh&if;n tr&owf;i.</seg>
+					<seg id="n1420">T&aas;t c&ar; c&as;c ng&oo;i sao &dd;&eef;u n&owr; hoa.</seg>
+				</p>
+				<p>
+					<seg id="n1421">- &DD;&us;ng th&ees;...</seg>
+				</p>
+				<p>
+					<seg id="n1422">- Gi&oos;ng nh&uw; n&uw;&ows;c v&aaj;y.</seg>
+					<seg id="n1423">N&uw;&ows;c m&af; &oo;ng cho t&oo;i u&oos;ng nh&uw; l&af; &aa;m nh&aj;c, l&af; v&if; c&as;i r&of;ng r&oj;c v&af; s&owj;i d&aa;y...&oo;ng nh&ows; ch&uws;...th&aaj;t ngon l&af;nh.</seg>
+				</p>
+				<p>
+					<seg id="n1424">- &DD;&us;ng th&ees;...</seg>
+				</p>
+				<p>
+					<seg id="n1425">- Ban &dd;&ee;m, &oo;ng s&ex; nh&if;n sao.</seg>
+					<seg id="n1426">Ch&oox; t&oo;i b&es; qu&as; kh&oo;ng th&eer; ch&ir; cho &oo;ng &dd;&aa;u l&af; ng&oo;i sao c&ur;a t&oo;i &dd;&uw;&owj;c.</seg>
+					<seg id="n1427">Th&ees; l&aj;i c&af;ng hay.</seg>
+					<seg id="n1428">Ng&oo;i sao c&ur;a t&oo;i, &dd;&oos;i v&ows;i &oo;ng s&ex; l&af; m&ooj;t trong c&as;c ng&oo;i sao kia...</seg>
+					<seg id="n1429">Nh&uw; th&ees;, t&aas;t c&ar; c&as;c ng&oo;i sao, &oo;ng &dd;&eef;u s&ex; th&is;ch nh&if;n.</seg>
+					<seg id="n1430">T&aas;t c&ar; ch&us;ng s&ex; l&af; b&aj;n c&ur;a &oo;ng.</seg>
+					<seg id="n1431">V&af; r&oof;i t&oo;i s&ex; bi&ees;u &oo;ng m&ooj;t m&os;n qu&af;...</seg>
+				</p>
+				<p>
+					<seg id="n1432">Em l&aj;i c&uw;&owf;i th&ee;m n&uwx;a.</seg>
+				</p>
+				<p>
+					<seg id="n1433">- A!</seg>
+					<seg id="n1434"> Em &ow;i, em &ow;i, t&oo;i th&is;ch nghe em c&uw;&owf;i nh&uw; th&ees; n&af;y!</seg>
+				</p>
+				<p>
+					<seg id="n1435">- &DD;&us;ng &dd;&os; l&af; m&os;n qu&af; t&oo;i bi&ees;u &oo;ng...gi&oos;ng nh&uw; l&af; n&uw;&ows;c v&aaj;y...</seg>
+				</p>
+				<p>
+					<seg id="n1436">- Em mu&oos;n n&os;i sao?</seg>
+				</p>
+				<p>
+					<seg id="n1437">- M&oj;i ng&uw;&owf;i c&os; nh&uwx;ng ng&oo;i sao kh&oo;ng c&ur;a ai gi&oos;ng ai.</seg>
+					<seg id="n1438">&DD;&oos;i v&ows;i m&ooj;t s&oos; &uw;a th&is;ch &dd;i xa, c&as;c ng&oo;i sao l&af; nh&uwx;ng k&er; d&aax;n &dd;&uw;&owf;ng.</seg>
+					<seg id="n1439">&DD;&oos;i v&ows;i s&oos; kh&as;c, ch&us;ng ch&ir; l&af; nh&uwx;ng &dd;&oos;m s&as;ng nh&or;.</seg>
+					<seg id="n1440">&DD;&oos;i v&ows;i nh&uwx;ng nh&af; b&as;c h&oj;c, ch&us;ng l&af; nh&uwx;ng b&af;i to&as;n.</seg>
+					<seg id="n1441">&DD;&oos;i v&ows;i nh&af; doanh nghi&eej;p c&ur;a t&oo;i, ch&us;ng l&af; v&af;ng.</seg>
+					<seg id="n1442">Nh&uw;ng t&aas;t c&ar; lo&aj;i ng&oo;i sao &aas;y &dd;&eef;u c&aa;m l&awj;ng.</seg>
+					<seg id="n1443">&OO;ng, &oo;ng s&ex; c&os; nh&uwx;ng ng&oo;i sao tr&uw;&ows;c &dd;&aa;y kh&oo;ng ai c&os;...</seg>
+				</p>
+				<p>
+					<seg id="n1444">- Em mu&oos;n n&os;i sao?</seg>
+				</p>
+				<p>
+					<seg id="n1445">- Khi &oo;ng nh&if;n tr&owf;i, ban &dd;&ee;m, b&owr;i v&if; &owr; m&ooj;t trong nh&uwx;ng ng&oo;i sao &dd;&os; c&os; t&oo;i &owr;, b&owr;i v&if; t&oo;i c&uw;&owf;i tr&ee;n m&ooj;t trong nh&uwx;ng ng&oo;i sao &dd;&os;, cho n&ee;n &dd;&oos;i v&ows;i &oo;ng t&uw;&owr;ng ch&uwf;ng nh&uw; t&aas;t c&ar; c&as;c ng&oo;i sao &dd;&eef;u c&uw;&owf;i.</seg>
+					<seg id="n1446">&OO;ng, &oo;ng s&ex; c&os; &dd;&uw;&owj;c nh&uwx;ng ng&oo;i sao bi&ees;t c&uw;&owf;i.</seg>
+				</p>
+				<p>
+					<seg id="n1447">R&oof;i em l&aj;i c&uw;&owf;i n&uwx;a.</seg>
+				</p>
+				<p>
+					<seg id="n1448">- V&af; khi &oo;ng &dd;&ax; ngu&oo;i r&oof;i (ng&uw;&owf;i ta bao gi&owf; c&ux;ng ngu&oo;i &dd;i), &oo;ng s&ex; b&awf;ng l&of;ng &dd;&ax; t&uwf;ng &dd;&uw;&owj;c quen bi&ees;t t&oo;i.</seg>
+					<seg id="n1449">&OO;ng m&ax;i m&ax;i l&af; b&aj;n t&oo;i.</seg>
+					<seg id="n1450">R&oof;i &dd;&oo;i khi &oo;ng m&owr; c&ur;a s&oor; nh&af; &oo;ng, nh&uw; th&ees; &dd;&aas;y, &dd;&eer; cho vui th&oo;i...</seg>
+					<seg id="n1451">B&aj;n h&uwx;u c&ur;a &oo;ng s&ex; l&aas;y l&af;m l&aj; khi th&aas;y &oo;ng v&uwf;a nh&if;n tr&owf;i v&uwf;a c&uw;&owf;i.</seg>
+					<seg id="n1452">&OO;ng s&ex; b&ar;o h&oj;: "Ph&ar;i, c&as;c ng&oo;i sao, l&us;c n&af;o ch&us;ng c&ux;ng l&af;m cho m&if;nh c&uw;&owf;i!".</seg>
+					<seg id="n1453"> V&af; h&oj; s&ex; t&uw;&owr;ng &oo;ng &dd;i&ee;n.</seg>
+					<seg id="n1454">Ho&as; ra t&oo;i ch&ow;i kh&aw;m &oo;ng m&ooj;t v&oos;...</seg>
+				</p>
+				<p>
+					<seg id="n1455">R&oof;i em l&aj;i c&uw;&owf;i n&uwx;a.</seg>
+				</p>
+				<p>
+					<seg id="n1456">- Xem nh&uw; t&oo;i &dd;&ax; t&awj;ng &oo;ng, thay v&if; nh&uwx;ng ng&oo;i sao, h&af;ng &dd;&oos;ng nh&uwx;ng c&as;i chu&oo;ng nh&or; bi&ees;t c&uw;&owf;i...</seg>
+				</p>
+				<p>
+					<seg id="n1457">R&oof;i em l&aj;i c&uw;&owf;i n&uwx;a.</seg>
+					<seg id="n1458">V&af; em tr&owr; l&aj;i nghi&ee;m ngh&ij;:</seg>
+				</p>
+				<p>
+					<seg id="n1459">- &DD;&ee;m nay...&oo;ng bi&ees;t &dd;&aas;y...&dd;&uwf;ng &dd;&ees;n l&af;m g&if;..</seg>
+				</p>
+				<p>
+					<seg id="n1460">- T&oo;i s&ex; kh&oo;ng r&owf;i em &dd;&aa;u.</seg>
+				</p>
+				<p>
+					<seg id="n1461">- T&oo;i s&ex; c&os; v&er; nh&uw; &dd;au...</seg>
+					<seg id="n1462">T&oo;i s&ex; c&os; v&er; s&aws;p ch&ees;t.</seg>
+					<seg id="n1463">Th&ees; th&oo;i m&af;! </seg>
+					<seg id="n1464">&OO;ng &dd;&uwf;ng &dd;&ees;n ch&uws;ng ki&ees;n c&ar;nh &dd;&os;, kh&oo;ng &dd;&as;ng g&if; &dd;&aa;u...</seg>
+				</p>
+				<p>
+					<seg id="n1465">- T&oo;i s&ex; kh&oo;ng r&owf;i em.</seg>
+				</p>
+				<p>
+					<seg id="n1466">Nh&uw;ng em c&os; v&er; lo l&aws;ng.</seg>
+				</p>
+				<p>
+					<seg id="n1467">- T&oo;i n&os;i v&ows;i &oo;ng...l&af; t&aj;i v&if; con r&aws;n &dd;&aa;y.</seg>
+					<seg id="n1468">Ch&ows; &dd;&eer; r&aws;n n&os; c&aws;n &oo;ng.</seg>
+					<seg id="n1469">Lo&af;i r&aws;n, ch&us;ng &as;c l&aws;m.</seg>
+					<seg id="n1470">Ch&us;ng c&os; th&eer; c&aws;n &dd;&eer; m&af; ch&ow;i...</seg>
+				</p>
+				<p>
+					<seg id="n1471">- T&oo;i s&ex; kh&oo;ng r&owf;i em.</seg>
+				</p>
+				<p>
+					<seg id="n1472">Nh&uw;ng c&os; c&as;i g&if; &dd;&os; l&af;m em y&ee;n t&aa;m:</seg>
+				</p>
+				<p>
+					<seg id="n1473">- Nh&uw;ng &dd;&us;ng l&af; n&os; s&ex; kh&oo;ng c&of;n n&oj;c cho l&aaf;n c&aws;n th&uws; hai...</seg>
+				</p>
+				<p>
+					<seg id="n1474">&DD;&ee;m &aas;y, t&oo;i kh&oo;ng tr&oo;ng th&aas;y em b&or; &dd;i.</seg>
+					<seg id="n1475">Em &dd;&ax; tr&oos;n &dd;i kh&oo;ng m&ooj;t ti&ees;ng &dd;&ooj;ng.</seg>
+					<seg id="n1476">Khi t&oo;i &dd;u&oor;i k&ij;p em, em b&uw;&ows;c qu&ar; quy&ees;t th&aaj;t nhanh.</seg>
+					<seg id="n1477">Em ch&ir; n&os;i v&ows;i t&oo;i:</seg>
+				</p>
+				<p>
+					<seg id="n1478">- A! &OO;ng l&aj;i &dd;&ees;n &dd;&aa;y r&oof;i...</seg>
+				</p>
+				<p>
+					<seg id="n1479">R&oof;i em n&aws;m tay t&oo;i.</seg>
+					<seg id="n1480">Nh&uw;ng em l&aj;i d&awf;n v&awj;t n&uwx;a:</seg>
+				</p>
+				<p>
+					<seg id="n1481">- &OO;ng kh&oo;ng &dd;&us;ng.</seg>
+					<seg id="n1482">&OO;ng s&ex; kh&oor; cho xem.</seg>
+					<seg id="n1483">T&oo;i s&ex; c&os; v&er; ch&ees;t nh&uw;ng kh&oo;ng ph&ar;i l&af; th&aaj;t &dd;&aa;u...</seg>
+				</p>
+				<p>
+					<seg id="n1484">T&oo;i, t&oo;i im l&awj;ng.</seg>
+				</p>
+				<p>
+					<seg id="n1485">- &OO;ng bi&ees;t &dd;&aas;y.</seg>
+					<seg id="n1486">&DD;&uw;&owf;ng xa l&aws;m! T&oo;i kh&oo;ng mang n&oor;i c&as;i th&aa;n x&as;c n&af;y.</seg>
+					<seg id="n1487">N&awj;ng l&aws;m.</seg>
+				</p>
+				<p>
+					<seg id="n1488">T&oo;i, t&oo;i im l&awj;ng.</seg>
+				</p>
+				<p>
+					<seg id="n1489">- Nh&uw;ng n&os; c&ux;ng s&ex; ch&ir; nh&uw; c&as;i v&or; gi&af; b&or; l&aj;i.</seg>
+					<seg id="n1490">Nh&uwx;ng c&as;i v&or; gi&af; th&if; c&os; g&if; &dd;&as;ng bu&oof;n...</seg>
+				</p>
+				<p>
+					<seg id="n1491">T&oo;i, t&oo;i im l&awj;ng.
+</seg>
+				</p>
+				<p>
+					<seg id="n1492">Em c&os; h&ow;i n&ar;n.</seg>
+					<seg id="n1493">Nh&uw;ng em g&aws;ng th&ee;m m&ooj;t l&aaf;n n&uwx;a:</seg>
+				</p>
+				<p>
+					<seg id="n1494">- S&ex; hay l&aws;m ch&uws;, &oo;ng bi&ees;t &dd;&aas;y.</seg>
+					<seg id="n1495">T&oo;i c&ux;ng s&ex; nh&if;n c&as;c ng&oo;i sao.</seg>
+					<seg id="n1496">C&as;c ng&oo;i sao s&ex; l&af; nh&uwx;ng c&as;i gi&ees;ng v&ows;i m&ooj;t c&as;i r&of;ng r&oj;c han r&ir;.</seg>
+					<seg id="n1497">T&aas;t c&ar; m&oj;i ng&oo;i sao s&ex; r&os;t cho t&oo;i u&oos;ng...</seg>
+				</p>
+				<p>
+					<seg id="n1498">T&oo;i, t&oo;i im l&awj;ng.</seg>
+				</p>
+				<p>
+					<seg id="n1499">- S&ex; th&aaj;t bu&oof;n c&uw;&owf;i! &OO;ng s&ex; c&os; n&aw;m tr&aw;m tri&eej;u chi&ees;c chu&oo;ng, c&of;n t&oo;i, n&aw;m tr&aw;m tri&eej;u ngu&oof;n n&uw;&ows;c...</seg>
+				</p>
+				<p>
+					<seg id="n1500">V&af; em c&ux;ng im lu&oo;n, b&owr;i v&if; em kh&os;c...</seg>
+				</p>
+				<p>
+					<seg id="n1501">- &DD;&aa;y r&oof;i.</seg>
+					<seg id="n1502">&OO;ng &dd;&eer; t&oo;i b&uw;&ows;c m&ooj;t m&if;nh th&oo;i.</seg>
+				</p>
+				<p>
+					<seg id="n1503">V&af; em ng&oof;i xu&oos;ng v&if; s&owj;.</seg>
+				</p>
+				<p>
+					<seg id="n1504">Em l&aj;i n&os;i n&uwx;a:</seg>
+				</p>
+				<p>
+					<seg id="n1505">- &OO;ng bi&ees;t &dd;&aas;y...&dd;o&as; hoa c&ur;a t&oo;i...</seg>
+					<seg id="n1506">t&oo;i ph&ar;i c&os; tr&as;ch nhi&eej;m! </seg>
+					<seg id="n1507">N&af;ng th&aaj;t l&af; y&ees;u &dd;u&oos;i!</seg>
+					<seg id="n1508"> N&af;ng th&aaj;t ng&aa;y th&ow;! </seg>
+					<seg id="n1509">N&af;ng ch&ir; c&os; b&oos;n c&as;i gai ch&awr;ng th&aas;m v&af;o &dd;&aa;u &dd;&eer; m&af; ch&oos;ng ch&oj;i tr&ee;n &dd;&owf;i...</seg>
+				</p>
+				<p>
+					<seg id="n1510">T&oo;i ng&oof;i xu&oos;ng v&if; kh&oo;ng th&eer; gi&uwx; m&if;nh &dd;&uws;ng &dd;&uw;&owj;c n&uwx;a.</seg>
+					<seg id="n1511">Em n&os;i:</seg>
+				</p>
+				<p>
+					<seg id="n1512">- Kia r&oof;i...ch&ir; c&os; th&ees; th&oo;i...</seg>
+				</p>
+				<p>
+					<seg id="n1513">Em l&uw;&owx;ng l&uwj; m&ooj;t ch&us;t, r&oof;i &dd;&uws;ng l&ee;n.</seg>
+					<seg id="n1514">Em b&uw;&ows;c m&ooj;t b&uw;&ows;c.</seg>
+					<seg id="n1515">C&of;n t&oo;i, t&oo;i kh&oo;ng th&eer; n&af;o c&uwr; &dd;&ooj;ng &dd;&uw;&owj;c.</seg>
+				</p>
+				<p>
+					<seg id="n1516">Ch&ir; c&os; m&ooj;t lo&as;ng ch&ows;p m&af;u v&af;ng g&aaf;n b&ee;n m&aws;t c&as; ch&aa;n em.</seg>
+					<seg id="n1517">Em &dd;&uws;ng m&ooj;t l&us;c kh&oo;ng &dd;&ooj;ng &dd;&aaj;y.</seg>
+					<seg id="n1518">Em kh&oo;ng k&ee;u.</seg>
+					<seg id="n1519">Em ng&ax; xu&oos;ng nh&ej; nh&af;ng nh&uw; m&ooj;t c&as;i c&aa;y.</seg>
+					<seg id="n1520">C&ar; m&ooj;t ti&ees;ng &dd;&ooj;ng c&ux;ng kh&oo;ng c&os;, l&af; b&owr;i v&if; c&as;t.</seg>
+				</p>
+			</div>
+			<div>
+				<head>XXVII</head>
+				<p>
+					<seg id="n1521">V&af; gi&owf; &dd;&aa;y, &dd;&us;ng v&aaj;y, s&as;u n&aw;m &dd;&ax; tr&oo;i qua...T&oo;i ch&uw;a bao gi&owf; k&eer; l&aj;i c&aa;u chuy&eej;n n&af;y.</seg>
+					<seg id="n1522">Nh&uwx;ng b&aj;n b&ef; g&awj;p l&aj;i t&oo;i r&aas;t l&aas;y l&af;m h&af;i l&of;ng th&aas;y t&oo;i c&of;n s&oos;ng.</seg>
+					<seg id="n1523">T&oo;i &dd;&ax; r&aas;t bu&oof;n, nh&uw;ng t&oo;i n&os;i v&ows;i h&oj;: &DD;&os; l&af; v&if; m&eej;t...</seg>
+				</p>
+				<p>
+					<seg id="n1524">B&aa;y gi&owf; t&oo;i &dd;&ax; ngu&oo;i ngu&oo;i.</seg>
+					<seg id="n1525">Ngh&ix;a l&af;...kh&oo;ng h&awr;n l&af; nh&uw; th&ees;.</seg>
+					<seg id="n1526">Nh&uw;ng t&oo;i bi&ees;t em &dd;&ax; tr&owr; v&eef; tinh c&aaf;u c&ur;a m&if;nh, v&if; s&as;ng s&ows;m h&oo;m sau, t&oo;i &dd;&ax; kh&oo;ng t&if;m th&aas;y th&aa;n x&as;c em.</seg>
+					<seg id="n1527">C&as;i th&aa;n x&as;c ch&awr;ng n&awj;ng n&eef; g&if; m&aas;y...</seg>
+				</p>
+				<p>
+					<seg id="n1528">V&af; ban &dd;&ee;m, t&oo;i th&is;ch l&aws;ng nghe c&as;c ng&oo;i sao.</seg>
+					<seg id="n1529">Ch&us;ng nh&uw; n&aw;m tr&aw;m tri&eej;u c&as;i chu&oo;ng nh&or;...</seg>
+				</p>
+				<p>
+					<seg id="n1530">Nh&uw;ng c&os; x&ar;y ra m&ooj;t &dd;i&eef;u g&if; &dd;&os; kh&oo;ng b&if;nh th&uw;&owf;ng.</seg>
+					<seg id="n1531">Chi&ees;c r&oj; m&ox;m t&oo;i &dd;&ax; v&ex; cho &oo;ng ho&af;ng nh&or;, t&oo;i &dd;&ax; qu&ee;n v&ex; th&ee;m c&as;i &dd;ai da.</seg>
+					<seg id="n1532">Em s&ex; kh&oo;ng th&eer; n&af;o bu&ooj;c n&os; cho con c&uwf;u &dd;&uw;&owj;c.</seg>
+					<seg id="n1533">Th&ees; l&af; t&oo;i t&uwj; h&or;i: " Chuy&eej;n g&if; &dd;&ax; x&ar;y ra tr&ee;n tinh c&aaf;u &aas;y?</seg>
+					<seg id="n1534"> C&os; l&ex; con c&uwf;u &dd;&ax; &aw;n m&aas;t &dd;o&as; hoa ch&aw;ng...".</seg>
+				</p>
+				<p>
+					<seg id="n1535">Khi th&if; t&oo;i t&uwj; nh&ur;: "Ch&aws;c l&af; kh&oo;ng!</seg>
+					<seg id="n1536"> &OO;ng ho&af;ng nh&or; &dd;&ee;m n&af;o c&ux;ng &dd;&aaj;y hoa trong c&as;i b&aaf;u k&is;nh, v&af; em c&ux;ng tr&oo;ng ch&uwf;ng con c&uwf;u c&aar;n th&aaj;n..."</seg>
+					<seg id="n1537"> Th&ees; l&af; t&oo;i vui s&uw;&ows;ng.</seg>
+					<seg id="n1538">V&af; t&aas;t c&ar; c&as;c ng&oo;i sao m&ir;m c&uw;&owf;i d&ij;u d&af;ng..</seg>
+				</p>
+				<p>
+					<seg id="n1539">Khi th&if; t&oo;i t&uwj; nh&ur;: "Th&ees; n&af;o ch&awr;ng c&os; l&us;c ng&uw;&owf;i ta l&ow; &dd;&ax;ng, v&af; th&ees; l&af; &dd;&ur;! </seg>
+					<seg id="n1540">Em &dd;&ax; qu&ee;n m&aas;t, m&ooj;t &dd;&ee;m n&af;o &dd;&os;, c&as;i b&aaf;u k&is;nh, ho&awj;c con c&uwf;u l&er;n ra kh&oo;ng m&ooj;t ti&ees;ng &dd;&ooj;ng trong &dd;&ee;m..."</seg>
+					<seg id="n1541"> Th&ees; l&af; nh&uwx;ng c&as;i chu&oo;ng nh&or; &dd;&eef;u bi&ees;n th&af;nh n&uw;&ows;c m&aws;t!....</seg>
+				</p>
+				<p>
+					<seg id="n1542">&DD;&os; l&af; m&ooj;t b&is; &aar;n l&ows;n lao.</seg>
+					<seg id="n1543">V&ows;i b&aj;n, l&af; ng&uw;&owf;i c&ux;ng y&ee;u &oo;ng ho&af;ng b&es; nh&or;, c&ux;ng nh&uw; v&ows;i t&oo;i, c&ar; v&ux; tr&uj; 
+n&af;y s&ex; ch&awr;ng c&of;n nh&uw; c&ux; n&ees;u nh&uw; &owr; &dd;&aa;u &dd;&os;, kh&oo;ng bi&ees;t &owr; &dd;&aa;u, m&ooj;t con c&uwf;u m&af; ta kh&oo;ng bi&ees;t, &dd;&ax; c&os; hay l&af; kh&oo;ng &aw;n m&ooj;t &dd;o&as; hoa h&oof;ng...</seg>
+				</p>
+				<p>
+					<seg id="n1544">H&ax;y nh&if;n l&ee;n tr&owf;i.</seg>
+					<seg id="n1545">H&ax;y t&uwj; h&or;i: con c&uwf;u &dd;&ax; c&os; &aw;n hay kh&oo;ng &aw;n &dd;o&as; hoa?</seg>
+					<seg id="n1546"> V&af; b&aj;n s&ex; th&aas;y t&aas;t c&ar; &dd;&eef;u thay &dd;&oor;i...</seg>
+				</p>
+				<p>
+					<seg id="n1547">V&af; kh&oo;ng m&ooj;t ng&uw;&owf;i l&ows;n n&af;o l&aj;i hi&eer;u &dd;&uw;&owj;c chuy&eej;n &aas;y quan tr&oj;ng &dd;&ees;n nh&uw;&owf;ng n&af;o!
+</seg>
+				</p>
+				<note>-H&ees;t-</note>
+			</div>
+		</body>
+	</text>
+</TEI.2>

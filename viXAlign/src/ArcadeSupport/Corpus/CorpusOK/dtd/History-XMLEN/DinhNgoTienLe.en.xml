@@ -1,0 +1,182 @@
+<?xml version="1.0" standalone="no"?>
+<!-- edited with XML Spy v4.0.1 U (http://www.xmlspy.com) by NGUYEN THI MINH HUYEN (LORIA) -->
+<!DOCTYPE TEI.2 SYSTEM "C:/CORPUS/dtd/xlite/xteilite.dtd" [
+	<!ENTITY % ISO_Latin1 PUBLIC "ISO 8879-1986//ENTITIES Added Latin 1//EN//XML" "C:/CORPUS/dtd/pen/ISOlat1.pen">
+	%ISO_Latin1;
+]>
+<TEI.2 id="DinhNgoTienLe.en.xml">
+	<teiHeader date.created="30/12/2002">
+		<fileDesc>
+			<titleStmt>
+				<title type="source"></title>
+				<author></author>
+				<respStmt>
+					<resp></resp>
+					<name></name>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<distributor>Nhan dan dien tu</distributor>
+				<authority/>
+				<date>1/12/2002</date>
+			</publicationStmt>
+			<sourceDesc>
+				<p/>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<langUsage>
+				<language id="EN">English</language>
+			</langUsage>
+			<textClass>
+				<keywords>
+					<list>
+						<item>prose</item>
+						<item>history</item>
+					</list>
+				</keywords>
+			</textClass>
+		</profileDesc>
+	</teiHeader>
+	<text>
+		<body id="b1">
+<head>
+<s>State and Society in the Ngo, Dinh and Earlier Le Dynasties.</s>
+</head>
+<div>
+<p>
+     <s>Building sovereignty.</s>
+</p>
+<p>
+     <s>In 938, Ngo Quyen, a national hero, achieved a great feat of defeating the Nanhan invaders, proclaiming himself king, setting up a new dynasty, organising the mandarinates and promulgating court ceremonies and costumes.</s>
+     <s>On the institution of the Ngo dynasty Ngo Si Lien, a historian of the 15th century commented that "the magnitude of the kingdom is easy to notice".</s>
+     <s>However, there exists no record on how the Ngo court was organised.</s>
+     <s>In 968 Dinh Bo Linh made a further step in building an independent and sovereign administration by working out ranks for civil and military officials and monks.</s>
+</p>
+<p>
+     <s>The King was the head in the court holding all power and making all political decisions.</s>
+     <s>He was also the supreme judge and supreme commander of the army.</s>
+</p>
+<p>
+     <s>Under the king, there appeared the division of tasks and responsibilities for civil and military officials and monks in the court.</s>
+</p>
+<p>
+     <s>The administrative system at the local level also underwent major changes.</s>
+     <s>The Dinh dynasty divided the whole country into ten dao (province) however it is not known how each dao was organised.</s>
+     <s>Under King Le Hoan's time, the ten dao were re-organised into smaller administrative units of lo, phu and chau.</s>
+     <s>Most of the officials were military generals.</s>
+     <s>The Ngo, Dinh and Earlier Le States attached great importance to the building of strong armies to defend the new central government, particularly under the Dinh's and Earlier Le's time.</s>
+     <s>In that time, the army was divided into units and each unit was divided into smaller and smaller sub-units.</s>
+     <s>The smallest sub-unit was called a ngu, consisting of 10 men.</s>
+     <s>The imperial guards in the court consisted of two types which were organised into six armies with a total number of approximately 3,000. They were armed with bows, crossbows, shields, canes, spears, broadswords, darts, etc.</s>
+     <s>The marine troops of the Ngo, Dinh and Early Le dynasties were strong and played decisive role in the wars of resistance against the Nanhan and Sung invaders.</s>
+</p>
+<p>
+     <s>In just over 70 years (938-1009) under the Ngo, Dinh and Early Le dynasties, our country saw major changes: foreign invaders intruded our territory twice local chiefs rose up in revolt seizing many localities, destroying the national unification and opposing the central government.</s>
+     <s>Although there existed no written criminal code nor law of the State, punitive measures were important and strongly applied to deter the rebels opposing the central government and destabilising the social order.</s>
+     <s>Historian Ngo Si Lien wrote: "The King who wanted to make use of his ascendancy to strengthen his reign, had big oil cauldrons placed in the court and tigers kept in the cage, and ordered to throw those who opposed his rule into the boiling cauldron or in the tiger cage those who opposed his rule.</s>
+     <s>Everyone had to obey out of fear".</s>
+     <s>In 1002, Le Hoan ordered the "enactment of law".</s>
+     <s>It is not known what the law was about.</s>
+     <s>However it is believed to have consisted of regulations on social management which, in historian Phan Huy Le's opinion, "only regulations existed, likely without punitive measures since the life was pure, the rule was simple, forgiving and flexibility were generally resorted to".</s>
+</p>
+<p>
+     <s>The law in the Dinh and Le dynasties was very harsh.</s>
+     <s>Law and customs were popularly applied by the State, communes and villages.</s>
+</p>
+<p>
+     <s>Generally, the State in the Ngo, Dinh and Earlier Le dynasties were gradually strengthened, particularly at the central and the grassroots levels.</s>
+     <s>Although the organisation of such a State was simple and incomplete, its activities were not fully formularised, the promotion of functionaries was not clearly stipulated, and more or less imitated the pattern of the Tang and Sung dynasties in China, this did not mean the State of Dai Co Viet in the 10th century belonged to the type and nature of the State of the Tang and Sung dynasties - a heavily absolute and bureaucratic monarchy.</s>
+     <s>The titles of the lord and king in the Ngo, Dinh and Earlier Le dynasties, the ranks of a number central and local officials, the organisational system of the governments of all levels and the name of the country (Dai Co Viet) during that time confirmed the independence and self-strengthening of our country, representing our national sovereignty in the early time after emerging from 1,000 years of the northern domination.</s>
+     <s>The independent and sovereign state was further strengthened with the maturing process of the nation.</s>
+</p>
+<p>
+     <s>The economic situation.</s>
+</p>
+<p>
+     <s>Land ownership belonging to communes and villages constituted the main economic basis of the then society.</s>
+     <s>Nominally, the land belonged to the supreme ownership of the State, but in reality, it belonged to communes and villages.</s>
+     <s>As a practice, land was divided to villagers for cultivation and tax was levied on their production by the State.</s>
+</p>
+<p>
+     <s>To secure the supreme right of land ownership, the kings adopted a number of policies and measures such as returning land and plantations to non-opposition landlords.</s>
+     <s>Dinh Tien Hoang's grant of land to Le Luong, the chief who governed a vast area "bordering Phan Dich to the east, Vu Long to the south, Mount Mala to the west and cave Kim Coc to the north" and his descendants to act as mandarins to look after that land for ever constituted a typical example.</s>
+     <s>Similarly, Le Luong was granted by the king of the Dinh dynasty three districts of Dong Son, Thieu Hoa and Quang Xuong (Thanh Hoa).</s>
+     <s>The above-mentioned land grants were aimed at confirming that the land ownership throughout the country belonged to a centralised government, or, to be more precise, to the King.</s>
+     <s>A number of mandarins whowere regarded has possessing merit by the court were awarded land to enjoy tax contribution.</s>
+     <s>For example, Dinh Tien Hoang granted land to Tran Lam in Son Nam and Le Long Dinh granted land to Ly Cong Uan (who was the Commander-in-Chief of the Royal Guards by that time) in Dang Chau.</s>
+</p>
+<p>
+     <s>During the Dinh and Earlier Le dynasties, the State allocated vast areas for ceremonies, known as ceremonial land (tich dien).</s>
+     <s>The Earlier Le dynasty allocated the land of Doi Son (Duy Tien, Ha Nam) and Ban Hai for the purpose.</s>
+</p>
+<p>
+     <s>The State also implemented a number of measures to encourage and take care of agricultural production.</s>
+     <s>For example, the king did ploughing in the ceremonial land himself.</s>
+     <s>King Le Hoan ploughed the ceremonial land when he went to Ban Hai and Doi Son.</s>
+     <s>Ceremonial land belonged to the direct management of the State and was cultivated by sentenced criminals.</s>
+     <s>All produce derived from this land was to be contributed to the State.</s>
+     <s>Ploughing the ceremonial land was an imperial rite to encourage agricultural production.</s>
+     <s>Thanks to this policy, Dai Co Viet had bumper harvests many years on end.</s>
+     <s>The then agricultural economy relied on iron ploughshares and farming techniques of a considerably high level.</s>
+     <s>Due attention was paid by the State to digging and dredging rivers and canals (such as the canals of Da Cai, Bui Dinh, Ngoc Quang, Ba Hoa and others) which facilitated the development of the Dai Co Viet's agriculture in comparison with the period of the northern domination.</s>
+</p>
+<p>
+     <s>Thanks to the impact of the northern domination and the reclamation of land to set up new villages, the private ownership of land continued to develop.</s>
+     <s>In Dai Co Viet's society in the 10th century there appeared a number of big landlords who were influential at both the central and local levels.</s>
+     <s>This embodied the feudalisation of the Dai Co Viet society.</s>
+</p>
+<p>
+     <s>The agricultural development paved the way for a favourable development of industry and trade.</s>
+</p>
+<p>
+     <s>The State organised a number of workshops producing handicrafts to meet the demand of the kings and mandarins.</s>
+     <s>Skilled handicraftsmen were recruited by the State to make coins, armour and weapons and build palaces, pagodas, towers, etc.</s>
+     <s>The Dinh and the Le dynasties built the capital in Hoa Lu with big halls such as Bach bao thien tue on Dai Van mountain with silver and gold-inlaid pillars, or Trung Xuan and Long Loc palaces which were roofed with silver-laminated tiles.</s>
+     <s>Traditional handicrafts such as silk weaving, silk reeling and paper production strongly developed amongst the people.</s>
+     <s>The State in the Dinh, Le dynasties used silk and pottery products in its diplomatic relations with China.</s>
+</p>
+<p>
+     <s>Iron forging and casting, mining and metallurgy were restored and developed more vigorously than in the time of the northern domination, especially brass coin casting.</s>
+     <s>In addition, gold and silver handicrafts developed strongly amongst the people and in State-owned workshops.</s>
+     <s>Handicraft no was longer scattered, and handicraftsmen quickly developed both in number and professional skills.</s>
+</p>
+<p>
+     <s>Internal and external trade prospered.</s>
+     <s>Trade centres such as Hoa Lu, Long Bien, Tong Binh, etc became busy marketplaces.</s>
+     <s>Besides a system of local markets, there appeared a number of regional trade centres.</s>
+</p>
+<p>
+     <s>Foreign trade was pushed up.</s>
+     <s>In 976, foreign merchant ships came in for trade.</s>
+     <s>In 1009, King Long Dinh established freedom of trade with the Sung dynasty in Yongzhou.</s>
+     <s>King Le Hoan had a canal dug linking Dong Co mountain (Yen Dinh, Thanh Hoa) with Ba Hoa (Tinh Gia, Thanh Hoa), and in 1003, he had Da Cai canal dredged which linked Hung Yen (Nghe An) with Am Chau, etc.</s>
+     <s>The development of the agricultural economy, handicraft and trade helped strengthen the central monarchy, stablise the society and lay the firm foundation for durable national independence and sovereignty.</s>
+</p>
+<p>
+     <s>External relations.</s>
+</p>
+<p>
+     <s>Having taken the dynastic title Thai Binh (Peace), King Dinh Tien Hoang sent his envoys to establish friendly terms with the Sung dynasty.</s>
+</p>
+<p>
+     <s>In general, the Viet - Sung relations under the Dinh dynasty were good and friendly.</s>
+     <s>In the late Dinh when Dinh Tien Hoang was assassinated by Dinh Lien, his son Dinh Toan, a child, was put on the throne to succeed his father.</s>
+     <s>Taking advantage of this situation, the Sung launched a conquest against our country.</s>
+     <s>The Dai Co Viet people under the leadership of Le Hoan defeated the Sung invaders.</s>
+     <s>The glorious victory laid the firm foundation for the foreign policy of the Earlier Le dynasty embodied by the determination for the protection of national integrity, border security, self-reliance and self-strengthening.</s>
+</p>
+<p>
+     <s>In 1005, Le Hoan passed away.</s>
+     <s>His sons competed with one another for the reign.</s>
+     <s>The royal dynasty fell into chaos.</s>
+     <s>However, the Sung did not dare to invade our country.</s>
+</p>
+<p>
+     <s>The foreign policy which was both flexible and firm for the protection of national independence, sovereignty and territorial integrity of the Earlier Le made a large contribution to the building and defence of an independent and unified state in the 10th century.</s>
+</p>
+</div>
+</body>
+</text>
+</TEI.2>

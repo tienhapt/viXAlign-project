@@ -1,0 +1,360 @@
+<?xml version="1.0" standalone="no"?>
+<!-- edited with XML Spy v4.0.1 U (http://www.xmlspy.com) by NGUYEN THI MINH HUYEN (LORIA) -->
+<!DOCTYPE TEI.2 SYSTEM "C:/CORPUS/dtd/xlite/xteilite.dtd" [
+	<!ENTITY % ISO_Latin1 PUBLIC "ISO 8879-1986//ENTITIES Added Latin 1//EN//XML" "C:/CORPUS/dtd/pen/ISOlat1.pen">
+	%ISO_Latin1;
+]>
+<TEI.2 id="chongNguyen.en.xml">
+	<teiHeader date.created="30/12/2002">
+		<fileDesc>
+			<titleStmt>
+				<title type="source"></title>
+				<author></author>
+				<respStmt>
+					<resp></resp>
+					<name></name>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<distributor>Nhan dan dien tu</distributor>
+				<authority/>
+				<date>1/12/2002</date>
+			</publicationStmt>
+			<sourceDesc>
+				<p/>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<langUsage>
+				<language id="EN">English</language>
+			</langUsage>
+			<textClass>
+				<keywords>
+					<list>
+						<item>prose</item>
+						<item>history</item>
+					</list>
+				</keywords>
+			</textClass>
+		</profileDesc>
+	</teiHeader>
+	<text>
+		<body id="b1">
+<head>
+Victories over the Yuan-Mongols on three occasions (in the 13th Century).
+</head>
+<div>
+<p>
+     <s>The first resistance against the Mongolian invaders (1258).</s>
+     <s>The aggression scheme of the Mongols and the Tran's policy.</s>
+</p>
+<p>
+     <s>In the middle of the 13th century, our people's lives gradually became stable.</s>
+     <s>Starvation no longer existed as a threat.</s>
+     <s>Communes and villages were better reorganised.</s>
+     <s>This was when the news on the invasion of the Mongol invaders came.</s>
+</p>
+<p>
+     <s>The Mongolian nomadic tribes lived throughout steppes in North Asia who were gradually polarised into classes and involved in wars of invasion against one another.</s>
+     <s>In the early the 13th century, Gengis Khan unified Mongolia and a feudal state of the Mongols was formed.</s>
+     <s>Hordes of Mongolian horsemen ravaged and played havoc with many Asian and European countries setting up a vast empire stretching from the Pacific to the Black Sea.</s>
+     <s>Wherever the horse hooves of the Mongols set to, citadels were destroyed, houses were burned down and people were killed or enslaved.</s>
+     <s>The independence of a many other countries was seriously jeopadised.</s>
+</p>
+<p>
+     <s>On the combat strength of the Mongolian army, a historian of the Sung dynasty (in the 13th century) wrote: the Mongols grew up on horse saddles, conducted combat self-training from spring to winter, and went on hunting daily.</s>
+     <s>That is their way of life.</s>
+     <s>It was further commented by another historian: they were very good at field combat who never made any advance in disadvantage...</s>
+     <s>A hundred cavalrymen going round could encircle ten thousand men.</s>
+     <s>A thousand cavalrymen could stretch hundreds of miles.</s>
+     <s>If their enemy dispersed or gathered its troops, they would do same; therefore, cavalry served as their advantage no matter it was concentrated or dispersed, in large or small number, and near or far.</s>
+     <s>They appeared quickly like landing down from the sky and disappeared as fast as lightening.</s>
+     <s>If they won, they chased and killed the enemy without sparing any life; if they lost and fled away, no one could be able to chase them.</s>
+</p>
+<p>
+     <s>In 1257, the Mongols conquered the Southern Sung (China).</s>
+     <s>A big army led by General Uriyangpadai got an order to co-ordinate with an army in Yunnan to launch an attack on Great Viet from where the attack would be directed toward the Sung from the south.</s>
+     <s>With a view to quickly realising this plot, Uriyangpadai sent his envoys to Great Viet to force the Tran Court to surrender.</s>
+     <s>In response to the stubborn attitude of the invaders, the Tran had the envoys tied and put in prison.</s>
+     <s>That winter, the people throughout the country got the order to make urgent preparation for war.</s>
+     <s>The determination against the invaders for national defence went high everywhere from the lowlands to the highlands.</s>
+     <s>Tran Quoc Tuan, a young general, was entrusted with the command of big armies for the border defence.</s>
+     <s>Groups of militiamen were set up and martial art training was conducted day and night to be ready to resist the enemy in co-ordination with the court armies.</s>
+</p>
+<p>
+     <s>Defeating the invaders.</s>
+</p>
+<p>
+     <s>Waiting without finding the envoys to return, the Mongols resorted to military means to conquer our country.</s>
+     <s>In early 1258, 30 thousand Mongols led by Uriyangpadai penetrated our country along the Thao river.</s>
+     <s>Having defeated our armies along the border, the enemy army thrust down Binh Le Nguyen (Tam Dao district, Vinh Phuc province).</s>
+     <s>A fierce battle took place there.</s>
+     <s>Our troops led by King Tran Thai Tong heroically engaged in the battle.</s>
+     <s>However, before an overwhelming enemy, our army had to temporarily retreat in order to reserve its strength.</s>
+     <s>The king and his subjects withdrew from the capital city to Thien Mac area (Duy Tien district, Ha Nam province) through the Red river.</s>
+</p>
+<p>
+     <s>The people in the capital city, obeying the order of the king, quickly organised evacuation in the implementation of the "empty houses and gardens" strategy.</s>
+</p>
+<p>
+     <s>The enemy captured Thang Long.</s>
+     <s>But before them were deserted streets and districts without any person or grain.</s>
+     <s>In the prison, their envoys were tied by bamboo ropes, and when untied, one of them had already died.</s>
+     <s>The enemy madly destroyed the capital city.</s>
+     <s>However, their situation quickly worsened.</s>
+     <s>Their food ran out.</s>
+     <s>Groups of invaders were sent out to plunder in the vicinity without getting anything.</s>
+     <s>Furthermore, their force was thinned out in surprise attacks launched by our people and armies.</s>
+</p>
+<p>
+     <s>Before an unmatched enemy and some concerns among our ranks, the king met with Prime Minister Tran Thu Do to consult about the tactics to counter the invaders.</s>
+     <s>In response to the king, the latter affirmed: "So long as my head is still on my shoulders, Your Majesty should not be worried".</s>
+     <s>Grasping well the enemy situation, our troops launched a big offensive in Dong Bo Dau (at the Red river bank, Hang Than, Hanoi) and drove the Mongols out of Thang Long capital.</s>
+     <s>Being pursued, the enemy troops crossed the Red river and fled up to the north.</s>
+     <s>When they were at Quy Hoa (a land trip along the Red river in Vinh Phuc, Phu Tho, Yen Bai and Lao Cai provinces), they were attacked by militiamen led by Ha Bong, an ethnic chief.</s>
+     <s>Many invaders and their horses were killed.</s>
+     <s>Panic-stricken, the remainder hurried their horses to escape to the other side of the border.</s>
+</p>
+<p>
+     <s>Thus in only half a month, the people and army of Great Viet under the Tran totally foiled the atrocious aggression of the Mongols led by an experienced general.</s>
+     <s>The aggression plot of the enemy against Dai Viet was held in check.</s>
+     <s>The whole country was in great joy and pride of the exploit of arms and the people strongly believed in their broad unity strength to repel the enemy in defence of the country.</s>
+</p>
+<p>
+     <s>The second war of resistance against the Mongols (1258).</s>
+     <s>Years of diplomatic struggle.</s>
+</p>
+<p>
+     <s>As the Mongolian invaders were driven out of the country, our people got back to building a peaceful life.</s>
+     <s>Handicraftsmen were instrumental in rehabilitating Thang Long capital.</s>
+</p>
+<p>
+     <s>However, the Mongolian feudalists did not leave our people in peace.</s>
+     <s>Having conquered China and set up the Yuan, the Mongolian king who, assimilating Great Han ideology, made imperative preparations for pushing the border of his empire further to the south.</s>
+     <s>The Mongolian envoys frequently came to our country making a number of arrogant requests such as contributing food and labour, setting up their men to follow our activities, demanding the Tran king to go to and present himself at their imperial court, etc.</s>
+     <s>They were imperious and arrogant without respecting anyone.</s>
+</p>
+<p>
+     <s>Before such arrogant acts, the king and mandarins received the envoys and tried to make good reasons to decline their requests including kowtowing in receiving their court's nomination.</s>
+</p>
+<p>
+     <s>The Tran king wrote letters, on a number of occasions, to explain why he was unable to attend the Mongolian king's audience one of which read in part:</s>
+     <s>"In the 15th year of Chi Nguyen reign (1278) I received the imperial edict requesting my presence at the Court.</s>
+     <s>I was so frightened as were my people who felt lonely like young birds straying from their mother.</s>
+     <s>Grown up in the Viet land, I am weak without being acclimatised or weather-beaten although I am aware that knowing the parent country's culture and attending its Royal Court as a new guest is my honour; I am afraid of bad luck along the way when my death would hurt Your Majesty's charity without making any good to the Celestial Court..."</s>
+     <s>At the same time, the Tran did not neglect to strengthen the organisation and training of the worriers, acquire more weapons and gunboats, and carefully safeguard the border.</s>
+     <s>The broad unity of all peoples was strengthened.</s>
+     <s>Merchants who conducted trade in the north were assigned with seeking information on activities of the Mongolian troops.</s>
+</p>
+<p>
+     <s>The war of resistance of the Cham people.</s>
+</p>
+<p>
+     <s>In early 1279, the Sung no longer existed.</s>
+     <s>The Mongols imposed their rule over all China and began their expansion southwards by their aggression against Champa.</s>
+</p>
+<p>
+     <s>In spring 1283, tens of thousand of Mongols, led by General Gogetu landed in Champa.</s>
+     <s>The Champa army under the leadership of the king and prince Harigit, heroically engaged in battle.</s>
+     <s>When the capital city fell, the Cham people and army relied on hazardous mountains and forests to wage the resistance.</s>
+     <s>Suffering defeat in battles, Gogetu withdrew his troops to Quy Nhon (Binh Dinh) and waited for reinforcements.</s>
+     <s>After one year the invaders were still waiting for reinforcements in acute shortage of food.</s>
+     <s>They were frequently harassed by the local people and army.</s>
+     <s>Frustrated, Gogetu decided to leave a wing to station there and withdrew his main army to the northern area adjacent to Dai Viet.</s>
+     <s>The heroic resistance of the Cham people and army basically won victory.</s>
+     <s>The scheme of the Mongols to use Champa as a springboard for its attack on Dai Viet was initially spoiled.</s>
+</p>
+<p>
+     <s>The preparation for war by the Tran.</s>
+</p>
+<p>
+     <s>In Dai Viet, the Mongolian envoys grew more and more demanding toward the Tran.</s>
+     <s>Knowing that the delay could not last long, the king and mandarins urgently prepared for war.</s>
+     <s>Patriotism and determination to fight the enemy again became high throughout the country.</s>
+     <s>In winter 1282, the Tran king met with high-ranking officials and mandarins in Binh Than (Hai Duong) on "battle and defence tactics" and "the defence of sensitive areas."</s>
+     <s>Prince Tran Quoc Toan, who was only 15, also went to Binh Than.</s>
+     <s>As he was too young, he was not allowed to attend the meeting.</s>
+     <s>Writhed, he crushed an orange in his hand without being aware of his act.</s>
+     <s>Back at his home, the young hero organised a detachment of more than one thousand troops whose banner was embroidered six golden words "pha cuong dich, bao hoang an" which meant "destroy enemy's strength, repay the king's favour".</s>
+     <s>His troops conducted military training day and night to wait for the opportunity to fight back the enemy with the entire people for national salvation.</s>
+</p>
+<p>
+     <s>Next winter, the Tran king himself commanded the military exercise of the regular army.</s>
+     <s>Tran Quoc Tuan, a talented and experienced military strategist, was appointed as the commander-in-chief of the army.</s>
+     <s>During his inspection of the military exercise, Tran Quoc Tuan wrote the 'Appeal to all Generals and Soldiers' inciting the people's ardent patriotism and inspiring soldiers to kill the enemy for salvation of the country and protection of the homeland.</s>
+</p>
+<p>
+     <s>The Appeal read in part: "You and I were born in troubled times and grew up in difficulty, witnessing the enemy envoys going back and forth in the street who looked down upon the court and showed their haughty attitude to the courtiers...</s>
+     <s>I can neither eat nor sleep, my heart aches, and tears trickle down from my eyes; I am enraged at being unable yet to tear the enemy to pieces, pluck out his liver, taste his blood.</s>
+     <s>If so, I content myself with death, with my corpse being laid on the meadow or wrapped in battle horse hide".</s>
+     <s>In early 1285, a congress of village elders from all over the country was convened at Dien Hong.</s>
+     <s>In reply to the king's question: "The enemy is strong, should we capitulate or fight?" a great cry rose from the assemble: "fight!".</s>
+     <s>The determination to fight back the enemy pervaded the country with those elders.</s>
+     <s>Armies of partisans in the lowlands and highlands actively engaged in military training.</s>
+     <s>All patriotic soldiers tattooed on their arms: "Death to the Mongols".</s>
+     <s>The out-break of war.</s>
+</p>
+<p>
+     <s>In late January 1285, 500,000 Mongols led by Toghan, son of the Mongolian king, rushed into our country.</s>
+     <s>Fierce battles took place in many locations along the border.</s>
+     <s>Before an overwhelming enemy, Tran Hung Dao decided to withdraw his troops to Van Kiep (Chi Linh, Hai Duong).</s>
+</p>
+<p>
+     <s>The resistance plan was worked out.</s>
+     <s>After a number of battles to grind down the enemy's strength, our regular troops retreated from Thang Long.</s>
+     <s>The people in the capital city again applied the "empty houses and gardens" strategy to resist the enemy.</s>
+     <s>Our troops went further southwards.</s>
+     <s>Toghan and his army truculently dashed to Thang Long, but deserted streets and districts frightened them.</s>
+     <s>They immediately withdrew to the northern bank of the Red river.</s>
+</p>
+<p>
+     <s>At the same time, Gogetu in the south was given an order to attack Nghe An and Thanh Hoa.</s>
+     <s>Despite their heroic battles, our people and army were unable to hold the strong enemy in check.</s>
+     <s>A number of coward aristocrats took their troops to surrender to the enemy, causing more difficulties to the resistance.</s>
+</p>
+<p>
+     <s>Well aware of the situation, Gogetu launched a major attack on the south and ordered Toghan to quickly launch another attack on the north from Thanh Hoa creating a pincer movement in order to destroy our regular forces and capture the command of the resistance.</s>
+</p>
+<p>
+     <s>In a fierce battle to check the enemy's advance in Thien Mac plain (Duy Tien, Ha Nam), General Tran Binh Trong was captured.</s>
+     <s>He went on hunger strike to show his sense of uprightness.</s>
+     <s>Asked if he wished to become a king, he shouted to the enemy:</s>
+     <s>"I would rather become the demon of the South (Dai Viet) than the king of the North (China)!"</s>
+     <s>The Tran king and Tran Hung Dao withdrew the troops to Thien Truong (Nam Dinh) and Yen Truong (Ninh Binh).</s>
+     <s>The enemy launched an attack from both the north and the south.</s>
+     <s>The situation was serious, but Tran Hung Dao calmly organised a wise march, diverting the enemy from its direction and retreating the army to the northeastern region (Haiphong and Quang Ninh).</s>
+     <s>Later, with the king, he led the army southwards in light boats and recaptured Thanh Hoa where the army was reinforced and preparation was made for a counter-offensive.</s>
+</p>
+<p>
+     <s>The general offensive to drive away the invaders.</s>
+</p>
+<p>
+     <s>Failing to capture the Tran king and his command, Toghan had to return to Thang Long and scatter his troops over a vast area to wait for reinforcements.</s>
+     <s>More aristocrats among our ranks surrendered to the enemy.</s>
+     <s>It was during this time that Tran Hung Dao sensed the right timing for the general offensive.</s>
+     <s>He contacted people and armies in sensitive regions, prepared forces and worked out the combat plan.</s>
+</p>
+<p>
+     <s>In May 1285, Tran Hung Dao led the army to advance to the north, splitting the enemy army into two.</s>
+     <s>The entire country was given the order to "rise up for the big offensive".</s>
+     <s>The enemy was attacked in many places.</s>
+     <s>The detachment led by Tran Quoc Toan and Nguyen Khoai defeated the enemy at Tay Ket (Khoai Chau, Hung Yen).</s>
+     <s>At the same time, the detachment led by Tran Nhat Duat smashed the enemy at Ham Tu (Khoai Chau).</s>
+     <s>Our regular forces, led by Tran Quang Khai, in coordination with groups of partisans, dealt a heavy blow to the enemy at Chuong Duong (Thuong Tin, Ha Tay) and, availing themselves of the opportunity, came to the liberation of Thang Long.</s>
+     <s>Before the strong attack of our people and army, Toghan had to order his troops to retreat from Thang Long.</s>
+     <s>When they were on the Sach river (in Van Kiep area) they suddenly fell into an ambush laid by our military command.</s>
+     <s>Our troops quickly appeared from forests and fiercely attacked the enemy.</s>
+     <s>The enemy suffered heavy losses.</s>
+     <s>The remnants competed with one another to retreat to the other side of the border.</s>
+     <s>Toghan was so afraid that he escaped by hiding himself in a bronze cask.</s>
+     <s>Another wing of Mongols retreating to northwest was attacked in Phu Ninh district by partisans led by the two ethnic chiefs Ha Dac and Ha Chuong.</s>
+</p>
+<p>
+     <s>Without being aware of the withdrawal of the big army, Gogetu left Thanh Hoa for Thang Long along the Red river in order to join with Toghan.</s>
+     <s>The Tran king took his troops to intercept them at Tay Ket.</s>
+     <s>Tens of thousands of enemy troops were killed and Gogetu was beheaded.</s>
+</p>
+<p>
+     <s>After two months of fierce offensive, the people and army of Dai Viet smashed more than half million Mongolian invaders, the most cruel army in the world at that time, driving them away from our country.</s>
+     <s>The Mongolian troops in Champa, upon hearing the defeat, hurriedly withdrew home.</s>
+     <s>Champa was totally liberated.</s>
+</p>
+<p>
+     <s>The third war of resistance against the Mongols (1287-1288).</s>
+     <s>Another conquest of the Mongols and the Van Don battle.</s>
+</p>
+<p>
+     <s>Heavily inflicted in Dai Viet, the Mongolian King Kubilai was enraged.</s>
+     <s>He immediately ordered the preparation for another conquest of our country.</s>
+     <s>Tens of thousands of troops and hundreds of big warships and supply fleet were mobilised for the conquest.</s>
+     <s>Upon departing, Kubilai recommended the commanders: "Don't think little of Chiao Chih because of its small size."</s>
+     <s>Hearing the news, the Tran king ordered all localities to be ready to engage in battle.</s>
+     <s>Tran Hung Dao was appointed as the commander-in-chief of the army.</s>
+     <s>Asked by the king on the enemy strength, he said: "The victory will be easier this year."</s>
+     <s>Tran Khanh Du was appointed as deputy commander-in-chief responsible for the defence of the north-eastern coast.</s>
+</p>
+<p>
+     <s>In December 1287, the invaders massively penetrated our country.</s>
+     <s>The war of resistance broke out.</s>
+     <s>The enemy infantry, led by Toghan, crossed the border in Lang Son and thrust down to the south.</s>
+     <s>Our troops intercepted them at sensitive positions.</s>
+     <s>Toghan positioned his army in Van Kiep, building it into a base to wage a long war against our troops.</s>
+</p>
+<p>
+     <s>At that time, 600 big warships led by General Omar, who had engaged in the previous conquest against our country, came into our country by sea.</s>
+     <s>Tran Khanh Du organised an ambush at Van Don but was set back by the enemy.</s>
+     <s>Omar arrogantly sailed through the Bach Dang dashing to a gathering in Van Kiep.</s>
+</p>
+<p>
+     <s>Aware of our defeat at Van Don, a royal emissary was sent by the king to take Tran Khanh Du back to the court for trial.</s>
+     <s>He pleaded with the emissary: "I am guilty under the martial law, I only beseech you to delay the execution of the order for a few days so that I can win a victory and redeem my past failure.</s>
+     <s>If I fail again, you will have ample time to punish me."</s>
+     <s>The emissary accepted his pleading.</s>
+</p>
+<p>
+     <s>Foreseeing that the supply fleet would approach when the escort was already far ahead, Tran Khanh Du urgently prepared for a new surprise attack.</s>
+     <s>As a matter of fact, the supply fleet slowly passed Van Don seaport some days later.</s>
+     <s>The order for battle was given.</s>
+     <s>Our troops stormed from all sides launching a fierce attack on the enemy boats.</s>
+     <s>Most of them were sunk.</s>
+     <s>The remainder was seized.</s>
+</p>
+<p>
+     <s>Waiting for so long without seeing the supply fleet to come, Toghan sent his troops down to Thang Long in early 1288. Like the previous occasion, Thang Long was a vacuum before them.</s>
+     <s>The enemy frenziedly looted in the vicinity, but wherever they went, they were fiercely fought back.</s>
+     <s>The big army of Toghan gradually fell into a difficult situation.</s>
+</p>
+<p>
+     <s>The historic battle of Bach Dang and the total victory of the war of resistance.</s>
+</p>
+<p>
+     <s>As soon as the news of the Van Don victory arrived the Court, Tran Hung Dao decided to launch an offensive against the enemy on the Bach Dang river and immediately set to organise the battle.</s>
+</p>
+<p>
+     <s>The Bach Dang river ran through Yen Hung district (Quang Ninh) and Thuy Nguyen (Haiphong) before reaching the sea.</s>
+     <s>This is where the well-known battle of Ngo Quyen against the Nanhan took place in the past.</s>
+     <s>It was from March, Tran Hung Dao was already there to prepare the battlefield.</s>
+     <s>He studied the tidal law, had beds of stakes planted under the water and arranged ambushes in a unified plan of campaign.</s>
+</p>
+<p>
+     <s>As it was foreseen, the enemy in Thang Long suffered acute shortage of food.</s>
+     <s>Without any news about the supply fleet Toghan found himself in a tight corner and had to order his army to retreat to Van Kiep.</s>
+     <s>It was when our troops began the general offensive by recapturing of a number of locations occupied by the enemy.</s>
+     <s>Groups of partisans were given order to harass the enemy in Van Kiep, putting them at a loss.</s>
+     <s>Toghan had to split his army into two and retreated home.</s>
+</p>
+<p>
+     <s>In early April the supply fleet led by Omar and escorted by infantry fled home along the Bach Dang river.</s>
+     <s>As bridges and roads were destroyed and attacks were launched by our troops, the enemy reached Bach Dang at our estimated time.</s>
+     <s>Our flotilla engaged in battle and pretended to retreat.</s>
+     <s>The enemy eagerly pursued our troops and fell into our pre-arranged battlefield.</s>
+     <s>Thousands of our small boats from both banks quickly appeared, fiercely launched the attack and broke the combat formation of the enemy.</s>
+     <s>Inflicted with a sudden and strong attack, the enemy tried to withdraw to the sea in panic.</s>
+     <s>Hitting the stakes, their boats were halted, many of which were broken and sunken.</s>
+     <s>At that time, a number of fire rafts quickly rushed toward them.</s>
+     <s>Frightened, the enemy troops jumped down to get to the banks where they were dealt a heavy blow by a big army led by the Tran king and Tran Hung Dao.</s>
+</p>
+<p>
+     <s>The supply fleet of the enemy was totally destroyed.</s>
+     <s>Omar was captured.</s>
+</p>
+<p>
+     <s>At the same time, our troops made continuous attacks and smashed to pieces Toghan's army on its route of withdrawal through Lang Son.</s>
+     <s>Toghan risked his life making a shortcut through forests to flee home.</s>
+</p>
+<p>
+     <s>On April 18, 1288, at the offerings ceremony to celebrate the victory held in front of King Tran Thai Tong's tomb, King Tran Nhan Tong emotionally read aloud this verse:.</s>
+     <s>"Despite the kingdoms are twice at stake.</s>
+     <s>The homeland remains stable forever."</s>
+     <s>Within 30 years from the day the horse hooves of the barbarous Mongols were trampling our homeland, the people and army of Dai Viet gloriously triumphed over the enemy on three occasions.</s>
+     <s>The national independence was firmly maintained, the southward expansionist scheme of the Mongols was smashed.</s>
+</p>
+<p>
+     <s>When inquired by the Tran king about the national defence line in the future, Tran Hung Dao - the talented commander of the resistance and great national hero - pointed out the major reason of the great feat of our people and army over the Mongols:</s>
+     <s>"Recently Gegotu and Omar laid siege on us in four directions, but thanks to the unanimity of the king and his subjects and the broad national unity of the entire people, the enemy has been defeated."</s>
+</p>
+</div>
+</body>
+</text>
+</TEI.2>

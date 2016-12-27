@@ -1,0 +1,394 @@
+<?xml version="1.0" standalone="no"?>
+<!-- edited with XML Spy v4.0.1 U (http://www.xmlspy.com) by NGUYEN THI MINH HUYEN (LORIA) -->
+<!DOCTYPE TEI.2 SYSTEM "C:/CORPUS/dtd/xlite/xteilite.dtd" [
+	<!ENTITY % ISO_Latin1 PUBLIC "ISO 8879-1986//ENTITIES Added Latin 1//EN//XML" "C:/CORPUS/dtd/pen/ISOlat1.pen">
+	%ISO_Latin1;
+]>
+<TEI.2 id="tayson.en.xml">
+	<teiHeader date.created="30/12/2002">
+		<fileDesc>
+			<titleStmt>
+				<title type="source"></title>
+				<author></author>
+				<respStmt>
+					<resp></resp>
+					<name></name>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<distributor>Nhan dan dien tu</distributor>
+				<authority/>
+				<date>1/12/2002</date>
+			</publicationStmt>
+			<sourceDesc>
+				<p/>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<langUsage>
+				<language id="EN">English</language>
+			</langUsage>
+			<textClass>
+				<keywords>
+					<list>
+						<item>prose</item>
+						<item>history</item>
+					</list>
+				</keywords>
+			</textClass>
+		</profileDesc>
+	</teiHeader>
+	<text>
+		<body id="b1">
+<head>
+The Tay Son insurrection.
+</head>
+<div>
+<p>
+     <s>The South in the later half of the 18th century.</s>
+     <s>The outbreak of peasant revolts.</s>
+     <s>Social situation.</s>
+</p>
+<p>
+     <s>In the later half of the 18th century, the sale and purchase of titles and ranks became so common that a sharp increase in the number of mandarins in the south resulted, particularly in the tax sector, as well as in districts and communes.</s>
+     <s>In some areas, one commune even had tens of communal chiefs.</s>
+     <s>They were bullies who combined together to mercilessly suppress and exploit the people.</s>
+</p>
+<p>
+     <s>In the court, the gang led by Truong Phuc Loan held all power; Loan claimed himself Regent of the State (quoc pho) and sternly put down his opponents.</s>
+     <s>He was notorious for corruption owing to which "his treasures and wealth were abundant, and his land, serfs, buffaloes and horses were countless".</s>
+</p>
+<p>
+     <s>On the other hand, the peasants were poverty-stricken.</s>
+     <s>Public land of communes and villages was seized by the village bullies.</s>
+     <s>People in the lowlands were subject to heavy taxes, merciless exploitation and hard labour for the building of palaces and ramparts.</s>
+     <s>People in the highlands had to offer forestry products such as elephant tusks, rhinoceros horns, honey, etc as tributes.</s>
+</p>
+<p>
+     <s>Le Quy Don, a famous scholar in the 18th century, said: "Hundreds of taxes were levied each year, the collection of which was tiresome, dishonest; the people got wretched because of the double yoke".</s>
+</p>
+<p>
+     <s>Social strata of peasants, traders, tribesmen in the highlands led stuffy lives under oppression.</s>
+     <s>Discontent and wrath towards the Nguyen administration burst into flames.</s>
+</p>
+<p>
+     <s>Lia's movement and other struggles Lia was born into a poor family whose teenage was spent as a serf for the well-to-do people.</s>
+     <s>He was unusually proud as well as upright and good at martial art.</s>
+     <s>He gathered poor peasants and took Truong May (Binh Dinh) as a battle base.</s>
+     <s>The insurgents robbed the rich of their wealth and property to distribute to the poor, thus helping them to win the people's hearts and minds.</s>
+</p>
+<p>
+     <s>Lia's revolt is recorded until today through popular verses:</s>
+     <s>" ...So neat he was in battle clothes</s>
+     <s>Up on the horse saddle</s>
+     <s>Surrounding him were thousands of troops</s>
+     <s>Launching surprise attack destroying the court army</s>
+     <s>Whilst encirclement was strengthened by his troops</s>
+     <s>A counter-attack was launched on them</s>
+     <s>Thus their army were broken in despair".</s>
+</p>
+<p>
+     <s>Although Lia's revolt was extinguished, his heroic image still remains alive in the minds of the people in central Vietnam:.</s>
+     <s>"Every evening on the Truong May.</s>
+     <s>Glides a swallow.</s>
+     <s>It feels sorry for Lia.</s>
+     <s>Encircling in the citadel".</s>
+</p>
+<p>
+     <s>Besides Lia's revolt, there were also other ones waged by the Hore people in the highlands of Quang Ngai; by the Cham people in Thuan Thanh (Binh Thuan); and by traders and handicraftsmen in Dong Pho (Dong Nai).</s>
+</p>
+<p>
+     <s>Although these revolts took place within small spaces and were quickly defeated, they contributed to raising high the fighting spirit against the Nguyen rule.</s>
+</p>
+<p>
+     <s>Nguyen Nhac and his brothers build their base in Tay Son In spring 1771, three brothers named Nguyen Nhac, Nguyen Hue and Nguyen Lu built their base in Tay Son (An Khe, Gia Rai) and launched an insurgency movement against the Nguyen administration.</s>
+</p>
+<p>
+     <s>The three Nguyen brothers were natives of Kien Thanh hamlet, Phu Li district (present-day Binh Thanh commune, Tay Son district, Binh Dinh province).</s>
+     <s>Kien Thanh and the neighbouring areas used to be called as Tay Son in the far past.</s>
+</p>
+<p>
+     <s>As far back as four generations before, Nguyen Nhac's ancestors lived in Nghe An.</s>
+     <s>In the middle of the 17th century, when the Nguyen troops launched an attack on the Lam river basin, a number of local inhabitants - including Nguyen Nhac's forefathers - were taken and sent to An Khe (Gia Rai) for reclamation of virgin land.</s>
+     <s>In the generation of Nguyen Nhac's father, the family moved to Kien Thanh hamlet.</s>
+     <s>All the three brothers received school education.</s>
+</p>
+<p>
+     <s>In Tay Son, the three brothers were supported by the Ba Na ethnic people who provided them with food, elephants and horses.</s>
+     <s>Nguyen Nhac also had fortifications and reserve stores built, and military training for insurgents conducted in there.</s>
+</p>
+<p>
+     <s>Traces of the fortifications in the early days of the Tay Son insurgency movement still remain until today in An Khe district such as An Khe rampart, the earthen walls on Mount Ong Nhac and on Mount Ong Binh.</s>
+</p>
+<p>
+     <s>As his force grew, Nguyen Nhac expanded his base to the lowlands, using Kien Thanh village as the headquarters.</s>
+     <s>From there, the insurgents spread all over the Quy Nhon district (Binh Dinh).</s>
+     <s>Wherever they went, the insurgents "robbed the rich of their wealth to distribute to the poor," cancelled all debts and abolished many types of tax.</s>
+</p>
+<p>
+     <s>The number of people joining the insurgent army kept increasing, most of whom were poor peasants.</s>
+     <s>Among the participants were also traders, handicraftsmen and ethnic people in Tay Nguyen (Central Highlands).</s>
+</p>
+<p>
+     <s>Trinh and Nguyen regimes overthrown.</s>
+     <s>Siamese troops defeated.</s>
+     <s>The overthrow of the Nguyen regime.</s>
+</p>
+<p>
+     <s>With the increasing strength of the Tay Son insurgents, Nguyen Anh sought foreign help to bolster his toppling regime.</s>
+     <s> In early 1773, the Tay Son insurgents managed to put major part of Quy Nhon township under their control.</s>
+     <s>In early September, Quy Nhon citadel was razed to the ground.</s>
+</p>
+<p>
+     <s>In mid-1774, the Tay Son insurgents expanded its control to Quang Nam in the north, and to Binh Thuan in the south.</s>
+     <s>The land now controlled by the Nguyen consisted of Thuan Hoa and Gia Dinh only.</s>
+</p>
+<p>
+     <s>Aware of the Tay Son insurrection in the south, the Trinh Lord sent tens of thousands of troops to capture Phu Xuan (Hue).</s>
+     <s>The Nguyen Lord had to flee to Quang Nam and hurriedly crossed the sea to Gia Dinh from there.</s>
+</p>
+<p>
+     <s>The Trinh troops landed in Quang Nam and engaged in battle with the Tay Son insurgents.</s>
+     <s>The Tay Son insurgents were driven into a disadvantage with the Trinh troops being in the north, and the Nguyen troops in the south.</s>
+     <s>Nguyen Nhac had to enter into a truce with the Trinh so as to focus his force against the Nguyen.</s>
+</p>
+<p>
+     <s>Without threat from the north, the Tay Son concentrated its strength to fight the Nguyen.</s>
+     <s>From 1776 to 1783, they launched four attacks on Gia Dinh and won victory each time.</s>
+     <s>The strongest attack took place in 1777 when the Nguyen Lord and his family were captured and killed, only prince Nguyen Anh managed to escape.</s>
+     <s>The ruling regime of the Nguyen groups was toppled by then.</s>
+</p>
+<p>
+     <s>The Rach Gam - Xoai Mut victory.</s>
+</p>
+<p>
+     <s>Cornered, Nguyen Anh fled to Siam to seek refuge there and beg for relief troops from the Siamese monarchy.</s>
+     <s>Urged by Nguyen Anh, the Siamese king immediately sent his troops for an invasion of our country.</s>
+</p>
+<p>
+     <s>In mid-1784, the Siamese troops penetrated Gia Dinh: 20,000 of marines landed in Kien Giang, and 30,000 other infantry troops landed in Chan Lap from where they advanced to Tran Giang (Can Tho).</s>
+     <s>Before an outnumbering enemy, the Tay Son troops kept on resisting while gradually retreated to Saigon to preserve their strength.</s>
+</p>
+<p>
+     <s>In late 1784, the Siamese troops seized western Gia Dinh (which consisted of a number of provinces of western Cochinchina).</s>
+     <s>The enemy cruelly massacred our people, razed down villages, plundered wealth and took women and children to Siam.</s>
+     <s>Its crimes even worried Nguyen Anh.</s>
+</p>
+<p>
+     <s>In January 1785, Nguyen Hue took his troops to advance to Gia Dinh.</s>
+     <s>The young general of 32 years of age chose a section of the Tien river from Rach Gam to Xoai Mut (Chau Thanh district, Tien Giang) as the decisive battlefield.</s>
+</p>
+<p>
+     <s>This is a hazardous waterway place.</s>
+     <s>It is seven kilometres long from Rach Gam to Xoai Mut with a width from one to two kilometres.</s>
+     <s>There was thick foliage along both banks of the river, with Thoi Son islet in the middle of the current.</s>
+     <s>The terrain was favourable for laying an ambush.</s>
+     <s>The enemy from Tra Lot followed the current to reach My Tho, where the headquarters of the insurgent army was located.</s>
+</p>
+<p>
+     <s>In the morning of January 19, 1785, the Siamese troops fell into the ambush laid by Nguyen Hue.</s>
+     <s>Our marines from Rach Gam and Xoai Mut as well as from Thoi Son dashed into the enemy operation formation and engaged in a fierce battle.</s>
+     <s>The enemy troops were almost destroyed.</s>
+     <s>The rump tried to make their way home overland.</s>
+     <s>Nguyen Anh managed to escape from death.</s>
+     <s>He followed the enemy and took asylum in Siam.</s>
+</p>
+<p>
+     <s>The Rach Gam- Xoai Mut battle was a resounding victory of the Tay Son insurgents, smashing the aggression plot of the Siamese monarchy and severely punished the treacherous acts of Nguyen Anh.</s>
+     <s>It is recorded by old history under the Nguyen that: "From then, the Siamese talked tough in words, but really got scared to death of the Tay Son army".</s>
+</p>
+<p>
+     <s>Trinh, Nguyen overthrown by Tay Son, the restoration of national unification.</s>
+</p>
+<p>
+     <s>By that time, the Trinh was decaying in the north.</s>
+     <s>After the death of Trinh Sam, factions of mandarins got involved in acute contradiction and conflict.</s>
+     <s>In summer 1786, Nguyen Hue took his troops to cross the Hai Van pass and launched an attack on Phu Xuan.</s>
+     <s>The Trinh troops were spiritless and were quickly destroyed.</s>
+     <s>Immediately, Nguyen Hue decided to march on Thang Long.</s>
+     <s>Under the slogan "support the Le and destroy the Trinh," he called on the people to show their support.</s>
+</p>
+<p>
+     <s>The Tay Son army made fast movements.</s>
+     <s>In mid-1786, Nguyen Hue's army was very close to Thang Long.</s>
+     <s>The court army was unable to cope with Nguyen Hue's troops.</s>
+     <s>The Trinh Lord was captured by the people and handed over to the Tay Son.</s>
+     <s>The rule of the Trinh that lasted for almost 300 years was now terminated.</s>
+</p>
+<p>
+     <s>Nguyen Hue advanced to Thang Long, handed over power to the Le king and returned to the south.</s>
+</p>
+<p>
+     <s>The situation in Bac Ha (from Ha Tinh to the north) after the Tay Son retreated became chaotic.</s>
+     <s>Le Chieu Thong was unable to put down the revolts waged by the Trinh's descendants and had to rely on Nguyen Huu Chinh.</s>
+     <s>Chinh quickly suppressed the remnants of the Trinh, but he soon abused power and openly opposed the Tay Son.</s>
+</p>
+<p>
+     <s>At that time, the Tay Son brothers divided the country among themselves: the eldest Nguyen Nhac reigned the central region, Nguyen Lu was charged with governing Gia Dinh, and Nguyen Hue took charge of Phu Xuan.</s>
+</p>
+<p>
+     <s>In face of the turmoil in Bac Ha, Nguyen Hue ordered Vu Van Nham to take troops to punish Nguyen Huu Chinh in the north.</s>
+     <s>After killing Chinh, Nham became arrogant and hatched his own plot.</s>
+     <s>In mid-1788, Nguyen Hue took his troops to Thang Long to destroy Nham and organised the government himself.</s>
+     <s>He was supported by a number of famous scholars such as Ngo Thi Nham, Phan Huy Ich, Nguyen Thiep, and others.</s>
+     <s>Le Chieu Thong and his entourage fled away, from one place to another.</s>
+</p>
+<p>
+     <s>From late 1786 to mid-1788, the Tay Son advanced to the north on three occasions.</s>
+     <s>These operations overthrew the feudal groups of the Trinh and the Le, abolished the division of the South and the North and basically unified the country.</s>
+</p>
+<p>
+     <s>The Qing's aggression against our country.</s>
+     <s>The Tam Diep - Bien Son defence line.</s>
+     <s>The aggression of the Qing.</s>
+</p>
+<p>
+     <s>Nguyen Huu Chinh was killed and Le Chieu Thong was desolated.</s>
+     <s>Cornered and worn out, Le Chieu Thong sent his men to entreat the help of the Qing in order to rely on them to regain his lost position.</s>
+</p>
+<p>
+     <s>The Qing was at a peak of prosperity by that point of time.</s>
+     <s>The Qing Emperor Qianlong had long harboured ambitions of re-conquering Vietnam.</s>
+     <s>Taking advantage of Le Chieu Thong's request for help, the Qing immediately carried out its aggression plot.</s>
+</p>
+<p>
+     <s>In late 1788, the Qing promoted Sun Shiyi as commander-in-chief to lead an army of 29 thousand troops to invade our country.</s>
+     <s>The army was divided into three columns and moved into Vietnam:</s>
+     <s>The column led by Sun Shiyi landed Lang Son through Guangxi;</s>
+     <s>The column led by Cen Yidong landed Cao Bang through Tianzhou, and</s>
+     <s>The column led by Wu Dajing followed the Red river through Yunnan.</s>
+</p>
+<p>
+     <s>Le Chieu Thong sent his men to the border to welcome Sun Shiyi.</s>
+     <s>Tributes and feast were given to the Qing invaders, and they were then shown the way to Thang Long.</s>
+</p>
+<p>
+     <s>Tam Diep - Bien Son defence line, the crimes of the invaders and traitors.</s>
+</p>
+<p>
+     <s>Outnumbering by the enemy, the Tay Son troops in Thang Long took the initiative in retreating to the south as planned by Ngo Thi Nham to preserve their strength.</s>
+     <s>Ngo Van So and Ngo Thi Nham immediately sent his men to Phu Xuan to keep Nguyen Hue informed of the situation and urgently built the Tam Diep - Bien Son defence line, at the same time.</s>
+</p>
+<p>
+     <s>Along the defence line, infantry troops were deployed at Tam Diep (Ninh Binh) and marines were deployed at Bien Son (Cua Bang, Thanh Hoa).</s>
+     <s>Both infantry and marine troops made up a strong link.</s>
+</p>
+<p>
+     <s>Easily capturing Thang Long, the enemy became over confident and arrogant.</s>
+     <s>Sun Shiyi left his men to plunder and suppress our people cruelly.</s>
+     <s>Chieu Thong was promoted by the Qing Emperor as 'King of Annam,' but he was only a stooge in the hands of the invaders.</s>
+     <s>Every day, he sat at the gate of Sun Shiyi's palace to wait for his order and sought a way to take revenge in a cruel way.</s>
+</p>
+<p>
+     <s>'Chronicles of the Le Dynasty' (Hoang Le nhat thong chi) states: "Although Le Chieu Thong is promoted as King, all papers issued bear Quianlong's dynastic title, Chieu Thong's dynastic title was not used out of fear of Sun Shiyi's presence there.</s>
+     <s>After each daily court audience, the king (Chieu Thong) comes to Sun Shiyi's palace to be given instructions relating military and state affairs.</s>
+     <s>Aware of this, people whisper into one another's ears that of all the kings and princes, no one was so mean and vile as him".</s>
+</p>
+<p>
+     <s>As for Sun Shiyi, he indulged in dissipation and let loose his troops to plunder.</s>
+     <s>The people in Thang Long and neighbouring areas had to contribute buffaloes, pigs and rice for feasts to be held day and night.</s>
+     <s>In some places, our people even had to give grass and straw to feed the horses of the Qing troops.</s>
+     <s>Hatred towards the foreign invaders and traitors ran high.</s>
+</p>
+<p>
+     <s>Quang Trung marches on the north.</s>
+</p>
+<p>
+     <s>Briefed of the urgent news that the Qing troops invaded our country, Nguyen Hue proclaimed himself king, taking the royal name of Quang Trung, and immediately ordered his troops to march on Thang Long.</s>
+</p>
+<p>
+     <s>Arriving Nghe An, Quang Trung called a halt to recruit more troops and organise a big review of troops in Vinh Doan (Vinh, Nghe An).</s>
+</p>
+<p>
+     <s>'Chronicles of the Le dynasty' records that: "Riding an elephant in front of his military camp, King Quang Trung instructed all troops to sit down and addressed them in the following words:</s>
+     <s>'The Qing troops have invaded our country and occupied the capital city, Thang Long.</s>
+     <s>Like the stars in the universe, all land is clearly divided as the north or the north for the rule.</s>
+     <s>The northerners (Chinese) are not of the same origin as us, so their hearts and minds must be different.</s>
+     <s>Since the Han dynasty, they have invaded our country many times, killing our people and plundering our wealth; our people are unable to bear this and are determined to drive them out... Therefore, we are will to drive them out of our territory.' When in Thanh Hoa, Quang Trung called another halt and recruited more troops.</s>
+     <s>At an oath ceremony, he confidently declared:</s>
+     <s>"Fight them so as to preserve our long hair</s>
+     <s>To keep our teeth black</s>
+     <s>To let none of their combat coaches return home,</s>
+     <s>and none of them has any piece of armour on</s>
+     <s>And to let them know the heroic southern country has its owner".</s>
+</p>
+<p>
+     <s>In the middle of the 12th lunar month, Quang Trung gathered troops at Tam Diep.</s>
+     <s>He praised the tactical retreat of our army to preserve its strength and make the enemy careless.</s>
+     <s>At the same time, he decided to launch an offensive to destroy all the Qing invaders during the Lunar New Year holidays (1789).</s>
+     <s>Before his officers and men, he solemnly stated: "I am now here to command the army, plan for offensive or defence have been devised.</s>
+     <s>We are bound to clean out the Qing troops in ten days".</s>
+     <s>He ordered his troops to celebrate New Year's Day in advance.</s>
+</p>
+<p>
+     <s>Tay Son defeats the Qing troops.</s>
+     <s>1. The Ngoc Hoi - Dong Da victory.</s>
+     <s> In Tam Diep, the Tay Son army was divided into five columns:</s>
+     <s>- The major one commanded by Quang Trung rushed towards Thang Long...</s>
+     <s>- The second and third ones overran the enemy posts in southwest of Thang Long and rendered support to the first column.</s>
+     <s>- The fourth one launched an attack on Hai Duong.</s>
+     <s>- The fifth one advanced to Lang Giang (Bac Giang) to intercept the retreat of the enemy.</s>
+</p>
+<p>
+     <s>On the 30th night of the 12th lunar month, our troops crossed the Gian Khau (Thuong Tin, Ha Tay) amidst darkness and cold.</s>
+     <s>The enemy troops were swiftly destroyed.</s>
+</p>
+<p>
+     <s>On the third night of the New Lunar Year 1789, our troops secretly laid siege to Ha Hoi post (Thuong Tin, Ha Tay).</s>
+     <s>Surprised, the enemy troops were panic-stricken and quickly turned in their arms.</s>
+</p>
+<p>
+     <s>Early on the fifth day of the Lunar New Year 1789, the Tay Son troops launched an attack on Ngoc Hoi (Thanh Tri, Hanoi), the most sensitive post of the enemy south of Thang Long.</s>
+     <s>The enemy force consisted approximately 30,000 troops with strong fortifications, around which iron spikes were planted and landmines were laid.</s>
+     <s>The battle was started with 100 war elephants of the Tay Son army rushing towards the enemy post which were followed by an army carrying 20 large thick wooden boards covered with wet straws.</s>
+     <s>Every ten men carried one such board advancing forward to cover the advance of the infantry troops.</s>
+     <s>At the base of the post, both elephants and infantry troops led by Quang Trung overwhelmingly attacked the enemy like rising tides.</s>
+     <s>The Qing troops were swiftly broken in panic, most being killed either by Tay Son troops or by their own landmines.</s>
+</p>
+<p>
+     <s>At midday, the strong defence post was completely razed down.</s>
+     <s>The remnants making their route to Dam Muc (Quynh Do, Thanh Tri, Hanoi) were ambushed and completely destroyed.</s>
+</p>
+<p>
+     <s>'Chronicles of the Le dynasty' describes the Ngoc Hoi battle as follows: "Unable to defend, the Qing troops were broken in panic and killed by trampling upon one another... In the midst of victory, the Tay Son troops rushed forward to kill them whose corpses heaped up and blood formed stream.</s>
+     <s>The Qing was bitterly defeated".</s>
+</p>
+<p>
+     <s>When Quang Trung was routing the enemy at Ngoc Hoi, the column led by commander-in-chief Long launched a strong attack on the Khuong Thuong post (Dong Da, Hanoi).</s>
+     <s>The Tay Son troops, supported by the local people, dashed into a hand-to-hand battle and set ablaze the enemy garrison.</s>
+     <s>The post's commander hanged himself on a tree on the Dong Da Mound.</s>
+</p>
+<p>
+     <s>News of the horrible defeat coming from Ngoc Hoi and Khuong Thuong terrified commander-in-chief Sun Shiyi.</s>
+     <s>With a number of cavalrymen he crossed the Red river to Gia Lam.</s>
+     <s>Panic-stricken, the Qing troops followed their commander.</s>
+     <s>Sun Shiyi cruelly ordered the cut-off the pontoon.</s>
+     <s>Many of the enemy troops were drowned.</s>
+     <s>Old history has it that: "The current of the river got blocked with corpses that its flow was held up".</s>
+</p>
+<p>
+     <s>At midday of the fifth day of the Lunar New Year 1789, King Quang Trung, whose military coat was dyed black by ammunition smoke, and commander-in-chief Long, led the victorious army into Thang Long.</s>
+</p>
+<p>
+     <s>Describing Thang Long at that point of time, the contemporary poet Ngo Du wrote:</s>
+     <s>"In neat order the victorious army making its march</s>
+     <s>Lining the streets, hundreds of families welcome</s>
+     <s>The sun has dispelled all dark clouds and mists</s>
+     <s>People are so happy, old and young,</s>
+     <s>Side by side, all are in chorus:</s>
+     <s>The ancient city still remains ours".</s>
+</p>
+<p>
+     <s>Le Chieu Thong's clique followed the heels of Sun Shiyi up to the north.</s>
+     <s>They were ambushed by our troops at Phuong Nhan (Bac Giang).</s>
+     <s>In such a hurry, they left behind their armours and even their seal to make the way through forests and streams in Lang Son to escape to China.</s>
+</p>
+<p>
+     <s>In five days of continuous battle, the five columns of the Tay Son troops, under the leadership of Quang Trung, completely destroyed and drove away 290,000 Qing invaders.</s>
+     <s>Our country was totally liberated.</s>
+</p>
+</div>
+</body>
+</text>
+</TEI.2>

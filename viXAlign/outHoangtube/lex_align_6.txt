@@ -1,0 +1,11 @@
+Source : D:\workspace\Arcade2\src\ArcadeSupport\Corpus\CorpusOK\HoangTuBe-OK\hoangtubeen.xml
+Target : D:\workspace\Arcade2\src\ArcadeSupport\Corpus\CorpusOK\HoangTuBe-OK\hoangtubevn.xml
+594 saved word pairs
+246 saved word pairs
+
+
+
+------------------------------------------------------------
+
+
+

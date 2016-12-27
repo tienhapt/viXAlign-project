@@ -1,0 +1,80 @@
+<?xml version="1.0" standalone="no"?>
+<!-- edited with XML Spy v4.0.1 U (http://www.xmlspy.com) by NGUYEN THI MINH HUYEN (LORIA) -->
+<!DOCTYPE TEI.2 SYSTEM "C:/CORPUS/dtd/xlite/xteilite.dtd" [
+	<!ENTITY % ISO_Latin1 PUBLIC "ISO 8879-1986//ENTITIES Added Latin 1//EN//XML" "C:/CORPUS/dtd/pen/ISOlat1.pen">
+	%ISO_Latin1;
+]>
+<TEI.2 id="DinhTienHoang.en.xml">
+	<teiHeader date.created="30/12/2002">
+		<fileDesc>
+			<titleStmt>
+				<title type="source"></title>
+				<author></author>
+				<respStmt>
+					<resp></resp>
+					<name></name>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<distributor>Nhan dan dien tu</distributor>
+				<authority/>
+				<date>1/12/2002</date>
+			</publicationStmt>
+			<sourceDesc>
+				<p/>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<langUsage>
+				<language id="EN">English</language>
+			</langUsage>
+			<textClass>
+				<keywords>
+					<list>
+						<item>prose</item>
+						<item>history</item>
+					</list>
+				</keywords>
+			</textClass>
+		</profileDesc>
+	</teiHeader>
+	<text>
+		<body id="b1">
+<head>
+Dinh Tien Hoang puts down rebellions of the 12 lords to protect national unity.
+</head>
+<div>
+<p>
+     <s>After Ngo Quyen died, who had set up an independent and sovereign State in Vietnam in 939 AD, regional feudal forces tried to snatch power for themselves and divide the country.</s>
+     <s>Dinh Tien Hoang was a talented military leader in the fight against the 12 most powerful of these feudal lords.</s>
+     <s>Our history series continues.</s>
+</p>
+<p>
+     <s>Having driven away the Nanhan invaders in 938, Ngo Quyen set to build an independent and sovereign government.</s>
+     <s>In 939, Ngo Quyen proclaimed himself king, abolished the system of governors, built the royal palace and court, established functionary positions and rites in the pattern of a monarchy, and set up the royal capital in Co Loa.</s>
+     <s>By that time, Ngo Quyen's central government was not prepared to exercise a strict control and management of all localities.</s>
+     <s>Taking advantage of this situation, feudal forces in a number of regions did their best to build up their own power, divide the territory and disobey the central government.</s>
+</p>
+<p>
+     <s>In 944, when Ngo Quyen passed away, his brother-in-law Duong Tam Kha made himself king, taking the royal title Binh Vuong.</s>
+     <s>Ngo Xuong Ngap (king Ngo Quyen's eldest son) fled the capital city.</s>
+     <s>In 950, Ngo Xuong Van, Ngo Xuong Ngap's younger brother, led his troops to detain Duong Tam Kha and invited Ngo Xuong Ngap back to share the rule of the country.</s>
+     <s>Ngo Xuong Van called himself Nam Tan Vuong, and Ngo Xuong Ngap called himself Thien Sach Vuong.</s>
+     <s>As the central government declined and the country fell into chaos at that time, village bullies and landlords launched rebellions in many regions which resulted in numerous territorial disputes and annexations.</s>
+     <s>The division spread in many localities, but the strongest twelve lords of them all were: Kieu Cong Han occupying Phong Chau (Phu Tho) who called himself Kieu Tam Kha; Nguyen Khoan occupying Bach Hac (Phu Tho) who called himself Nguyen Thai Binh; Ngo Nhat Khanh occupying Duong Lam (Ha Tay) who called himself Ngo Lam Cong; Do Canh Thac occupying Bao Da, Thanh Oai (Ha Tay); Ngo Xuong Xi occupying Binh Kieu (Thanh Hoa); Ly Khue occupying Sieu Loai (Bac Ninh) who called himself Ly Lang Cong; Nguyen Thu Tiep occupying Tien Du (Ha Bac) who called himself Nguyen Lenh Cong; Nguyen Sieu occupying Tay Phu Liet (Hanoi) who called himself Nguyen Huu Cong; Lu Duong occupying Te Giang (Hung Yen) who called himself Lu Ta Cong; Kieu Thuan occupying Cam Khe (Ha Tay) who called himself Kieu Lenh Cong; Pham Bach Ho occupying Dang Chau (Hung Yen) who called himself Pham Phong At; Tran Lam occupying Bo Hai Khau (Vu Tien, Thai Binh) who called himself Tran Minh Cong, later joining with Dinh Bo Linh's force.</s>
+</p>
+<p>
+     <s>The war of annexation among the divisional forces brought about disastrous consequences.</s>
+     <s>The national independence and unification were put at stake.</s>
+     <s>Facing such chaos and turmoil in the country, Dinh Bo Linh, an excellent and talented military leader who enjoyed strong support of generals Dinh Dien, Nguyen Bac and Le Hoan, as well as of the people at large, defeated the twelve lords one by one and reunified the country on a stronger basis.</s>
+     <s>In 968, the cause of national reunification was fulfilled, Dinh Bo Linh proclaimed himself king, set up the capital in Hoa Lu (Ninh Binh) and built the royal palace thus founding the Dinh dynasty.</s>
+     <s>The king abolished the dynastic title imposed by the Chinese emperor and replaced it by Thai Binh (Peace), and renamed the national title as Dai Co Viet.</s>
+</p>
+<p>
+     <s>Dinh Bo Linh's victory further strengthened the national independence and unification of Dai Co Viet.</s>
+</p>
+</div>
+</body>
+</text>
+</TEI.2>

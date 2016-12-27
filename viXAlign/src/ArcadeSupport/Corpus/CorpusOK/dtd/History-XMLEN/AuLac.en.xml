@@ -1,0 +1,120 @@
+<?xml version="1.0" standalone="no"?>
+<!-- edited with XML Spy v4.0.1 U (http://www.xmlspy.com) by NGUYEN THI MINH HUYEN (LORIA) -->
+<!DOCTYPE TEI.2 SYSTEM "E:/Doctor/Research on/Select/Document for researching/Main document/Alingment tools/VNEN/Nhandandientu-History/dtd/xlite/xteilite.dtd" [
+	<!ENTITY % ISO_Latin1 PUBLIC "ISO 8879-1986//ENTITIES Added Latin 1//EN//XML" "E:/Doctor/Research on/Select/Document for researching/Main document/Alingment tools/VNEN/Nhandandientu-History/dtd/pen/ISOlat1.pen">
+	%ISO_Latin1;
+]>
+<TEI.2 id="AuLac.en.xml">
+	<teiHeader date.created="30/12/2002">
+		<fileDesc>
+			<titleStmt>
+				<title type="source"></title>
+				<author></author>
+				<respStmt>
+					<resp></resp>
+					<name></name>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<distributor>Nhan dan dien tu</distributor>
+				<authority/>
+				<date>1/12/2002</date>
+			</publicationStmt>
+			<sourceDesc>
+				<p/>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<langUsage>
+				<language id="EN">English</language>
+			</langUsage>
+			<textClass>
+				<keywords>
+					<list>
+						<item>prose</item>
+						<item>history</item>
+					</list>
+				</keywords>
+			</textClass>
+		</profileDesc>
+	</teiHeader>
+	<text>
+		<body id="b1">
+<head>
+ The Au Lac Kingdom.
+</head>
+<div>
+<p>
+     <s>1. The Au Viet and the Lac Viet.</s>
+</p>
+<p>
+     <s>In the sixth part of our series on Vietnam's history we look at the kingdom of the Au Viet and Lac Viet people and how they fought off the Chinese Qi'n dynasty troops in the third century AD.</s>
+</p>
+<p>
+     <s>Since its establishment, Van Lang was a kingdom incorporating various tribes (who were generally referred to as the ancient Viet)</s>
+     <s>The Lac Viet constituted the majority of Van Lang's population</s>
+     <s>They lived in highlands and lowlands of the Red river delta</s>
+     <s>The mountainous area north of the Van Lang kingdom was the living place of the Au Viet</s>
+     <s>In many places, the living place of the Au Viet and Lac Viet alternated</s>
+     <s>Both the Au and Lac were Viet people.</s>
+</p>
+<p>
+     <s>By that time, the Au Viet people were able to cast working tools and weapons of brass copper</s>
+     <s>They cultivated on hilly slopes, grew rice in lowlands, raised cattle and livestock, and fished in springs and rivers</s>
+     <s>Particularly, they were skilled at using bows and arrows and hunting</s>
+     <s>The Au Viet wore left-buttoned overalls like the Lac Viet.</s>
+</p>
+<p>
+     <s>The Lac Viet produced a lot of rice, pottery, pearls etc</s>
+     <s>They exchanged with the Au Viet for copper, tin, rhino and elephant horns and other products</s>
+     <s>The Au Viet were linked with the Lac Viet by close sentimental ties</s>
+     <s>The legend on the marriage of Lord Lac Long Quan and fairy Au Co, or the one between the Fish-boy with the Deer-girl of the Muong minority reflected the aged-old relation between the inhabitants in the highlands and those in the lowlands.</s>
+</p>
+<p>
+     <s>In late the third century BC, both the Lac Viet and the Au Viet were prospering</s>
+     <s>Metal working tools were improved; cultivated land was expanded and the population grew fast</s>
+     <s>However, the threat of invasion from the North was increasing.</s>
+</p>
+<p>
+     <s>By then, the Qi'n dynasty in China had been founded (221 BC)</s>
+     <s>In carrying out its expansion scheme, in 218 BC, Shih Huang-ti ordered a general to take 50 thousand troops which were divided into five armies to conquer the Bach Viet in the south</s>
+     <s>Wherever the Qi'n troops went through, they set up new districts and cantons</s>
+     <s>The invaders made deep advance into the land of the Au Viet and Lac Viet.</s>
+</p>
+<p>
+     <s>In face of the aggression of the Qi'n invaders, the Au Viet and Lac Viet got together to defend themselves</s>
+     <s>The Qi'n troops were very strong and stormy in their attack</s>
+     <s>The local people could not confront the invaders face-to-face, and they had to make a prolonged war of resistance</s>
+     <s>Leaving their homes, gardens and fields behind, they went deep in jungles or up to high mountains taking with them only food, weapons and cattle</s>
+     <s>Old and young, male and female people joined in discussing strategy and they made the best among them generals to lead the resistance</s>
+     <s>Thuc Phan, the chief of the then Au Viet was a young, bold and intelligent man</s>
+     <s>He was chosen to lead the army</s>
+     <s>His troops hid themselves in the daytime and when the night came, they launched surprise attacks on the enemies</s>
+     <s>The Qi'n troops encamped in deserted villages and hamlets where they could not plunder any food of the locals and were frequently ambushed and skirmished.</s>
+</p>
+<p>
+     <s>China's old history describes that the Qi'n troops "...were at dilemma whether to advance nor retreat</s>
+     <s>Men had to put on armour all year round and women had to carry supplies all day who found their life like in hell..."</s>
+     <s>The resistance of the Viet people against the Qi'n troops went on and on for years</s>
+     <s>Tens of thousands of invaders were killed and enemy general Tu' Shu also lost his life</s>
+     <s>When emperor Qi'n Shui Huang was dead the Chinese people rose up in revolts everywhere, and the Qi'n had to withdraw their invasion troops back home (208 BC) 2. The Au Lac Kingdom founded by Thuc Phan.</s>
+</p>
+<p>
+     <s>Defeating the Qi'n invaders, Thuc Phan incorporated all lands into Van Lang and founded the Lac Viet kingdom</s>
+     <s>He ascended the throne taking the royal title An Duong Vuong (Thuc An Duong Vuong).</s>
+</p>
+<p>
+     <s>At first, An Duong Vuong located the capital in Phong Chau, Bach Hac, Phu Tho</s>
+     <s>Later, he decided to move the capital to Co Loa, a high area in the basin of the Red River delta which belongs to the present-day suburban district of Dong Anh, Hanoi.</s>
+</p>
+<p>
+     <s>Co Loa was called Cha Chu at that time</s>
+     <s>It was located in a high, populated area with good sight-lines around</s>
+     <s>The Hoang, a branch of the Red river took a zigzag course through the southern part of Co Loa and connected with the Cau river</s>
+     <s>It was possible to go from the Hoang River to the Red River to go up to the north, or to go to the Cau river to go down to the East Sea.</s>
+</p>
+</div>
+</body>
+</text>
+</TEI.2>

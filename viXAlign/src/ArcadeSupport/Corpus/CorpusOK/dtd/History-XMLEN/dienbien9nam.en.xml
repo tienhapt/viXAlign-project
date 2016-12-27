@@ -1,0 +1,122 @@
+<?xml version="1.0" standalone="no"?>
+<!-- edited with XML Spy v4.0.1 U (http://www.xmlspy.com) by NGUYEN THI MINH HUYEN (LORIA) -->
+<!DOCTYPE TEI.2 SYSTEM "C:/CORPUS/dtd/xlite/xteilite.dtd" [
+	<!ENTITY % ISO_Latin1 PUBLIC "ISO 8879-1986//ENTITIES Added Latin 1//EN//XML" "C:/CORPUS/dtd/pen/ISOlat1.pen">
+	%ISO_Latin1;
+]>
+<TEI.2 id="dienbien9nam.en.xml">
+	<teiHeader date.created="30/12/2002">
+		<fileDesc>
+			<titleStmt>
+				<title type="source"></title>
+				<author></author>
+				<respStmt>
+					<resp></resp>
+					<name></name>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<distributor>Nhan dan dien tu</distributor>
+				<authority/>
+				<date>1/12/2002</date>
+			</publicationStmt>
+			<sourceDesc>
+				<p/>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<langUsage>
+				<language id="EN">English</language>
+			</langUsage>
+			<textClass>
+				<keywords>
+					<list>
+						<item>prose</item>
+						<item>history</item>
+					</list>
+				</keywords>
+			</textClass>
+		</profileDesc>
+	</teiHeader>
+	<text>
+		<body id="b1">
+<head>
+Nine years to make a Dien Bien Phu.
+</head>
+<div>
+<p>
+     <s>In autumn-winter of 1953, Vietnam's people's resistance entered a decisive phase.</s>
+     <s>The balance of forces began to change in favour of our side.</s>
+     <s>From partial counter-offensives marked the Border Campaign, our troops moved to major ones.</s>
+     <s> In May 1953 General Navarre, chief of staff of the North Atlantic Treaty Organisation (NATO) was appointed chief of the French Expeditionary Corps in Indochina.</s>
+     <s>With his large-scale strategic plan Navarre advocated the concentration of the French mobile troops to destroy the majority of our regular troops within 18 months and bring us to negotiation table with conditions to be imposed by them.</s>
+     <s>The US aid by that time accounted for 80% of the French war budget in Indochina.</s>
+</p>
+<p>
+     <s>In September 1953, the Politburo of the Party met and discussed on military tasks in winter - spring of 1953-54.</s>
+     <s>Concentration of our forces was advocated to launch attacks on weak links in sensitive strategic directions of the enemy in order to thin out its forces, liberate land and make them disperse to cope with us in sensitive positions that they could not abandon.</s>
+     <s>To act in an enthusiastic, active, mobile and flexible way was our strategic guideline.</s>
+     <s>In November 1953, our troops marched on Tay Bac (North-westernmost Vietnam).</s>
+     <s>Frightened, Navarre hurriedly sent his paratroopers to occupy the basin of Dien Bien Phu.</s>
+     <s>Seen by Franco-American imperialism as an important crossroad, a pivotal position to serve as a springboard to retake Tay Bac and to cover upper Laos, Navarre ordered the concentration of his defense troops in Tay Bac into the air-infantry base of Dien Bien Phu to defend this position at all cost.</s>
+     <s>On December 6, 1953 the Politburo of our Party adopted a military plan, deciding to launch the Dien Bien Phu battle.</s>
+</p>
+<p>
+     <s>Despite the threat to our liberated area by a big concentration of the enemy force in the northern plain, our forces were gathered to launch an attack along the Tay Bac direction in December 1953, destroying an important part of enemy's forces, liberating Lai Chau and laying siege to Dien Bien Phu, forcing the French to urgently rush more troops to reinforce their group of fortresses.</s>
+     <s>On January 20, 1954 Navarre ordered an operation to occupy our liberated area in the Inter-zone No5.</s>
+     <s>In carrying out the guideline of the Politburo, the Inter-zone No.5 left part of its regular troops and guerillas to cope with the enemy with the major regular forces being amassed to launch a surprise attack on Tay Nguyen (central high plateau), inflicting a major destruction to the enemy, liberating a vast area with 200,000 people, linking the liberated area of the Inter-zone with that in lower Laos and compelling the enemy to send more reinforcements to Tay Nguyen.</s>
+     <s>The Pathet Lao liberation troops with the Vietnamese voluntary soldiers launched an attack on upper Laos, liberating the basin of the Nam Hu river, forcing the enemy to send more troops to reinforce Luong Prabang.</s>
+</p>
+<p>
+     <s>The people's war developed in width and depth, not only in the highlands but also in the lowlands and towns.</s>
+     <s>That is why with an army of as many as 500,000 troops Navarre was unable to cope with our offensives.</s>
+     <s>His only hope was entrusted to the group of fortresses in Dien Bien Phu.</s>
+     <s>His strategic plan was to attract our regular forces there to destroy and then shift to offensive.</s>
+     <s>Visiting Dien Bien Phu, all the French, British and American generals saw it as an inviolable fortress, challenging our attacks.</s>
+</p>
+<p>
+     <s>Our resolve to destroy the Dien Bien Phu stronghold was turned into strong will and concrete action of tens of thousands of armymen, civil workers and millions of people in the rear who acted along the appeal "all for the front, all for the victory".</s>
+     <s>Never before in this war of resistance against the French colonialists had our army and people shouldered such a major and heavy task as that in winter-spring of 1953-54.</s>
+     <s>Never before, had the revolution been so vehement, animated and magnanimous as the high tide of fighting and of the fighting forces at that time.</s>
+</p>
+<p>
+     <s>On March 13, 1954 our troops launched the first attack on Dien Bien Phu.</s>
+     <s>Accurate gunfire of our strong artillery greatly surprised the enemy.</s>
+     <s>The enemy defence line north of the Dien Bien Phu was quickly destroyed.</s>
+</p>
+<p>
+     <s>In the afternoon of March 30, 1954 the second attack was launched to capture the hilltops east of Dien Bien Phu, taking control of the Muong Thanh airport, destroying the pivotal defence area in the centre.</s>
+     <s>Our troops and the enemy contested for each inch of land in the atrocious battles on the hills C1 and A1.</s>
+</p>
+<p>
+     <s>To save Dien Bien Phu from danger, the enemy mobilised all their aircraft in Indochina to set up an air-bridge for reinforcements day and night.</s>
+</p>
+<p>
+     <s>All this was unable to check the advance of our troops.</s>
+     <s>Our siege was tightened.</s>
+     <s>On April 23, 1954 our troops took full control of the Muong Thanh airport.</s>
+     <s>The "esophagus' of the enemy was cut off.</s>
+     <s> On May 1, 1954 the third attack was begun.</s>
+     <s>The remaining fortifications east and west of Dien Bien Phu were destroyed.</s>
+     <s>The doomsday of the Dien Bien Phu stronghold came.</s>
+     <s> On May 7, 1954 our forces concentrated in a thrust into the enemy defence centre.</s>
+     <s>Although there were still some 10,000 troops, the enemy was pushed into a desperate situation.</s>
+     <s>At 15:00' hours of May 7, the Front Command ordered a general offensive.</s>
+     <s>Wherever our troops advanced the enemy troops waved white flags to surrender.</s>
+     <s>A shock-force squad of our army made a rush into the De Castries defence bunker .</s>
+     <s>Before the overwhelming momentum of our forces, the commander and all his command surrendered.</s>
+     <s>The banner of the unbeatable army of the Vietnamese people fluttered on the top of the enemy command bunker.</s>
+</p>
+<p>
+     <s>After 56 days and nights of atrocious battle, our people and army gained a total glorious victory in the decisive strategic campaign of Dien Bien Phu.</s>
+     <s>The destruction of the Dien Bien Phu group of fortresses constituted a bitter setback of the French colonialists and American interventionists.</s>
+     <s>In the history of aggression of French imperialism, this was its biggest defeat.</s>
+     <s>The Dien Bien Phu victory brightly symbolised the great maturation of our army.</s>
+     <s>This was not only the glorious victory of our nation, but was also written down in the history of the oppressed nations as an event marking a turning point in the liberation movement.</s>
+     <s>It heralded the irredeemable collapse of the colonialist regime and imperialism.</s>
+</p>
+</div>
+</body>
+</text>
+</TEI.2>
